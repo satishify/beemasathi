@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Health Multiplier Rider\nPolicy Wordings\nThis Rider is provided in consideration of additional premium and subject to the terms, conditions and\nexclusions as stated in the Rider wordings and to be read in conjunction with the Definitions, Terms,\nConditions and Exclusions of the base Policy.\nCoverage:\nThe total coverage amount will be available up to the enhanced Sum Insured limit equivalent to ‘base\nSum Insured provided under the Policy’ multiplied by ‘opted number of times (multiplier)’ as specified in\nthe Policy Schedule for claims admissible under below mentioned sections (if opted) for all Insured\nPerson(s) on Individual or Floater basis, as covered under the underlying base Policy:\ni. In-Patient Treatment\nii. Pre-Hospitalisation Expenses\niii. Post-Hospitalisation Expenses\niv. Day Care Procedures\nv. Organ Donor\nvi. Domiciliary Treatment\nvii. AYUSH Benefit\nviii.Ambulance Cover\nix. Consumables Benefit\nSpecial Conditions applicable to the Rider:\n1. The additional amount shall be available for all claims, admissible under the covers that utilise the\nbase Sum Insured under the base Policy.\n2. This benefit shall be applied only once during each Policy Year on the base Sum Insured only.\n3. Any unutilised additional Sum Insured amount post application of this Rider, shall not be carried\nforwarded to the subsequent Policy Year.\n4. This benefit, if applicable, shall be utilised only after application of Deductible, base Sum Insured and\nCumulative Bonus/Supercharge Bonus (as applicable).",
+    "metadata": {
+      "insurer": "tata_aig",
+      "policy_name": "health_multiplier",
+      "section": "Exclusions (page 1)",
+      "page": 1,
+      "chunk_type": "co_pay",
+      "source": "tata_aig_health_multiplier_policy_wording",
+      "source_file": "health__health_multiplier__policy_wording.pdf",
+      "document_type": "policy_wording",
+      "line_of_business": "health"
+    }
+  },
+  {
+    "text": "4. This benefit, if applicable, shall be utilised only after application of Deductible, base Sum Insured and\nCumulative Bonus/Supercharge Bonus (as applicable).\n5. The continuance of risk cover under the base Policy is a necessary precondition for continuance of\ncover under Rider.\n6. The scope of coverage under this Rider is restricted to hospitalisation in India.\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India\n24*7 Customer Support No.: 022 6489 8282/1800 267 1955 (For Senior Citizens) • Email: customersupport@tataaig.com • Website: www.tataaig.com\nIRDA of India Registration No.: 108 • CIN: U85110MH2000PLC128425 • Health Multiplier Rider UIN: TATHLIA26055V012526\nPage 1 of 2",
+    "metadata": {
+      "insurer": "tata_aig",
+      "policy_name": "health_multiplier",
+      "section": "Exclusions (page 1)",
+      "page": 1,
+      "chunk_type": "co_pay",
+      "source": "tata_aig_health_multiplier_policy_wording",
+      "source_file": "health__health_multiplier__policy_wording.pdf",
+      "document_type": "policy_wording",
+      "line_of_business": "health"
+    }
+  },
+  {
+    "text": "Health Multiplier Rider\nIllustration:\nSum Insured = ₹5 Lakh\nAccumulated Cumulative Bonus = ₹2.5 Lakh\nHealth Multiplier Rider Benefit (opted) = 3X (i.e. Total Coverage of ₹15 Lakh)\nClaim Claim Claim Claim Utilised Covers Balance\nNumber Amount Status Paid\n(In same\nPolicy Year)\n1 6 Lakh Paid 6 Lakh Base Sum Insured - 5 Lakh Base Sum Insured - Nil\nCumulative Bonus - 1 Lakh Cumulative Bonus - 1.5\nLakh\n2 7 Lakh Paid 7 Lakh Cumulative Bonus - 1.5 Base Sum Insured - Nil\nLakh Cumulative Bonus - Nil\nHealth Multiplier Benefit -\nHealth Multiplier Benefit -\n4.5 Lakh\n5.5 Lakh\n3 12 Lakh Partially 9.5 Lakh Health Multiplier Benefit - Base Sum Insured - Nil\n4.5 Lakh Cumulative Bonus - Nil\nHealth Multiplier Benefit -\nRestored amount – 5 Lakh\nNil\nRestored Amount - Nil\nDisclaimer: Insurance is the subject matter of the solicitation. For more details on benefits, exclusions, limitations, terms & conditions, please read the policy wordings carefully, before\nconcluding a sale. Trade logo displayed above belongs to Tata Sons Private Limited and AIG and used by TATA AIG General Insurance Company Limited under License.\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India\n24*7 Customer Support No.: 022 6489 8282/1800 267 1955 (For Senior Citizens) • Email: customersupport@tataaig.com • Website: www.tataaig.com\nIRDA of India Registration No.: 108 • CIN: U85110MH2000PLC128425 • Health Multiplier Rider UIN: TATHLIA26055V012526\nPage 2 of 2",
+    "metadata": {
+      "insurer": "tata_aig",
+      "policy_name": "health_multiplier",
+      "section": "Exclusions (page 2)",
+      "page": 2,
+      "chunk_type": "exclusion",
+      "source": "tata_aig_health_multiplier_policy_wording",
+      "source_file": "health__health_multiplier__policy_wording.pdf",
+      "document_type": "policy_wording",
+      "line_of_business": "health"
+    }
+  }
+]

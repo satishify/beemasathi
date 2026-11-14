@@ -1,0 +1,26 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Local secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Corpus artifacts: third-party PDFs and vector store are rebuilt locally,
+# never committed. See DATA.md.
+data/raw_policies/
+data/raw_pdfs/
+data/irdai/
+data/chroma_db/
+data/manual_downloads.html
+
+# Runtime
+logs/

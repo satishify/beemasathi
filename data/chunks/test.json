@@ -1,0 +1,62 @@
+[
+  {
+    "text": "## Room Rent Cap\nRoom rent is capped at 1% of sum insured per day. \nIf you choose a room costing more than this limit, \nthe insurer will proportionately reduce all other charges.\nApplies to: All plans except Platinum Plus.",
+    "metadata": {
+      "insurer": "star_health",
+      "policy_name": "comprehensive",
+      "section": "Room Rent Cap",
+      "chunk_type": "room_rent",
+      "source": "star_health_comprehensive"
+    }
+  },
+  {
+    "text": "## Pre-existing Disease Waiting Period\nA waiting period of 36 months applies to diabetes, hypertension, \nand any condition treated in the 48 months before policy inception.\nException: If disclosed at proposal and accepted with loading.",
+    "metadata": {
+      "insurer": "star_health",
+      "policy_name": "comprehensive",
+      "section": "Pre-existing Disease Waiting Period",
+      "chunk_type": "waiting_period",
+      "source": "star_health_comprehensive"
+    }
+  },
+  {
+    "text": "## Co-Payment Clause\nA co-payment of 20% applies to all claims for insured persons above 60 years.\nThis means you pay 20% and insurer pays 80% of admissible claim amount.",
+    "metadata": {
+      "insurer": "star_health",
+      "policy_name": "comprehensive",
+      "section": "Co-Payment Clause",
+      "chunk_type": "co_pay",
+      "source": "star_health_comprehensive"
+    }
+  },
+  {
+    "text": "## Exclusions\nThe following are not covered under this policy:",
+    "metadata": {
+      "insurer": "star_health",
+      "policy_name": "comprehensive",
+      "section": "Exclusions",
+      "chunk_type": "exclusion",
+      "source": "star_health_comprehensive"
+    }
+  },
+  {
+    "text": "1. Cosmetic surgery unless due to accident",
+    "metadata": {
+      "insurer": "star_health",
+      "policy_name": "comprehensive",
+      "section": "Exclusions",
+      "chunk_type": "general",
+      "source": "star_health_comprehensive"
+    }
+  },
+  {
+    "text": "2. Dental treatment unless due to accident",
+    "metadata": {
+      "insurer": "star_health",
+      "policy_name": "comprehensive",
+      "section": "Exclusions",
+      "chunk_type": "general",
+      "source": "star_health_comprehensive"
+    }
+  }
+]

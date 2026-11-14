@@ -18,7 +18,7 @@ re-score the corpus without re-downloading it.
 
 | Path | Why | How to rebuild |
 | --- | --- | --- |
-| `data/raw_policies/` | Insurer PDFs, ~1.1 GB, no redistribution licence | `./appctl.sh scrape` |
+| `data/raw_policies/` | Insurer PDFs, ~1.1 GB, no redistribution licence | `./venv/bin/python scrapers/hybrid_scraper.py` |
 | `data/irdai/` | IRDAI regulation PDFs | Download from irdai.gov.in |
 | `data/chroma_db/` | Vector store, ~620 MB, derived | `./appctl.sh index` |
 | `venv/` | Local virtualenv | `python3 -m venv venv && ./venv/bin/pip install -r requirements.txt` |
@@ -29,10 +29,15 @@ re-score the corpus without re-downloading it.
 ```bash
 python3 -m venv venv
 ./venv/bin/pip install -r requirements.txt
-./appctl.sh scrape     # fetch official documents into data/raw_policies/
-./appctl.sh index      # parse, chunk and embed into data/chroma_db/
-./appctl.sh run        # Streamlit UI
+./venv/bin/python scrapers/hybrid_scraper.py --dry-run   # see what would be fetched
+./venv/bin/python scrapers/hybrid_scraper.py             # download into data/raw_policies/
+./appctl.sh index                                        # parse, chunk and embed into data/chroma_db/
+./appctl.sh start                                        # Streamlit UI on http://127.0.0.1:8501
 ```
+
+`appctl.sh start` also needs Ollama running with the configured model
+(`qwen2.5:7b`, see `config.py`); it will start `ollama serve` itself and tell you
+if the model is missing.
 
 Some insurer sites block automated collection (see `scrapers/hybrid_scraper.py
 --manual-guide` for the manual fallback). A rebuild therefore reproduces the

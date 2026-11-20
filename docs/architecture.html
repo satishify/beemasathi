@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Architecture — BeemaSathi</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <div class="brand">BeemaSathi <span>· capstone</span></div>
+    <nav class="nav">
+      <a href="./">Overview</a>
+      <a href="architecture.html" class="active">Architecture</a>
+      <a href="data.html">Data</a>
+      <a href="evaluation.html">Evaluation</a>
+      <a href="plan.html">Plan</a>
+      <a href="https://github.com/satishify/beemasathi">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <span class="eyebrow">Architecture</span>
+    <h1>Retrieval first, agents second</h1>
+    <p class="lead">
+      The baseline is a working single-pass RAG pipeline. The four-week build adds hybrid
+      retrieval, an authority resolver and a critic loop without changing the promise: every
+      sentence that states coverage must be traceable to a clause.
+    </p>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <section>
+    <h2>Current baseline</h2>
+    <p>What already runs today, measured on the local corpus.</p>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Layer</th><th>Implementation</th></tr>
+        <tr><td>Collection</td><td>Official-domain crawler, robots fail-closed, SHA-256 manifest, sidecar metadata per document</td></tr>
+        <tr><td>Index</td><td>ChromaDB, cosine distance, 45,844 chunks from 923 source files</td></tr>
+        <tr><td>Embeddings</td><td>BGE-small-en-v1.5 (384 dimensions), local or hosted</td></tr>
+        <tr><td>Retrieval</td><td>Dense search plus chunk-type routing and heuristic rerank</td></tr>
+        <tr><td>Generation</td><td>Qwen3-8B via OpenAI-compatible API, or qwen2.5:7b via local Ollama</td></tr>
+        <tr><td>Guardrails</td><td>Constitutional prompt, refusal rules, leak sanitiser, banned-pattern check</td></tr>
+        <tr><td>Claim risk</td><td>Rule engine, 4 of 6 configured rules implemented</td></tr>
+        <tr><td>Interfaces</td><td>Streamlit client; FastAPI service with <code>/ask</code>, <code>/predict</code>, <code>/insurers</code>, <code>/health</code></td></tr>
+      </table>
+    </div>
+
+    <div class="diagram">
+      <img src="assets/pipeline_diagram.svg" alt="Current ingestion and retrieval pipeline">
+      <p class="caption">Current pipeline: crawl, parse, chunk, embed, retrieve, generate.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Target architecture</h2>
+    <p>
+      Six agents around one retrieval core. The router decides what kind of question this is;
+      the resolver establishes which documents are authoritative; the critic verifies that the
+      composed answer is supported.
+    </p>
+
+    <div class="diagram">
+      <svg viewBox="0 0 920 500" role="img" aria-label="Target multi-agent architecture" style="width:100%;height:auto;max-width:900px">
+        <defs>
+          <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6472"/>
+          </marker>
+          <style>
+            .box { fill:#ffffff; stroke:#e3e7ee; stroke-width:1.5; rx:8; }
+            .box-accent { fill:#e6f4f2; stroke:#0f766e; stroke-width:1.5; rx:8; }
+            .t { font: 600 12.5px -apple-system, Segoe UI, Roboto, sans-serif; fill:#0f172a; }
+            .s { font: 400 11px -apple-system, Segoe UI, Roboto, sans-serif; fill:#5b6472; }
+            .edge { stroke:#5b6472; stroke-width:1.4; fill:none; marker-end:url(#arrow); }
+          </style>
+        </defs>
+
+        <rect class="box-accent" x="330" y="8" width="260" height="52"/>
+        <text class="t" x="460" y="30" text-anchor="middle">Intake &amp; Router</text>
+        <text class="s" x="460" y="47" text-anchor="middle">intent · insurers · products · line</text>
+
+        <path class="edge" d="M460 60 V 92 H 175 V 108"/>
+        <path class="edge" d="M460 60 V 108"/>
+        <path class="edge" d="M460 60 V 92 H 745 V 108"/>
+
+        <rect class="box" x="50" y="110" width="250" height="64"/>
+        <text class="t" x="175" y="136" text-anchor="middle">Policy Retrieval</text>
+        <text class="s" x="175" y="153" text-anchor="middle">BM25 + dense, filters, fan-out</text>
+
+        <rect class="box" x="335" y="110" width="250" height="64"/>
+        <text class="t" x="460" y="136" text-anchor="middle">Product &amp; Authority Resolver</text>
+        <text class="s" x="460" y="153" text-anchor="middle">UIN · revision · wording &gt; summary</text>
+
+        <rect class="box" x="620" y="110" width="250" height="64"/>
+        <text class="t" x="745" y="136" text-anchor="middle">Claim-Risk</text>
+        <text class="s" x="745" y="153" text-anchor="middle">rules grounded in clauses</text>
+
+        <path class="edge" d="M175 174 V 206 H 460 V 224"/>
+        <path class="edge" d="M460 174 V 224"/>
+        <path class="edge" d="M745 174 V 206 H 460"/>
+
+        <rect class="box" x="250" y="226" width="420" height="58"/>
+        <text class="t" x="460" y="250" text-anchor="middle">Clause Analyst</text>
+        <text class="s" x="460" y="267" text-anchor="middle">clause extraction · tables · section, page, effective date</text>
+
+        <path class="edge" d="M460 284 V 318"/>
+
+        <rect class="box" x="250" y="320" width="420" height="58"/>
+        <text class="t" x="460" y="344" text-anchor="middle">Critic / Verifier</text>
+        <text class="s" x="460" y="361" text-anchor="middle">entailment · citation check · refusal check · injection scan</text>
+
+        <path class="edge" d="M460 378 V 412"/>
+
+        <rect class="box-accent" x="250" y="414" width="420" height="56"/>
+        <text class="t" x="460" y="438" text-anchor="middle">Response Composer</text>
+        <text class="s" x="460" y="455" text-anchor="middle">answer · evidence · citations · disclaimer</text>
+      </svg>
+      <p class="caption">Planner → executor → critic, with a bounded step budget and a trace for every step.</p>
+    </div>
+
+    <h3>Agents</h3>
+    <ol>
+      <li><b>Intake &amp; Router</b> — classifies intent (coverage, exclusion, waiting period, sub-limit, claim process, comparison, claim risk, catalogue gap, out of scope), extracts insurer and product mentions with word-boundary aliases, detects line of business and emits a typed task plan. Replaces the current regex scope detector and substring insurer matcher.</li>
+      <li><b>Policy Retrieval</b> — hybrid retrieval with metadata filters, per-insurer fan-out with quotas for comparisons, clause-fingerprint deduplication and authority-aware reranking. Never silently widens a filter.</li>
+      <li><b>Product &amp; Authority Resolver</b> — resolves a product name to a UIN, selects the current revision and fixes the evidence hierarchy: wording first, CIS and prospectus next, brochure only as a summary, regulation as legal context and never as proof of cover. Returns an explicit “not loaded” result.</li>
+      <li><b>Clause Analyst</b> — extracts the operative clause with section, page and effective date, parses tables for waiting periods, sub-limits and room categories, and detects conflicts between a brochure and the wording.</li>
+      <li><b>Claim-Risk</b> — assesses network status, room-rent cap, PED waiting period, disclosure consistency, intimation delay and procedure exclusions, reading caps and waiting periods from the resolved product’s clauses. Gates inputs by line of business.</li>
+      <li><b>Critic / Verifier</b> — checks every coverage claim against the retrieved clause, rejects uncited assertions, verifies that the cited page and document type support the sentence, verifies refusals, scans for unsafe advice and blocks instructions embedded in retrieved or uploaded text.</li>
+    </ol>
+
+    <h3>Orchestration requirements</h3>
+    <ul>
+      <li>Explicit planner → executor → critic loop with a bounded step budget.</li>
+      <li>Persistent run state (plan, tool calls, evidence, verdicts) so a failed step resumes.</li>
+      <li>Typed tool outputs validated by schemas, with typed errors and a transient-versus-terminal retry policy.</li>
+      <li>Trace store per step: inputs, selected documents, distances, tokens, verdicts, latency.</li>
+      <li>Deterministic escape hatch: below the calibrated confidence threshold, or with an unresolved product, return the gap response without calling the generator.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Known gaps in the baseline</h2>
+    <div class="note warn">
+      <p>
+        The current prototype has four trust-breaking corpus defects — a residual demo policy in
+        the production collection, vector IDs that collide across documents, a catalogue that has
+        drifted from the vector store, and lossy document-type mapping. Closing them is Gate G1 of
+        the plan, because no accuracy number measured before that is meaningful.
+      </p>
+      <p><a href="https://github.com/satishify/beemasathi/blob/main/PROJECT_REVIEW.md">Full defect register and evidence →</a></p>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <span>BeemaSathi · informational only, not legal or financial advice</span>
+    <span>·</span>
+    <a href="https://github.com/satishify/beemasathi">Source</a>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Data — BeemaSathi</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <div class="brand">BeemaSathi <span>· capstone</span></div>
+    <nav class="nav">
+      <a href="./">Overview</a>
+      <a href="architecture.html">Architecture</a>
+      <a href="data.html" class="active">Data</a>
+      <a href="evaluation.html">Evaluation</a>
+      <a href="plan.html">Plan</a>
+      <a href="https://github.com/satishify/beemasathi">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <span class="eyebrow">Data</span>
+    <h1>Official documents only</h1>
+    <p class="lead">
+      Every clause behind an answer comes from an insurer-owned or regulator domain. Third-party
+      policy mirrors are rejected, even when they are easier to crawl.
+    </p>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <section>
+    <h2>Sources</h2>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Source</th><th>Content</th><th>Access</th></tr>
+        <tr><td>Insurer document hubs</td><td>Policy wordings, CIS, prospectus, brochures, endorsements</td><td>Official-domain crawler; 8 insurers represented</td></tr>
+        <tr><td>Manual acquisition</td><td>Star Health, Care Health, ICICI Lombard, Acko, Zurich Kotak</td><td>Browser download with human review where crawling is blocked</td></tr>
+        <tr><td>IRDAI</td><td>Regulations, circulars, master circulars</td><td>Manual; <code>robots.txt</code> disallows crawling</td></tr>
+        <tr><td>User-uploaded policy</td><td>A customer’s own wording and schedule</td><td>Local only, never shared</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>What is indexed today</h2>
+    <div class="stats cols-4">
+      <div class="stat"><b>923</b><span>source files indexed</span></div>
+      <div class="stat"><b>927</b><span>PDFs collected (1.9 GB)</span></div>
+      <div class="stat"><b>362</b><span>policy wordings</span></div>
+      <div class="stat"><b>559</b><span>brochures, CIS, prospectus</span></div>
+    </div>
+    <div class="note">
+      <p>
+        Composition matters. Brochures and summaries are the majority of the corpus, so default
+        similarity search tends to surface them. The target design treats document type as a hard
+        authority signal for coverage questions, not a tiebreaker.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Governance rules</h2>
+    <ul>
+      <li>Only insurer-owned or regulator domains are accepted; third-party mirrors are rejected.</li>
+      <li>PDFs are validated by signature and size; revision is resolved by date and revision marker.</li>
+      <li>Each document carries a sidecar with insurer, product, document type, source URL, SHA-256 and retrieval time.</li>
+      <li>Each chunk carries <code>source_file</code>, page, section, document type and, where available, <code>uin</code>.</li>
+      <li>A document without provenance cannot enter the collection.</li>
+      <li>The manifest, ingest ledger and vector store are reconciled on every build; a mismatch fails the build instead of being reported as a count.</li>
+    </ul>
+
+    <h3>Target record shape</h3>
+<pre><code>{
+  "document_id": "sha256:9f2c…",
+  "insurer": "tata_aig",
+  "product_key": "TATHLIP21292V022021",
+  "line_of_business": "health",
+  "document_type": "policy_wording",
+  "revision_date": "2024-03-01",
+  "source_url": "https://www.tataaig.com/…",
+  "sha256": "9f2c…",
+  "pages": 26,
+  "ocr_derived": false,
+  "review": { "status": "approved", "reviewer": "member-1" }
+}</code></pre>
+  </section>
+
+  <section>
+    <h2>Rebuilding the corpus</h2>
+    <p>
+      The PDFs are third-party material and are not redistributed in the repository. The
+      pipeline output — parsed text, chunk metadata and the ingest ledger — is committed so the
+      corpus can be inspected and re-scored.
+    </p>
+<pre><code>./venv/bin/python scrapers/hybrid_scraper.py --dry-run   # preview discovery
+./venv/bin/python scrapers/hybrid_scraper.py             # download official PDFs
+./appctl.sh index                                        # parse, chunk, embed</code></pre>
+    <p class="small">
+      Some insurer sites block automated collection. The scraper prints a manual fallback guide
+      (<code>--manual-guide</code>) for those cases. A rebuild reproduces the pipeline, not
+      byte-identical contents.
+    </p>
+    <p><a href="https://github.com/satishify/beemasathi/blob/main/DATA.md">Data layout and exclusions →</a></p>
+  </section>
+
+  <section>
+    <h2>Known extraction limits</h2>
+    <ul>
+      <li>Page-sliced chunking cuts some clauses at page boundaries.</li>
+      <li>Tables are not extracted yet, so waiting-period and sub-limit data can be incomplete.</li>
+      <li>Six image-only PDFs fail extraction on every run; OCR fallback is a Week 2 deliverable.</li>
+      <li>58% of chunks carry only a page label, so section-level citation is often approximate.</li>
+    </ul>
+  </section>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <span>BeemaSathi · informational only, not legal or financial advice</span>
+    <span>·</span>
+    <a href="https://github.com/satishify/beemasathi">Source</a>
+  </div>
+</footer>
+
+</body>
+</html>

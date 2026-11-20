@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BeemaSathi — Evidence-grounded insurance copilot</title>
+<meta name="description" content="A retrieval-augmented, evidence-grounded copilot for Indian health and motor insurance policy documents.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <div class="brand">BeemaSathi <span>· capstone</span></div>
+    <nav class="nav">
+      <a href="./" class="active">Overview</a>
+      <a href="architecture.html">Architecture</a>
+      <a href="data.html">Data</a>
+      <a href="evaluation.html">Evaluation</a>
+      <a href="plan.html">Plan</a>
+      <a href="https://github.com/satishify/beemasathi">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <span class="eyebrow">IIT Kharagpur · EPM in Generative AI &amp; Agentic AI</span>
+    <h1>Answers grounded in the policy wording,<br>or no answer at all.</h1>
+    <p class="lead">
+      BeemaSathi is a retrieval-augmented copilot for Indian health and motor insurance.
+      It reads official insurer and IRDAI documents, cites the clause and page behind every
+      coverage claim, separates binding wordings from marketing brochures, and refuses when a
+      product is not loaded instead of guessing.
+    </p>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <section>
+    <div class="stats cols-3">
+      <div class="stat"><b>923</b><span>indexed source files</span></div>
+      <div class="stat"><b>45,844</b><span>clause chunks in Chroma</span></div>
+      <div class="stat"><b>927</b><span>official PDFs collected</span></div>
+      <div class="stat"><b>8</b><span>insurers plus IRDAI</span></div>
+      <div class="stat"><b>Qwen3-8B</b><span>hosted model backend</span></div>
+      <div class="stat"><b>11</b><span>gold evaluation cases</span></div>
+    </div>
+    <p class="caption">Measured on the working prototype, November 2026. Corpus and index are rebuilt locally; see <a href="data.html">Data</a>.</p>
+  </section>
+
+  <section>
+    <h2>Why this exists</h2>
+    <p>
+      Indian retail insurance is sold as a short brochure and governed by a long policy wording.
+      The facts a customer needs — waiting periods, room-rent caps, sub-limits, co-pay,
+      pre-existing disease conditions, exclusions, cashless rules — sit in 30–100 page PDFs that
+      change by insurer, product, UIN and revision year. The brochure summarises the product; it
+      is not the contract.
+    </p>
+    <ul>
+      <li>A room-rent choice above the cap proportionally reduces every other claim head, not just the room charge.</li>
+      <li>Treatment inside a pre-existing disease waiting period is rejected even when the hospitalisation itself is covered.</li>
+      <li>Delayed intimation or a non-network hospital turns a cashless claim into reimbursement with a different document set.</li>
+      <li>A customer reading a brochure can reasonably conclude a benefit exists that the wording excludes.</li>
+    </ul>
+    <p>
+      General-purpose chatbots make this worse: they answer confidently from generic insurance
+      knowledge, cannot distinguish a brochure from a binding wording, and cannot say
+      “this product is not in my knowledge base”.
+    </p>
+  </section>
+
+  <section>
+    <h2>What the system does</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Retrieves from primary sources</h3>
+        <p>Dense retrieval over official insurer documents and IRDAI regulations, with insurer, product and document-type filters.</p>
+      </div>
+      <div class="card">
+        <h3>Ranks authority, not prose</h3>
+        <p>A policy wording outranks a CIS, prospectus or brochure. Summary documents are labelled as summaries in the answer.</p>
+      </div>
+      <div class="card">
+        <h3>Refuses when evidence is missing</h3>
+        <p>An unloaded insurer or product produces a named gap and a refusal, never an answer borrowed from another insurer.</p>
+      </div>
+      <div class="card">
+        <h3>Shows its sources</h3>
+        <p>Every answer carries the insurer, product, section, page and document type used as evidence.</p>
+      </div>
+      <div class="card">
+        <h3>Checks claim-rejection risk</h3>
+        <p>Rule-based assessment of network status, room-rent cap, PED waiting period, disclosure and intimation timing.</p>
+      </div>
+      <div class="card">
+        <h3>Blocks unsafe advice</h3>
+        <p>Hiding a pre-existing disease, backdating admission or fabricating bills is refused by the guardrails.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Run it locally</h2>
+    <p>The application is a Streamlit client over a FastAPI service. It answers with a hosted Qwen3-8B endpoint or a local Ollama model.</p>
+<pre><code>git clone https://github.com/satishify/beemasathi.git
+cd beemasathi
+python3 -m venv venv
+./venv/bin/pip install -r requirements.txt
+
+cp .env.example .env        # add the model API base URL, key and CA cert
+./appctl.sh start           # http://127.0.0.1:8501</code></pre>
+    <p class="small">
+      Without <code>.env</code> the app falls back to local Ollama
+      (<code>ollama pull qwen2.5:7b</code>). The vector index is built from the corpus with
+      <code>./appctl.sh index</code>.
+    </p>
+  </section>
+
+  <section>
+    <h2>Project documents</h2>
+    <div class="grid">
+      <div class="card">
+        <h3><a href="https://github.com/satishify/beemasathi/blob/main/PROJECT_WRITEUP.md">Project write-up</a></h3>
+        <p>Objectives, target architecture, evaluation design and the four-week execution plan.</p>
+      </div>
+      <div class="card">
+        <h3><a href="https://github.com/satishify/beemasathi/blob/main/PROJECT_REVIEW.md">Baseline review</a></h3>
+        <p>An internal engineering review of the working prototype: 26 findings, evidence and remediation.</p>
+      </div>
+      <div class="card">
+        <h3><a href="https://github.com/satishify/beemasathi/blob/main/eval/README.md">Evaluation guide</a></h3>
+        <p>How the gold set is scored, what each category checks, and the limits of LLM-as-judge.</p>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <span>BeemaSathi · informational only, not legal or financial advice</span>
+    <span>·</span>
+    <a href="https://github.com/satishify/beemasathi">Source</a>
+  </div>
+</footer>
+
+</body>
+</html>

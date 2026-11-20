@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plan — BeemaSathi</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <div class="brand">BeemaSathi <span>· capstone</span></div>
+    <nav class="nav">
+      <a href="./">Overview</a>
+      <a href="architecture.html">Architecture</a>
+      <a href="data.html">Data</a>
+      <a href="evaluation.html">Evaluation</a>
+      <a href="plan.html" class="active">Plan</a>
+      <a href="https://github.com/satishify/beemasathi">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <span class="eyebrow">Four weeks · six members</span>
+    <h1>Fix the corpus, then build the agents</h1>
+    <p class="lead">
+      Week 1 is deliberately unglamorous. Until documents have unique identities, the catalogue
+      matches the vector store, and a frozen question set exists, every later number measures the
+      wrong thing.
+    </p>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <section>
+    <h2>Weekly plan and gates</h2>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Week</th><th>Workstream</th><th>Gate</th></tr>
+        <tr>
+          <td><b>1</b></td>
+          <td>Corpus integrity and evaluation freeze: content-addressed document IDs and reindex, demo data purged, document-type mapping fixed, catalogue reconciled, IRDAI scan root added, frozen 80-question set with gold notes, baselines measured.</td>
+          <td><b>G1</b> — zero chunks without provenance, zero collisions, catalogue equals vector store, 80 questions versioned.</td>
+        </tr>
+        <tr>
+          <td><b>2</b></td>
+          <td>Hybrid retrieval and evidence quality: BM25 plus dense, authority-aware reranking, calibrated threshold, clause- and table-aware chunking with OCR fallback, UIN and effective date in metadata, citation contract.</td>
+          <td><b>G2</b> — Recall@5 ≥ 0.80 and wording share ≥ 0.85 (interim; final 0.85 and 0.90).</td>
+        </tr>
+        <tr>
+          <td><b>3</b></td>
+          <td>Agentic layer: router, retrieval, authority resolver, clause analyst, claim-risk and critic agents; typed tool schemas; persistent state, retries and budgets; trace store; agentic versus RAG-only comparison.</td>
+          <td><b>G3</b> — task completion ≥ 95%, tool success ≥ 98%, critic catches injected instructions.</td>
+        </tr>
+        <tr>
+          <td><b>4</b></td>
+          <td>Evaluation, hardening and delivery: full evaluation and ablations, failure taxonomy, red-team report, observability dashboard, API and UI integration, deployment pack, report and demo.</td>
+          <td><b>G4</b> — Section 5 targets met or documented with a remediation plan.</td>
+        </tr>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Team</h2>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Member</th><th>Responsibility</th></tr>
+        <tr><td>1</td><td>Domain specification, insurance SME liaison, 80-question gold set, annotation and adjudication</td></tr>
+        <tr><td>2</td><td>Prompting strategy, critic design, safety guardrails, red-team and responsible-AI report</td></tr>
+        <tr><td>3</td><td>Data acquisition and normalization, hybrid index, chunking, reranking, retrieval evaluation</td></tr>
+        <tr><td>4</td><td>Agent orchestration, tool schemas, persistent state, retries, tracing, claim-risk integration</td></tr>
+        <tr><td>5</td><td>Evaluation harness, metrics, ablations, observability dashboard, cost and latency analysis</td></tr>
+        <tr><td>6</td><td>FastAPI service, Streamlit client, citation UX, packaging, deployment, demo production</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Risks</h2>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Risk</th><th>Mitigation</th></tr>
+        <tr><td>Insurer sites block automated access or change URLs</td><td>Official-domain crawler plus documented manual acquisition and provenance review; no third-party mirrors</td></tr>
+        <tr><td>Policy revisions silently supersede indexed documents</td><td>Revision date and UIN in metadata, freshness monitor, scheduled re-crawl with diff alerts</td></tr>
+        <tr><td>Scanned or table-heavy PDFs extract poorly</td><td>OCR fallback with an <code>ocr_derived</code> flag, table-aware extraction, per-document quality metric</td></tr>
+        <tr><td>Brochure text contaminates coverage answers</td><td>Authority-aware reranking, wording-first policy, brochure share measured in evaluation</td></tr>
+        <tr><td>Hallucinated coverage or UIN</td><td>Refusal-first prompt, critic entailment check, citation-required answers, UIN verified against metadata</td></tr>
+        <tr><td>LLM judge is generous or biased</td><td>Different judge model, rules override the judge, 20% human audit, disagreement reported</td></tr>
+        <tr><td>Prompt injection through uploaded PDFs</td><td>Delimited untrusted content, injection scan, critic check, 15-attack red-team suite</td></tr>
+        <tr><td>Scope creep into legal or claim adjudication</td><td>Explicit non-goals, informational-only framing, human verification, no claim filing</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Deliverables</h2>
+    <ul>
+      <li>Working application with a FastAPI service and a Streamlit demonstration client.</li>
+      <li>Reproducible repository with pinned dependencies, tests and a one-command local start.</li>
+      <li>Documented knowledge base with a manifest, SHA-256 hashes, UIN mapping, revision dates and review sign-off.</li>
+      <li>Agent execution and tracing dashboard showing plans, tool calls, evidence, verdicts, tokens and latency.</li>
+      <li>Evaluation report: 80 frozen questions, five systems, four ablations, a failure taxonomy.</li>
+      <li>Responsible-AI and prompt-injection testing report.</li>
+      <li>Twelve-page technical report and a ten-minute demonstration.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Demo success criteria</h2>
+    <ol>
+      <li>A coverage question returns a clause-level citation with insurer, product, UIN, document type, page, section and source URL.</li>
+      <li>An insurer with no loaded wording returns a clean refusal that names the gap.</li>
+      <li>A brochure-only product is answered with an explicit summary warning; where a wording exists, wording evidence is used.</li>
+      <li>A two-insurer comparison returns evidence from both insurers.</li>
+      <li>A claim scenario returns per-rule findings linked to clauses, or explicitly labelled defaults, and never gives unsafe advice.</li>
+      <li>A poisoned uploaded PDF cannot change system behaviour.</li>
+      <li>The trace dashboard reproduces every step of a demo answer.</li>
+      <li>The evaluation report shows the frozen 80-question results, baselines, ablations and failure distribution.</li>
+    </ol>
+  </section>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <span>BeemaSathi · informational only, not legal or financial advice</span>
+    <span>·</span>
+    <a href="https://github.com/satishify/beemasathi">Source</a>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Evaluation — BeemaSathi</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <div class="brand">BeemaSathi <span>· capstone</span></div>
+    <nav class="nav">
+      <a href="./">Overview</a>
+      <a href="architecture.html">Architecture</a>
+      <a href="data.html">Data</a>
+      <a href="evaluation.html" class="active">Evaluation</a>
+      <a href="plan.html">Plan</a>
+      <a href="https://github.com/satishify/beemasathi">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <span class="eyebrow">Evaluation</span>
+    <h1>Honest answers are the metric</h1>
+    <p class="lead">
+      Accuracy alone rewards a model that never says “I don’t know”. This evaluation measures
+      retrieval, grounding, citation correctness and refusal quality separately, on a frozen set
+      created before the agentic layer.
+    </p>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <section>
+    <h2>Where the baseline stands</h2>
+    <div class="stats cols-4">
+      <div class="stat"><b>11</b><span>gold cases</span></div>
+      <div class="stat"><b>11/11</b><span>passing at last run</span></div>
+      <div class="stat"><b>19 Sep 2026</b><span>last measured</span></div>
+      <div class="stat"><b>4 of 6</b><span>claim-risk rules implemented</span></div>
+    </div>
+    <div class="note warn">
+      <p>
+        This is a smoke set, not a gate. It is judged by the same model that generates the answer,
+        it has no retrieval metrics, and it has no negative set for threshold calibration. One
+        refusal case passes for the wrong reason while fabricated Star&nbsp;Health demo data is
+        still live in the index — which is exactly why the corpus-integrity gate comes first.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Frozen set: 80 questions</h2>
+    <p>
+      Written and versioned before the agentic layer exists, so the agents cannot be tuned to the
+      test. Two annotators label each question against the cited official PDFs; disagreements are
+      adjudicated by a third and inter-annotator agreement is reported.
+    </p>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Category</th><th>Count</th><th>What it tests</th></tr>
+        <tr><td>Coverage and exclusion facts</td><td>20</td><td>Clause retrieval and factual accuracy across six or more insurers</td></tr>
+        <tr><td>Waiting periods, PED, sub-limits, room rent, co-pay</td><td>15</td><td>Table and clause extraction on the hardest real questions</td></tr>
+        <tr><td>Claim process and cashless rules</td><td>10</td><td>Procedural accuracy and document lists</td></tr>
+        <tr><td>Two-insurer comparisons</td><td>10</td><td>Per-insurer retrieval and balanced synthesis</td></tr>
+        <tr><td>Gap and refusal cases</td><td>10</td><td>Unloaded insurers, missing products, out-of-scope questions</td></tr>
+        <tr><td>Safety and fraud prompts</td><td>5</td><td>Hiding PED, backdating, fabricated bills</td></tr>
+        <tr><td>Prompt injection and leakage</td><td>5</td><td>Instructions inside PDFs, excerpt and page-number leakage</td></tr>
+        <tr><td>Claim-risk scenarios</td><td>5</td><td>Health and motor fixtures with adjudicated outcomes</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Metrics and targets</h2>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Metric</th><th>Definition</th><th>Target</th></tr>
+        <tr><td>Recall@5</td><td>Gold clause appears in the top 5 chunks</td><td>≥ 0.85</td></tr>
+        <tr><td>MRR</td><td>Reciprocal rank of the first gold chunk</td><td>≥ 0.70</td></tr>
+        <tr><td>Document-type precision</td><td>Coverage answers citing a binding wording where one exists</td><td>≥ 0.90</td></tr>
+        <tr><td>Factual accuracy</td><td>Rubric score against gold notes (2 / 1 / 0)</td><td>90% of cases at 2</td></tr>
+        <tr><td>Citation correctness</td><td>Cited page, section and document type actually support the sentence</td><td>≥ 95%</td></tr>
+        <tr><td>Unsupported-claim rate</td><td>Coverage claims with no entailment in retrieved evidence</td><td>≤ 3%</td></tr>
+        <tr><td>Refusal precision and recall</td><td>Correct refusals over all refusals and over all gap cases</td><td>≥ 0.95 each</td></tr>
+        <tr><td>Claim-risk agreement</td><td>Risk band matches the adjudicated fixture</td><td>≥ 80%</td></tr>
+        <tr><td>Task completion</td><td>Run produces a valid cited answer or a valid refusal</td><td>≥ 95%</td></tr>
+        <tr><td>Injection resistance</td><td>Attacks blocked or safely ignored</td><td>100%</td></tr>
+        <tr><td>Latency</td><td>End-to-end p50 and p95</td><td>p95 ≤ 20 s RAG-only, ≤ 45 s agentic</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Systems compared</h2>
+    <ol>
+      <li>Single-prompt LLM with no retrieval.</li>
+      <li>Dense-only RAG — the current baseline.</li>
+      <li>Hybrid RAG with BM25 plus dense.</li>
+      <li>Hybrid RAG with authority-aware reranking.</li>
+      <li>Full multi-agent system with the critic loop.</li>
+    </ol>
+
+    <h3>Ablations</h3>
+    <ul>
+      <li>Authority-aware reranking on and off — measures brochure contamination.</li>
+      <li>Critic agent on and off — measures the unsupported-claim rate.</li>
+      <li>Per-insurer fan-out on and off — measures comparison quality.</li>
+      <li>Calibrated distance threshold on and off — measures weak-evidence answers.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>How cases are judged</h2>
+    <p>
+      Every case combines hard rule checks with an LLM judge, and the rules override the judge on
+      refusal and safety. The judge sees only the gold notes and retrieved clauses; it is not
+      allowed to apply extra insurance knowledge. Twenty percent of verdicts are human-audited,
+      and the judge is a different model from the generator.
+    </p>
+    <p><a href="https://github.com/satishify/beemasathi/blob/main/eval/README.md">Evaluation guide →</a>
+       &nbsp;·&nbsp;
+       <a href="https://github.com/satishify/beemasathi/blob/main/eval/gold_cases.json">Gold set →</a>
+       &nbsp;·&nbsp;
+       <a href="https://github.com/satishify/beemasathi/tree/main/eval/reports">Reports →</a>
+    </p>
+  </section>
+
+  <section>
+    <h2>Red team</h2>
+    <p>
+      Fifteen attacks across three channels: user prompts (fraud, prompt extraction, role-play),
+      poisoned PDFs (instructions in clause text, invisible text), and retrieval manipulation
+      (questions crafted to surface a brochure or another insurer). Success means refusal, safe
+      redirection, or a correct answer with no instruction followed.
+    </p>
+  </section>
+
+</div>
+
+<footer>
+  <div class="wrap">
+    <span>BeemaSathi · informational only, not legal or financial advice</span>
+    <span>·</span>
+    <a href="https://github.com/satishify/beemasathi">Source</a>
+  </div>
+</footer>
+
+</body>
+</html>

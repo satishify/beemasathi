@@ -20,6 +20,8 @@ fi
 
 cd "$ROOT_DIR"
 MODEL="$("$PYTHON" -c 'from config import LLM_LOCAL; print(LLM_LOCAL)')"
+API_MODE="$("$PYTHON" -c 'from config import LLM_API_BASE, LLM_API_KEY; print(1 if LLM_API_BASE and LLM_API_KEY else 0)')"
+API_MODEL="$("$PYTHON" -c 'from config import LLM_API_MODEL; print(LLM_API_MODEL)')"
 
 is_running() {
   local pid_file="$1"
@@ -37,30 +39,32 @@ wait_for_url() {
 }
 
 start() {
-  command -v ollama >/dev/null 2>&1 || {
-    echo "Ollama is not installed or is not on PATH."
-    exit 1
-  }
+  if [[ "$API_MODE" != "1" ]]; then
+    command -v ollama >/dev/null 2>&1 || {
+      echo "Ollama is not installed or is not on PATH."
+      exit 1
+    }
 
-  if ! curl -fsS "http://127.0.0.1:11434/api/tags" >/dev/null 2>&1; then
-    nohup ollama serve >"$OLLAMA_LOG" 2>&1 &
-    echo $! >"$OLLAMA_PID_FILE"
-    if ! wait_for_url "http://127.0.0.1:11434/api/tags"; then
-      echo "Ollama failed to start. See $OLLAMA_LOG"
+    if ! curl -fsS "http://127.0.0.1:11434/api/tags" >/dev/null 2>&1; then
+      nohup ollama serve >"$OLLAMA_LOG" 2>&1 &
+      echo $! >"$OLLAMA_PID_FILE"
+      if ! wait_for_url "http://127.0.0.1:11434/api/tags"; then
+        echo "Ollama failed to start. See $OLLAMA_LOG"
+        exit 1
+      fi
+    fi
+
+    if ! ollama show "$MODEL" >/dev/null 2>&1; then
+      echo "Model $MODEL is not installed. Run: ollama pull $MODEL"
       exit 1
     fi
-  fi
 
-  if ! ollama show "$MODEL" >/dev/null 2>&1; then
-    echo "Model $MODEL is not installed. Run: ollama pull $MODEL"
-    exit 1
+    # Load the configured model into memory and keep it warm.
+    curl -fsS "http://127.0.0.1:11434/api/generate" \
+      -H "Content-Type: application/json" \
+      -d "{\"model\":\"$MODEL\",\"prompt\":\"\",\"stream\":false,\"keep_alive\":\"10m\"}" \
+      >/dev/null
   fi
-
-  # Load the configured model into memory and keep it warm.
-  curl -fsS "http://127.0.0.1:11434/api/generate" \
-    -H "Content-Type: application/json" \
-    -d "{\"model\":\"$MODEL\",\"prompt\":\"\",\"stream\":false,\"keep_alive\":\"10m\"}" \
-    >/dev/null
 
   if is_running "$APP_PID_FILE"; then
     echo "BeemaSathi is already running at $APP_URL"
@@ -77,7 +81,11 @@ start() {
 
   if wait_for_url "$APP_URL" 20; then
     echo "BeemaSathi started: $APP_URL"
-    echo "Model loaded: $MODEL"
+    if [[ "$API_MODE" == "1" ]]; then
+      echo "Model backend: hosted API ($API_MODEL)"
+    else
+      echo "Model loaded: $MODEL"
+    fi
   else
     echo "Streamlit failed to start. See $APP_LOG"
     exit 1
@@ -93,7 +101,7 @@ stop() {
   fi
   rm -f "$APP_PID_FILE"
 
-  if curl -fsS "http://127.0.0.1:11434/api/tags" >/dev/null 2>&1; then
+  if [[ "$API_MODE" != "1" ]] && curl -fsS "http://127.0.0.1:11434/api/tags" >/dev/null 2>&1; then
     ollama stop "$MODEL" >/dev/null 2>&1 || true
     echo "Model unloaded: $MODEL"
   fi

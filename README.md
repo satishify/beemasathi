@@ -4,6 +4,25 @@ Your AI companion for Indian health insurance — understand policies, predict c
 
 ## Quick Start
 
+### 0. Choose a model backend
+
+Answers come from either the local Ollama model or the hosted group API. The
+hosted endpoint is used when `.env` contains a base URL and key:
+
+```bash
+cp .env.example .env    # then fill in your group values
+```
+
+```ini
+BEEMASATHI_LLM_BASE=https://103.42.50.41:1032/v1   # :1031–:1034, by group
+BEEMASATHI_LLM_KEY=your-group-key
+BEEMASATHI_LLM_MODEL=Qwen/Qwen3-8B
+BEEMASATHI_LLM_CA=/absolute/path/to/vm06-ca.crt
+```
+
+With those set, `appctl.sh` skips Ollama entirely and does not load a local
+model. Without them, it falls back to the local Ollama setup below.
+
 ### 1. Install Ollama + Mistral 7B
 ```bash
 brew install ollama

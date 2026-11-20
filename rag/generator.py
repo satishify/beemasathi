@@ -2,6 +2,8 @@
 
 import re
 import os
+import threading
+import time
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
 
@@ -12,15 +14,18 @@ from config import (
     CONSTITUTIONAL_PROMPT,
     INSURERS,
     KNOWLEDGE_SOURCES,
+    LLM_API_BASE,
+    LLM_API_CA,
+    LLM_API_KEY,
+    LLM_API_MAX_TOKENS,
+    LLM_API_CONTEXT,
+    LLM_API_MODEL,
     LLM_LOCAL,
 )
 
-# Try to import ollama; if not available, use subprocess fallback
-try:
-    import ollama
-    HAS_OLLAMA = True
-except ImportError:
-    HAS_OLLAMA = False
+# The hosted group key allows one in-flight request, so serialize API calls.
+_API_LOCK = threading.Lock()
+_API_RETRY_DELAYS = (2, 4, 8)
 
 
 MISSING_KNOWLEDGE_ANSWER = (
@@ -44,7 +49,8 @@ LEAK_PATTERNS = [
 
 class BimaSaathiGenerator:
     def __init__(self, model: str = None):
-        self.model = model or LLM_LOCAL
+        self.use_api = bool(LLM_API_BASE and LLM_API_KEY)
+        self.model = model or (LLM_API_MODEL if self.use_api else LLM_LOCAL)
 
     def _source_name(self, insurer_key: str) -> str:
         source = KNOWLEDGE_SOURCES.get(insurer_key, {})
@@ -227,12 +233,85 @@ class BimaSaathiGenerator:
                 return False, f"Blocked: Response contained disallowed content matching pattern"
         return True, ""
 
-    def _call_ollama(
+    def _call_model(
         self, prompt: str, messages: List[Dict[str, str]] = None
     ) -> Tuple[str, Dict[str, Any]]:
-        """Call the local model and retain non-sensitive runtime metrics."""
+        """Answer with the configured backend and retain runtime metrics."""
         chat_messages = messages or [{"role": "user", "content": prompt}]
-        if HAS_OLLAMA:
+        if self.use_api:
+            return self._call_api(chat_messages)
+        return self._call_local(prompt, chat_messages)
+
+    def _call_api(self, messages: List[Dict[str, str]]) -> Tuple[str, Dict[str, Any]]:
+        """Call the hosted OpenAI-compatible endpoint with bounded retries."""
+        import httpx
+
+        # The endpoint counts prompt + completion against one window (8192).
+        estimated_prompt_tokens = sum(len(m["content"]) for m in messages) // 3
+        budget = LLM_API_CONTEXT - estimated_prompt_tokens - 64
+        max_tokens = max(256, min(LLM_API_MAX_TOKENS, budget))
+
+        payload = {
+            "model": self.model,
+            "messages": messages,
+            "temperature": 0.4,
+            "max_tokens": max_tokens,
+        }
+        headers = {"Authorization": f"Bearer {LLM_API_KEY}"}
+        data = None
+        with _API_LOCK:
+            with httpx.Client(
+                verify=LLM_API_CA or True,
+                trust_env=False,
+                timeout=httpx.Timeout(180.0, connect=20.0),
+            ) as client:
+                for delay in _API_RETRY_DELAYS + (None,):
+                    response = client.post(
+                        f"{LLM_API_BASE}/chat/completions",
+                        json=payload,
+                        headers=headers,
+                    )
+                    if response.status_code in (429, 503) and delay is not None:
+                        time.sleep(delay)
+                        continue
+                    if response.status_code == 401:
+                        raise RuntimeError(
+                            "The model API rejected the key (401). Check "
+                            "BEEMASATHI_LLM_KEY and BEEMASATHI_LLM_BASE for your group."
+                        )
+                    if response.status_code >= 400:
+                        raise RuntimeError(
+                            f"Model API error {response.status_code}: {response.text[:300]}"
+                        )
+                    data = response.json()
+                    break
+
+        choice = (data.get("choices") or [{}])[0]
+        message = choice.get("message") or {}
+        content = message.get("content") or message.get("reasoning_content") or ""
+        content = re.sub(
+            r"<think(?:ing)?>.*?</think(?:ing)?>", "", content, flags=re.S | re.I
+        ).strip()
+        usage = data.get("usage") or {}
+        metrics = {
+            "backend": "openai-compatible",
+            "model": data.get("model", self.model),
+            "finish_reason": choice.get("finish_reason"),
+            "prompt_tokens": usage.get("prompt_tokens"),
+            "completion_tokens": usage.get("completion_tokens"),
+        }
+        return content, metrics
+
+    def _call_local(
+        self, prompt: str, chat_messages: List[Dict[str, str]]
+    ) -> Tuple[str, Dict[str, Any]]:
+        """Call the local Ollama model and retain non-sensitive runtime metrics."""
+        try:
+            import ollama
+        except ImportError:
+            ollama = None
+
+        if ollama is not None:
             response = ollama.chat(
                 model=self.model,
                 messages=chat_messages,
@@ -261,17 +340,17 @@ class BimaSaathiGenerator:
                 "eval_duration_ns": get_value("eval_duration"),
             }
             return content, metrics
-        else:
-            # Fallback: use ollama CLI via subprocess
-            import subprocess
-            result = subprocess.run(
-                ["ollama", "run", self.model, prompt],
-                capture_output=True, text=True, timeout=120
-            )
-            return result.stdout.strip(), {
-                "backend": "ollama-cli",
-                "model": self.model,
-            }
+
+        # Fallback: use ollama CLI via subprocess
+        import subprocess
+        result = subprocess.run(
+            ["ollama", "run", self.model, prompt],
+            capture_output=True, text=True, timeout=120
+        )
+        return result.stdout.strip(), {
+            "backend": "ollama-cli",
+            "model": self.model,
+        }
 
     def _pretty_policy_name(self, raw: str) -> str:
         raw = str(raw or "unknown")
@@ -407,17 +486,22 @@ class BimaSaathiGenerator:
         prompt = self._build_prompt(context, question, scope)
         messages = self._build_messages(context, question, scope)
 
-        # Call Ollama
+        # Call the configured model backend
         try:
-            answer, model_metrics = self._call_ollama(prompt, messages=messages)
+            answer, model_metrics = self._call_model(prompt, messages=messages)
         except Exception as e:
+            hint = (
+                "Check BEEMASATHI_LLM_* in .env."
+                if self.use_api
+                else "Is Ollama running? Run: ollama serve"
+            )
             return {
-                "answer": f"Error calling local model: {e}. Is Ollama running? Run: ollama serve",
+                "answer": f"Error calling the model: {e}. {hint}",
                 "safe": False,
                 "sources": [],
                 "rejection_risk": None,
                 "model_metrics": {
-                    "backend": "ollama",
+                    "backend": "api" if self.use_api else "ollama",
                     "model": self.model,
                     "error": str(e),
                 },

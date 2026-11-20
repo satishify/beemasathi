@@ -1,5 +1,26 @@
 """BeemaSathi Configuration"""
 
+import os
+from pathlib import Path
+
+try:
+    from dotenv import load_dotenv
+
+    load_dotenv(Path(__file__).with_name(".env"))
+except ImportError:
+    pass
+
+# httpx raises "Invalid port: ':1]'" on the bracketed "[::1]" form that some
+# shells put in NO_PROXY, which breaks Hugging Face downloads and the ollama
+# client. Drop only the unparseable entries.
+for _var in ("NO_PROXY", "no_proxy"):
+    _value = os.environ.get(_var)
+    if _value:
+        _entries = [e for e in (x.strip() for x in _value.split(",")) if e]
+        _kept = [e for e in _entries if not (e.startswith("[") and e.endswith("]"))]
+        if len(_kept) != len(_entries):
+            os.environ[_var] = ",".join(_kept)
+
 INSURERS = {
     "star_health": {"name": "Star Health", "base_url": "https://www.starhealth.in"},
     "hdfc_ergo": {"name": "HDFC Ergo", "base_url": "https://www.hdfcergo.com"},
@@ -27,6 +48,15 @@ KNOWLEDGE_SOURCES = {**INSURERS, **REGULATORY_SOURCES}
 EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
 LLM_LOCAL = "qwen2.5:7b"
 LLM_FALLBACK = "llama-3.1-70b-versatile"
+
+# Hosted OpenAI-compatible chat endpoint (IIT KGP capstone groups).
+# Set these in .env to answer with the group API instead of local Ollama.
+LLM_API_BASE = (os.getenv("BEEMASATHI_LLM_BASE") or "").rstrip("/")
+LLM_API_KEY = os.getenv("BEEMASATHI_LLM_KEY") or ""
+LLM_API_MODEL = os.getenv("BEEMASATHI_LLM_MODEL") or "Qwen/Qwen3-8B"
+LLM_API_CA = os.getenv("BEEMASATHI_LLM_CA") or ""
+LLM_API_MAX_TOKENS = int(os.getenv("BEEMASATHI_LLM_MAX_TOKENS") or "1024")
+LLM_API_CONTEXT = int(os.getenv("BEEMASATHI_LLM_CONTEXT") or "8192")
 
 CHROMA_PATH = "./data/chroma_db"
 COLLECTION_NAME = "policy_clauses"

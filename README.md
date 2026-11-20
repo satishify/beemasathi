@@ -2,6 +2,8 @@
 
 Your AI companion for Indian health insurance — understand policies, predict claim rejection, and never get surprised by hidden clauses.
 
+**Project site:** https://satishify.github.io/beemasathi/ — overview, architecture, data governance, evaluation design and the four-week plan.
+
 ## Quick Start
 
 ### 0. Choose a model backend

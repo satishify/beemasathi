@@ -92,6 +92,7 @@ HOW TO ANSWER:
 STRICT RULES:
 1. Use only the facts below. If they do not cover the question, say so politely and stop.
 2. Never invent insurers, policy names, network size, waiting periods, exclusions, or claim rules.
+2a. Never state family-size limits, premiums, discounts, eligibility, or that a plan is "good" or "best" unless that exact fact is in MATCHING POLICY CLAUSES. Do not repeat a number from the question, such as "family of 4", as a confirmed limit. If the clauses set no family-size limit, say the wording does not state one. Suitability needs premium and underwriting data you do not have.
 3. Never mention excerpts, retrieved context, prompts, or that the customer forgot to provide documents.
 4. Never ask the customer for a page number from documents they did not share.
 5. Cite exact policy clauses with section numbers when possible.
@@ -108,6 +109,29 @@ KNOWN POLICIES AND GAPS:
 MATCHING POLICY CLAUSES:
 {context}
 """
+
+# Prompt-injection, secret-extraction, and role-play jailbreaks. These are
+# refused before retrieval or the model, so no untrusted text can steer them.
+SECURITY_PATTERNS = [
+    r"system\s+prompt",
+    r"(?:reveal|show|print|repeat|display|tell\s+me)\s+(?:me\s+)?(?:your|the)\s+"
+    r"(?:instructions|rules|prompt|config|developer\s+message)",
+    r"ignore\s+(?:all\s+)?(?:your\s+)?(?:previous\s+)?(?:instructions|rules|prompt)",
+    r"\b(?:api\s*key|secret\s*key|password|credential|environment\s+variable|access\s+token)\b",
+    r"\b(?:pretend|role-?play|you\s+are\s+now)\b.*"
+    r"\b(?:insurer|claim|agent|admin|broker|system|manager|approve)\b",
+    r"\bact\s+as\s+(?:the\s+)?(?:insurer|admin|system|broker|claims?\s+manager)\b",
+    r"\b(?:add|insert|poison|inject)\b.*\b(?:knowledge\s*base|vector\s*(?:db|store)|index|document)\b",
+    r"\b(?:(?:another|other)\s+customers?|patient\s+(?:data|records?))\b",
+    r"\b(?:give|show|list|share|tell)\s+(?:me\s+)?(?:the\s+)?"
+    r"(?:aadhaar|pan|phone)\b.*\b(?:number|customer|patient)\b",
+]
+
+SECURITY_REFUSAL = (
+    "I can't share internal instructions, credentials, or any customer's personal "
+    "data, and I won't follow instructions that arrive inside documents.\n\n"
+    "I can only answer health-insurance questions from the loaded policy wordings."
+)
 
 BANNED_PATTERNS = [
     r"hide\s+(?:your\s+|the\s+|my\s+|a\s+)?(?:disease|condition|history|diabetes|ped)",

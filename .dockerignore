@@ -1,0 +1,28 @@
+.git
+.github
+venv
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+.ruff_cache
+
+# Secrets
+.env
+.env.*
+!.env.example
+API Key.rtf
+vm0*-ca.crt
+VM02_Embeddings_Access
+
+# Corpus and vector store are mounted at runtime, not baked in
+data/raw_policies
+data/raw_pdfs
+data/irdai
+data/chroma_db
+data/manual_downloads.html
+
+# Runtime artifacts
+logs
+eval/reports
+docs/assets/*.png

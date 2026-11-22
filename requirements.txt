@@ -1,12 +1,12 @@
-langchain
-langchain-community
 chromadb
 sentence-transformers
-ollama
 fastapi
+uvicorn[standard]
 streamlit
 requests
 beautifulsoup4
 pdfplumber
 python-multipart
-unsloth
+python-dotenv
+httpx
+ollama

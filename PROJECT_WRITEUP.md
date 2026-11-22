@@ -30,23 +30,27 @@ BeemaSathi addresses this with an evidence-grounded copilot that retrieves from 
 - **Build a multi-agent workflow** for intent routing, retrieval, clause analysis, claim-risk assessment, verification and response composition, with persistent state, typed tool outputs, retries and tracing.
 - **Generate clause-level citations** containing insurer, product, UIN, document type, section, page, source URL and retrieval date, and flag every answer that relies on a non-binding summary.
 - **Refuse correctly** when an insurer, product, or clause is absent, when a document is stale, or when the question requires legal or financial advice.
-- **Evaluate rigorously** on a frozen 80-question set created before the agentic layer, reporting retrieval recall, factual accuracy, citation correctness, refusal quality, claim-risk agreement, hallucination rate, latency and cost, against four baselines and three ablations.
+- **Evaluate rigorously** on a frozen 74-question set created before the agentic layer, reporting retrieval recall, factual accuracy, citation correctness, refusal quality, claim-risk agreement, hallucination rate, latency and cost, against four baselines and three ablations.
 
 ### 3. Proposed Architecture
 
-#### 3.1 Current baseline (already built)
+#### 3.1 Current baseline (built and measured)
 
-A working local prototype exists and provides the substrate for the four-week build:
+A working prototype exists and provides the substrate for the four-week build:
 
-| Asset | Current state (at the time of writing) |
+| Asset | Current state (22 Nov 2026) |
 | --- | --- |
 | Corpus | 923 indexed files, 45,844 chunks, 927 PDFs (1.9 GB), 8 insurers plus IRDAI |
 | Document mix | 362 policy wordings, 559 brochures/CIS/prospectus, plus IRDAI regulations |
 | Collection | Official-domain-only crawler, robots fail-closed, SHA-256 manifest, sidecar metadata |
-| Retrieval | Dense (BGE-small-en-v1.5) + keyword chunk-type routing + heuristic rerank |
-| Generation | `qwen2.5:7b` via Ollama, constitutional prompt, refusal rules, leak sanitisation |
-| Interfaces | Streamlit client, FastAPI (`/ask`, `/predict`, `/insurers`, `/health`) |
-| Evaluation | 11 gold cases with rule checks and an LLM judge (11/11 at last run) |
+| Retrieval | Hybrid: BGE-small dense + pure-Python Okapi BM25, reciprocal-rank fusion, typed searches, authority weights, policy-name detection |
+| Generation | `Qwen/Qwen3-8B` on the hosted OpenAI-compatible endpoint (Ollama still supported), three prompt strategies, refusal rules, leak sanitisation |
+| Agent layer | Intent router with typed `TaskPlan`, orchestrator with per-insurer fan-out, authority resolver, number/UIN critic with one structured retry |
+| Guardrails | Banned fraud patterns and a security-pattern set (prompt/secret/PII extraction, role-play, document injection, index poisoning) refused before the model |
+| Observability | Per-request JSONL traces with hashed question, redacted preview, tokens, latency and intent; summary CLI |
+| Interfaces | Streamlit client, FastAPI (`/ask`, `/plan`, `/predict`, `/insurers`, `/health`), token-bucket rate limit |
+| Delivery | Dockerfile, compose (API + UI), GitHub Actions CI (compile + unit tests) |
+| Evaluation | 74 gold cases (incl. 9 red-team); judged run 66/74 pass, document recall@8 1.00, supporting-clause recall@8 0.89, zero ungrounded passes |
 | Claim risk | Rule-based predictor, 4 of 6 configured rules implemented |
 
 An internal review of this baseline identified four corpus-integrity defects that must be closed in Week 1 before any evaluation number is meaningful: residual demo data in the production collection, vector IDs that collide across documents, a catalogue built from an ingest ledger that has drifted from the vector store, and lossy document-type mapping (endorsements labelled as wordings; CIS and prospectus collapsed into brochure). The detailed defect list, evidence and remediation plan are maintained in `PROJECT_REVIEW.md`. Closing these is Gate G1 of the plan in Section 6.
@@ -137,7 +141,9 @@ An internal review of this baseline identified four corpus-integrity defects tha
 
 ### 5. Evaluation Methodology
 
-A frozen evaluation set of **80 questions is created and versioned before the agentic layer is implemented**, so the agents cannot be tuned to the test.
+A frozen evaluation set of **74 questions is created and versioned before the agentic layer is implemented**, so the agents cannot be tuned to the test.
+
+**Delivered set (22 Nov 2026):** 18 waiting-period, 13 UIN, 10 co-pay, 9 grace/room-rent/deductible, 3 other core facts, 4 gap, 5 safety, 3 brochure/scope/leakage, and 9 red-team cases. Comparison and claim-risk scenarios run through the agent but are not yet frozen as gold fixtures, so they are not counted below.
 
 **Question stratification**
 

@@ -27,9 +27,10 @@
     <span class="eyebrow">Architecture</span>
     <h1>Retrieval first, agents second</h1>
     <p class="lead">
-      The baseline is a working single-pass RAG pipeline. The four-week build adds hybrid
-      retrieval, an authority resolver and a critic loop without changing the promise: every
-      sentence that states coverage must be traceable to a clause.
+      Retrieval runs first and agents run on top. Hybrid search finds the clause, an authority
+      resolver drops marketing summaries when binding wording exists, and a critic checks every
+      number against the retrieved text. The promise stays the same: every sentence that states
+      coverage must be traceable to a clause.
     </p>
   </div>
 </div>
@@ -37,19 +38,22 @@
 <div class="wrap">
 
   <section>
-    <h2>Current baseline</h2>
-    <p>What already runs today, measured on the local corpus.</p>
+    <h2>Shipped architecture</h2>
+    <p>What runs today, measured on the local corpus (22 Nov 2026).</p>
     <div class="table-wrap">
       <table>
         <tr><th>Layer</th><th>Implementation</th></tr>
         <tr><td>Collection</td><td>Official-domain crawler, robots fail-closed, SHA-256 manifest, sidecar metadata per document</td></tr>
-        <tr><td>Index</td><td>ChromaDB, cosine distance, 45,844 chunks from 923 source files</td></tr>
+        <tr><td>Index</td><td>ChromaDB, cosine distance, 45,844 chunks from 923 source files; pure-Python Okapi BM25 over the same chunks</td></tr>
         <tr><td>Embeddings</td><td>BGE-small-en-v1.5 (384 dimensions), local or hosted</td></tr>
-        <tr><td>Retrieval</td><td>Dense search plus chunk-type routing and heuristic rerank</td></tr>
-        <tr><td>Generation</td><td>Qwen3-8B via OpenAI-compatible API, or qwen2.5:7b via local Ollama</td></tr>
-        <tr><td>Guardrails</td><td>Constitutional prompt, refusal rules, leak sanitiser, banned-pattern check</td></tr>
+        <tr><td>Retrieval</td><td>Dense + BM25 + typed searches fused with reciprocal-rank fusion, authority weights, policy-name detection</td></tr>
+        <tr><td>Agent layer</td><td>Intent router with typed plans, per-insurer fan-out for comparisons, authority resolver, number/UIN critic with one structured retry</td></tr>
+        <tr><td>Generation</td><td>Qwen3-8B via OpenAI-compatible API, or qwen2.5:7b via local Ollama; baseline, zero-shot and structured prompts</td></tr>
+        <tr><td>Guardrails</td><td>Constitutional prompt, refusal rules, leak sanitiser, banned fraud patterns, and pre-model security patterns for prompt/secret/PII extraction and injection</td></tr>
+        <tr><td>Observability</td><td>Per-request JSONL traces with hashed question, redacted preview, tokens, latency and intent; summary CLI</td></tr>
         <tr><td>Claim risk</td><td>Rule engine, 4 of 6 configured rules implemented</td></tr>
-        <tr><td>Interfaces</td><td>Streamlit client; FastAPI service with <code>/ask</code>, <code>/predict</code>, <code>/insurers</code>, <code>/health</code></td></tr>
+        <tr><td>Interfaces</td><td>Streamlit client; FastAPI service with <code>/ask</code>, <code>/plan</code>, <code>/predict</code>, <code>/insurers</code>, <code>/health</code> and a token-bucket rate limit</td></tr>
+        <tr><td>Delivery</td><td>Dockerfile, compose for API + UI, GitHub Actions CI (compile all modules, run unit tests)</td></tr>
       </table>
     </div>
 
@@ -60,11 +64,11 @@
   </section>
 
   <section>
-    <h2>Target architecture</h2>
+    <h2>Agent layer: target and shipped subset</h2>
     <p>
-      Six agents around one retrieval core. The router decides what kind of question this is;
-      the resolver establishes which documents are authoritative; the critic verifies that the
-      composed answer is supported.
+      The shipped orchestrator implements the router, hybrid retrieval, authority resolver,
+      claim-risk agent and critic. The diagram shows the full target, including the separate
+      clause analyst and citation contract that remain on the roadmap.
     </p>
 
     <div class="diagram">

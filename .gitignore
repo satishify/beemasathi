@@ -28,3 +28,6 @@ data/manual_downloads.html
 
 # Runtime
 logs/
+
+# Eval intermediates (regenerate: python eval/mine_gold_cases.py --out eval/gold_cases.generated.json)
+eval/gold_cases.generated.json

@@ -11,6 +11,7 @@ from config import INSURERS, KNOWLEDGE_SOURCES, LLM_LOCAL
 from rag.retriever import PolicyRetriever
 from rag.generator import BimaSaathiGenerator
 from agents.claim_predictor import ClaimPredictor
+from agents.orchestrator import BeemaSathiOrchestrator
 from ui.debug_tools import format_bytes, get_ollama_runtime
 
 
@@ -82,9 +83,18 @@ def get_generator():
 def get_predictor():
     return ClaimPredictor()
 
+@st.cache_resource
+def get_orchestrator():
+    return BeemaSathiOrchestrator(
+        retriever=get_retriever(),
+        generator=get_generator(),
+        predictor=get_predictor(),
+    )
+
 retriever = get_retriever()
 generator = get_generator()
 predictor = get_predictor()
+orchestrator = get_orchestrator()
 
 
 @st.cache_data(ttl=60)
@@ -460,17 +470,10 @@ with main_area:
                 st.session_state.messages.append(
                     {"role": "user", "content": suggestions[picked]}
                 )
+                st.session_state.pending_prompt = suggestions[picked]
                 st.rerun()
 
-        if prompt := st.chat_input(
-            "Ask about a health or motor plan, or compare two policies..."
-        ):
-            st.session_state.messages.append(
-                {"role": "user", "content": prompt}
-            )
-            with st.chat_message("user"):
-                st.markdown(prompt)
-
+        if prompt := st.session_state.pop("pending_prompt", None):
             debug_events = [
                 {
                     "Stage": "Request received",
@@ -498,67 +501,49 @@ with main_area:
             )
 
             with st.chat_message("assistant"):
-                retrieval_started = time.perf_counter()
-                with st.spinner("Searching policy documents..."):
-                    chunks = retriever.retrieve(
-                        query=prompt,
+                answer_started = time.perf_counter()
+                with st.spinner("Planning, searching, and checking evidence..."):
+                    result = orchestrator.answer(
+                        prompt,
                         insurer=insurer_key,
                         policy_name=policy if policy else None,
-                        n_results=8,
+                        catalog=indexed_catalog,
                     )
-                retrieval_duration_ms = round(
-                    (time.perf_counter() - retrieval_started) * 1000,
+                answer_duration_ms = round(
+                    (time.perf_counter() - answer_started) * 1000,
                     2,
                 )
+                plan = result.get("plan") or {}
+                verification = result.get("verification") or {}
                 debug_events[0]["Status"] = "Completed"
                 debug_events[0]["Details"] = (
-                    f"Insurer: {insurer_key or 'none'}; "
+                    f"Intent: {plan.get('intent', 'coverage')}; "
+                    f"insurer: {insurer_key or 'none'}; "
                     f"policy: {policy or 'none'}"
                 )
                 debug_events.append(
                     {
-                        "Stage": "Policy retrieval",
+                        "Stage": "Agent plan",
                         "Status": "Completed",
-                        "Duration (ms)": retrieval_duration_ms,
-                        "Details": f"{len(chunks)} chunks returned",
+                        "Duration (ms)": None,
+                        "Details": " → ".join(
+                            step["action"] for step in plan.get("steps", [])
+                        )
+                        or plan.get("intent", "coverage"),
                     }
                 )
-                retrieval_debug = [
+                debug_events.append(
                     {
-                        "Rank": index,
-                        "Section": chunk["metadata"].get("section", "Unknown"),
-                        "Type": chunk["metadata"].get("chunk_type", "Unknown"),
-                        "Page": chunk["metadata"].get("page", "—"),
-                        "Distance": round(chunk.get("distance", 0), 4),
+                        "Stage": "Evidence check",
+                        "Status": (
+                            "Completed" if verification.get("verified") else "Warning"
+                        ),
+                        "Duration (ms)": None,
+                        "Details": (
+                            f"{result.get('retrieved', 0)} clauses; "
+                            f"unsupported: {', '.join(verification.get('unsupported') or []) or 'none'}"
+                        ),
                     }
-                    for index, chunk in enumerate(chunks, 1)
-                ]
-                publish_debug(
-                    {
-                        "stage": f"Generating answer with {generator.model}",
-                        "events": debug_events
-                        + [
-                            {
-                                "Stage": "Answer generation",
-                                "Status": "Running",
-                                "Duration (ms)": None,
-                                "Details": f"Connecting to {generator.model}",
-                            }
-                        ],
-                        "runtime": get_ollama_runtime(generator.model),
-                        "retrieval": retrieval_debug,
-                        "model_metrics": {},
-                    }
-                )
-
-                generation_started = time.perf_counter()
-                with st.spinner(f"Generating with {generator.model}..."):
-                    result = generator.generate(
-                        chunks, prompt, catalog=indexed_catalog
-                    )
-                generation_duration_ms = round(
-                    (time.perf_counter() - generation_started) * 1000,
-                    2,
                 )
                 answer = result["answer"]
                 model_metrics = result.get("model_metrics", {})
@@ -568,14 +553,13 @@ with main_area:
                         "Status": (
                             "Completed" if result.get("safe") else "Warning"
                         ),
-                        "Duration (ms)": generation_duration_ms,
+                        "Duration (ms)": answer_duration_ms,
                         "Details": (
                             f"{model_metrics.get('model', generator.model)} via "
                             f"{model_metrics.get('backend', 'ollama')}"
                         ),
                     }
                 )
-
                 total_duration_ms = round(
                     (time.perf_counter() - request_started) * 1000,
                     2,
@@ -585,7 +569,7 @@ with main_area:
                         "Stage": "Total request",
                         "Status": "Completed",
                         "Duration (ms)": total_duration_ms,
-                        "Details": "Retrieval and generation",
+                        "Details": "Plan, retrieval, generation, verification",
                     }
                 )
                 publish_debug(
@@ -593,12 +577,17 @@ with main_area:
                         "stage": "Request complete",
                         "events": debug_events,
                         "runtime": get_ollama_runtime(generator.model),
-                        "retrieval": retrieval_debug,
+                        "retrieval": [],
                         "model_metrics": model_metrics,
                     }
                 )
 
                 st.markdown(answer)
+                if verification.get("unsupported"):
+                    st.caption(
+                        "Unverified figures: "
+                        + ", ".join(verification["unsupported"])
+                    )
                 if result["sources"]:
                     with st.expander("📚 Sources"):
                         for source in result["sources"]:
@@ -611,6 +600,16 @@ with main_area:
                     "sources": result.get("sources", []),
                 }
             )
+
+# Chat input lives outside the content container so it stays pinned to the
+# bottom of the page and every new answer appears above it.
+if tool_mode == "Ask Question":
+    if prompt := st.chat_input(
+        "Ask about a health or motor plan, or compare two policies..."
+    ):
+        st.session_state.messages.append({"role": "user", "content": prompt})
+        st.session_state.pending_prompt = prompt
+        st.rerun()
 
 # Footer
 st.divider()

@@ -139,6 +139,25 @@ streamlit run ui/app.py
 python api/main.py
 ```
 
+Both front ends call the same agent layer: an intent router builds a typed plan
+(coverage, comparison, claim risk, scope, safety, security), hybrid retrieval
+fuses dense + BM25 + document-type authority, a critic verifies every number
+against the retrieved clauses, and each request writes a redacted trace.
+
+### Run with Docker
+
+The vector store is mounted at runtime instead of baked into the image, because
+third-party policy PDFs and `data/chroma_db/` are not committed.
+
+```bash
+docker compose up --build
+# API     -> http://127.0.0.1:8000
+# UI      -> http://127.0.0.1:8501
+```
+
+`docker compose` reads `.env` for the model backend, mounts `./data` read-only,
+and stores traces in `./logs`.
+
 ### Debug Mode
 
 Debug diagnostics are disabled by default. Enable them only for local development:
@@ -159,6 +178,34 @@ On Apple Silicon, CPU and GPU use unified memory, so the displayed RAM and VRAM
 figures can overlap. Debug details do not include the full prompt or retrieved text,
 and no developer information is added to the chat history.
 
+## Evaluation and Safety
+
+`eval/gold_cases.json` holds 74 cases: mined facts from the corpus (waiting
+periods, co-pay, room rent, deductible, grace, UIN), hand-written brochure and
+safety cases, and a 9-case red-team set (prompt extraction, secret/PII extraction,
+role-play, document-borne injection, index poisoning).
+
+```bash
+python eval/judge.py                # retrieval + answer + judge, writes eval/reports/
+python eval/retrieval_eval.py       # retrieval only, fast
+python eval/compare_prompts.py      # baseline vs zero_shot vs structured
+python eval/mine_gold_cases.py      # reproducible miner for new fact cases
+```
+
+Judged run on the hosted Qwen3-8B backend: **66/74 pass**, doc recall@8 = 1.000,
+supporting-clause recall@8 = 0.889, zero answers that were right without the
+expected source. Hybrid retrieval raised document recall from 0.60 to 1.00, and
+all nine red-team prompts are refused before the model is called.
+
+Guardrails run before the model: banned fraud advice and the security patterns in
+`config.py` return a fixed refusal without an LLM call, so prompt injection and
+secret extraction cannot reach the backend. Traces (`logs/traces/*.jsonl`) hash
+the question, keep a redacted preview, and never store the prompt, retrieved text,
+or credentials.
+
+CI (`.github/workflows/ci.yml`) compiles every module and runs the unit tests:
+router, critic, rate limiter, redaction, security guardrail, and gold-set schema.
+
 ## Project Structure
 ```
 BeemaSathi/
@@ -171,13 +218,23 @@ BeemaSathi/
 │   ├── chunker.py         # Semantic chunking
 │   ├── ingest_pdf.py      # PDF extraction, chunking, and indexing
 │   ├── embedder.py        # ChromaDB + BGE embeddings
-│   ├── retriever.py       # Hybrid search
-│   └── generator.py       # Ollama + safety
+│   ├── bm25.py            # Pure-Python Okapi BM25 index
+│   ├── retriever.py       # Dense + BM25 + authority fusion
+│   └── generator.py       # Hosted/local LLM, prompt strategies, safety
 ├── agents/
+│   ├── router.py          # Intent → typed task plan
+│   ├── orchestrator.py    # Plan, fan-out, verify, answer
+│   ├── critic.py          # Number verification, authority resolution
 │   └── claim_predictor.py # Rule-based rejection predictor
+├── observability/
+│   └── trace.py           # Redacted JSONL traces and summary
+├── eval/                  # Gold set, judge, miners, prompt comparison
+├── tests/                 # Unit tests (no heavy model deps)
 ├── scrapers/              # Insurer-specific scrapers
-├── api/                   # FastAPI backend
+├── api/                   # FastAPI backend with token-bucket rate limit
 ├── ui/                    # Streamlit frontend
+├── Dockerfile             # API image
+├── docker-compose.yml     # API + UI
 └── config.py              # Central configuration
 ```
 
@@ -185,6 +242,9 @@ BeemaSathi/
 - [x] RAG pipeline with local LLM
 - [x] Claim rejection predictor
 - [x] Safety/alignment guardrails
+- [x] Hybrid retrieval with evidence verification
+- [x] Agentic routing, redacted traces, rate limiting
+- [x] Docker, CI, and a red-team evaluation suite
 - [ ] Hospital cashless network validator
 - [ ] Policy PDF upload + "Gotcha Scanner"
 - [ ] Ombudsman complaint drafter

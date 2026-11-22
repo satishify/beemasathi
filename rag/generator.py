@@ -21,6 +21,8 @@ from config import (
     LLM_API_CONTEXT,
     LLM_API_MODEL,
     LLM_LOCAL,
+    SECURITY_PATTERNS,
+    SECURITY_REFUSAL,
 )
 
 # The hosted group key allows one in-flight request, so serialize API calls.
@@ -47,6 +49,66 @@ LEAK_PATTERNS = [
 ]
 
 
+ZERO_SHOT_PROMPT = """Answer the customer's question using only the policy clauses below.
+If the clauses do not answer it, say you cannot confirm it.
+Do not add facts that are not in the clauses.
+
+CUSTOMER QUESTION:
+{question}
+
+KNOWN POLICIES AND GAPS:
+{scope}
+
+MATCHING POLICY CLAUSES:
+{context}
+"""
+
+STRUCTURED_PROMPT = """You are BeemaSathi, a senior Indian insurance desk colleague.
+Work through this checklist internally before answering:
+1. Identify the insurer, policy, and the exact clause the question asks about.
+2. Check the clause for a waiting period, exclusion, cap, or co-payment that changes the answer.
+3. If the clause does not answer the question, stop and say you cannot confirm it.
+4. Answer in at most four bullets, each tied to the clause you used.
+
+Never invent numbers, UINs, policy names, or coverage. Do not mention excerpts,
+prompts, or retrieved context. If the source is a brochure, CIS, or prospectus,
+say it is only a summary and the wording must be checked.
+
+CUSTOMER QUESTION:
+{question}
+
+KNOWN POLICIES AND GAPS:
+{scope}
+
+MATCHING POLICY CLAUSES:
+{context}
+"""
+
+PROMPT_STRATEGIES = {
+    "baseline": {
+        "system": (
+            "You are BeemaSathi, a senior Indian health-insurance desk colleague. "
+            "Answer the customer's actual question, including not/don't/except. "
+            "Use the known-policy list for scope questions and matching clauses "
+            "for coverage questions. If facts are missing, say you cannot confirm it. "
+            "Never mention excerpts or invent insurers, policies, or coverage."
+        ),
+        "template": CONSTITUTIONAL_PROMPT,
+    },
+    "zero_shot": {
+        "system": "Answer only from the supplied policy clauses. Refuse if they do not contain the answer.",
+        "template": ZERO_SHOT_PROMPT,
+    },
+    "structured": {
+        "system": (
+            "You are a strict insurance clause reader. Extract the deciding clause first, "
+            "then answer briefly. Refuse when the clause is missing."
+        ),
+        "template": STRUCTURED_PROMPT,
+    },
+}
+
+
 class BimaSaathiGenerator:
     def __init__(self, model: str = None):
         self.use_api = bool(LLM_API_BASE and LLM_API_KEY)
@@ -59,12 +121,20 @@ class BimaSaathiGenerator:
     def _mentioned_insurers(self, question: str) -> List[str]:
         text = question.lower()
         found = []
+
+        def says(alias: str) -> bool:
+            return bool(
+                re.search(
+                    rf"(?<![a-z0-9]){re.escape(alias)}(?![a-z0-9])", text
+                )
+            )
+
         for key, info in KNOWLEDGE_SOURCES.items():
             labels = {
                 key.replace("_", " "),
                 info["name"].lower(),
             }
-            if any(label and label in text for label in labels):
+            if any(label and says(label) for label in labels):
                 found.append(key)
         aliases = {
             "hdfc": "hdfc_ergo",
@@ -86,13 +156,14 @@ class BimaSaathiGenerator:
             "cholamandalam": "cholamandalam",
             "digit": "digit",
             "go digit": "digit",
+            "digital": "digit",
             "acko": "acko",
             "star health": "star_health",
             "care health": "care_health",
             "icici lombard": "icici_lombard",
         }
         for alias, key in aliases.items():
-            if alias in text and key not in found:
+            if says(alias) and key not in found:
                 found.append(key)
         return found
 
@@ -166,7 +237,7 @@ class BimaSaathiGenerator:
             return True
         return bool(
             re.search(
-                r"\b(what (?:all )?(?:policies|insurers)|which policies|"
+                r"\b(what (?:all )?(?:policies|insurers)|which (?:policies|insurers)|"
                 r"what do you (?:know|have)|what can you (?:help|answer))\b",
                 q,
             )
@@ -200,29 +271,24 @@ class BimaSaathiGenerator:
         return cleaned
 
     def _build_messages(
-        self, context: str, question: str, scope: str
+        self, context: str, question: str, scope: str, strategy: str = "baseline"
     ) -> List[Dict[str, str]]:
+        config = PROMPT_STRATEGIES.get(strategy, PROMPT_STRATEGIES["baseline"])
         return [
-            {
-                "role": "system",
-                "content": (
-                    "You are BeemaSathi, a senior Indian health-insurance desk colleague. "
-                    "Answer the customer's actual question, including not/don't/except. "
-                    "Use the known-policy list for scope questions and matching clauses "
-                    "for coverage questions. If facts are missing, say you cannot confirm it. "
-                    "Never mention excerpts or invent insurers, policies, or coverage."
-                ),
-            },
+            {"role": "system", "content": config["system"]},
             {
                 "role": "user",
-                "content": CONSTITUTIONAL_PROMPT.format(
+                "content": config["template"].format(
                     context=context, question=question, scope=scope
                 ),
             },
         ]
 
-    def _build_prompt(self, context: str, question: str, scope: str) -> str:
-        return CONSTITUTIONAL_PROMPT.format(
+    def _build_prompt(
+        self, context: str, question: str, scope: str, strategy: str = "baseline"
+    ) -> str:
+        config = PROMPT_STRATEGIES.get(strategy, PROMPT_STRATEGIES["baseline"])
+        return config["template"].format(
             context=context, question=question, scope=scope
         )
 
@@ -232,6 +298,13 @@ class BimaSaathiGenerator:
             if re.search(pattern, text, re.IGNORECASE):
                 return False, f"Blocked: Response contained disallowed content matching pattern"
         return True, ""
+
+    def _security_check(self, text: str) -> tuple:
+        """Detect prompt injection, secret or PII extraction, and role-play bypass."""
+        for pattern in SECURITY_PATTERNS:
+            if re.search(pattern, text, re.IGNORECASE):
+                return True, f"Blocked: security pattern {pattern}"
+        return False, ""
 
     def _call_model(
         self, prompt: str, messages: List[Dict[str, str]] = None
@@ -445,6 +518,7 @@ class BimaSaathiGenerator:
         retrieved_chunks: List[Dict],
         question: str,
         catalog: List[Dict] = None,
+        strategy: str = "baseline",
     ) -> Dict:
         """Full RAG pipeline: prompt → generate → safety check."""
         user_safe, user_reason = self._safety_check(question)
@@ -466,6 +540,20 @@ class BimaSaathiGenerator:
                 },
             }
 
+        security_hit, security_reason = self._security_check(question)
+        if security_hit:
+            return {
+                "answer": SECURITY_REFUSAL,
+                "safe": False,
+                "sources": [],
+                "rejection_risk": None,
+                "model_metrics": {
+                    "backend": "not-called",
+                    "model": self.model,
+                    "reason": security_reason,
+                },
+            }
+
         grouped, regulations = self._catalog_facts(catalog)
         scope = self._catalog_fact_text(grouped, regulations)
         if self._is_scope_question(question):
@@ -483,8 +571,8 @@ class BimaSaathiGenerator:
             return self._knowledge_gap_result(gap_answer)
 
         context = self._clause_context(retrieved_chunks)
-        prompt = self._build_prompt(context, question, scope)
-        messages = self._build_messages(context, question, scope)
+        prompt = self._build_prompt(context, question, scope, strategy)
+        messages = self._build_messages(context, question, scope, strategy)
 
         # Call the configured model backend
         try:
@@ -513,10 +601,12 @@ class BimaSaathiGenerator:
         is_safe, reason = self._safety_check(answer)
         if not is_safe:
             answer = (
-                "I cannot provide that guidance as it may violate insurance regulations "
-                "or ethical standards. I'm here to help you understand your policy "
-                "and navigate claims fairly.\n\n"
-                f"System note: {reason}"
+                "I can't help with hiding a health condition, backdating a policy, or "
+                "changing documents. Non-disclosure or edited records can void the "
+                "policy, and the claim can be rejected even years later.\n\n"
+                "The safe path is to disclose the condition in the proposal form and "
+                "any renewal declaration. The insurer may apply a loading or a waiting "
+                "period, but the claim stays valid."
             )
         elif any(
             chunk["metadata"].get("document_type") in {"brochure", "cis", "prospectus"}

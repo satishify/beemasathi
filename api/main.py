@@ -1,36 +1,62 @@
 """FastAPI backend for BeemaSathi."""
 
+import os
 import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel
+from fastapi import FastAPI, HTTPException, Request
+from fastapi.responses import JSONResponse
+from pydantic import BaseModel, Field
 from typing import List, Optional, Dict
 
+from api.rate_limit import TokenBucketLimiter
 from config import INSURERS
-from rag.retriever import PolicyRetriever
-from rag.generator import BimaSaathiGenerator
 from agents.claim_predictor import ClaimPredictor
+from agents.orchestrator import BeemaSathiOrchestrator
 
-app = FastAPI(title="BeemaSathi API", version="0.1.0")
+app = FastAPI(title="BeemaSathi API", version="0.2.0")
 
-# Singletons
-retriever = PolicyRetriever()
-generator = BimaSaathiGenerator()
-predictor = ClaimPredictor()
+LIMITER = TokenBucketLimiter(
+    rate_per_minute=int(os.getenv("BEEMASATHI_RATE_LIMIT", "30")),
+    burst=int(os.getenv("BEEMASATHI_RATE_BURST", "10")),
+)
+
+
+@app.middleware("http")
+async def rate_limit(request: Request, call_next):
+    if request.url.path in {"/", "/health"}:
+        return await call_next(request)
+    client = request.client.host if request.client else "anonymous"
+    allowed, retry_after = LIMITER.check(client)
+    if not allowed:
+        return JSONResponse(
+            status_code=429,
+            content={"detail": "Rate limit exceeded. Retry shortly."},
+            headers={"Retry-After": str(retry_after)},
+        )
+    return await call_next(request)
+
+orchestrator = BeemaSathiOrchestrator()
+retriever = orchestrator.retriever
+generator = orchestrator.generator
+predictor = orchestrator.predictor
 
 
 class QueryRequest(BaseModel):
-    question: str
+    question: str = Field(min_length=2, max_length=2000)
     insurer: Optional[str] = None
     policy_name: Optional[str] = None
+    strategy: Optional[str] = "baseline"
+    claim: Optional[Dict] = None
 
 
 class QueryResponse(BaseModel):
     answer: str
     safe: bool
     sources: List[Dict]
+    plan: Optional[Dict] = None
+    verification: Optional[Dict] = None
 
 
 class ClaimPredictRequest(BaseModel):
@@ -48,7 +74,7 @@ class ClaimPredictRequest(BaseModel):
 
 @app.get("/")
 def root():
-    return {"message": "BeemaSathi API is running", "version": "0.1.0"}
+    return {"message": "BeemaSathi API is running", "version": "0.2.0"}
 
 
 @app.get("/insurers")
@@ -58,26 +84,31 @@ def list_insurers():
 
 @app.post("/ask", response_model=QueryResponse)
 def ask_question(req: QueryRequest):
-    """RAG-based Q&A on policy documents."""
+    """Agentic RAG: plan, retrieve, answer, verify."""
     try:
-        chunks = retriever.retrieve(
-            query=req.question,
+        result = orchestrator.answer(
+            question=req.question,
             insurer=req.insurer,
             policy_name=req.policy_name,
-            n_results=8
-        )
-        result = generator.generate(
-            chunks,
-            req.question,
-            catalog=retriever.store.get_catalog(),
+            strategy=req.strategy or "baseline",
+            claim=req.claim,
         )
         return QueryResponse(
             answer=result["answer"],
             safe=result["safe"],
-            sources=result["sources"]
+            sources=result["sources"],
+            plan=result.get("plan"),
+            verification=result.get("verification"),
         )
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/plan")
+def plan_question(req: QueryRequest):
+    """Return the typed task plan without calling the model."""
+    plan = orchestrator.route(req.question, req.insurer, req.policy_name)
+    return plan.as_dict()
 
 
 @app.post("/predict")

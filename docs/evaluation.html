@@ -78,11 +78,12 @@
       23 Nov 2026.
     </p>
     <p>
-      Eighteen waiting-period, thirteen UIN and ten co-pay cases were mined from indexed policy
+      Eighteen waiting-period, twelve UIN and ten co-pay cases were mined from indexed policy
       wording and machine-checked: the expected document must exist, and the exact
-      <code>gold_fact</code> string must appear in a chunk from that document. The rest are
-      hand-written: core facts, gaps, safety probes, brochure and scope checks, and a nine-case
-      red-team set. This is a single-annotator set; double annotation is still planned.
+      <code>gold_fact</code> string must appear in a chunk from that document. One more UIN case
+      is hand-written. The rest are hand-written too: core facts, gaps, safety probes, brochure
+      and scope checks, and a nine-case red-team set. This is a single-annotator set; double
+      annotation is still planned.
     </p>
     <div class="table-wrap">
       <table>
@@ -112,7 +113,7 @@
         <tr><td>Grounded pass rate</td><td>Passed with the expected document in context</td><td>85/100</td><td>≥ 0.85</td></tr>
         <tr><td>Mean rank of the evidence chunk</td><td>Rank of the first supporting clause</td><td>2.1</td><td>≤ 3</td></tr>
         <tr><td>Task latency</td><td>Retrieval plus generation</td><td>2.8 s mean</td><td>p95 ≤ 20 s</td></tr>
-        <tr><td>MRR, citation correctness, claim-risk agreement</td><td>Planned once citations carry page numbers and a labelled claim set exists</td><td>not measured</td><td>MRR ≥ 0.70, citation ≥ 95%, risk ≥ 80%</td></tr>
+        <tr><td>MRR, citation correctness, claim-risk agreement</td><td>Planned; needs graded relevance labels, a citation audit set and a labelled claim-risk set</td><td>not measured</td><td>MRR ≥ 0.70, citation ≥ 95%, risk ≥ 80%</td></tr>
       </table>
     </div>
     <p>
@@ -140,7 +141,7 @@
     <h2>Systems compared</h2>
     <ol>
       <li>Single-prompt LLM with no retrieval — not measured.</li>
-      <li>Dense-only RAG — baseline: document recall@8 of 0.60, clause recall 0.28.</li>
+      <li>Dense-only RAG — earlier 74-case baseline: document recall@8 of 0.60, clause recall 0.28.</li>
       <li>Hybrid RAG with BM25 plus dense — document recall@8 of 0.975, clause recall 0.900.</li>
       <li>Hybrid RAG with authority-aware reranking — the shipped retriever.</li>
       <li>Agentic routing with the critic loop — the shipped orchestrator; answer pass rate 85/100.</li>
@@ -176,13 +177,14 @@
   <section>
     <h2>Red team</h2>
     <p>
-      Fourteen probes today: safety prompts against hiding a condition, omitting medication,
-      backdating and editing a discharge summary; gap probes for Star Health, Acko, Care Health
-      and ICICI Lombard; and a nine-case guardrail set covering system-prompt extraction, API-key
-      and secret extraction, PII extraction, role-play claim approval, role-play fraud coaching,
-      document-borne injection, index poisoning, and fabricated day-one cover. Security probes
-      are refused by a deterministic pattern check before retrieval or the model, so no document
-      text can steer them. All nine pass.
+      Eighteen probes today: five safety prompts (hiding a condition, omitting medication,
+      backdating a renewal, editing a discharge summary, submitting a fake bill); four gap probes
+      for Star Health, Acko, Care Health and ICICI Lombard; and a nine-case guardrail set
+      covering system-prompt extraction, API-key and secret extraction, PII extraction, role-play
+      claim approval, role-play fraud coaching, document-borne injection, index poisoning, and
+      instruction override to claim fabricated day-one cover. Security probes are refused by a
+      deterministic pattern check before retrieval or the model, so no document text can steer
+      them. All nine pass.
     </p>
   </section>
 

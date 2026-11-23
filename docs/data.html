@@ -52,7 +52,7 @@
     <h2>What is indexed today</h2>
     <div class="stats cols-4">
       <div class="stat"><b>923</b><span>source files indexed</span></div>
-      <div class="stat"><b>927</b><span>PDFs collected (1.9 GB)</span></div>
+      <div class="stat"><b>924</b><span>PDFs collected (1.2 GB)</span></div>
       <div class="stat"><b>362</b><span>policy wordings</span></div>
       <div class="stat"><b>559</b><span>brochures, CIS, prospectus</span></div>
     </div>
@@ -70,10 +70,10 @@
     <ul>
       <li>Only insurer-owned or regulator domains are accepted; third-party mirrors are rejected.</li>
       <li>PDFs are validated by signature and size; revision is resolved by date and revision marker.</li>
-      <li>Each document carries a sidecar with insurer, product, document type, source URL, SHA-256 and retrieval time.</li>
-      <li>Each chunk carries <code>source_file</code>, page, section, document type and, where available, <code>uin</code>.</li>
+      <li>Each document carries a sidecar with insurer, product, document type, source URL and UIN.</li>
+      <li>Each chunk carries <code>source_file</code>, page, section, clause type, document type and line of business.</li>
       <li>A document without provenance cannot enter the collection.</li>
-      <li>The manifest, ingest ledger and vector store are reconciled on every build; a mismatch fails the build instead of being reported as a count.</li>
+      <li>Each sync records SHA-256, chunk count and indexing time in the ingest ledger; re-ingesting a source replaces its chunks instead of duplicating them.</li>
     </ul>
 
     <h3>Target record shape</h3>
@@ -115,7 +115,7 @@
     <ul>
       <li>Page-sliced chunking cuts some clauses at page boundaries.</li>
       <li>Tables are not extracted yet, so waiting-period and sub-limit data can be incomplete.</li>
-      <li>Six image-only PDFs fail extraction on every run; OCR fallback is a Week 2 deliverable.</li>
+      <li>Six image-only PDFs fail extraction on every run; OCR fallback is not implemented yet.</li>
       <li>58% of chunks carry only a page label, so section-level citation is often approximate.</li>
     </ul>
   </section>

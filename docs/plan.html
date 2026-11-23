@@ -43,8 +43,8 @@
         <tr><th>Week</th><th>Workstream</th><th>Gate</th></tr>
         <tr>
           <td><b>1</b></td>
-          <td>Corpus integrity and evaluation freeze: content-addressed document IDs and reindex, demo data purged, document-type mapping fixed, catalogue reconciled, IRDAI scan root added, frozen 80-question set with gold notes, baselines measured.</td>
-          <td><b>G1</b> — zero chunks without provenance, zero collisions, catalogue equals vector store, 80 questions versioned.</td>
+          <td>Corpus integrity and evaluation freeze: content-addressed document IDs and reindex, demo data purged, document-type mapping fixed, catalogue reconciled, IRDAI scan root added, frozen 100-question set with gold notes, baselines measured.</td>
+          <td><b>G1</b> — zero chunks without provenance, zero collisions, catalogue equals vector store, 100 questions versioned.</td>
         </tr>
         <tr>
           <td><b>2</b></td>
@@ -70,7 +70,7 @@
     <div class="table-wrap">
       <table>
         <tr><th>Member</th><th>Responsibility</th></tr>
-        <tr><td>1</td><td>Domain specification, insurance SME liaison, 80-question gold set, annotation and adjudication</td></tr>
+        <tr><td>1</td><td>Domain specification, insurance SME liaison, 100-question gold set, annotation and adjudication</td></tr>
         <tr><td>2</td><td>Prompting strategy, critic design, safety guardrails, red-team and responsible-AI report</td></tr>
         <tr><td>3</td><td>Data acquisition and normalization, hybrid index, chunking, reranking, retrieval evaluation</td></tr>
         <tr><td>4</td><td>Agent orchestration, tool schemas, persistent state, retries, tracing, claim-risk integration</td></tr>
@@ -91,7 +91,7 @@
         <tr><td>Brochure text contaminates coverage answers</td><td>Authority-aware reranking, wording-first policy, brochure share measured in evaluation</td></tr>
         <tr><td>Hallucinated coverage or UIN</td><td>Refusal-first prompt, critic entailment check, citation-required answers, UIN verified against metadata</td></tr>
         <tr><td>LLM judge is generous or biased</td><td>Different judge model, rules override the judge, 20% human audit, disagreement reported</td></tr>
-        <tr><td>Prompt injection through uploaded PDFs</td><td>Delimited untrusted content, injection scan, critic check, 15-attack red-team suite</td></tr>
+        <tr><td>Prompt injection through uploaded PDFs</td><td>Delimited untrusted content, injection scan, critic check, nine implemented attack probes with a fifteen-case target</td></tr>
         <tr><td>Scope creep into legal or claim adjudication</td><td>Explicit non-goals, informational-only framing, human verification, no claim filing</td></tr>
       </table>
     </div>
@@ -104,7 +104,7 @@
       <li>Reproducible repository with pinned dependencies, tests and a one-command local start.</li>
       <li>Documented knowledge base with a manifest, SHA-256 hashes, UIN mapping, revision dates and review sign-off.</li>
       <li>Agent execution and tracing dashboard showing plans, tool calls, evidence, verdicts, tokens and latency.</li>
-      <li>Evaluation report: 80 frozen questions, five systems, four ablations, a failure taxonomy.</li>
+      <li>Evaluation report: 100 frozen questions, five systems, four ablations, a failure taxonomy.</li>
       <li>Responsible-AI and prompt-injection testing report.</li>
       <li>Twelve-page technical report and a ten-minute demonstration.</li>
     </ul>
@@ -120,7 +120,7 @@
       <li>A claim scenario returns per-rule findings linked to clauses, or explicitly labelled defaults, and never gives unsafe advice.</li>
       <li>A poisoned uploaded PDF cannot change system behaviour.</li>
       <li>The trace dashboard reproduces every step of a demo answer.</li>
-      <li>The evaluation report shows the frozen 80-question results, baselines, ablations and failure distribution.</li>
+      <li>The evaluation report shows the frozen 100-question results, baselines, ablations and failure distribution.</li>
     </ol>
   </section>
 

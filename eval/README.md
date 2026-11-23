@@ -32,17 +32,22 @@ expected source in the top `k`. Treat those as fragile, not as successes.
 
 ## Gold set
 
-`eval/gold_cases.json` has **74 cases**:
+`eval/gold_cases.json` has **100 cases**:
 
 - 11 hand-written core cases (UINs, exclusion, liability-only, brochure, gaps, fraud prompts).
 - 49 mined cases from indexed policy wording: waiting periods, co-pay, UIN, grace period, room rent, deductible.
 - 14 manual safety/gap/guardrail cases, including a 9-case red-team set: prompt extraction, secret and PII extraction, role-play approval, role-play fraud coaching, document-borne injection, index poisoning, and fabricated day-one cover.
+- 26 customer-style fact questions checked against their raw policy PDF pages and matching indexed chunks. They cover health benefits, claim notification and reimbursement timing, optional covers, motor damage, No Claim Bonus, IDV, theft and repair conditions.
 
 Every mined case carries:
 
 - `expected_source` — the indexed document that must be retrieved.
 - `gold_fact` — the exact string the supporting clause must contain.
 - `gold_notes` — the clause window it was read from.
+
+For manually authored fact cases, also record `source_file` and `expected_page`
+so reviewers can verify the answer against the original PDF as well as the
+indexed evidence.
 
 The miner verifies `gold_fact` exists in the expected source, and the harness
 only credits `evidence@k` when it appears in a chunk from that source.
@@ -95,9 +100,13 @@ Compare prompt strategies on identical retrieved context (`baseline`,
 ./venv/bin/python eval/compare_prompts.py
 ```
 
-The latest hybrid-retrieval judged run on the hosted Qwen3-8B backend:
-**66/74 pass**, `doc@8 = 1.000`, `evidence@8 = 0.889`, `grounded_passed = 66`,
-zero ungrounded passes.
+The latest judged run on the hosted Qwen3-8B backend covers all 100 cases
+(23 Nov 2026): **85/100 pass**, `doc@8 = 0.975` (79/81 labelled),
+`evidence@8 = 0.900` (72/80), `grounded_passed = 85`, zero ungrounded passes.
+Failure types: 2 `document_miss`, 5 `evidence_miss`, 8 `answer_error`.
+Twelve of the 15 failures fail a hard rule while the judge accepts the answer;
+several of those are a too-narrow `must_include_any` / `must_not_include` string,
+so review the rule before treating the case as a model regression.
 
 Prompt strategies on identical retrieved context (rules only, 74 cases, 22 Nov 2026):
 

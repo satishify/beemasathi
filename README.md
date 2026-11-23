@@ -180,10 +180,11 @@ and no developer information is added to the chat history.
 
 ## Evaluation and Safety
 
-`eval/gold_cases.json` holds 74 cases: mined facts from the corpus (waiting
-periods, co-pay, room rent, deductible, grace, UIN), hand-written brochure and
-safety cases, and a 9-case red-team set (prompt extraction, secret/PII extraction,
-role-play, document-borne injection, index poisoning).
+`eval/gold_cases.json` holds 100 cases: 74 existing tests plus 26 customer-style
+questions grounded in the corresponding raw policy PDFs and indexed chunks.
+The additions cover health benefits, claim timing, optional covers, motor damage,
+No Claim Bonus, IDV and theft/repair conditions. The set also includes brochure,
+safety, knowledge-gap and red-team cases.
 
 ```bash
 python eval/judge.py                # retrieval + answer + judge, writes eval/reports/
@@ -192,10 +193,12 @@ python eval/compare_prompts.py      # baseline vs zero_shot vs structured
 python eval/mine_gold_cases.py      # reproducible miner for new fact cases
 ```
 
-Judged run on the hosted Qwen3-8B backend: **66/74 pass**, doc recall@8 = 1.000,
-supporting-clause recall@8 = 0.889, zero answers that were right without the
-expected source. Hybrid retrieval raised document recall from 0.60 to 1.00, and
-all nine red-team prompts are refused before the model is called.
+The full 100-case judged run on the hosted Qwen3-8B backend (23 Nov 2026) scores
+**85/100 pass**, doc recall@8 = 0.975 (79/81 labelled), supporting-clause recall@8
+= 0.900 (72/80), and zero answers that were right without the expected source.
+Twelve of the 15 failures trip a hard rule while the judge accepts the answer, so
+the count is conservative. Hybrid retrieval raised document recall from 0.60 to
+0.975, and all nine red-team prompts are refused before the model is called.
 
 Guardrails run before the model: banned fraud advice and the security patterns in
 `config.py` return a fixed refusal without an LLM call, so prompt injection and

@@ -9,7 +9,7 @@ def _cases():
 
 
 def test_gold_set_is_large_enough():
-    assert len(_cases()) >= 70
+    assert len(_cases()) == 100
 
 
 def test_ids_are_unique_and_questions_present():

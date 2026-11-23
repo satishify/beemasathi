@@ -289,6 +289,13 @@ class PolicyRetriever:
                     word in self._normalize(name).split() for word in required
                 )
             ]
+            if hits and "group" not in tokens:
+                # "Arogya Sanjeevani" means the retail plan; the group variant
+                # is a different product and is only matched when asked for.
+                individual = [
+                    name for name in hits if "group" not in self._normalize(name).split()
+                ]
+                hits = individual or hits
             if hits:
                 return min(hits, key=len)
         return None

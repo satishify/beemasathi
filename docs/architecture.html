@@ -39,13 +39,13 @@
 
   <section>
     <h2>Shipped architecture</h2>
-    <p>What runs today, measured on the local corpus (22 Nov 2026).</p>
+    <p>What runs today, measured on the local corpus (23 Nov 2026, hosted embeddings verified).</p>
     <div class="table-wrap">
       <table>
         <tr><th>Layer</th><th>Implementation</th></tr>
         <tr><td>Collection</td><td>Official-domain crawler, robots fail-closed, SHA-256 manifest, sidecar metadata per document</td></tr>
         <tr><td>Index</td><td>ChromaDB, cosine distance, 45,844 chunks from 923 source files; pure-Python Okapi BM25 over the same chunks</td></tr>
-        <tr><td>Embeddings</td><td>BGE-small-en-v1.5 (384 dimensions), local or hosted</td></tr>
+        <tr><td>Embeddings</td><td>BGE-small-en-v1.5 (384 dimensions) through a hosted OpenAI-compatible <code>/embeddings</code> endpoint, or the local sentence-transformers model</td></tr>
         <tr><td>Retrieval</td><td>Dense + BM25 + typed searches fused with reciprocal-rank fusion, authority weights, policy-name detection</td></tr>
         <tr><td>Agent layer</td><td>Intent router with typed plans, per-insurer fan-out for comparisons, authority resolver, number/UIN critic with one structured retry</td></tr>
         <tr><td>Generation</td><td>Qwen3-8B via OpenAI-compatible API, or qwen2.5:7b via local Ollama; baseline, zero-shot and structured prompts</td></tr>
@@ -60,6 +60,197 @@
     <div class="diagram">
       <img src="assets/pipeline_diagram.svg" alt="Current ingestion and retrieval pipeline">
       <p class="caption">Current pipeline: crawl, parse, chunk, embed, retrieve, generate.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Pipeline: stage-by-stage method map</h2>
+    <p>
+      Each stage names the module that runs it, the technique it applies, and the exact
+      method or HTTP call in the code. Build-time stages run when documents are ingested;
+      query-time stages run on every question.
+    </p>
+
+    <h3>Build time: documents to index</h3>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Stage</th><th>Technique</th><th>Method / endpoint</th></tr>
+        <tr>
+          <td><b>Discover</b><br><code>scrapers/hybrid_scraper.py</code></td>
+          <td>Bounded crawl of insurer-owned hosts (third-party hosts need an explicit flag); robots fail-closed; the newest revision wins per policy; files are saved for review and never auto-ingested</td>
+          <td><code>requests.get()</code><br><code>RobotFileParser.can_fetch()</code><br><code>BeautifulSoup</code><br><code>ThreadPoolExecutor</code><br>SHA-256 <code>manifest.json</code></td>
+        </tr>
+        <tr>
+          <td><b>Extract</b><br><code>rag/ingest_pdf.py</code></td>
+          <td>Page-level PDF text with null bytes, repeated headings and navigation labels stripped; one-based page numbers kept for citations</td>
+          <td><code>pdfplumber.open()</code><br><code>page.extract_text()</code><br><code>_clean_page_text()</code></td>
+        </tr>
+        <tr>
+          <td><b>Chunk</b><br><code>rag/ingest_pdf.py</code></td>
+          <td>Bounded 1,600-character windows inside one page, two trailing lines of overlap, fragments under 80 characters dropped; section label taken from known headings</td>
+          <td><code>_split_page(max_chars=1600)</code><br><code>build_pdf_chunks()</code><br><code>_section_for_page()</code></td>
+        </tr>
+        <tr>
+          <td><b>Label</b><br><code>rag/chunker.py</code></td>
+          <td>Keyword rules assign one of 11 clause types: room rent, waiting period, co-pay, exclusion, cashless, claim process, coverage, renewal, premium, maternity, day care</td>
+          <td><code>infer_chunk_type()</code> →<br><code>classify_chunk_type()</code></td>
+        </tr>
+        <tr>
+          <td><b>Embed</b><br><code>rag/embeddings.py</code></td>
+          <td>OpenAI-compatible embedding calls, 16 texts per request, retried on capacity errors, vectors L2-normalized before storage and search</td>
+          <td><code>POST {BEEMASATHI_EMBED_BASE}/embeddings</code><br>via <code>requests.Session.post()</code><br>Bearer key from a gitignored file<br>Local fallback: <code>SentenceTransformerEmbeddingFunction("BAAI/bge-small-en-v1.5")</code></td>
+        </tr>
+        <tr>
+          <td><b>Store</b><br><code>rag/embedder.py</code></td>
+          <td>Cosine HNSW collection; a re-ingest replaces exactly one source instead of duplicating it</td>
+          <td><code>chromadb.PersistentClient(path="./data/chroma_db")</code><br><code>get_or_create_collection(name="policy_clauses", metadata={"hnsw:space":"cosine"})</code><br><code>collection.upsert()</code><br><code>collection.delete(where={"source": …})</code></td>
+        </tr>
+        <tr>
+          <td><b>Lexical index</b><br><code>rag/bm25.py</code></td>
+          <td>Okapi BM25 over the same chunks, rebuilt from <code>data/chunks/*.json</code> so it survives a Chroma rebuild; insurer, policy name and document type are indexed as a header</td>
+          <td><code>BM25Index</code> with <code>k1=1.5</code>, <code>b=0.75</code><br><code>tokenize()</code><br>Postings lists plus a metadata filter mask</td>
+        </tr>
+        <tr>
+          <td><b>Ledger</b><br><code>rag/sync_knowledge.py</code></td>
+          <td>SHA-256 change detection, dry-run planning, sidecar metadata, filename and folder inference for insurer, policy and document type</td>
+          <td><code>sync_knowledge(force, dry_run)</code><br><code>infer_metadata()</code><br><code>data/chunks/ingest_index.json</code></td>
+        </tr>
+      </table>
+    </div>
+
+    <h3>Query time: question to answer</h3>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Stage</th><th>Technique</th><th>Method / endpoint</th></tr>
+        <tr>
+          <td><b>Guard &amp; route</b><br><code>agents/router.py</code></td>
+          <td>Regex intent classification into a typed plan: intent, insurers, policies, line of business, vehicle class, list limit and ordered steps</td>
+          <td><code>IntentRouter.route()</code><br><code>find_insurers()</code>, <code>find_policies()</code><br><code>detect_line()</code><br><code>_is_listing_question()</code><br><code>match_policy()</code></td>
+        </tr>
+        <tr>
+          <td><b>Retrieve</b><br><code>rag/retriever.py</code></td>
+          <td>Hybrid dense plus BM25 retrieval, typed clause probes, reciprocal-rank fusion, line preference, authority-aware rerank</td>
+          <td><code>PolicyRetriever.retrieve()</code><br><code>_fuse()</code> (RRF, <code>k=60</code>)<br><code>_dedupe()</code>, <code>_prefer_line()</code><br><code>_rerank()</code></td>
+        </tr>
+        <tr>
+          <td><b>Resolve authority</b><br><code>agents/critic.py</code></td>
+          <td>Drop brochure, CIS or prospectus chunks when binding wording for the same policy is present in the result set</td>
+          <td><code>resolve_authority(chunks, prefer_brochure)</code></td>
+        </tr>
+        <tr>
+          <td><b>Generate</b><br><code>rag/generator.py</code></td>
+          <td>Grounded prompt built from numbered clauses, three prompt strategies, pre-model safety and security checks, leak scrub after the model</td>
+          <td><code>generate()</code>, <code>_select_chunks()</code><br><code>_clause_context()</code><br><code>_call_api()</code> → <code>POST {BEEMASATHI_LLM_BASE}/chat/completions</code><br><code>_call_local()</code> → <code>ollama.chat()</code></td>
+        </tr>
+        <tr>
+          <td><b>Verify</b><br><code>agents/critic.py</code></td>
+          <td>Every number, unit and UIN in the answer must appear in the retrieved clauses; one structured retry, then an explicit unverified note</td>
+          <td><code>verify_answer()</code><br><code>strip_unbacked_family_limits()</code><br>orchestrator <code>_verify()</code></td>
+        </tr>
+        <tr>
+          <td><b>Orchestrate</b><br><code>agents/orchestrator.py</code></td>
+          <td>Intent branches with bounded work: scope, recommendation, line catalogue, claim risk, per-insurer comparison fan-out, coverage path</td>
+          <td><code>BeemaSathiOrchestrator.answer()</code><br><code>_answer()</code>, <code>_compare()</code><br><code>_catalog_list()</code>, <code>_recommend()</code><br><code>_claim_answer()</code></td>
+        </tr>
+        <tr>
+          <td><b>Trace</b><br><code>observability/trace.py</code></td>
+          <td>Per-request JSONL record with hashed question, redacted preview, plan, sources, tokens and latency</td>
+          <td><code>Trace</code>, <code>redact()</code><br><code>record_result()</code><br><code>summarize()</code></td>
+        </tr>
+        <tr>
+          <td><b>Serve</b><br><code>api/main.py</code></td>
+          <td>REST endpoints over the orchestrator with a per-client token bucket</td>
+          <td><code>POST /ask</code>, <code>POST /plan</code><br><code>POST /predict</code><br><code>GET /insurers</code>, <code>GET /health</code><br><code>TokenBucketLimiter.check()</code></td>
+        </tr>
+      </table>
+    </div>
+
+    <h3>Retrieval, in the order it runs</h3>
+    <ol>
+      <li><b>Typed probe.</b> <code>_infer_chunk_type()</code> maps phrases such as “room rent” or “cashless” to a clause type before searching, so the typed pass can find a narrow clause that general search might bury.</li>
+      <li><b>Dense search.</b> <code>store.search()</code> calls <code>collection.query(query_embeddings=[…], n_results=max(3n, 24), where={"$and": [filters]}, include=["documents","metadatas","distances"])</code>. Filters combine insurer, policy name and chunk type only when they are set.</li>
+      <li><b>Lexical search.</b> The BM25 index scores the same query with the same filters, applying a precomputed boolean mask so excluded documents are never scored.</li>
+      <li><b>Typed search.</b> When a clause type was inferred, dense and lexical probes rerun with <code>chunk_type</code> fixed and a floor of eight results.</li>
+      <li><b>Fusion.</b> <code>_fuse()</code> adds <code>1 / (60 + rank)</code> for every list an item appears in, keeping the smallest cosine distance seen. Rank agreement beats a single strong hit.</li>
+      <li><b>Dedupe.</b> Items collapse on <code>(source, page, first 160 characters)</code> so the same clause quoted in two passes is scored once.</li>
+      <li><b>Fallback.</b> If filtered retrieval returns nothing, one unfiltered dense pass runs rather than returning an empty context.</li>
+      <li><b>Line preference.</b> When the question names a line and no insurer or policy is fixed, chunks from the other line are dropped if any matching-line chunks exist.</li>
+      <li><b>Rerank.</b> Final score = RRF relevance + <code>0.05 × authority</code> + line bonus <code>0.012</code> + policy-name bonus <code>0.02–0.03</code> + <code>0.002</code> per overlapping keyword. The question also reweights document types: asking for a brochure makes brochures authoritative for that query instead of the default ordering.</li>
+    </ol>
+
+    <div class="table-wrap">
+      <table>
+        <tr><th>Document type</th><th>Default authority</th><th>Why</th></tr>
+        <tr><td>Policy wording</td><td>1.0</td><td>Binding contract text</td></tr>
+        <tr><td>Endorsement</td><td>0.9</td><td>Contract amendment</td></tr>
+        <tr><td>CIS</td><td>0.6</td><td>Customer summary required by regulation</td></tr>
+        <tr><td>Prospectus</td><td>0.5</td><td>Product description, not the contract</td></tr>
+        <tr><td>IRDAI regulation</td><td>0.4</td><td>Legal framework, never proof of cover for one policy</td></tr>
+        <tr><td>Brochure</td><td>0.3</td><td>Marketing summary</td></tr>
+      </table>
+    </div>
+
+    <h3>Generation call</h3>
+    <ul>
+      <li><b>Context format.</b> <code>_clause_context()</code> numbers each clause as <code>[i] insurer | policy | section | document type | page</code> followed by the text, so the model can cite and the critic can check.</li>
+      <li><b>Evidence filter.</b> <code>_select_chunks()</code> keeps only the insurers actually named in the question, applies the policy hint, drops chunks with distance above <code>0.72</code>, and sends at most six clauses. No surviving clause means a knowledge-gap refusal without calling the model.</li>
+      <li><b>Prompt strategies.</b> <code>baseline</code> uses the constitutional prompt, <code>zero_shot</code> uses a minimal ground-only template, and <code>structured</code> adds a four-step clause checklist. The verifier retries with <code>structured</code> once.</li>
+      <li><b>Hosted call.</b> <code>_call_api()</code> posts <code>{model, messages, temperature: 0.4, max_tokens}</code> to <code>{BEEMASATHI_LLM_BASE}/chat/completions</code> with a Bearer header, a custom CA bundle and <code>trust_env=False</code>. Output tokens are bounded by <code>max(256, min(1024, 8192 − estimated_prompt − 64))</code>. Requests serialize behind a lock, retry on 429/503 with 2/4/8-second delays, raise a clear message on 401, and strip <code>&lt;think&gt;</code> blocks before returning content plus usage metrics.</li>
+      <li><b>Local call.</b> The fallback is <code>ollama.chat(model="qwen2.5:7b", options={"temperature": 0.4, "num_ctx": 8192})</code>, with the <code>ollama run</code> CLI as a last resort.</li>
+      <li><b>Post-processing.</b> <code>_sanitize_answer()</code> rewrites or refuses leak phrases (“excerpts you provided”), and brochure or regulation sources get an explicit summary-limitation note.</li>
+    </ul>
+
+    <h3>Verification and repair</h3>
+    <ul>
+      <li><code>NUMBER_RE</code> collects percentages, months, years, days, lakh and crore amounts, and UIN-shaped tokens from both the answer and the retrieved clauses.</li>
+      <li><code>_canonical_fact()</code> normalizes units before comparison: years become months, “per cent” becomes <code>%</code>, so “3 years” matches “36 months”.</li>
+      <li>Any answer figure missing from the clauses lands in <code>unsupported</code>; the orchestrator retries once with the structured prompt, and if the figure still fails, appends a note naming it.</li>
+      <li><code>strip_unbacked_family_limits()</code> removes family-size claims the wording never states, such as “family of 4” echoed from the question.</li>
+      <li>Pre-model guards run first: banned fraud patterns return a refusal, and security patterns for prompt, secret or PII extraction return a fixed refusal, so no untrusted text reaches retrieval or the model.</li>
+    </ul>
+
+    <h3>External calls at a glance</h3>
+    <div class="table-wrap">
+      <table>
+        <tr><th>Call</th><th>Direction</th><th>Payload</th><th>Failure handling</th></tr>
+        <tr><td><code>POST /embeddings</code></td><td>Hosted embedding API, or local model when unset</td><td><code>{model, input[]}</code>, max 16 texts, 384 dimensions</td><td>Retry 2/4/8 s on 429 and 5xx; hard error on 401 and 4xx; vector-count check</td></tr>
+        <tr><td><code>POST /chat/completions</code></td><td>Hosted Qwen3-8B, or local Ollama</td><td>OpenAI chat messages, temperature 0.4, bounded max tokens</td><td>Retry on 429/503, explicit 401 message, one structured retry after a failed verification</td></tr>
+        <tr><td>Chroma queries</td><td>Local persistent store</td><td>Query vector, metadata filter, <code>n_results</code></td><td>Unfiltered fallback when a filtered search is empty</td></tr>
+        <tr><td>Ollama chat</td><td><code>127.0.0.1:11434</code></td><td>Chat messages, <code>num_ctx 8192</code></td><td>CLI fallback, then a user-facing error with the exact hint</td></tr>
+        <tr><td>REST and UI</td><td>FastAPI and Streamlit in-process</td><td>Question, insurer, policy, optional claim</td><td>Token bucket returns 429 with <code>Retry-After</code>; exceptions become HTTP 500</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>One question, end to end</h2>
+    <p>
+      What runs, in order, for a single coverage question, and what the trace records at
+      each point. Numbers in parentheses are the trace fields written to
+      <code>logs/traces/YYYY-MM-DD.jsonl</code>.
+    </p>
+    <div class="table-wrap">
+      <table>
+        <tr><th>#</th><th>What runs</th><th>Output</th><th>Trace record</th></tr>
+        <tr><td>1</td><td>Streamlit sends the question and sidebar filters to <code>orchestrator.answer()</code>, or FastAPI receives <code>POST /ask</code> after the rate-limit check</td><td>Question, insurer, policy, strategy</td><td><code>trace_id</code>, <code>question_hash</code>, <code>question_preview</code> (redacted)</td></tr>
+        <tr><td>2</td><td><code>IntentRouter.route()</code> classifies intent and builds the typed plan</td><td>Plan with steps such as retrieve → resolve_authority → generate → verify</td><td><code>intent</code>, <code>plan</code></td></tr>
+        <tr><td>3</td><td><code>PolicyRetriever.retrieve(n_results=8)</code> runs dense, BM25, typed probes, RRF and rerank</td><td>Up to eight ranked clauses with distances</td><td><code>retrieved</code></td></tr>
+        <tr><td>4</td><td><code>resolve_authority()</code> removes summaries when binding wording exists</td><td>Evidence set for the prompt</td><td>—</td></tr>
+        <tr><td>5</td><td><code>generator.generate()</code> runs guards, selects evidence, builds the prompt, calls the model, sanitizes output</td><td>Answer, safe flag, sources, model metrics</td><td><code>model</code>, <code>prompt_tokens</code>, <code>completion_tokens</code></td></tr>
+        <tr><td>6</td><td><code>verify_answer()</code> checks numbers and UINs; a failure triggers one structured retry</td><td>Verified flag and unsupported list</td><td><code>verified</code>, <code>unsupported</code></td></tr>
+        <tr><td>7</td><td><code>strip_unbacked_family_limits()</code> removes unsupported family-size claims</td><td>Final answer text</td><td>—</td></tr>
+        <tr><td>8</td><td>Orchestrator wraps the plan, verification and retrieved count</td><td>Response object</td><td><code>safe</code>, <code>total_ms</code></td></tr>
+        <tr><td>9</td><td>Orchestrator appends one JSONL trace line; the UI renders the answer with a sources expander</td><td>Cited answer or refusal</td><td><code>sources</code> (top eight, trimmed fields)</td></tr>
+      </table>
+    </div>
+    <div class="note">
+      <p>
+        Catalogue listing and recommendation intents never call the model; scope questions
+        are answered from catalogue facts only, with no retrieved clauses. A coverage
+        question whose asked insurer, policy or clause is absent returns the knowledge-gap
+        refusal without generation. The plan for any question can be inspected without
+        generation through <code>POST /plan</code>.
+      </p>
     </div>
   </section>
 

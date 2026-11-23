@@ -11,6 +11,8 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
 
+from rag.provenance import is_allowed
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 CHUNKS_DIR = BASE_DIR / "data" / "chunks"
 TOKEN_RE = re.compile(r"[a-z0-9]+")
@@ -136,7 +138,7 @@ def load_chunks() -> List[Dict]:
             continue
         for chunk in payload:
             text = chunk.get("text")
-            if text:
+            if text and is_allowed(chunk.get("metadata")):
                 chunks.append(chunk)
     return chunks
 

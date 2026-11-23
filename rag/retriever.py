@@ -6,6 +6,7 @@ from typing import Dict, List, Optional
 from rag.bm25 import get_index
 from rag.embedder import PolicyVectorStore
 from rag.policy_match import PRODUCT_CLASS_NAMES, match_policy, normalize
+from rag.provenance import is_allowed
 
 LINE_HINTS = (
     ("motor", r"\b(motor|car|bike|two[\s-]?wheeler|vehicle|own damage|third party|od|tp)\b"),
@@ -91,7 +92,13 @@ class PolicyRetriever:
 
         merged = self._fuse([self._dedupe(results) for results in lists if results])
         if not merged and (insurer or policy_name or chunk_type):
-            merged = self._dedupe(self.store.search(query=query, n_results=pool_size))
+            # An explicitly selected insurer is a hard constraint. Only the
+            # policy-name and chunk-type hints are relaxed when they match nothing.
+            merged = self._dedupe(
+                self.store.search(query=query, insurer=insurer, n_results=pool_size)
+            )
+
+        merged = [item for item in merged if is_allowed(item.get("metadata"))]
 
         line = self._infer_line(query)
         if line and not insurer and not policy_name:

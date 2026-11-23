@@ -109,10 +109,21 @@ with st.sidebar:
     st.subheader("Indexed Knowledge")
     if indexed_catalog:
         insurers = {item["insurer"] for item in indexed_catalog}
-        st.caption(
-            f"Ready with health and motor wordings from {len(insurers)} insurers. "
-            "Ask for a plan by name when you need it."
+        summary = (
+            f"Ready with health and motor wordings from {len(insurers - {'irdai'})} insurers"
         )
+        if "irdai" in insurers:
+            summary += " plus IRDAI regulations"
+        st.caption(summary + ". Ask for a plan by name when you need it.")
+        selected_key = next(
+            (key for key, value in KNOWLEDGE_SOURCES.items() if value["name"] == insurer),
+            None,
+        )
+        if selected_key and selected_key not in insurers:
+            st.warning(
+                f"No {insurer} document is indexed yet, so questions about it "
+                "will return a knowledge gap instead of an answer."
+            )
     else:
         st.caption("No policy documents indexed yet.")
 

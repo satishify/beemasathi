@@ -216,7 +216,7 @@
         <tr><th>Call</th><th>Direction</th><th>Payload</th><th>Failure handling</th></tr>
         <tr><td><code>POST /embeddings</code></td><td>Hosted embedding API, or local model when unset</td><td><code>{model, input[]}</code>, max 16 texts, 384 dimensions</td><td>Retry 2/4/8 s on 429 and 5xx; hard error on 401 and 4xx; vector-count check</td></tr>
         <tr><td><code>POST /chat/completions</code></td><td>Hosted Qwen3-8B, or local Ollama</td><td>OpenAI chat messages, temperature 0.4, bounded max tokens</td><td>Retry on 429/503, explicit 401 message, one structured retry after a failed verification</td></tr>
-        <tr><td>Chroma queries</td><td>Local persistent store</td><td>Query vector, metadata filter, <code>n_results</code></td><td>Unfiltered fallback when a filtered search is empty</td></tr>
+        <tr><td>Chroma queries</td><td>Local persistent store</td><td>Query vector, metadata filter, <code>n_results</code></td><td>Retry without policy or chunk-type hints when a filtered search is empty; a selected insurer is kept, and chunks without a ledgered source file are dropped</td></tr>
         <tr><td>Ollama chat</td><td><code>127.0.0.1:11434</code></td><td>Chat messages, <code>num_ctx 8192</code></td><td>CLI fallback, then a user-facing error with the exact hint</td></tr>
         <tr><td>REST and UI</td><td>FastAPI and Streamlit in-process</td><td>Question, insurer, policy, optional claim</td><td>Token bucket returns 429 with <code>Retry-After</code>; exceptions become HTTP 500</td></tr>
       </table>
@@ -324,7 +324,7 @@
     <h3>Agents</h3>
     <ol>
       <li><b>Intake &amp; Router</b> — classifies intent (coverage, exclusion, waiting period, sub-limit, claim process, comparison, claim risk, catalogue gap, out of scope), extracts insurer and product mentions with word-boundary aliases, detects line of business and emits a typed task plan. Replaces the current regex scope detector and substring insurer matcher.</li>
-      <li><b>Policy Retrieval</b> — hybrid retrieval with metadata filters, per-insurer fan-out with quotas for comparisons, clause-fingerprint deduplication and authority-aware reranking. The target never silently widens a filter; the shipped retriever has one unfiltered dense fallback when a filtered search returns nothing.</li>
+      <li><b>Policy Retrieval</b> — hybrid retrieval with metadata filters, per-insurer fan-out with quotas for comparisons, clause-fingerprint deduplication and authority-aware reranking. The target never silently widens a filter; the shipped retriever relaxes only policy-name and chunk-type hints when a filtered search returns nothing, keeps a selected insurer, and drops chunks whose source file is absent from the ingest ledger.</li>
       <li><b>Product &amp; Authority Resolver</b> — resolves a product name to a UIN, selects the current revision and fixes the evidence hierarchy: wording first, CIS and prospectus next, brochure only as a summary, regulation as legal context and never as proof of cover. Returns an explicit “not loaded” result.</li>
       <li><b>Clause Analyst</b> — extracts the operative clause with section, page and effective date, parses tables for waiting periods, sub-limits and room categories, and detects conflicts between a brochure and the wording.</li>
       <li><b>Claim-Risk</b> — assesses network status, room-rent cap, PED waiting period, disclosure consistency, intimation delay and procedure exclusions, reading caps and waiting periods from the resolved product’s clauses. Gates inputs by line of business.</li>

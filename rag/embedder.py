@@ -10,6 +10,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from config import EMBEDDING_MODEL, CHROMA_PATH, COLLECTION_NAME
 from rag.embeddings import get_embedding_backend, hosted_configured
+from rag.provenance import is_allowed
 
 BASE_DIR = Path(__file__).parent.parent
 
@@ -156,6 +157,8 @@ class PolicyVectorStore:
                 break
             for metadata in metadatas:
                 metadata = metadata or {}
+                if not is_allowed(metadata):
+                    continue
                 key = (
                     metadata.get("insurer", "unknown"),
                     metadata.get("policy_name", "unknown"),
@@ -183,9 +186,10 @@ class PolicyVectorStore:
     def get_catalog(self) -> List[Dict]:
         """Return indexed sources grouped for the Streamlit knowledge summary.
 
-        Chroma is authoritative for what can actually be quoted, but some
-        sources were indexed before the ingest ledger existed. The ledger is
-        still merged in, so older Star Health chunks stay visible.
+        Chroma is authoritative for what can actually be quoted. Chunks without
+        a ledgered source file are skipped, so a stale demo document cannot
+        appear as a loaded policy. The ledger still adds sources that are
+        indexed under a different policy key.
         """
         if self._catalog_cache is not None:
             return self._catalog_cache

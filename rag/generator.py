@@ -24,6 +24,7 @@ from config import (
     SECURITY_PATTERNS,
     SECURITY_REFUSAL,
 )
+from rag.catalog import line_counts
 
 # The hosted group key allows one in-flight request, so serialize API calls.
 _API_LOCK = threading.Lock()
@@ -234,6 +235,17 @@ class BimaSaathiGenerator:
     def _is_scope_question(self, question: str) -> bool:
         q = question.lower()
         if re.search(r"\b(don'?t|do not|not)\s+(know|have|cover|support)\b", q):
+            return True
+        if re.search(
+            r"\b(is there|are there|do you (?:have|hold)|is .* available)\b.*"
+            r"\b(policy|policies|plan|plans|wording|wordings)\b",
+            q,
+        ):
+            return True
+        if re.search(
+            r"\b(how many|list|show|name)\b.*\b(policies|plans|wordings)\b",
+            q,
+        ):
             return True
         return bool(
             re.search(
@@ -496,6 +508,22 @@ class BimaSaathiGenerator:
             f"Insurers with no policy loaded: {unknown}"
         )
 
+    def _line_fact_text(self, catalog: List[Dict]) -> str:
+        counts = line_counts(catalog or [])
+        if not counts:
+            return "Loaded wordings by line: none."
+        labels = {"health": "health", "motor": "motor (car and two-wheeler)"}
+        parts = [
+            f"{labels.get(line, line)}: {count} policy wordings"
+            for line, count in sorted(counts.items())
+            if count
+        ]
+        return (
+            "Loaded wordings by line: "
+            + ", ".join(parts)
+            + ". I can list the plans for any line on request."
+        )
+
     def _clause_context(self, retrieved_chunks: List[Dict]) -> str:
         if not retrieved_chunks:
             return "None. No matching policy clause was found."
@@ -556,6 +584,7 @@ class BimaSaathiGenerator:
 
         grouped, regulations = self._catalog_facts(catalog)
         scope = self._catalog_fact_text(grouped, regulations)
+        scope += "\n\n" + self._line_fact_text(catalog)
         if self._is_scope_question(question):
             retrieved_chunks = []
 

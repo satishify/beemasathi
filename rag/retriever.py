@@ -5,7 +5,7 @@ from typing import Dict, List, Optional
 
 from rag.bm25 import get_index
 from rag.embedder import PolicyVectorStore
-from rag.policy_match import match_policy, normalize
+from rag.policy_match import PRODUCT_CLASS_NAMES, match_policy, normalize
 
 LINE_HINTS = (
     ("motor", r"\b(motor|car|bike|two[\s-]?wheeler|vehicle|own damage|third party|od|tp)\b"),
@@ -93,8 +93,22 @@ class PolicyRetriever:
         if not merged and (insurer or policy_name or chunk_type):
             merged = self._dedupe(self.store.search(query=query, n_results=pool_size))
 
+        line = self._infer_line(query)
+        if line and not insurer and not policy_name:
+            merged = self._prefer_line(merged, line)
+
         ranked = self._rerank(merged, search_query, policy_name)
         return ranked[:n_results]
+
+    @staticmethod
+    def _prefer_line(results: List[Dict], line: str) -> List[Dict]:
+        """Keep chunks from the line the question names, when any exist."""
+        matching = [
+            item
+            for item in results
+            if (item.get("metadata") or {}).get("line_of_business") == line
+        ]
+        return matching or results
 
     @staticmethod
     def _search_query(query: str, policy_name: Optional[str], insurer: Optional[str]) -> str:
@@ -220,7 +234,7 @@ class PolicyRetriever:
             and (not wording or (candidate_insurer, name) in wording)
         ]
         matched = match_policy(query_tokens, names, insurer)
-        if matched:
+        if matched and normalize(matched) not in PRODUCT_CLASS_NAMES:
             return matched
         return self._alias_policy(query_tokens, insurer)
 

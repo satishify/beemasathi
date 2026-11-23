@@ -13,6 +13,7 @@ from agents.critic import resolve_authority, strip_unbacked_family_limits, verif
 from agents.router import IntentRouter, TaskPlan
 from config import INSURERS
 from observability.trace import Trace
+from rag.catalog import entry_line, entry_vehicle
 from rag.generator import BimaSaathiGenerator
 from rag.retriever import PolicyRetriever
 
@@ -75,6 +76,9 @@ class BeemaSathiOrchestrator:
 
         if plan.intent == "recommend":
             return self._recommend(plan, catalog)
+
+        if plan.intent == "catalog_list":
+            return self._catalog_list(plan, catalog)
 
         if plan.intent == "claim_risk" and claim:
             return self._claim_answer(question, plan, claim)
@@ -166,6 +170,150 @@ class BeemaSathiOrchestrator:
                     "No health policy wording is loaded yet, so I can't even list "
                     "plans reliably."
                 )
+        result = {
+            "answer": "\n".join(lines),
+            "safe": True,
+            "sources": [],
+            "rejection_risk": None,
+            "model_metrics": {"backend": "catalog", "model": "policy_catalog"},
+        }
+        return self._wrap(result, plan, {"verified": True, "unsupported": []}, [])
+
+    @staticmethod
+    def _policy_label(name: str) -> str:
+        text = re.sub(r"\.(pdf|txt)$", "", str(name or "unknown"), flags=re.I)
+        text = re.sub(r"[_-]+", " ", text)
+        text = re.sub(r"^(?:of|for)\s+(?:covers?\s+)?", "", text, flags=re.I)
+        text = re.sub(r"^csc\s+", "", text, flags=re.I)
+        text = re.sub(
+            r"\b(covers|wef|cum|print|document|prospectus|prospectuse|website)\b\s*$",
+            "",
+            text,
+            flags=re.I,
+        )
+        text = re.sub(r"(?<=[a-z])\d+$", "", text, flags=re.I)
+        text = re.sub(r"\s+", " ", text).strip()
+        return text.title() or "Unknown"
+
+    @staticmethod
+    def _insurer_label(insurer: str, line: Optional[str] = None) -> str:
+        if line == "motor" and insurer == "digit":
+            return "Go Digit"
+        return INSURERS.get(insurer, {}).get("name", insurer)
+
+    @staticmethod
+    def _line_label(plan: TaskPlan) -> str:
+        if plan.line == "motor":
+            return {
+                "two_wheeler": "two-wheeler motor",
+                "car": "car / private car",
+                "commercial": "commercial vehicle",
+            }.get(plan.vehicle, "motor")
+        if plan.line == "health":
+            return "health"
+        return "policy"
+
+    def _catalog_list(self, plan: TaskPlan, catalog: List[Dict]) -> Dict:
+        """List loaded wordings for a line; never rank or invent coverage."""
+        entries = [
+            entry
+            for entry in catalog
+            if entry.get("document_type") == "policy_wording"
+            and (not plan.insurers or entry.get("insurer") in plan.insurers)
+        ]
+        if plan.line:
+            matching = [entry for entry in entries if entry_line(entry) == plan.line]
+            if matching:
+                entries = matching
+        if plan.vehicle:
+            matching = [entry for entry in entries if entry_vehicle(entry) == plan.vehicle]
+            if matching:
+                entries = matching
+
+        total = len(entries)
+        buckets: Dict[str, List[str]] = {}
+        seen = set()
+        for entry in sorted(entries, key=lambda item: -(item.get("chunks") or 0)):
+            insurer = entry.get("insurer", "unknown")
+            label = self._policy_label(entry.get("policy_name", ""))
+            key = (insurer, label.lower())
+            if key in seen:
+                continue
+            seen.add(key)
+            buckets.setdefault(insurer, []).append(label)
+
+        insurers_present = sorted(
+            buckets, key=lambda key: list(INSURERS).index(key) if key in INSURERS else 99
+        )
+        picked: List[tuple] = []
+        while len(picked) < plan.limit:
+            added = False
+            for insurer in insurers_present:
+                if buckets[insurer]:
+                    picked.append((insurer, buckets[insurer].pop(0)))
+                    added = True
+                    if len(picked) >= plan.limit:
+                        break
+            if not added:
+                break
+
+        wants_ranking = bool(
+            re.search(
+                r"\b(best|good|rank|recommend|suggest|which|compare)\b",
+                plan.question,
+                re.I,
+            )
+        )
+        line_label = self._line_label(plan)
+        names = [
+            self._insurer_label(key, plan.line) for key in insurers_present
+        ]
+
+        lines = []
+        if wants_ranking:
+            lines.append(
+                'I can\'t say which plan is "good" or "best": I hold policy wordings, '
+                "not premiums, network lists, or the insurer's underwriting rules."
+            )
+            lines.append("")
+        if picked:
+            noun = "wording" if total == 1 else "wordings"
+            lines.append(
+                f"I have {total} {line_label} policy {noun} loaded"
+                + (f", from {', '.join(names)}" if names else "")
+                + (". Here it is:" if len(picked) == 1 else f". Here are {len(picked)}:")
+            )
+            for insurer, label in picked:
+                lines.append(
+                    f"- {self._insurer_label(insurer, plan.line)}: {label}"
+                )
+            lines.append("")
+            if plan.line == "motor":
+                lines.append(
+                    "Ask me about any plan above and I'll quote its clauses exactly: "
+                    "own damage, third-party liability, zero-depreciation and other "
+                    "add-ons, exclusions, and no-claim bonus."
+                )
+            elif plan.line == "health":
+                lines.append(
+                    "Ask me about any plan above and I'll quote its clauses exactly: "
+                    "room-rent cap, co-pay, waiting periods, exclusions, and day care."
+                )
+            else:
+                lines.append(
+                    "Ask me about any plan above and I'll quote its clauses exactly."
+                )
+        elif plan.insurers:
+            who = ", ".join(
+                self._insurer_label(key, plan.line) for key in plan.insurers
+            )
+            lines.append(
+                f"I don't have a {line_label} policy wording loaded for {who}, "
+                "so I can't list its plans yet."
+            )
+        else:
+            lines.append(f"No {line_label} policy wording is loaded yet.")
+
         result = {
             "answer": "\n".join(lines),
             "safe": True,

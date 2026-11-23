@@ -10,6 +10,7 @@ services:
     volumes:
       - ./data:/app/data:ro
       - ./logs:/app/logs
+      - ./VM02_Embeddings_Access:/app/VM02_Embeddings_Access:ro
     restart: unless-stopped
 
   ui:
@@ -23,6 +24,7 @@ services:
       BEEMASATHI_API_URL: http://api:8000
     volumes:
       - ./data:/app/data:ro
+      - ./VM02_Embeddings_Access:/app/VM02_Embeddings_Access:ro
     depends_on:
       - api
     restart: unless-stopped

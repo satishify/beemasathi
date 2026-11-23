@@ -9,6 +9,7 @@ import json
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent))
 from config import EMBEDDING_MODEL, CHROMA_PATH, COLLECTION_NAME
+from rag.embeddings import get_embedding_backend, hosted_configured
 
 BASE_DIR = Path(__file__).parent.parent
 
@@ -17,14 +18,22 @@ class PolicyVectorStore:
     def __init__(self):
         Path(CHROMA_PATH).parent.mkdir(parents=True, exist_ok=True)
         self.client = chromadb.PersistentClient(path=CHROMA_PATH)
-        self.embed_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
-            model_name=EMBEDDING_MODEL
-        )
+        # The hosted endpoint returns the same vectors as this model, so the
+        # index stays valid either way. Skip loading the local weights when
+        # the API is configured; Chroma accepts explicit embeddings.
+        self.embed_fn = None
+        if not hosted_configured():
+            self.embed_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
+                model_name=EMBEDDING_MODEL
+            )
         self.collection = self.client.get_or_create_collection(
             name=COLLECTION_NAME,
             embedding_function=self.embed_fn,
             metadata={"hnsw:space": "cosine"}
         )
+        self._encoder = get_embedding_backend(self.embed_fn)
+        self._query_cache = {}
+        self._catalog_cache = None
     
     def add_chunks(self, chunks: List[Dict]):
         if not chunks:
@@ -34,8 +43,15 @@ class PolicyVectorStore:
         ids = [f"{c['metadata']['source']}_{i}" for i, c in enumerate(chunks)]
         texts = [c["text"] for c in chunks]
         metadatas = [c["metadata"] for c in chunks]
+        embeddings = self._encoder.encode(texts).tolist()
         
-        self.collection.upsert(ids=ids, documents=texts, metadatas=metadatas)
+        self.collection.upsert(
+            ids=ids,
+            documents=texts,
+            metadatas=metadatas,
+            embeddings=embeddings,
+        )
+        self._catalog_cache = None
         print(f"Upserted {len(chunks)} chunks into ChromaDB")
 
     def replace_source_chunks(self, chunks: List[Dict]):
@@ -50,6 +66,15 @@ class PolicyVectorStore:
 
         self.collection.delete(where={"source": next(iter(sources))})
         self.add_chunks(chunks)
+
+    def _embed_query(self, query: str):
+        vector = self._query_cache.get(query)
+        if vector is None:
+            vector = self._encoder.encode([query])[0]
+            if len(self._query_cache) >= 128:
+                self._query_cache.clear()
+            self._query_cache[query] = vector
+        return vector
     
     def search(self, query: str, insurer: str = None, policy_name: str = None, 
                chunk_type: str = None, n_results: int = 5) -> List[Dict]:
@@ -69,7 +94,7 @@ class PolicyVectorStore:
             where = None
         
         results = self.collection.query(
-            query_texts=[query],
+            query_embeddings=[self._embed_query(query).tolist()],
             n_results=n_results,
             where=where,
             include=["documents", "metadatas", "distances"]
@@ -89,7 +114,10 @@ class PolicyVectorStore:
         return formatted
     
     def get_stats(self) -> Dict:
-        return {"total_chunks": self.collection.count()}
+        return {
+            "total_chunks": self.collection.count(),
+            "embedding_backend": self._encoder.name,
+        }
 
     def _catalog_from_index_file(self) -> List[Dict]:
         """Build the catalog from the ingest ledger instead of loading every chunk."""
@@ -115,7 +143,7 @@ class PolicyVectorStore:
     def _catalog_from_chroma(self) -> List[Dict]:
         """Page through Chroma metadata so SQLite does not hit 'too many SQL variables'."""
         catalog = {}
-        batch_size = 200
+        batch_size = 2000
         offset = 0
         while True:
             result = self.collection.get(
@@ -153,11 +181,38 @@ class PolicyVectorStore:
         ]
 
     def get_catalog(self) -> List[Dict]:
-        """Return indexed sources grouped for the Streamlit knowledge summary."""
+        """Return indexed sources grouped for the Streamlit knowledge summary.
+
+        Chroma is authoritative for what can actually be quoted, but some
+        sources were indexed before the ingest ledger existed. The ledger is
+        still merged in, so older Star Health chunks stay visible.
+        """
+        if self._catalog_cache is not None:
+            return self._catalog_cache
+        from_chroma = self._catalog_from_chroma()
         from_index = self._catalog_from_index_file()
-        if from_index:
-            return from_index
-        return self._catalog_from_chroma()
+        if not from_chroma:
+            self._catalog_cache = from_index
+            return self._catalog_cache
+        known = {
+            (entry["insurer"], entry["policy_name"], entry["document_type"])
+            for entry in from_chroma
+        }
+        for entry in from_index:
+            key = (entry["insurer"], entry["policy_name"], entry["document_type"])
+            if key not in known:
+                known.add(key)
+                from_chroma.append(entry)
+        from_chroma.sort(
+            key=lambda entry: (
+                entry["insurer"],
+                entry["policy_name"],
+                entry["document_type"],
+                entry["source_file"],
+            )
+        )
+        self._catalog_cache = from_chroma
+        return self._catalog_cache
 
 
 def index_all_chunks():

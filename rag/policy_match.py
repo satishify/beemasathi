@@ -31,6 +31,17 @@ GENERIC_SINGLE = frozenset(
     }
 )
 
+# Whole names that are only a product class ("car", "two wheeler"), never one
+# specific plan. Questions about a class must list or retrieve across insurers.
+PRODUCT_CLASS_NAMES = frozenset(
+    {
+        "two wheeler", "two wheelers", "tw", "car", "cars", "motor",
+        "motor insurance", "vehicle", "vehicles", "health", "health insurance",
+        "bike", "bikes", "two wheeler insurance", "car insurance",
+        "policy", "insurance",
+    }
+)
+
 # Score bonuses by match kind. Character count dominates, then how strict the
 # match was. A longer name the customer described well beats a shorter one.
 _BONUS = {"exact": 40, "cover": 35, "any_order": 30, "partial": 10}

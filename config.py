@@ -58,6 +58,16 @@ LLM_API_CA = os.getenv("BEEMASATHI_LLM_CA") or ""
 LLM_API_MAX_TOKENS = int(os.getenv("BEEMASATHI_LLM_MAX_TOKENS") or "1024")
 LLM_API_CONTEXT = int(os.getenv("BEEMASATHI_LLM_CONTEXT") or "8192")
 
+# Hosted embedding endpoint (OpenAI-compatible). It serves the same
+# bge-small-en-v1.5 vectors as the local model, so the existing index stays
+# valid. Leave the base URL blank to embed locally with sentence-transformers.
+EMBEDDING_API_BASE = (os.getenv("BEEMASATHI_EMBED_BASE") or "").rstrip("/")
+EMBEDDING_API_KEY = os.getenv("BEEMASATHI_EMBED_KEY") or ""
+EMBEDDING_API_KEY_FILE = os.getenv("BEEMASATHI_EMBED_KEY_FILE") or ""
+EMBEDDING_API_MODEL = os.getenv("BEEMASATHI_EMBED_MODEL") or "bge-small-en-v1.5"
+EMBEDDING_API_CA = os.getenv("BEEMASATHI_EMBED_CA") or ""
+EMBEDDING_API_BATCH = int(os.getenv("BEEMASATHI_EMBED_BATCH") or "16")
+
 CHROMA_PATH = "./data/chroma_db"
 COLLECTION_NAME = "policy_clauses"
 

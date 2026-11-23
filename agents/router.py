@@ -5,7 +5,7 @@ from dataclasses import dataclass, field
 from typing import Dict, List, Optional
 
 from config import BANNED_PATTERNS, SECURITY_PATTERNS
-from rag.policy_match import match_policy, normalize
+from rag.policy_match import PRODUCT_CLASS_NAMES, match_policy, normalize
 
 INSURER_ALIASES: Dict[str, List[str]] = {
     "star_health": ["star health", "star"],
@@ -47,6 +47,32 @@ RECOMMEND_RE = re.compile(
     r"\bwhich\b.*\b(?:plan|policy)\b.*\b(?:should|buy|choose|for\s+my)\b",
     re.I,
 )
+TWO_WHEELER_RE = re.compile(
+    r"\b(two[\s-]?wheelers?|2[\s-]?wheelers?|bikes?|scooters?|motorcycles?)\b", re.I
+)
+CAR_RE = re.compile(r"\b(cars?|four[\s-]?wheelers?|4[\s-]?wheelers?)\b", re.I)
+MOTOR_RE = re.compile(r"\b(motor|vehicle|vehicles|auto|gcv|pcv)\b", re.I)
+HEALTH_LINE_RE = re.compile(
+    r"\b(health|mediclaim|hospitalisation|hospitalization|family\s+floater)\b", re.I
+)
+# A line question that asks what a clause says is coverage, not a catalog list.
+CLAUSE_ASK_RE = re.compile(
+    r"\b(cover(?:s|ed|age)?|exclud(?:e|es|ed|ing|ion|ions)|waiting|pre[\s-]?existing|"
+    r"room\s+rent|co[\s-]?pay|copay|sub[\s-]?limit|deductible|claim(?:s|ed|ing)?|"
+    r"renew(?:al)?|premium|network|cashless|day\s+care|maternity|ambulance|"
+    r"no\s+claim\s+bonus|ncb|depreciation|add[\s-]?ons?|clause|section|"
+    r"benefits?|terms|conditions)\b",
+    re.I,
+)
+LIST_RE = re.compile(
+    r"\b(list|show|name|display|enumerate|available|availability|"
+    r"do\s+you\s+(?:have|hold|carry)|is\s+there|are\s+there|how\s+many|options?)\b",
+    re.I,
+)
+COUNT_RE = re.compile(
+    r"(?<![\w-])(\d{1,2})\s+(?:motor|health|car|policy|policies|plans?|insurance|options?)",
+    re.I,
+)
 
 
 @dataclass
@@ -63,6 +89,9 @@ class TaskPlan:
     policies: List[str] = field(default_factory=list)
     steps: List[TaskStep] = field(default_factory=list)
     prefer_brochure: bool = False
+    line: Optional[str] = None
+    vehicle: Optional[str] = None
+    limit: int = 5
 
     def as_dict(self) -> Dict:
         return {
@@ -70,12 +99,55 @@ class TaskPlan:
             "insurers": self.insurers,
             "policies": self.policies,
             "prefer_brochure": self.prefer_brochure,
+            "line": self.line,
+            "vehicle": self.vehicle,
+            "limit": self.limit,
             "steps": [{"action": step.action, "target": step.target} for step in self.steps],
         }
 
 
 def _normalize(text: str) -> str:
     return normalize(text)
+
+
+def _specific_policies(policies: List[str]) -> List[str]:
+    """Drop class-only names like "car" or "two wheeler"."""
+    return [name for name in policies if _normalize(name) not in PRODUCT_CLASS_NAMES]
+
+
+def detect_line(question: str):
+    """Return (line, vehicle) named by the question, if any."""
+    text = f" {_normalize(question)} "
+    if TWO_WHEELER_RE.search(text):
+        return "motor", "two_wheeler"
+    if CAR_RE.search(text):
+        return "motor", "car"
+    if re.search(r"\b(commercial\s+vehicles?|gcv|pcv)\b", text):
+        return "motor", "commercial"
+    if MOTOR_RE.search(text):
+        return "motor", None
+    if HEALTH_LINE_RE.search(text):
+        return "health", None
+    return None, None
+
+
+def _listing_limit(question: str) -> int:
+    found = COUNT_RE.search(question)
+    return min(max(int(found.group(1)), 1), 10) if found else 5
+
+
+def _is_listing_question(
+    question: str, line: Optional[str], insurers: List[str], policies: List[str]
+) -> bool:
+    if policies or len(insurers) >= 2:
+        return False
+    if CLAUSE_ASK_RE.search(question):
+        return False
+    if LIST_RE.search(question):
+        return True
+    if line and re.search(r"\b(what|which)\b", question, re.I):
+        return True
+    return bool(COMPARE_RE.search(question) and not insurers)
 
 
 class IntentRouter:
@@ -114,7 +186,11 @@ class IntentRouter:
         policy_name: Optional[str] = None,
     ) -> TaskPlan:
         insurers = [insurer] if insurer else self.find_insurers(question)
-        policies = [policy_name] if policy_name else self.find_policies(question, insurers)
+        policies = (
+            [policy_name]
+            if policy_name
+            else _specific_policies(self.find_policies(question, insurers))
+        )
 
         if any(re.search(pattern, question, re.I) for pattern in BANNED_PATTERNS):
             plan = TaskPlan(question, "safety", insurers, policies)
@@ -130,6 +206,20 @@ class IntentRouter:
                 insurers,
                 policies,
                 steps=[TaskStep("catalog_scope")],
+            )
+
+        line, vehicle = detect_line(question)
+        named = _specific_policies(policies)
+        if _is_listing_question(question, line, insurers, named):
+            return TaskPlan(
+                question,
+                "catalog_list",
+                insurers,
+                named,
+                steps=[TaskStep("catalog_line", target=line)],
+                line=line,
+                vehicle=vehicle,
+                limit=_listing_limit(question),
             )
 
         if CLAIM_RE.search(question):

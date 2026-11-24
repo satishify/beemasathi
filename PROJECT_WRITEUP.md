@@ -40,8 +40,8 @@ A working prototype exists and provides the substrate for the four-week build:
 
 | Asset | Current state (22 Nov 2026) |
 | --- | --- |
-| Corpus | 923 indexed files, 45,844 chunks, 927 PDFs (1.9 GB), 8 insurers plus IRDAI |
-| Document mix | 362 policy wordings, 559 brochures/CIS/prospectus, plus IRDAI regulations |
+| Corpus | 923 indexed files, 48,572 chunks, 929 PDFs (1.9 GB), 8 insurers plus IRDAI |
+| Document mix | 339 policy wordings, 558 brochures/CIS/prospectus, 26 endorsements, plus IRDAI regulations |
 | Collection | Official-domain-only crawler, robots fail-closed, SHA-256 manifest, sidecar metadata |
 | Retrieval | Hybrid: BGE-small dense + pure-Python Okapi BM25, reciprocal-rank fusion, typed searches, authority weights, policy-name detection |
 | Generation | `Qwen/Qwen3-8B` on the hosted OpenAI-compatible endpoint (Ollama still supported), three prompt strategies, refusal rules, leak sanitisation |

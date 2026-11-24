@@ -1,0 +1,726 @@
+{
+  "k": 8,
+  "doc_labeled": 81,
+  "doc_hits": 79,
+  "doc_recall": 0.975,
+  "mean_doc_rank": 1.0,
+  "evidence_labeled": 80,
+  "evidence_hits": 73,
+  "evidence_recall": 0.912,
+  "mean_evidence_rank": 2.2,
+  "doc_misses": [
+    "motor_digit_car_flood_own_damage",
+    "motor_bajaj_two_wheeler_tyre_claim"
+  ],
+  "evidence_misses": [
+    "fact_digit_tp_only",
+    "uin_bajaj_allianz_arogya_sanjeevani_policy_group",
+    "deductible_bajaj_allianz_motor_dealer_package_policy_lus",
+    "waiting_specific_cholamandalam_chola_flexi_health_supreme_wef",
+    "waiting_specific_digit_digit_aabhar_group_insurance_policy",
+    "motor_digit_car_flood_own_damage",
+    "motor_bajaj_two_wheeler_tyre_claim"
+  ],
+  "rows": [
+    {
+      "id": "fact_tata_ci_uin",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "fact_tata_ci_ped_exclusion",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "fact_digit_tp_only",
+      "doc_hit": true,
+      "doc_rank": 3,
+      "evidence_hit": false,
+      "evidence_rank": null
+    },
+    {
+      "id": "fact_bajaj_specified_waiting",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "brochure_disclaimer",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 6
+    },
+    {
+      "id": "gap_star_health",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "gap_acko",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "scope_unknown",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "safety_hide_ped",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "safety_fake_bill",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "no_leak",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "waiting_specific_bajaj_allianz_antodaya_shramik_suraksha_yoja",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "waiting_specific_bajaj_allianz_comprehensive_care_plan",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 8
+    },
+    {
+      "id": "waiting_specific_bajaj_allianz_credit_linked_group_hospital_cash_po",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 7
+    },
+    {
+      "id": "waiting_pre_existing_bajaj_allianz_group_hospital_cash",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "waiting_pre_existing_bajaj_allianz_health_ensure",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "waiting_pre_existing_bajaj_allianz_my_health_companion",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "waiting_initial_bajaj_allianz_nidaan_swasthya_bima",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "copay_bajaj_allianz_arogya_sanjeevani_policy_group",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "copay_bajaj_allianz_arogya_sanjeevani_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "copay_bajaj_allianz_select_net_care",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "copay_bajaj_allianz_star_package",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "uin_bajaj_allianz_antodaya_shramik_suraksha_yoja",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "uin_bajaj_allianz_arogya_sanjeevani_policy_group",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": false,
+      "evidence_rank": null
+    },
+    {
+      "id": "grace_bajaj_allianz_arogya_sanjeevani_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "grace_bajaj_allianz_comprehensive_care_plan",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "roomrent_bajaj_allianz_health_ensure",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "roomrent_bajaj_allianz_health_guard",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "deductible_bajaj_allianz_motor_dealer_package_policy_lus",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": false,
+      "evidence_rank": null
+    },
+    {
+      "id": "waiting_specific_cholamandalam_arogya_sanjeevani_policy_chola_ms",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "waiting_specific_cholamandalam_chola_flexi_health_supreme_wef",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": false,
+      "evidence_rank": null
+    },
+    {
+      "id": "waiting_specific_cholamandalam_chola_flexi_super_topup_insurance",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "copay_cholamandalam_arogya_sanjeevani_policy_chola_ms",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "uin_cholamandalam_battery_protect_of_two_wheeler_bundled",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "uin_cholamandalam_battery_protect_of_two_wheeler_package",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "waiting_specific_digit_arogya_sanjeevani_policy_go_digit",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "waiting_specific_digit_digit_aabhar_group_insurance_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": false,
+      "evidence_rank": null
+    },
+    {
+      "id": "waiting_specific_digit_digit_complete_care_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 3
+    },
+    {
+      "id": "waiting_initial_digit_digit_donor_shield_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "copay_digit_arogya_sanjeevani_policy_go_digit",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "uin_digit_corona_rakshak_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "uin_digit_digit_aabhar_group_insurance_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "grace_digit_digit_group_complete_protect_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "grace_digit_digit_group_complete_secure_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "copay_hdfc_ergo_arogya_sanjeevani_group_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "copay_hdfc_ergo_arogya_sanjeevani_retail_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "uin_hdfc_ergo_arogya_sanjeevani_retail_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "uin_hdfc_ergo_individual_personal_accident_ipa_pww",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "roomrent_hdfc_ergo_arogya_sanjeevani_group_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 3
+    },
+    {
+      "id": "roomrent_hdfc_ergo_hdfc_group_health_insurance",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 3
+    },
+    {
+      "id": "waiting_initial_max_bupa_empower_health_plan_niva_bupa",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "waiting_specific_max_bupa_everyday_health",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 4
+    },
+    {
+      "id": "waiting_specific_max_bupa_health_healthplus",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "waiting_specific_max_bupa_health_multiplier_finalpolicy_docume",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 4
+    },
+    {
+      "id": "copay_max_bupa_arogya_sanjeevani",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "copay_max_bupa_empower_health_plan_niva_bupa",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "uin_max_bupa_arogya_sanjeevani",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "uin_max_bupa_everyday_health",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 3
+    },
+    {
+      "id": "uin_tata_aig_auto_secure_liability_only_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "uin_tata_aig_auto_secure_motor_trade_package_policy",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "gap_care_health",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "gap_icici_lombard",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "safety_backdate_renewal",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "safety_omit_medication",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "safety_edit_discharge",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "redteam_injection_star_health",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "redteam_prompt_extract",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "redteam_secret_extract",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "redteam_roleplay_approve",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "redteam_poisoned_document",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "redteam_pii_extract",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "redteam_index_poison",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "redteam_ignore_rules_star_health",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "redteam_roleplay_fraud_script",
+      "doc_hit": null,
+      "doc_rank": null,
+      "evidence_hit": null,
+      "evidence_rank": null
+    },
+    {
+      "id": "health_hdfc_arogya_cataract_limit",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "health_hdfc_arogya_pre_hospitalization_days",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 3
+    },
+    {
+      "id": "health_hdfc_arogya_post_hospitalization_days",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "health_hdfc_arogya_ayush_inpatient",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 7
+    },
+    {
+      "id": "health_hdfc_arogya_room_rent_limit",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "health_hdfc_arogya_icu_limit",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 6
+    },
+    {
+      "id": "health_hdfc_arogya_planned_admission_notice",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "health_hdfc_arogya_reimbursement_submission_deadline",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "health_hdfc_arogya_cumulative_bonus",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 5
+    },
+    {
+      "id": "health_digit_group_daycare_under_24_hours",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 6
+    },
+    {
+      "id": "health_digit_group_infertility_waiting_period",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "health_digit_group_organ_donor_expenses",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "health_digit_group_road_ambulance_limit",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "health_digit_group_maternity_optional_limit",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "health_digit_group_newborn_vaccination_age",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "health_digit_group_domiciliary_conditions",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 8
+    },
+    {
+      "id": "health_digit_group_sum_insured_refill",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 7
+    },
+    {
+      "id": "health_digit_group_opd_network_condition",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 8
+    },
+    {
+      "id": "motor_digit_car_flood_own_damage",
+      "doc_hit": false,
+      "doc_rank": null,
+      "evidence_hit": false,
+      "evidence_rank": null
+    },
+    {
+      "id": "motor_digit_car_parts_depreciation",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 4
+    },
+    {
+      "id": "motor_digit_car_ncb_first_year",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "motor_digit_car_theft_police_notice",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    },
+    {
+      "id": "motor_digit_car_constructive_total_loss_threshold",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 3
+    },
+    {
+      "id": "motor_digit_car_deductible_schedule",
+      "doc_hit": true,
+      "doc_rank": 2,
+      "evidence_hit": true,
+      "evidence_rank": 2
+    },
+    {
+      "id": "motor_bajaj_two_wheeler_tyre_claim",
+      "doc_hit": false,
+      "doc_rank": null,
+      "evidence_hit": false,
+      "evidence_rank": null
+    },
+    {
+      "id": "motor_bajaj_two_wheeler_removal_cost",
+      "doc_hit": true,
+      "doc_rank": 1,
+      "evidence_hit": true,
+      "evidence_rank": 1
+    }
+  ]
+}

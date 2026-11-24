@@ -44,7 +44,7 @@
       <table>
         <tr><th>Layer</th><th>Implementation</th></tr>
         <tr><td>Collection</td><td>Official-domain crawler, robots fail-closed, SHA-256 manifest, sidecar metadata per document</td></tr>
-        <tr><td>Index</td><td>ChromaDB, cosine distance, 45,844 chunks from 923 source files; pure-Python Okapi BM25 over the same chunks</td></tr>
+        <tr><td>Index</td><td>ChromaDB, cosine distance, 48,572 chunks from 923 readable source files; pure-Python Okapi BM25 over the same chunks</td></tr>
         <tr><td>Embeddings</td><td>BGE-small-en-v1.5 (384 dimensions) through a hosted OpenAI-compatible <code>/embeddings</code> endpoint, or the local sentence-transformers model</td></tr>
         <tr><td>Retrieval</td><td>Dense + BM25 + typed searches fused with reciprocal-rank fusion, authority weights, policy-name detection</td></tr>
         <tr><td>Agent layer</td><td>Intent router with typed plans, per-insurer fan-out for comparisons, authority resolver, number/UIN critic with one structured retry</td></tr>

@@ -195,7 +195,8 @@ python eval/mine_gold_cases.py      # reproducible miner for new fact cases
 
 The full 100-case judged run on the hosted Qwen3-8B backend (23 Nov 2026) scores
 **85/100 pass**, doc recall@8 = 0.975 (79/81 labelled), supporting-clause recall@8
-= 0.900 (72/80), and zero answers that were right without the expected source.
+= 0.912 (73/80, re-measured 24 Nov 2026 after the corpus rebuild), and zero
+answers that were right without the expected source.
 Twelve of the 15 failures trip a hard rule while the judge accepts the answer, so
 the count is conservative. Hybrid retrieval raised document recall from 0.60 to
 0.975, and all nine red-team prompts are refused before the model is called.

@@ -30,5 +30,9 @@ data/manual_downloads.html
 # Runtime
 logs/
 
+# Office lock files
+~$*
+.qoder-office-pptx-locks/
+
 # Eval intermediates (regenerate: python eval/mine_gold_cases.py --out eval/gold_cases.generated.json)
 eval/gold_cases.generated.json

@@ -113,6 +113,11 @@ def summarize(directory: Path = TRACE_DIR) -> Dict[str, Any]:
     return {
         "requests": len(records),
         "errors": sum(1 for row in records if row.get("error")),
+        "guard_refusals": sum(
+            1
+            for row in records
+            if (row.get("guard") or {}).get("action") == "refuse"
+        ),
         "unsafe": sum(1 for row in records if row.get("safe") is False),
         "unverified": sum(1 for row in records if row.get("verified") is False),
         "mean_ms": round(statistics.mean(latencies), 1) if latencies else None,

@@ -76,7 +76,11 @@ def test_document_scan_flags_only_injected_text():
 
 
 class _Store:
+    def __init__(self):
+        self.catalog_calls = 0
+
     def get_catalog(self):
+        self.catalog_calls += 1
         return []
 
 
@@ -109,3 +113,5 @@ def test_orchestrator_refuses_before_retrieval_or_model():
     assert result["plan"]["intent"] == "security"
     assert result["guard"]["obfuscated"] is True
     assert result["retrieved"] == 0
+    # The router builds its catalog at construction; a refusal must not load it again.
+    assert orchestrator.retriever.store.catalog_calls == 1

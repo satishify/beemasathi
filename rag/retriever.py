@@ -98,7 +98,14 @@ class PolicyRetriever:
                 self.store.search(query=query, insurer=insurer, n_results=pool_size)
             )
 
-        merged = [item for item in merged if is_allowed(item.get("metadata"))]
+        # Only ledgered documents may be quoted, and a chunk that tries to
+        # steer the model is evidence of a poisoned PDF, not of coverage.
+        merged = [
+            item
+            for item in merged
+            if is_allowed(item.get("metadata"))
+            and not (item.get("metadata") or {}).get("injection_flags")
+        ]
 
         line = self._infer_line(query)
         if line and not insurer and not policy_name:

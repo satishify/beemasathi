@@ -4,6 +4,7 @@ from pathlib import Path
 import re
 import sys
 import time
+from dataclasses import replace
 from typing import Dict, List, Optional
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -68,18 +69,18 @@ class BeemaSathiOrchestrator:
         claim: Optional[Dict] = None,
         catalog: Optional[List[Dict]] = None,
     ) -> Dict:
-        catalog = catalog if catalog is not None else self.retriever.store.get_catalog()
-
         guard = scan_query(question)
         if guard.action == "refuse":
-            plan = self.route(question, insurer, policy_name)
-            plan = TaskPlan(question, guard.plan_intent, plan.insurers, plan.policies)
+            plan = replace(
+                self.route(question, insurer, policy_name), intent=guard.plan_intent
+            )
             result = guard.refusal_result(self.generator.model)
             result["guard"] = guard.as_dict()
             return self._wrap(
                 result, plan, {"verified": True, "unsupported": []}, []
             )
 
+        catalog = catalog if catalog is not None else self.retriever.store.get_catalog()
         plan = self.route(question, insurer, policy_name)
 
         if plan.intent in {"safety", "security", "scope"}:

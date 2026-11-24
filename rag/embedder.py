@@ -127,12 +127,14 @@ class PolicyVectorStore:
         if not chunks:
             print("No chunks to add.")
             return
-            
+        self._upsert(chunks)
+
+    def _upsert(self, chunks: List[Dict]):
         ids = self._chunk_ids(chunks)
         texts = [c["text"] for c in chunks]
         metadatas = [c["metadata"] for c in chunks]
         embeddings = self._encoder.encode(texts).tolist()
-        
+
         self.collection.upsert(
             ids=ids,
             documents=texts,
@@ -149,7 +151,8 @@ class PolicyVectorStore:
         Documents that share a `source` key (brochure vs CIS, a re-scrape of
         the same product) must not delete each other, so removal is scoped to
         this file: its relative path when known, otherwise its file name and
-        insurer.
+        insurer. New chunks are embedded before the old ones are deleted, so
+        an embedding failure leaves the previous index intact.
         """
         if not chunks:
             print("No chunks to replace.")
@@ -158,6 +161,12 @@ class PolicyVectorStore:
         sources = {chunk["metadata"]["source"] for chunk in chunks}
         if len(sources) != 1:
             raise ValueError("Replacement batch must contain exactly one source.")
+
+        chunks = self._dedupe_chunks(chunks)
+        ids = self._chunk_ids(chunks)
+        texts = [c["text"] for c in chunks]
+        metadatas = [c["metadata"] for c in chunks]
+        embeddings = self._encoder.encode(texts).tolist()
 
         sample = chunks[0]["metadata"]
         source_rel = sample.get("source_rel")
@@ -176,7 +185,15 @@ class PolicyVectorStore:
             )
         elif not source_rel:
             self.collection.delete(where={"source": next(iter(sources))})
-        self.add_chunks(chunks)
+        self.collection.upsert(
+            ids=ids,
+            documents=texts,
+            metadatas=metadatas,
+            embeddings=embeddings,
+        )
+        self._catalog_cache = None
+        self._write_manifest()
+        print(f"Upserted {len(chunks)} chunks into ChromaDB")
 
     def _embed_query(self, query: str):
         vector = self._query_cache.get(query)

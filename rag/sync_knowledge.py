@@ -258,7 +258,11 @@ def sync_knowledge(force: bool = False, dry_run: bool = False) -> Dict:
         rel = str(path.relative_to(PROJECT_ROOT))
         digest = _sha256(path)
         previous = index["files"].get(rel, {})
-        if not force and previous.get("sha256") == digest:
+        if (
+            not force
+            and previous.get("sha256") == digest
+            and not previous.get("last_error")
+        ):
             summary["unchanged"].append(rel)
             continue
 
@@ -316,6 +320,16 @@ def sync_knowledge(force: bool = False, dry_run: bool = False) -> Dict:
                 )
                 chunk_count = result["chunks"]
         except Exception as exc:
+            # Keep the entry (provenance still quotes any chunks that remain)
+            # but mark it so an unchanged digest is retried on the next run.
+            index["files"][rel] = {
+                **previous,
+                **meta,
+                "sha256": digest,
+                "last_error": str(exc)[:300],
+                "failed_at": datetime.now(timezone.utc).isoformat(),
+            }
+            _save_index(index)
             summary["errors"].append({"file": rel, "error": str(exc)})
             continue
 

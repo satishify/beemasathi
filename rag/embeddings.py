@@ -38,6 +38,10 @@ GIVEN_TOKENS_RE = re.compile(r"Given:\s*(\d+)")
 # bge-small averages roughly four characters per token on policy prose.
 _CHARS_PER_TOKEN = 4
 _MIN_CUT_CHARS = 200
+# A proportional re-cut converges slowly when the measured count barely
+# exceeds the limit (dense tables report far fewer chars per token), so every
+# pass also has to make real progress.
+_MAX_RECUT_RATIO = 0.7
 
 
 class EmbeddingBackendError(RuntimeError):
@@ -246,6 +250,7 @@ class HostedEmbeddingBackend:
                 break
             longest = max((len(text) for text in current), default=0)
             ratio = self.max_input_tokens / max(1, int(measured.group(1)))
+            ratio = min(_MAX_RECUT_RATIO, ratio * 0.95)
             current = self._recut(
                 current, max(_MIN_CUT_CHARS, int(longest * ratio))
             )

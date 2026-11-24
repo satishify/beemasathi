@@ -241,3 +241,22 @@ def test_duplicate_chunks_in_one_batch_collapse(monkeypatch):
     chunk = _chunks("star_health_demo_policy_wording", "a/demo.pdf", 1)[0]
     store.add_chunks([chunk, dict(chunk)])
     assert len(store.collection.upserts[0]["ids"]) == 1
+
+
+def test_replace_keeps_old_chunks_when_embedding_fails(monkeypatch):
+    class _FailingEncoder:
+        name = "stub"
+        dim = 2
+
+        def encode(self, texts):
+            raise RuntimeError("embedding failed")
+
+    monkeypatch.setattr(embedder_module, "write_manifest", lambda *a, **k: {})
+    store = _store()
+    store._encoder = _FailingEncoder()
+    with pytest.raises(RuntimeError):
+        store.replace_source_chunks(
+            _chunks("star_health_demo_policy_wording", "a/demo.pdf", 1)
+        )
+    assert store.collection.deletes == []
+    assert store.collection.upserts == []

@@ -117,6 +117,23 @@ def test_422_after_all_recut_passes_raises():
         backend.encode(["text"])
 
 
+def test_recut_makes_progress_when_overflow_is_marginal():
+    """Dense text can report slightly over the limit on every pass; the cut
+    must still shrink enough to converge inside the allowed passes."""
+    session = _Session(
+        [_Response(422, text=f"Given: {tokens} tokens")
+         for tokens in (560, 545, 530, 518)]
+    )
+    backend = _backend(
+        session, batch_size=1, max_recut_passes=4, max_input_chars=2000
+    )
+    backend.encode(["table row numbers 12 34 56 " * 60])
+    lengths = [len(request["input"][0]) for request in session.requests]
+    assert backend.recuts == 4
+    assert lengths == sorted(lengths, reverse=True)
+    assert lengths[-1] < 1000
+
+
 def test_dimension_change_is_rejected():
     session = _Session([])
     session.dim = 4

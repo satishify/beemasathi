@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 56,
+      "injection_flags": "",
+      "chunk_id": "0a6308df84a986d4d9e1"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Optional Covers (page 2)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "fefdbdac9b9b9d5dc723"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Optional Covers (page 2)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "028cd98765cf34269f47"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Optional Covers (page 2)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "5d386c5becc5cffd1d67"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Optional Covers (page 2)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "234286207e9745510de9"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Optional Covers (page 2)",
+      "schema_version": 2,
+      "token_estimate": 183,
+      "injection_flags": "",
+      "chunk_id": "02992fbdd3e287529c51"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Optional Covers (page 3)",
+      "schema_version": 2,
+      "token_estimate": 363,
+      "injection_flags": "",
+      "chunk_id": "c9d5b2eef247547cbf07"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Optional Covers (page 3)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "1109de647e2100c68c72"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Optional Covers (page 3)",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "669d83536df1b94f6e15"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Optional Covers (page 3)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "761531be906ef09d741d"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Optional Covers (page 3)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "0e31dd1f0615259dbc63"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Optional Covers (page 3)",
+      "schema_version": 2,
+      "token_estimate": 110,
+      "injection_flags": "",
+      "chunk_id": "09e60f22f30d71a98055"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "aca32bfcab140479adcd"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "a2d6eb5d3eeef2332c86"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "92296bf1a9de29c33cf7"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 284,
+      "injection_flags": "",
+      "chunk_id": "0805f205f21e193d8640"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "40895175fe602058444f"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "69d702fb5a9f3ba3d9d7"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "480b92c81d02c771df97"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "62b2c4e4a6fcbe39a39a"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 115,
+      "injection_flags": "",
+      "chunk_id": "f8cfaa62e304cc551b5c"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "06fb57fbde4d446c3d10"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "6f0ef6c46bc5faf8c4f7"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "2967121a37d58b70d3d3"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 287,
+      "injection_flags": "",
+      "chunk_id": "fffa1991eb25eb4d5ab4"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "65425c59301cfa7adb45"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 354,
+      "injection_flags": "",
+      "chunk_id": "992417f8b536e3cf1dc5"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "28fe5e37f692b8ab8f4c"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "7615e8eb20e72358b129"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "8049e50f4f0860a1a85f"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 167,
+      "injection_flags": "",
+      "chunk_id": "ed56098ed68b16d8d462"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Coverage Details (page 8)",
+      "schema_version": 2,
+      "token_estimate": 361,
+      "injection_flags": "",
+      "chunk_id": "fc69561e8c3767df6ba1"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Coverage Details (page 8)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "cec7d10d7934fe15a50a"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Coverage Details (page 8)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "912ccffa2fc90f7b9571"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Coverage Details (page 8)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "eb0ad28c5d61c684bf79"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Coverage Details (page 8)",
+      "schema_version": 2,
+      "token_estimate": 280,
+      "injection_flags": "",
+      "chunk_id": "fdb2f26c45795f1f4e2a"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Optional Covers (page 9)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "3d53286873efd645f1f8"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Optional Covers (page 9)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "cb33453bb3e191438d2d"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Optional Covers (page 9)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "fbf2a89ecbdac5f9fc25"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Optional Covers (page 9)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "eb6f03e7861819e7621a"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Optional Covers (page 9)",
+      "schema_version": 2,
+      "token_estimate": 308,
+      "injection_flags": "",
+      "chunk_id": "f868bc9bfe030e493ad5"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "0fcbf55ca1b798200148"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 361,
+      "injection_flags": "",
+      "chunk_id": "1721c2475ef5fd23a9be"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "18ce7804a713a27535c7"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "5e7cb937540d686f4a53"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "b16bc44fcae18547a86d"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 270,
+      "injection_flags": "",
+      "chunk_id": "f1f6f06fd912a8ab7e90"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "b99a0bad54d4abe70480"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "c9bbe3b18f0a6231e712"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "4db34ae98b4ecc8bfe17"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "9a9bdf59161faf7d35e9"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "b05b70aa7e9b835787d0"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 139,
+      "injection_flags": "",
+      "chunk_id": "4d656ad629cfb2434772"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "a3e9d63e3891d62c5708"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 225,
+      "injection_flags": "",
+      "chunk_id": "dad2245da55d1a481ef3"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "bajaj_allianz_gpgp_brochure",
       "source_file": "health__gpgp__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__gpgp__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 180,
+      "injection_flags": "",
+      "chunk_id": "de299805c96e07889d61"
     }
   }
 ]

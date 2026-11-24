@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Bajaj General Insurance Limited (Formerly known as Bajaj Allianz General Insurance Co. Ltd.)\nRegd. Office & Head Office: Bajaj Insurance House, Airport Road, Yerawada, Pune - 411006.\nIRDAI Reg No.: 113 | CIN: U66010PN2000PLC015329\nFor more details, log on to: www.bajajgeneralinsurance.com | Email: careforyou@bajajgeneral.com or\nCall at: Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nNON-MEDICAL EXPENSES COVER\nCUSTOMER INFORMATION SHEET\n(Description is illustrative and not exhaustive)\nSl No Title Description\nPolicy Clause Number\n1 Product Name Non-Medical Expenses Cover\n2 What am I covered for Non-Medical Expenses Cover Section C\nWhat are the major exclusions\n3 Please refer the Policy Wordings for detailed exclusion list\nin the policy\nAll Policy Terms and Conditions and exclusions of opted Base Section D\n4 Waiting Period Policy read with Policy Schedule are applicable mutatis\nmutandis.\n5 Payment Basis All pay outs are Indemnity payment basis. Section C\n6 Renewal Conditions Renewal of Rider Section E.4\nFor all clauses pertaining to cancellation please refer the policy\n7 Cancellation Section E.3\nwordings\nDetails Grievance Redressal cell, Governing Body of Insurance\n8 Grievance Redressal Procedure Section E.1\nCouncil and list of Ombudsman offices\nPlease disclose all pre-existing disease/s or condition/s before\n9 Insured’s Obligations Section E\nbuying a policy. Non-disclosure may result in claim not being paid\nLegal Disclaimer Note: The information must be read in conjunction with the product brochure and policy document. In case of any conflict between",
+    "metadata": {
+      "insurer": "bajaj_allianz",
+      "policy_name": "non_medical_expenses_cover",
+      "section": "Waiting Period (page 1)",
+      "page": 1,
+      "chunk_type": "waiting_period",
+      "source": "bajaj_allianz_non_medical_expenses_cover_cis",
+      "source_file": "health__non_medical_expenses_cover__cis.pdf",
+      "document_type": "cis",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses_cover__cis.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "cis",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "c8cd3c8583b3d369a7e8"
+    }
+  },
+  {
+    "text": "buying a policy. Non-disclosure may result in claim not being paid\nLegal Disclaimer Note: The information must be read in conjunction with the product brochure and policy document. In case of any conflict between\nthe CIS and the policy document, the terms and conditions mentioned in the policy document shall prevail.\nDeclaration by policy holder,\nI have read the above and confirm having noted the details.\nPlace\nDate: Signature of Policy holder\nNote:\nWeb link for downloading the product related documents\nhttps://www.bajajgeneralinsurance.com/health-insurance-plans/health-insurance-documents.html\nCIN: U66010PN2000PLC015329 | UIN: BAJHLAP21586V012021 1",
+    "metadata": {
+      "insurer": "bajaj_allianz",
+      "policy_name": "non_medical_expenses_cover",
+      "section": "Waiting Period (page 1)",
+      "page": 1,
+      "chunk_type": "claim_process",
+      "source": "bajaj_allianz_non_medical_expenses_cover_cis",
+      "source_file": "health__non_medical_expenses_cover__cis.pdf",
+      "document_type": "cis",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses_cover__cis.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "cis",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 164,
+      "injection_flags": "",
+      "chunk_id": "7a1b717c8ed49cc9c941"
+    }
+  }
+]

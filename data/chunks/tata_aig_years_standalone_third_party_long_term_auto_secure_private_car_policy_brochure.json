@@ -1,62 +1,126 @@
 [
   {
-    "text": "3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy\nCustomer Information Sheet/Know Your Policy\nThis document provides key information about your Policy. You are also advised to go through your Policy document.\nSr. No. Title Description Policy Clause No.\n1. Name of the Insurance 3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy\nProduct/Policy\n2. Unique Identification IRDAN108RP0003V02201819\nNumber (UIN) allotted\nby IRDAI\n3. Structure Basis of Sum Insured: Modified Indemnity\n4. Interests Insured Private Car as mentioned in the Policy Schedule\n5. Sum Insured / Motor 1. Liability to Third-Parties: Not applicable\nInsured Declared\n2. Personal Accident Cover for Owner-Driver: ₹15 lakhs - Benefit payment as provided under Section 6\nValue Scope (IDV)\n(Policy Coverage)\n6. Policy Coverage 1. Liability to Third-Parties Coverages\nunder the\n2. Personal Accident Cover for Owner-Driver (If opted and shown in your Policy Schedule)\nProduct\nFor detailed Coverages and its Exclusions, Policy Terms and & Conditions, please refer to the Policy\nWordings available on our website www.tataaig.com\n7. Add-On for the said Not applicable under this Policy.\nProduct\n8. Loss Participation Not applicable under this Policy.\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India • 24*7 Customer Support No.: 022 6489 8282 • Email: customersupport@tataaig.com",
+    "text": "Brochure\n3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy\nIntroduction\nArranging insurance every year for your private car may be a tedious & stressful task. In the hectic & busy\nschedule of modern world the chances that you forget to renew is also there which will not only be a\nviolation of law but may land you up in huge loss & liability in case of any accident.\nTo relieve you from the stress of buying policy every year TATA AIG has brought 3 Years Standalone Third\nParty Long Term Auto Secure - Private Car Policy for your vehicle which will have the following additional\nadvantages -\n1. Protection from increase in third party premium.\n2. Relieving you from remembering the renewal dates.\nProduct Description\nI. Liability To Third Parties\nSubject to the limits of liability as laid down in the Schedule hereto the Company will indemnify the\nInsured in the event of accident caused by or arising out of the use of the Motor vehicle anywhere in\nIndia against all sums including claimant's costs and all expenses which the Insured shall become legally\nliable to pay in respect of:\ni. death of or bodily injury to any person so far as it is necessary to meet the requirements of Motor\nVehicles Act.\nii. damage to property other than property belonging to the Insured or held in trust or in the custody or\ncontrol of the Insured up to the limit specified in the schedule.\nII. Personal Accident Cover for Owner Driver:\nThe company undertakes to pay compensation as per the following scale for bodily injury/death sustained",
     "metadata": {
       "insurer": "tata_aig",
       "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Exclusions (page 1)",
+      "section": "Page 1",
       "page": 1,
-      "chunk_type": "exclusion",
+      "chunk_type": "claim_process",
       "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
+      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "5e4c73f3e82c5ad59376"
     }
   },
   {
-    "text": "8. Loss Participation Not applicable under this Policy.\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India • 24*7 Customer Support No.: 022 6489 8282 • Email: customersupport@tataaig.com\nWebsite: www.tataaig.com • IRDA of India Registration No.: 108 • CIN: U85110MH2000PLC128425 • 3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy UIN: IRDAN108RP0003V02201819\nPage 1 of 8",
+    "text": "II. Personal Accident Cover for Owner Driver:\nThe company undertakes to pay compensation as per the following scale for bodily injury/death sustained\nby the owner-driver of the vehicle, in direct connection with the vehicle insured or whilst driving or\nmounting into/dismounting from the vehicle insured or whilst travelling in it as a co-driver, caused by\nviolent, accidental, external and visible means which independent of any other cause shall within six\ncalendar months of such injury result in:\nDetails of Injury Scale of Compensation\ni) Death 100%\nii) Loss of two limbs or sight of two eyes or one limb and\n100%\nsight of one eye\niii) Loss of one limb or sight of one eye 50%\niv) Permanent Total Disablement from injuries other than\n100%\nnamed above\nCompensation shall be payable under only one of the items (i) to (iv) above in respect of the owner-driver\narising out of any one occurrence and the total liability of the insurer shall not in the aggregate exceed the\nsum of Rs.15 lakhs during any one period of insurance",
     "metadata": {
       "insurer": "tata_aig",
       "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Exclusions (page 1)",
+      "section": "Page 1",
       "page": 1,
       "chunk_type": "general",
       "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
+      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "4ef6590c26610a5df0ca"
     }
   },
   {
-    "text": "3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy\nSr. No. Title Description Policy Clause No.\n9. Exclusions The Company shall not be liable under this Policy in respect of: General\nExceptions\n1. Accidental loss, damage, or liability outside the Geographical Area unless covered.\n2. As per the defences available in the Motor Vehicles Act, 2019.\n3. Policy void if obtained through material non-disclosure or false representation.\n4. Fraud by the Insured, their representative, or acquaintance.\n5. Any claim arising out of any contractual liability;\n6. Vehicle use beyond ‘Limitations as to Use’ or driven by an unauthorized person under the Driver’s\nClause.\n7. Liability for employee death or injury during employment, except as required by the Motor\nVehicles Act.\n8. Liability excluded for death or injury to non-contractual passengers, except as required by the\nMotor Vehicles Act.\n9. No liability for loss, damage, or claims linked to war, invasion, rebellion, or related events unless\nproven otherwise by the Insured.\n10. Any liability directly or indirectly caused by or contributed to by or arising from nuclear weapons\nmaterial.\nFor detailed list of Exclusions and Terms and Conditions, please refer to the Policy Wordings available\non our website www.tataaig.com\n10. Special Conditions and Not applicable under this Policy.\nWarranties (If Any)\n11. Admissibility of Claim For Liability to Third-Party:\nThird-Party Claims will be payable in accordance with the terms and conditions of the policy and",
+    "text": "GENERAL EXCEPTIONS\nThe Company shall not be liable under this policy in respect of\n1. Any claim arising out of any contractual liability;\n2. Any accidental loss or damage and/or liability caused sustained or incurred whilst the vehicle insured\nherein is\na. being used otherwise than in accordance with the 'Limitations as to Use' or\nb. being driven by or is for the purpose of being driven by him/her in the charge of any person other\nthan a Driver as stated in the Driver's Clause.\n3. Except so far as is necessary to meet the requirements of the Motor Vehicles Act, the Company shall not\nbe liable in respect of death arising out of and in the course of employment of a person in the\nemployment of the Insured or in the employment of any person who is indemnified under this Policy or\nbodily injury sustained by such person arising out of and in the course of such employment\n4. Except so far as is necessary to meet the requirements of the Motor Vehicles Act, the Company shall not\nbe liable in respect of death or bodily injury to any person (other than a passenger carried by reason of\nor in pursuance of a contract of employment) being carried in or upon or entering or mounting or\nalighting from the motor vehicle at the time of the occurrence of the event out of which any claim arises\n5. The Company shall not be liable in respect of any liability directly or indirectly or proximately or\nremotely occasioned by contributed to by or traceable to or arising out of or in connection with war,\ninvasion, the Act of foreign enemies, hostilities or warlike operations (whether before or after",
     "metadata": {
       "insurer": "tata_aig",
       "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Exclusions (page 2)",
-      "page": 2,
-      "chunk_type": "exclusion",
-      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "motor"
-    }
-  },
-  {
-    "text": "11. Admissibility of Claim For Liability to Third-Party:\nThird-Party Claims will be payable in accordance with the terms and conditions of the policy and\nsubject to the provisions of the Motor Vehicles Act, 2019, the Central Motor Vehicles Rules, 1989, the\nEmployees' Compensation Act, 1929, and any other applicable laws.\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India • 24*7 Customer Support No.: 022 6489 8282 • Email: customersupport@tataaig.com\nWebsite: www.tataaig.com • IRDA of India Registration No.: 108 • CIN: U85110MH2000PLC128425 • 3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy UIN: IRDAN108RP0003V02201819\nPage 2 of 8",
-    "metadata": {
-      "insurer": "tata_aig",
-      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Exclusions (page 2)",
+      "section": "Page 2",
       "page": 2,
       "chunk_type": "claim_process",
       "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
+      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "c0158310036f701b2fc6"
     }
   },
   {
-    "text": "3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy\nSr. No. Title Description Policy Clause No.\nFor Personal Accident Cover for Owner-Driver:\n1. You must notify us of any actual or potential loss immediately after it occurs or as soon as\nreasonably possible.\n2. The Company will not cover claims arising from or related to intentional self-injury, suicide,\nattempted suicide, physical defects, or infirmities.\n3. The Company will not cover any expenses resulting from an accident that occurs while you are\nunder the influence of alcohol or drugs.\n4. The Owner-Driver must be the registered owner of the Vehicle Insured under this Policy.\n5. The Owner-Driver must be the Insured Person named in this Policy.\n6. The Owner-Driver must hold a valid and effective driving license as required by the Motor Vehicles\nAct, 2019, and the Central Motor Vehicles Rules, 1989.\n12. Policy Servicing - Claim For Liability to Third-Party:\nIntimation and\nThe Insured, his/her legal representatives, or acquaintances or authorised signatory is expected to\nProcessing\nnotify TATA AIG General Insurance Company Limited of any Third-Party Liability claim using the\nprovided email along with the vehicular documents, the driving license of the driver operating the\nInsured Vehicle at the time of the accident, and a copy of the police complaint, if available.\nThe Insured must then provide all necessary information and assistance as required by the Company.\nAny letters, claims, writs, summons, processes, or copies thereof received by the Insured must be",
+    "text": "remotely occasioned by contributed to by or traceable to or arising out of or in connection with war,\ninvasion, the Act of foreign enemies, hostilities or warlike operations (whether before or after\ndeclaration of war) Civil War, Mutiny Rebellion, Military or usurped power or by any direct or indirect\nconsequence of any of the said occurrences and in the event of any claim hereunder the Insured shall\nprove that the accidental loss damage and/or liability arose independently of and was in no way\nconnected with or occasioned by or contributed to by or traceable to any of the said occurrences or any\nconsequences thereof and in default of such proof, the Company shall not be liable to make any\npayment in respect of such a claim\n6. The Company shall not be liable in respect of any liability directly or indirectly caused by or contributed\nto by or arising from nuclear weapons material.\nCancellation of Policy:\nI. Cancellation by Insurer\nThe Company may cancel the policy on the grounds of established fraud, subject to clause Ill\nmentioned under this section, by sending seven days' notice by recorded delivery to the insured at\ninsured's last known address and in which case the policy will be cancelled 'ab-initio' with forfeiture of\npremium and non-consideration of claim, if any.\nII. Cancellation by Insured\nThe policy may be cancelled at any time by the insured without assigning any reason provided no claim\nhas arisen during the period of insurance. The insured shall be entitled to a refund of proportionate",
+    "metadata": {
+      "insurer": "tata_aig",
+      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
+      "section": "Page 2",
+      "page": 2,
+      "chunk_type": "waiting_period",
+      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
+      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "document_type": "brochure",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "6fd17e6f8aba1eabd917"
+    }
+  },
+  {
+    "text": "The policy may be cancelled at any time by the insured without assigning any reason provided no claim\nhas arisen during the period of insurance. The insured shall be entitled to a refund of proportionate\npremium for the unexpired period in the running year and full refund of premium for remaining full\npolicy years (where period of insurance exceeds one year) subject to submission of proof that vehicle is\ninsured elsewhere at least for Liability Only cover and original certificate of insurance.\nIll. Liability to Third party section of the policy may be cancelled either by the Company or the Insured\nonly on the following grounds :\na. Double Insurance\nb. Vehicle not in use anymore because of Total Loss or Constructive Total Loss\non submission of original cancelled Registration Certificate or on providing evidence that the vehicle is\ninsured elsewhere, at least for Liability Only cover on submission of original proof of such insurance.\nThe Company will refund proportionate premium for unexpired period of insurance.",
+    "metadata": {
+      "insurer": "tata_aig",
+      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
+      "section": "Page 2",
+      "page": 2,
+      "chunk_type": "claim_process",
+      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
+      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "document_type": "brochure",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "fae038927cb0abb5183c"
+    }
+  },
+  {
+    "text": "Double Insurance:\nWhen the insured vehicle is covered under another policy with identical cover, then the policy\ncommencing later may be cancelled by the insured subject to the following.\nIf a vehicle is insured at any time with two different offices of the same insurer, 100% refund of\npremium of one policy shall be allowed by cancelling the later of the two policies. However, if the two\npolicies are issued by two different insurers, the policy commencing later shall be cancelled by the\ninsurer concerned and pro-rata refund of premium thereon shall be allowed.\nIf however, due to requirements of Banks/Financial Institutions, intimated to the insurer in writing, the\nearlier dated policy is required to be cancelled, then refund of premium will be allowed after retaining\npremium on pro-rate basis for the period the policy was in force prior to cancellation.\nIn either case, no refund of premium shall be allowed for such cancellation if any claim has arisen on\neither of the policies during the period when both the policies were in operation, but prior to\ncancellation of one of the policies.\nHow do you lodge a claim with US?\nThe insured/ claimant will intimate claim to TATA AIG via -\nI. Call Centre:\nCustomer Support No. 022 6489 8282\n• Email - general.claims@tataaig.com\n• Website - www.tataaig.com\nNotice of claim must be given by you to us immediately after an actual or potential loss begins or as soon as\nreasonably possible after actual or potential loss begins.\nPlease keep the following information ready when you call the call centre:\n1.Your Contact Numbers\n2. Policy Number",
     "metadata": {
       "insurer": "tata_aig",
       "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
@@ -64,163 +128,91 @@
       "page": 3,
       "chunk_type": "claim_process",
       "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
+      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "2ba3bcb86b92ae35fa91"
     }
   },
   {
-    "text": "The Insured must then provide all necessary information and assistance as required by the Company.\nAny letters, claims, writs, summons, processes, or copies thereof received by the Insured must be\npromptly forwarded to either the Policy servicing branch or the nearest branch of TATA AIG General\nInsurance Company Limited.\nEmail: general.claims@tataaig.com\nFor Personal Accident for Owner-Driver Section:\nThe Insured/Insured’s legal representative may intimate claim to TATA AIG via:\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India • 24*7 Customer Support No.: 022 6489 8282 • Email: customersupport@tataaig.com\nWebsite: www.tataaig.com • IRDA of India Registration No.: 108 • CIN: U85110MH2000PLC128425 • 3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy UIN: IRDAN108RP0003V02201819\nPage 3 of 8",
+    "text": "1.Your Contact Numbers\n2. Policy Number\n3. Name of Insured\n4.Date & Time of loss\n5. Location of loss\n6. Nature of Loss\n7. Contact Details of the person at the loss location\nNote: The above list is only indicative. You may be asked for additional information.\nThis Policy is subject to IRDAI (protection of Policyholder's Interests, Operations and Allied Matters of\nInsurers) Regulations, 2024\nCustomer Grievance Redressal Policy\nRedressal of Grievance\nAt TATA AIG, we strive to provide the best service to our customers. If you're not satisfied and wish to\nlodge a complaint, please call our 24/7 Customer Support No. 022 6489 8282 or email us at\ncustomersupport@tataaig.com. We will investigate and respond within the regulatory turnaround\ntime (TAT).\nEscalation Level 1\nIf you do not receive a response or are not satisfied with the resolution, please contact us\nat manager.customersupport@tataaig.com.\nl:'cr\"\"l\"\"tin., I 01101 ')",
     "metadata": {
       "insurer": "tata_aig",
       "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
       "section": "Page 3",
       "page": 3,
-      "chunk_type": "claim_process",
-      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "motor"
-    }
-  },
-  {
-    "text": "3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy\nSr. No. Title Description Policy Clause No.\n• Website: www.tataaig.com\n• TATA AIG App – Download our customer app from Play Store (Android and IOS users).\n• WhatsApp: Send “Hi” on “9136160375”\n• Email: general.claims@tataaig.com\nNotice of claim must be given by you to us immediately after an actual or potential loss begins or as\nsoon as reasonably possible after actual or potential loss begins.\nPlease keep the following information ready when you call the call centre:\n1. Your Contact Numbers\n2. Policy Number\n3. Name of Insured\n4. Date & Time of Loss\n5. Location of Loss\n6. Nature of Loss\n7. Contact Details of the Person at the Loss Location\nNote: The above list is only indicative. You may be asked for additional information.\n• Details of designated Company Officials to be contacted in time of claim:\nOnce the claim is registered, SMS/Email/WhatsApp communication is sent to Insured on the\nMobile Number/Email ID registered in Policy providing the name and contact details of Company\nOfficial to be contacted for any concerns/queries regarding the claim.\n• Details of procedure to be followed for Cashless Service as well as for Reimbursement of Claim:\n• Intimation of claim to TATA AIG through various mediums available (Website:\nwww.tataaig.com, TATA AIG App, WhatsApp - Send “Hi” on “9136160375”, TATA AIG Customer\nApp on Google Play & Apple Store).",
-    "metadata": {
-      "insurer": "tata_aig",
-      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Page 4",
-      "page": 4,
-      "chunk_type": "cashless",
-      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "motor"
-    }
-  },
-  {
-    "text": "www.tataaig.com, TATA AIG App, WhatsApp - Send “Hi” on “9136160375”, TATA AIG Customer\nApp on Google Play & Apple Store).\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India • 24*7 Customer Support No.: 022 6489 8282 • Email: customersupport@tataaig.com\nWebsite: www.tataaig.com • IRDA of India Registration No.: 108 • CIN: U85110MH2000PLC128425 • 3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy UIN: IRDAN108RP0003V02201819\nPage 4 of 8",
-    "metadata": {
-      "insurer": "tata_aig",
-      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Page 4",
-      "page": 4,
       "chunk_type": "general",
       "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
+      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 232,
+      "injection_flags": "",
+      "chunk_id": "4b46d92bb5c989437e43"
     }
   },
   {
-    "text": "3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy\nSr. No. Title Description Policy Clause No.\n• First contact team connects with Insured to confirm workshop location and confirm if the\nvehicle is placed for repairs.\n• Appointment of Surveyor by TATA AIG.\n• Documents are verified by the Surveyor, and if all documents are in order, repair approval is\nshared immediately. Tentative list of documents is noted below:\n• Tentative list of documents is noted below:\na. Claim Form (In prescribed format duly filled and signed).\nb. Registration Certificate of the vehicle. (Self-Attested by Insured / verification when\nrequired).\nc. Driving License of the person driving the vehicle at the time of accident. (Self-Attested by\nInsured / verification when required).\nd. FIR – (In case of Third-Party Injuries/Property Damage/major losses).\nThe Company may ask for additional information/documents for verification of facts related\nto your claim, if required.\n• Once the repair works are completed by the workshop, re-inspection of the vehicle may\nbe carried out, if required.\n• Upon submission of repair invoice to TATA AIG in case of Cashless Claims, delivery order\nis shared with workshop, post which Insured can take delivery of vehicle.\n• In case of Reimbursement Claims, Insured will have to submit repair invoice in original\nand a copy of cancelled cheque to TATA AIG.\n• Claim payment is done through NEFT within 7 days from receipt of all relevant\ndocuments.",
+    "text": "If you still need assistance, reach out to the Head of Customer Services at\nhead.customerservices@tataaig.com. We will provide our final response within the regulatory TAT.\nIf you're still not satisfied after this process, you may approach the Insurance Ombudsman of concerned\njurisdiction. You can also lodge a grievance on the Bima Bharosa Grievance Redressal Portal:\nhttps:ljbimabharosa.irdai.gov.in/.\nProhibition of Rebates : Section 41 of The Insurance Act, 1938 as amended by Insurance laws (Amendment)\nAct, 2015\n1. No person shall allow or offer to allow, either directly or indirectly, as an inducement to any person to\ntake out or renew or continue an insurance in respect of any kind of risk relating to lives or property in\nIndia, any rebate of the whole or part of the commission payable or any rebate of the premium shown\non the policy, nor shall any person taking out or renewing or continuing a policy accept any rebate,\nexcept such rebate as may be allowed in accordance with the published prospectus or tables of the\nInsurer.\n2. Any Person Making Default In Complying With The Provisions Of This Section Shall Be Punished With A\nFine Which May Extend To Ten Lakhs Rupees.\nDisclaimer: \"Insurance is the subject matter of the solicitation\". This is a summary of the product features,\nexclusions, limitations and conditions. For more details on benefits, exclusions, limitations, terms &\nconditions, please refer policy wordings carefully, before concluding a sale. The trade logo displayed above",
     "metadata": {
       "insurer": "tata_aig",
       "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Page 5",
-      "page": 5,
-      "chunk_type": "cashless",
-      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "motor"
-    }
-  },
-  {
-    "text": "• Claim payment is done through NEFT within 7 days from receipt of all relevant\ndocuments.\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India • 24*7 Customer Support No.: 022 6489 8282 • Email: customersupport@tataaig.com\nWebsite: www.tataaig.com • IRDA of India Registration No.: 108 • CIN: U85110MH2000PLC128425 • 3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy UIN: IRDAN108RP0003V02201819\nPage 5 of 8",
-    "metadata": {
-      "insurer": "tata_aig",
-      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Page 5",
-      "page": 5,
-      "chunk_type": "claim_process",
-      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "motor"
-    }
-  },
-  {
-    "text": "3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy\nSr. No. Title Description Policy Clause No.\n• Turnaround Time (TAT) for claims settlement:\nAll claims shall be settled within 7 working days of the receipt of all relevant documents,\nincluding original bills & clarifications, if any.\n13. Grievance Redressal A. Policy related issues:\nand Policyholders\nAt TATA AIG, we strive to provide the best service to our customers. If you’re not satisfied and wish to\nProtection\nlodge a complaint, please call our 24*7 Customer Support No.: 022 6489 8282, or 022-66939500 (toll\ncharges apply), or email us at customersupport@tataaig.com. We will investigate and respond within\nthe regulatory turnaround time (TAT).\nEscalation Level 1:\nIf you do not receive a response or are not satisfied with the resolution, please contact us at\nmanager.customersupport@tataaig.com.\nEscalation Level 2:\nIf you still need assistance, reach out to the Head of Customer Services at\nhead.customerservices@tataaig.com. We will provide our final response within the regulatory TAT.\nIf you're still not satisfied after this process, you may approach the Insurance Ombudsman of\nconcerned jurisdiction. You can also lodge a grievance on the Bima Bharosa Grievance Redressal\nPortal: https://bimabharosa.irdai.gov.in/\nGrievance Redressal Procedure:\nOur grievance redressal procedure and details about ombudsman are available at the company\nwebsite www.tataaig.com.\nGrievance may also be lodged at IRDAI Integrated Grievance Management System\n(https://bimabharosa.irdai.gov.in/)",
-    "metadata": {
-      "insurer": "tata_aig",
-      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Page 6",
-      "page": 6,
-      "chunk_type": "claim_process",
-      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "motor"
-    }
-  },
-  {
-    "text": "Grievance may also be lodged at IRDAI Integrated Grievance Management System\n(https://bimabharosa.irdai.gov.in/)\nB. Third-Party Claim related issues: As per the procedures of law.\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India • 24*7 Customer Support No.: 022 6489 8282 • Email: customersupport@tataaig.com\nWebsite: www.tataaig.com • IRDA of India Registration No.: 108 • CIN: U85110MH2000PLC128425 • 3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy UIN: IRDAN108RP0003V02201819\nPage 6 of 8",
-    "metadata": {
-      "insurer": "tata_aig",
-      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Page 6",
-      "page": 6,
-      "chunk_type": "claim_process",
-      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "motor"
-    }
-  },
-  {
-    "text": "3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy\nSr. No. Title Description Policy Clause No.\n14. Obligations of the The Policyholder should promptly notify their Insurance Company of any accident or incident that\nPolicyholder could result in a Third-Party Claim. This notification should be made as soon as possible, ideally within\n48 hours. This helps the Insurer to start investigating the matter and to provide support. The Insured\nor representative should provide all relevant details about the accident, including the names and\ncontact information of any witnesses, details of the Third-Party involved, and the nature of the\ndamages or injuries.\nIn the event of a Third-Party claim where the Insured Vehicle is implicated, the Policyholder should\nsubmit any evidence that proves the vehicle was not at the accident scene, such as GPS records,\nsurveillance footage, or witness statements. This helps substantiate the claim that the vehicle was at a\ndifferent location.\nFurther they should gather and present any evidence that proves the false implication, such as\neyewitness statements, photographs, or CCTV footage that shows the vehicle was not at fault.\nThe Policyholder should gather and submit any evidence that supports the Policyholder’s claim that\nthe identified driver is not known to them and that the vehicle was not driven by the identified driver.\nThis may include proof of the vehicle's location or other relevant documentation. Further, the\nPolicyholder should provide any necessary information such as proof of the driver’s identity or details",
-    "metadata": {
-      "insurer": "tata_aig",
-      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Page 7",
-      "page": 7,
-      "chunk_type": "claim_process",
-      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "motor"
-    }
-  },
-  {
-    "text": "This may include proof of the vehicle's location or other relevant documentation. Further, the\nPolicyholder should provide any necessary information such as proof of the driver’s identity or details\nabout who had access to the vehicle at the time.\nThe Policyholder should ensure that all statements and information provided to the insurer and legal\nauthorities are accurate and truthful. Avoid making misleading or false statements.\nThe Policyholder should comply with any legal procedures or requirements related to disputing the\nfalse claim, including attending court hearings if necessary.\nThe Policyholder should keep detailed records of all interactions related to the case, including\ncorrespondence with the Insurer and any legal proceedings.\nThe Policyholder should submit all required documents and forms to the Insurance Company in a\ntimely manner to avoid delays in claim processing. It is important for Policyholders to understand and\nfulfill these responsibilities to ensure a smooth and efficient claims process.\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India • 24*7 Customer Support No.: 022 6489 8282 • Email: customersupport@tataaig.com\nWebsite: www.tataaig.com • IRDA of India Registration No.: 108 • CIN: U85110MH2000PLC128425 • 3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy UIN: IRDAN108RP0003V02201819\nPage 7 of 8",
-    "metadata": {
-      "insurer": "tata_aig",
-      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Page 7",
-      "page": 7,
-      "chunk_type": "claim_process",
-      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "motor"
-    }
-  },
-  {
-    "text": "3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy\nSr. No. Title Description Policy Clause No.\nThe Policyholder should preserve evidence related to the accident, such as photographs of the\ndamage, police reports, and medical records, to support the claim process.\nIf a Third-Party files a legal suit or complaint, the Policyholder must inform the Insurance Company and\nprovide all documents and information related to the legal proceedings. The Policyholder is generally\nexpected to participate in legal proceedings as advised by the Insurer.\nThe Policyholder must cooperate fully with the Insurance Company during the investigation of the\nclaim. This includes providing necessary documents, evidence, and statements required to process the\nclaim.\nThe Policyholder must specify all Material Facts. \"Material facts\" for the purpose of this policy shall\nmean all relevant information which will enable Us to take informed decision in the context of\nunderwriting the risk.\nDeclaration by the Policyholder:\nI have read the above and confirm having noted the details.\nPlace:\nDate: (Signature of the Policyholder)\nNote: In the event of no response from your end within 15 days of this Customer Information Sheet Receipt, it will be deemed that you have read the\naforementioned document and confirmed having noted the details. (https://www.tataaig.com/downloads)\nLegal Disclaimer Note: The information must be read in conjunction with the Policy document. In case of any conflict between the CIS and the Policy",
-    "metadata": {
-      "insurer": "tata_aig",
-      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Exclusions (page 8)",
-      "page": 8,
-      "chunk_type": "claim_process",
-      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "motor"
-    }
-  },
-  {
-    "text": "aforementioned document and confirmed having noted the details. (https://www.tataaig.com/downloads)\nLegal Disclaimer Note: The information must be read in conjunction with the Policy document. In case of any conflict between the CIS and the Policy\ndocument, the terms and conditions mentioned in the Policy document shall prevail.\nDisclaimer: Insurance is the subject matter of the solicitation. For more details on benefits, optional benefits, exclusions, limitations, terms & conditions, please read the Policy Wordings carefully, before concluding a sale. Trade logo displayed above belongs to Tata Sons Private\nLimited and AIG and used by TATA AIG General Insurance Company Limited under License.\nRegistered office: Peninsula Business Park, Tower A, 15th Floor, G.K Marg, Lower Parel, Mumbai - 400013, Maharashtra, India • 24*7 Customer Support No.: 022 6489 8282 • Email: customersupport@tataaig.com\nWebsite: www.tataaig.com • IRDA of India Registration No.: 108 • CIN: U85110MH2000PLC128425 • 3 Years Standalone Third Party Long Term Auto Secure - Private Car Policy UIN: IRDAN108RP0003V02201819\nPage 8 of 8",
-    "metadata": {
-      "insurer": "tata_aig",
-      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
-      "section": "Exclusions (page 8)",
-      "page": 8,
+      "section": "Exclusions (page 4)",
+      "page": 4,
       "chunk_type": "exclusion",
       "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
-      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__cis.pdf",
+      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "ba3052d9819fe12abe13"
+    }
+  },
+  {
+    "text": "exclusions, limitations and conditions. For more details on benefits, exclusions, limitations, terms &\nconditions, please refer policy wordings carefully, before concluding a sale. The trade logo displayed above\nbelongs to TATA Sons Private Limited and AIG and is used by TATA AIG General Insurance Company Limited\nunder License\nSection 64VB of the Insurance Act,1938 -\n\"Commencement of risk cover under the policy is subject to receipt of payable premium by TATA AIG\nGeneral Insurance Company Limited\".\nTATA AIG General Insurance Company Limited\nRegd Office: Peninsula Business Park, Tower - A, 15th Floor, G.K. Marg, Lower Parel, Mumbai - 400013.\n24X7 Customer Support No. 022 6489 8282 I E-mail: customersupport@tataaig.com I\nWebsite: www.tataaig.com IRDA of India Registration No: 108 I CIN: U85110MH2000PLC128425 I\nUIN: IRDAN108RP0003V02201819",
+    "metadata": {
+      "insurer": "tata_aig",
+      "policy_name": "years_standalone_third_party_long_term_auto_secure_private_car_policy",
+      "section": "Exclusions (page 4)",
+      "page": 4,
+      "chunk_type": "exclusion",
+      "source": "tata_aig_years_standalone_third_party_long_term_auto_secure_private_car_policy_brochure",
+      "source_file": "motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "document_type": "brochure",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__years_standalone_third_party_long_term_auto_secure_private_car_policy__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 212,
+      "injection_flags": "",
+      "chunk_id": "43c010c9043a4e92337a"
     }
   }
 ]

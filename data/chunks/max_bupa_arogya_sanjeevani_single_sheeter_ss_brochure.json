@@ -10,7 +10,17 @@
       "source": "max_bupa_arogya_sanjeevani_single_sheeter_ss_brochure",
       "source_file": "health__arogya_sanjeevani_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 237,
+      "injection_flags": "",
+      "chunk_id": "df562a6b6be208ae3eea"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_arogya_sanjeevani_single_sheeter_ss_brochure",
       "source_file": "health__arogya_sanjeevani_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "73fe11f27396c5e03521"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_arogya_sanjeevani_single_sheeter_ss_brochure",
       "source_file": "health__arogya_sanjeevani_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "95ad951d8ae564b786c0"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_arogya_sanjeevani_single_sheeter_ss_brochure",
       "source_file": "health__arogya_sanjeevani_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "beef713fb55252959837"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "max_bupa_arogya_sanjeevani_single_sheeter_ss_brochure",
       "source_file": "health__arogya_sanjeevani_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 341,
+      "injection_flags": "",
+      "chunk_id": "f973bbfd1304c7b11fdf"
     }
   }
 ]

@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 206,
+      "injection_flags": "",
+      "chunk_id": "065c36d8afef25953d1b"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "1427f2334c495cb210b8"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "dcf154c922087bc57ce0"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 99,
+      "injection_flags": "",
+      "chunk_id": "b0a743b111148026f4e1"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "92aa95cb7ffc772f5eb9"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "a789dd20b6eafe627916"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 89,
+      "injection_flags": "",
+      "chunk_id": "31ca0a98d4c06cf7cfaf"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "95aec28694cad94c0c90"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 359,
+      "injection_flags": "",
+      "chunk_id": "0c19a304b82f5bcb491c"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "15d7eadb1d31d10fdf22"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 272,
+      "injection_flags": "",
+      "chunk_id": "eb22b40f940d196f1fc1"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "18d9125a381ff92a850d"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 268,
+      "injection_flags": "",
+      "chunk_id": "b731d6201421f77ffbf0"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "d2eb776e60bf0eea3ba2"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 242,
+      "injection_flags": "",
+      "chunk_id": "af9fb2c8f78f84117c05"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "98f361d8aea760215a1f"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 363,
+      "injection_flags": "",
+      "chunk_id": "147f092d2268a2e850a6"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "c8580940369cb6ba5731"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 368,
+      "injection_flags": "",
+      "chunk_id": "655b6bb532e0871b82bc"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 93,
+      "injection_flags": "",
+      "chunk_id": "76bd5bce19840e9b65bd"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "a87b7ece91631c53f939"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 311,
+      "injection_flags": "",
+      "chunk_id": "47909cb0fd788423881c"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "3464465b92f74ed9ce09"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "567685b4f8dd22ac6a76"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "bcc60777c82306294808"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "2e2080e34cc433ecd57d"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "6dc58f629633bc1a83ae"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "a5488c45792b43e8aff1"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "c8ef588685659bcd995a"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 345,
+      "injection_flags": "",
+      "chunk_id": "e2df1d14de3fd3917916"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "9bd40c2aec4633be4357"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 276,
+      "injection_flags": "",
+      "chunk_id": "87994f31a4d598c74fcf"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "04be61ac96449e39bf6a"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "bbe79354238b2b09179a"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 66,
+      "injection_flags": "",
+      "chunk_id": "48e2edfdc152afd11a18"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "8f32946a55c99542472c"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 359,
+      "injection_flags": "",
+      "chunk_id": "15e70d63a99c12255556"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 287,
+      "injection_flags": "",
+      "chunk_id": "628c8757eb2f58daa400"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "eab3127cf2dec9818af2"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 112,
+      "injection_flags": "",
+      "chunk_id": "fc78ad02d9e1c09e17aa"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "705b39325839c729b92c"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 111,
+      "injection_flags": "",
+      "chunk_id": "2eba58d706a71768fa5e"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "c6abfeb90b9f09c9a7a0"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 362,
+      "injection_flags": "",
+      "chunk_id": "b4be8f2ca07a6d2fd5b7"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 123,
+      "injection_flags": "",
+      "chunk_id": "39014703efeecc37e05c"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_policy_wording",
       "source_file": "health__critical_illness_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 272,
+      "injection_flags": "",
+      "chunk_id": "b5780bceeaff07bbaf4c"
     }
   }
 ]

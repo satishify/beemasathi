@@ -10,7 +10,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "227191c360404e44a12c"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "832ffe4d190afcd39122"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 89,
+      "injection_flags": "",
+      "chunk_id": "f49c2ec4ffd64f34c2b0"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "1f7eb9d286112e384311"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "952f7bad13be6b6f623f"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 77,
+      "injection_flags": "",
+      "chunk_id": "087f7fab154e6f413a2a"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "d8d3f37fbb234401be85"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 231,
+      "injection_flags": "",
+      "chunk_id": "c3aac6c5b013a203dfc9"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "fe754aad0dc1c2b6d813"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 205,
+      "injection_flags": "",
+      "chunk_id": "2f1ea724e543d5295b05"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "c38e03d1eaff07a121a0"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 304,
+      "injection_flags": "",
+      "chunk_id": "7d8f9f03ac8c51065493"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "3d87b3942364857a4675"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 144,
+      "injection_flags": "",
+      "chunk_id": "f595a71ea9decbcef857"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 331,
+      "injection_flags": "",
+      "chunk_id": "82b4126add503acd4a67"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "5f49d9cb6899478095ca"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 282,
+      "injection_flags": "",
+      "chunk_id": "f5a07557762376e1aebf"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "e1a5d647965811e33113"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "97b3fcd43da000e328f2"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "684d81250283a2ed0e40"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 333,
+      "injection_flags": "",
+      "chunk_id": "65787694c280de9a3bd8"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "621227efa94fcdf11d2f"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "0244fb44827b6f9bd160"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "e47b1d040b4f391a8596"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 89,
+      "injection_flags": "",
+      "chunk_id": "588fb002299a5058ea1c"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "4d00754ab7b23cec3598"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 237,
+      "injection_flags": "",
+      "chunk_id": "ebb0c9d0812d97d9aedf"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "47dd29a63d675ff05765"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 230,
+      "injection_flags": "",
+      "chunk_id": "505e8addabdf0701e3b3"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "dc2b068c18ce6b9331dd"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 291,
+      "injection_flags": "",
+      "chunk_id": "1685edd154e5e9b34b7c"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "2e404db3cdd354da9033"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 282,
+      "injection_flags": "",
+      "chunk_id": "6198563d0e42663b75a4"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "8e25df362425926191b1"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 278,
+      "injection_flags": "",
+      "chunk_id": "882cc750886bc77635f4"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "9aeec4d6a9778f929724"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 167,
+      "injection_flags": "",
+      "chunk_id": "10db84714178b6f51c21"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "a85f7920ef1591083d0c"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "6860f50dbe9bb448f87e"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "a36b73c3a435d4399e8d"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "59ff74c4b812af6c49ab"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "0eb57e6b0137f8545c59"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "26d73981e80abcf80fbf"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 307,
+      "injection_flags": "",
+      "chunk_id": "1bf9cb43312d82c52597"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_microinsurance_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "5da1e49880570c128246"
     }
   }
 ]

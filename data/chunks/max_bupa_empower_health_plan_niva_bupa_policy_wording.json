@@ -10,7 +10,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 368,
+      "injection_flags": "",
+      "chunk_id": "338a1ce0e9f8381cfa6f"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "da2edf6280236e6986b4"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 86,
+      "injection_flags": "",
+      "chunk_id": "a53214004f706fb73549"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "2de664f298ec891cfc4f"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "7c46820a08a2e6e963f2"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 231,
+      "injection_flags": "",
+      "chunk_id": "a05326537a82899ad1e7"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "187a23c82e3a1a2b1990"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "7ae8d1293a09e44cd177"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "06da12e835ce69ab55ec"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "a26d6f2e587bb0ee4806"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "7591fce7ab79d457d8d6"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 296,
+      "injection_flags": "",
+      "chunk_id": "30208c1ceeb900aa32bd"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "4667defc5d61fc0510eb"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "0cd51162fd12b7b9d384"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 255,
+      "injection_flags": "",
+      "chunk_id": "ca2cdf8a715d0f8a0173"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "2fef7a4c37eeae5d9aeb"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "b883f2a457cca2d5df39"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 225,
+      "injection_flags": "",
+      "chunk_id": "539ea1206c7430ac620b"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "56ae73027380985e0ed1"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "ea70dc9be74c0abb035e"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "b3200df7ebbbdae9108e"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 279,
+      "injection_flags": "",
+      "chunk_id": "7a5086a1e0d3a37d5647"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "9734a8c91e588e297c01"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 332,
+      "injection_flags": "",
+      "chunk_id": "60e4408d846be6560688"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "6779b43520279933794b"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 359,
+      "injection_flags": "",
+      "chunk_id": "2e19f7422d766c228c72"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "ac2b3c2513054fc02c9d"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "8948349b5420b5155705"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 160,
+      "injection_flags": "",
+      "chunk_id": "90a84d82be0a238dda39"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "85f92a883fe71150c1da"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 216,
+      "injection_flags": "",
+      "chunk_id": "11e81d22123e5d8c8b4a"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "3f0909ad2b8137c2581d"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 366,
+      "injection_flags": "",
+      "chunk_id": "4dfe513a205a3367534a"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 149,
+      "injection_flags": "",
+      "chunk_id": "4be765976123aadcf905"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "713373887c44e7ca08e6"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "f41092174cfb1cacb56d"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "0b38e341df63758747d6"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "009e53003cae67fb9fb7"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 172,
+      "injection_flags": "",
+      "chunk_id": "d017e7e955f090a6b5f9"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "2c11d03e646140f87421"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "88021a179b7f968dae3b"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 187,
+      "injection_flags": "",
+      "chunk_id": "d1ca6bd67ce436f1c8a2"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "891b39920cf1db80e3af"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "0e8cff9aedc078d0b83f"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 201,
+      "injection_flags": "",
+      "chunk_id": "8baffea8a19e7353e724"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "12e5ac99153f1048c15d"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 341,
+      "injection_flags": "",
+      "chunk_id": "f3cfeac42f890a38e2b4"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "860c0cd9191628f10c7b"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "3a76b1a3b3e718360a34"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 265,
+      "injection_flags": "",
+      "chunk_id": "acde91cb25e4ce23de27"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "e07d5eb49a987a8aecb8"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "79dc9f4628fdd20ca377"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 53,
+      "injection_flags": "",
+      "chunk_id": "70b8b74d9c30608c1df5"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "32b55afdec9b66df5d19"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 338,
+      "injection_flags": "",
+      "chunk_id": "2cd0908f2ebbb67972fa"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "5cd6ce1bdba29fb49d9f"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 48,
+      "injection_flags": "",
+      "chunk_id": "ee0d569a055784f639c5"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Table Of Benefits (page 22)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "ceb9db305c3b40d11c5a"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Table Of Benefits (page 22)",
+      "schema_version": 2,
+      "token_estimate": 184,
+      "injection_flags": "",
+      "chunk_id": "9e3c1f55054127f45f43"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Waiting Period (page 23)",
+      "schema_version": 2,
+      "token_estimate": 254,
+      "injection_flags": "",
+      "chunk_id": "ed2bf71c5f844b6315de"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "cfd8ad4ac4f85580622a"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "42dfa8b58ffad866d53f"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 41,
+      "injection_flags": "",
+      "chunk_id": "1174af877a8ca79688dc"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "acd27d68194871abcbad"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 69,
+      "injection_flags": "",
+      "chunk_id": "9aade64e96453e1e2055"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 352,
+      "injection_flags": "",
+      "chunk_id": "28f1029d739d705fd846"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "366d02b45d65b473235b"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 125,
+      "injection_flags": "",
+      "chunk_id": "ce70005788215aa2c811"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "f38f066063b6b98dd58b"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 33,
+      "injection_flags": "",
+      "chunk_id": "3057f3ac920403ba2119"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "a6454e22b90c6e2e8dcc"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 55,
+      "injection_flags": "",
+      "chunk_id": "a691a23938382dec81ef"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "2668af8f883ed60f83a8"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 37,
+      "injection_flags": "",
+      "chunk_id": "ff11845f7e5e032f107e"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "108ec11e46e61e92e60d"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 46,
+      "injection_flags": "",
+      "chunk_id": "467e969e520eda1fad88"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 338,
+      "injection_flags": "",
+      "chunk_id": "5b43eef5d43605e14bcb"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 362,
+      "injection_flags": "",
+      "chunk_id": "99aeec035037495c8e2c"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "843be85ee1ca946e2844"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 37,
+      "injection_flags": "",
+      "chunk_id": "ab2a0874fd47df97d401"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 342,
+      "injection_flags": "",
+      "chunk_id": "22c943e8dbdfdf1416d1"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 322,
+      "injection_flags": "",
+      "chunk_id": "7ce360e3b9da20d07f6c"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "5d3e8700506a86d52746"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "23bdccc27eb05c77e583"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "513bc283f4ec5002970c"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 94,
+      "injection_flags": "",
+      "chunk_id": "16aca68c0df2dd1b8312"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "eed3c149ca608f4807a3"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Page 41",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "89866f8944392ab0726c"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "fc4eb504b7c3bb84031b"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 39,
+      "injection_flags": "",
+      "chunk_id": "6ad691083ddfe96a09fe"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "03efc117a4ff60059bea"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "max_bupa_empower_health_plan_niva_bupa_policy_wording",
       "source_file": "health__empower_health_plan_niva_bupa__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_niva_bupa__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 70,
+      "injection_flags": "",
+      "chunk_id": "c230f89c14afcf75824f"
     }
   }
 ]

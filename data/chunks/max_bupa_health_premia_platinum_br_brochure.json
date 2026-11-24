@@ -10,7 +10,17 @@
       "source": "max_bupa_health_premia_platinum_br_brochure",
       "source_file": "health__health_premia_platinum_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_platinum_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 211,
+      "injection_flags": "",
+      "chunk_id": "b765326502ae2ed9385c"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_health_premia_platinum_br_brochure",
       "source_file": "health__health_premia_platinum_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_platinum_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "840419a4e891adf71974"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_health_premia_platinum_br_brochure",
       "source_file": "health__health_premia_platinum_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_platinum_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 180,
+      "injection_flags": "",
+      "chunk_id": "b7d56176741356d1e57d"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_health_premia_platinum_br_brochure",
       "source_file": "health__health_premia_platinum_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_platinum_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "c56ad7a568badcfb726c"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "max_bupa_health_premia_platinum_br_brochure",
       "source_file": "health__health_premia_platinum_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_platinum_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "2aeaf5e750be4de7416f"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "max_bupa_health_premia_platinum_br_brochure",
       "source_file": "health__health_premia_platinum_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_platinum_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 303,
+      "injection_flags": "",
+      "chunk_id": "f345f059aa462770d8e2"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "max_bupa_health_premia_platinum_br_brochure",
       "source_file": "health__health_premia_platinum_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_platinum_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "3cb38f93f7283932e095"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "max_bupa_health_premia_platinum_br_brochure",
       "source_file": "health__health_premia_platinum_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_platinum_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "96e1984e6c164bef7973"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "max_bupa_health_premia_platinum_br_brochure",
       "source_file": "health__health_premia_platinum_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_platinum_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "a6bdc20d63841d0d3cc9"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "max_bupa_health_premia_platinum_br_brochure",
       "source_file": "health__health_premia_platinum_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_platinum_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 54,
+      "injection_flags": "",
+      "chunk_id": "1920b29cd7c8eb2d29ca"
     }
   }
 ]

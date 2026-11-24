@@ -10,7 +10,17 @@
       "source": "max_bupa_health_assurance_br_brochure",
       "source_file": "health__health_assurance_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_assurance_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "fd8c15d355c993dec879"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_health_assurance_br_brochure",
       "source_file": "health__health_assurance_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_assurance_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 294,
+      "injection_flags": "",
+      "chunk_id": "8f108f822ccaba7372e2"
     }
   }
 ]

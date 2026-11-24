@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 199,
+      "injection_flags": "",
+      "chunk_id": "5345b283219c4f9c913a"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "a312e51e80fa827c98b0"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "37e9d533ce37a7529483"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 99,
+      "injection_flags": "",
+      "chunk_id": "0b91da99c64bc669a91a"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "675251eeb832537283c0"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "a463c221b5dfca7690c5"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 118,
+      "injection_flags": "",
+      "chunk_id": "5b80e5e0e83a58306f66"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "fb47a923b636d6e7db33"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "0d6c2e1062edfadfc979"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 127,
+      "injection_flags": "",
+      "chunk_id": "ffd173953676204a775c"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "b6021baadb45bb153a38"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "52ead43999cbe5ed1116"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 70,
+      "injection_flags": "",
+      "chunk_id": "5b8ac3ca2936d255873b"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "8c6d23e9cabb1684438c"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "58ea5f998314774e4ec9"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 136,
+      "injection_flags": "",
+      "chunk_id": "4dd9206a546facd90d8c"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "2fd1ed24e395ff6a2751"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 353,
+      "injection_flags": "",
+      "chunk_id": "54e8ddbaa1740f54d867"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "0578ae2c4b3c519c2c82"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "27da3b4a1d98dfa5a627"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 118,
+      "injection_flags": "",
+      "chunk_id": "d7f12eecaf235a227b62"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "e884572279ddf4b273a6"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 329,
+      "injection_flags": "",
+      "chunk_id": "29ac47d1834c2b487b35"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "2a893e9b6b414a9f9dc6"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 318,
+      "injection_flags": "",
+      "chunk_id": "9fde5e2924e42f6eb630"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "4ebb6963727850568934"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 339,
+      "injection_flags": "",
+      "chunk_id": "a73664a3f24b2886fc25"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "9660bccec076835a5172"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 123,
+      "injection_flags": "",
+      "chunk_id": "424bde557ee639359da5"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "4bef84ed75a6328246b6"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 261,
+      "injection_flags": "",
+      "chunk_id": "dfbd018ee0aaa7a93ae6"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "3202d45d38252f7d09de"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 330,
+      "injection_flags": "",
+      "chunk_id": "cb96da20bcb0bdd5dcc2"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "6a16c59c9a868561592e"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "aa2c442b4d4a1a7e24c8"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "970065832bd251ab71db"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "495ec68cea1850b97fc8"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 150,
+      "injection_flags": "",
+      "chunk_id": "25d6bc766bb679557166"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Waiting Period (page 17)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "9614ddc55da9b7a0a276"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Waiting Period (page 17)",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "d60460ea8a370f2ec7e6"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Waiting Period (page 17)",
+      "schema_version": 2,
+      "token_estimate": 85,
+      "injection_flags": "",
+      "chunk_id": "92ce6c98e238c16bc054"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "8d182152b08ff7fa5802"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "b54d4a29755de7d8f4b2"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 114,
+      "injection_flags": "",
+      "chunk_id": "0bcaebfce926db4fb59e"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "7726e5e5830f0e837e41"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 355,
+      "injection_flags": "",
+      "chunk_id": "42a85c6b046798102a18"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "1c4fbf1d47d8825923f8"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 218,
+      "injection_flags": "",
+      "chunk_id": "d1387499b63bed5db5e6"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Exclusions (page 21)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "c37fbb40f0df6a993458"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Exclusions (page 21)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "9d9398331b25650822a1"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Exclusions (page 21)",
+      "schema_version": 2,
+      "token_estimate": 134,
+      "injection_flags": "",
+      "chunk_id": "fe91b17f3d4d6940024b"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Waiting Period (page 22)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "3bc61ac14046a9ab33a2"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Waiting Period (page 22)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "44f53bb6c923bfef6e0d"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "f10acdc4bb7cf9eb3218"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 231,
+      "injection_flags": "",
+      "chunk_id": "eb51ed4d57cf3eba543a"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "293b03768b6a1d1e1727"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 242,
+      "injection_flags": "",
+      "chunk_id": "184d7866eb737a6122ec"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Waiting Period (page 25)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "471af450314f36ffd340"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Waiting Period (page 25)",
+      "schema_version": 2,
+      "token_estimate": 202,
+      "injection_flags": "",
+      "chunk_id": "8adb0842c58f2d24b2c1"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 349,
+      "injection_flags": "",
+      "chunk_id": "3e5adebe5cddab380653"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 222,
+      "injection_flags": "",
+      "chunk_id": "9af906292b7811db3b6e"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 320,
+      "injection_flags": "",
+      "chunk_id": "6becf3b6fd94ea889000"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "9e0788a49d663f65ffda"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "ff90ad6b8cd7b1a8188a"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 118,
+      "injection_flags": "",
+      "chunk_id": "5c595b62e2d55535066a"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "db01f87a6cbbaa751e58"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 116,
+      "injection_flags": "",
+      "chunk_id": "dcd3be16b9eaa27d90d3"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "1d4114a33908b5051166"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 347,
+      "injection_flags": "",
+      "chunk_id": "6770d173689d2b6e063f"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "hdfc_ergo_arogya_sanjeevani_group_policy_policy_wording",
       "source_file": "health__arogya_sanjeevani_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__arogya_sanjeevani_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 155,
+      "injection_flags": "",
+      "chunk_id": "ded6960b92cafb3ccd8e"
     }
   }
 ]

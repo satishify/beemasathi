@@ -1,0 +1,26 @@
+[
+  {
+    "text": "Non-Medical Expenses Cover\n(Rider to Health Indemnity Products)\nRate Chart\nNote: The premiums are in INR\nPremium = 8% of Base Policy Premium\nPage 1 of 1",
+    "metadata": {
+      "insurer": "bajaj_allianz",
+      "policy_name": "non_medical_expense_rate_chart",
+      "section": "Page 1",
+      "page": 1,
+      "chunk_type": "premium",
+      "source": "bajaj_allianz_non_medical_expense_rate_chart_endorsement",
+      "source_file": "health__non_medical_expense_rate_chart__endorsement.pdf",
+      "document_type": "endorsement",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expense_rate_chart__endorsement.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "endorsement",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 38,
+      "injection_flags": "",
+      "chunk_id": "5565e7a709dad9e6b6a9"
+    }
+  }
+]

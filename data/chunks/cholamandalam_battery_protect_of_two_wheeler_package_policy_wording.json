@@ -10,7 +10,17 @@
       "source": "cholamandalam_battery_protect_of_two_wheeler_package_policy_wording",
       "source_file": "motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "ef5d32464fe6fbfcdbc9"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "cholamandalam_battery_protect_of_two_wheeler_package_policy_wording",
       "source_file": "motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "ec9a9bb7068feea4758d"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "cholamandalam_battery_protect_of_two_wheeler_package_policy_wording",
       "source_file": "motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 58,
+      "injection_flags": "",
+      "chunk_id": "37a54b5f67820e188b8a"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "cholamandalam_battery_protect_of_two_wheeler_package_policy_wording",
       "source_file": "motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "1c35e6971efcae8f3b98"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "cholamandalam_battery_protect_of_two_wheeler_package_policy_wording",
       "source_file": "motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "be0bf8b502e6bf9262a8"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "cholamandalam_battery_protect_of_two_wheeler_package_policy_wording",
       "source_file": "motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__battery_protect_of_two_wheeler_package__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 108,
+      "injection_flags": "",
+      "chunk_id": "4af7b0609ec261d301c5"
     }
   }
 ]

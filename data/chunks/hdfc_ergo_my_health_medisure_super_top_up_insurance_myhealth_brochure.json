@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 164,
+      "injection_flags": "",
+      "chunk_id": "01f5b87c8aa5ea9e4ee4"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "d3c00d54c698a2403e7b"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 56,
+      "injection_flags": "",
+      "chunk_id": "0d4ca1c92a1b69f994db"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 153,
+      "injection_flags": "",
+      "chunk_id": "0b25430a54a6a5eda466"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "a4cec0f6f5477757e646"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 119,
+      "injection_flags": "",
+      "chunk_id": "cf02a2441f4ff3a52a0e"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 329,
+      "injection_flags": "",
+      "chunk_id": "37af8f07ede11c72b845"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "fe8e78a21ea8be680809"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 180,
+      "injection_flags": "",
+      "chunk_id": "57eb031e9944fc7c0dfa"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "736a02c6dccad38b5324"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 147,
+      "injection_flags": "",
+      "chunk_id": "e1a8eaeeedd122fa5f8d"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "cd0fd0d06a69926d8e45"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 215,
+      "injection_flags": "",
+      "chunk_id": "48d92d93fc1f39782053"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "be3533c4766f9e5698ec"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 176,
+      "injection_flags": "",
+      "chunk_id": "d46aa65c127db4f4e198"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "6e9709bb19d456841e69"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 221,
+      "injection_flags": "",
+      "chunk_id": "fd2e53a499baf8fc9b9c"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "fa7aeaccc2e480692808"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 296,
+      "injection_flags": "",
+      "chunk_id": "a4768614d65a989b315e"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "0820b290d2e103164e16"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 195,
+      "injection_flags": "",
+      "chunk_id": "20d38b20bb609d30a911"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "2b58ce3ca69cececba6f"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 211,
+      "injection_flags": "",
+      "chunk_id": "6fb824ea35d74da34f68"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 312,
+      "injection_flags": "",
+      "chunk_id": "600f75e57b719d54872e"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "aca47b25b63de4d6b9c6"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 55,
+      "injection_flags": "",
+      "chunk_id": "626400ed4b9e17c90dcf"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "d4d1162b4c9137eeb5fb"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 66,
+      "injection_flags": "",
+      "chunk_id": "f6b7ba62c6160eb36bff"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 257,
+      "injection_flags": "",
+      "chunk_id": "4ac09a08bf321561703f"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 173,
+      "injection_flags": "",
+      "chunk_id": "54d430525ba509d93cab"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "hdfc_ergo_my_health_medisure_super_top_up_insurance_myhealth_brochure",
       "source_file": "health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_medisure_super_top_up_insurance_myhealth__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 201,
+      "injection_flags": "",
+      "chunk_id": "e34ff4bdeb20a19f2351"
     }
   }
 ]

@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 252,
+      "injection_flags": "",
+      "chunk_id": "56b9564f73b75480e909"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "0ee8462575a7c468d05d"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "fe89f5cffb3f7eb8303d"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 217,
+      "injection_flags": "",
+      "chunk_id": "fe7eb86fcdfe689f3663"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "0524046ac5746f004320"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "e2ddd6236f76cf76a06b"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "db4879126419996337e2"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 249,
+      "injection_flags": "",
+      "chunk_id": "b4f5de2fd333b10968da"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "a6061bab3305a725111d"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "7b53e3b3f4937b275a48"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "02d43fc4db7b2694b879"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "c1a0f578e314947a6120"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "b598910b4672171758ec"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 350,
+      "injection_flags": "",
+      "chunk_id": "aaec08c4caabaffb2210"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "1342ca6fd22890b64e4e"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "10d4b0bb357913322fd9"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "998ead03bb3deb942e32"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "11926b65a709e33c6fbc"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 77,
+      "injection_flags": "",
+      "chunk_id": "737ff77392339c5dc390"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "adaf3fbf53f0cc7d4985"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "e03827f1be5ad1f7d853"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "c122a12a2f211954581b"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 329,
+      "injection_flags": "",
+      "chunk_id": "ba02a21a1f54c4eae545"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "ba0d11734938cc0906ee"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "16d337487edaa540ccce"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 332,
+      "injection_flags": "",
+      "chunk_id": "67c47dd68f8244163452"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "86ac6b11301fcb628a2d"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "9073af91ffc5b4f2240e"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 179,
+      "injection_flags": "",
+      "chunk_id": "9f84939b477d0b7bfd4a"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "6086e138a12a2002f766"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "6310b4e426d7cc66a44f"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "70ac20ce097cc3454730"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 242,
+      "injection_flags": "",
+      "chunk_id": "98f2845e0a4da90fa6a2"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "895c0f1a343610d557d6"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "ca7542129d6388fa387e"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "9abcc14fb2a8ca4878c4"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 234,
+      "injection_flags": "",
+      "chunk_id": "56722d379fd9e81dda54"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 365,
+      "injection_flags": "",
+      "chunk_id": "aaab0fed3ed86da85b8e"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "8b93a193c48b1998b1a8"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 269,
+      "injection_flags": "",
+      "chunk_id": "9e1c57dee1555f8224b0"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "d66f4ee6d5e746815a04"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "022827ea63d0c34aaee6"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "7e133809e4308feb6d8e"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 250,
+      "injection_flags": "",
+      "chunk_id": "08777b5e0a46b288a47d"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "31a0f5e28ea82a528222"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "aa2755ba10d4b18984e9"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "217f9254fbe878565464"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 184,
+      "injection_flags": "",
+      "chunk_id": "415984f1747887313bb1"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "6f2075fa5308acc12ee5"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "21e26d0202350dfdc0e4"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "ff07bc22340993568edc"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "946b1d119182d270b0d5"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "acd5718a0c2ec44550a5"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "c591e1794da570ac51a7"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 182,
+      "injection_flags": "",
+      "chunk_id": "8ffe9ad1195442f349f0"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Table Of Benefits (page 18)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "014084593f904812d1c6"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Table Of Benefits (page 18)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "cb328d06d64b9fe9dfe6"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Table Of Benefits (page 18)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "3fb28ce99820deea77cd"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Table Of Benefits (page 18)",
+      "schema_version": 2,
+      "token_estimate": 94,
+      "injection_flags": "",
+      "chunk_id": "3c9c9423427ac5b0c6ad"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "ed33dfa1412a825286eb"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "13c65ca72acbedab3477"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "0b89c22b80a8122ea21b"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 134,
+      "injection_flags": "",
+      "chunk_id": "880c74aed29c818ab8e4"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "9a4c0644c1a1fd265a82"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 288,
+      "injection_flags": "",
+      "chunk_id": "b767905392d28f197875"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "17eb5bc51f31db3d76e9"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 174,
+      "injection_flags": "",
+      "chunk_id": "f360d3a5e2f272daf3b2"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "4cd03ebea69bb1c93822"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "50a7a3269ca5d2ca5777"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "bajaj_allianz_global_health_care_final_brochure",
       "source_file": "health__global_health_care_final__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__global_health_care_final__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 231,
+      "injection_flags": "",
+      "chunk_id": "b5a495c3f65d23b3667d"
     }
   }
 ]

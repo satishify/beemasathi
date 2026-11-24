@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "8956336a5c3720cfa703"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "453a085b431a4607af9b"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 303,
+      "injection_flags": "",
+      "chunk_id": "c82aba83339522bce7df"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "0ce0b6970527cb4d1076"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "0816cdaa4109d117093c"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 151,
+      "injection_flags": "",
+      "chunk_id": "720b520bef9560d190da"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "a232a8c307cba0b3f893"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "24c4c398df5b1f9782ae"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 296,
+      "injection_flags": "",
+      "chunk_id": "ed94dfb64f8b27d1bc40"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "2159a63148b04cc7c0ba"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "096b391d09ccc573293f"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 195,
+      "injection_flags": "",
+      "chunk_id": "2ea253dd4b61720c3f87"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "12d8f489363e4285b101"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "935986072d26341101af"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 151,
+      "injection_flags": "",
+      "chunk_id": "226e37cfe78eaf2cc567"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "f01c84bf68982b97e4ec"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "404790ca2eb15151a5fd"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "00f50804daae9697f561"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 96,
+      "injection_flags": "",
+      "chunk_id": "fda083fceb849ceb7630"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "4682cd2968d6d6eb4e96"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "5503dbe5c41fe0582b20"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 287,
+      "injection_flags": "",
+      "chunk_id": "5454a5ffc4821f127faa"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "624b143071ff0620da0f"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "96c86cf756bc14f85a23"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 94,
+      "injection_flags": "",
+      "chunk_id": "3e0023d2dc64b7cc4504"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "6b539673643c7ee24018"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "f3e056bd0a7b493ac191"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 133,
+      "injection_flags": "",
+      "chunk_id": "cea1a75ee7de3c18decf"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "953a8b8cf742d1562175"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "9e2abe37812fec2c548a"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 250,
+      "injection_flags": "",
+      "chunk_id": "f8342418115de4d2633f"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "e2aa5bbb17d4850515f6"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "009630284b532402ad92"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 157,
+      "injection_flags": "",
+      "chunk_id": "080a6ba63f6487e1c694"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "90f0c20665cfb7777977"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "9547180c0e24f53a9a77"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 192,
+      "injection_flags": "",
+      "chunk_id": "7a2965084b5b688dfc07"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "c2dacc034cb8c399ceee"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "ce50fa7e0f0c0a7ade8d"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 246,
+      "injection_flags": "",
+      "chunk_id": "e270b99a7eafa1d9e23a"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Optional Covers (page 14)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "f1cad9c8ad14a723908d"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Optional Covers (page 14)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "679d0c3edbe5cc23f8ff"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Optional Covers (page 14)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "8a42f4802e1cce1941a2"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "bd4cfb0a87eeb006f2a2"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "f190e84aca19c0569a01"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "65fa037b94fcaaf7a2fe"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 90,
+      "injection_flags": "",
+      "chunk_id": "ad26c440f943c7b696f6"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Optional Covers (page 16)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "417eac8098c5288be44c"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Optional Covers (page 16)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "c06fdf79f64551178f6c"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Optional Covers (page 16)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "378cbc75a808de3f5d31"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Optional Covers (page 16)",
+      "schema_version": 2,
+      "token_estimate": 120,
+      "injection_flags": "",
+      "chunk_id": "de76346a90b51f269540"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "5f4585b8c4f67e4a93ba"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "ef53a08529205defce17"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 210,
+      "injection_flags": "",
+      "chunk_id": "f97e988d1a076547165f"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "e6cb0d42fef97fcfba10"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "d5d27c2a0c53af7b739c"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 199,
+      "injection_flags": "",
+      "chunk_id": "55997f213f89067946b4"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "939379c47787ab3d859b"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "fbbacfa61637cc332be2"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "97a351385f1aa32cecc6"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 231,
+      "injection_flags": "",
+      "chunk_id": "1f6eeab64b42ea2353de"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Waiting Period (page 20)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "25ed9c75fc19ed31e026"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Waiting Period (page 20)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "fc449870fa127b794924"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Waiting Period (page 20)",
+      "schema_version": 2,
+      "token_estimate": 284,
+      "injection_flags": "",
+      "chunk_id": "cee45ffd51fd6fbcfe07"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "a3a59d1fcbff0b0cc5b3"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "d52387c3a501888375e5"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 347,
+      "injection_flags": "",
+      "chunk_id": "3ad97ec7b601e727c6a0"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "f42e97abbabd573508e5"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 314,
+      "injection_flags": "",
+      "chunk_id": "5396d26d82d3b07d3c5d"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Exclusions (page 23)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "99003449a672e212c37b"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Exclusions (page 23)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "4a842ecb7e628c2fbd77"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Exclusions (page 23)",
+      "schema_version": 2,
+      "token_estimate": 177,
+      "injection_flags": "",
+      "chunk_id": "d5f0f40104460a345fb3"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "06b35665236fa0338048"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "c93c77dbf8c0517de1d5"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 334,
+      "injection_flags": "",
+      "chunk_id": "32d185061a6d2d4dc176"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "a0817b2085dbce20dd1e"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 217,
+      "injection_flags": "",
+      "chunk_id": "5a18029f9b7257534fe7"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "1cd37357c96b7cb72aa5"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "b38a19241c686041fb20"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 348,
+      "injection_flags": "",
+      "chunk_id": "398542aa0d4500cb09ae"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "df9084849941c262a2e1"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "ef08bbba69fa41270344"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 186,
+      "injection_flags": "",
+      "chunk_id": "3e17a82e5f195dd4ad4f"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Waiting Period (page 28)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "bb18e56acb4738905baa"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Waiting Period (page 28)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "6ca9dbfffe6771c736c9"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Waiting Period (page 28)",
+      "schema_version": 2,
+      "token_estimate": 251,
+      "injection_flags": "",
+      "chunk_id": "343db87763b41b015c9c"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "5d8f8eabec94aa5da5f9"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "8a85e7af2da3cd2eeca1"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 96,
+      "injection_flags": "",
+      "chunk_id": "fa269e74a506e1283365"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Waiting Period (page 30)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "6d28e41a57de8480f779"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Waiting Period (page 30)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "f1d7f31b6b61a5b3c8c0"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Waiting Period (page 30)",
+      "schema_version": 2,
+      "token_estimate": 279,
+      "injection_flags": "",
+      "chunk_id": "5840083e243398375ffe"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Waiting Period (page 31)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "d1fae028ccbf20c16082"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Waiting Period (page 31)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "9f3a58d09fed81d0a5e0"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Waiting Period (page 31)",
+      "schema_version": 2,
+      "token_estimate": 266,
+      "injection_flags": "",
+      "chunk_id": "e2be6ce503de9f64e0d1"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Waiting Period (page 32)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "c0003902d7fb1f0d3e44"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Waiting Period (page 32)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "d2311fdf9f165a670462"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "ff6e7391028970981710"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "8c0f50256c49b8f5cca1"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 210,
+      "injection_flags": "",
+      "chunk_id": "4dcedc84221e1c80404c"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Waiting Period (page 34)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "b9c06ae4e04b4c954a58"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Waiting Period (page 34)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "0ebc69d2f87c7baf3038"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Waiting Period (page 34)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "247854ab76871d749384"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Waiting Period (page 34)",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "ac73dae0026411e5b54d"
     }
   },
   {
@@ -1466,7 +2506,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Waiting Period (page 35)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "109ae8ef70ab8d4f5df7"
     }
   },
   {
@@ -1480,7 +2530,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Waiting Period (page 35)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "27625cc9c9fabbb1e783"
     }
   },
   {
@@ -1494,7 +2554,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Waiting Period (page 35)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "eb84706d42135ea8936c"
     }
   },
   {
@@ -1508,7 +2578,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Waiting Period (page 35)",
+      "schema_version": 2,
+      "token_estimate": 123,
+      "injection_flags": "",
+      "chunk_id": "4d164bd2ad8f72045c00"
     }
   },
   {
@@ -1522,7 +2602,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Waiting Period (page 36)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "1cdd0b03af30f4151686"
     }
   },
   {
@@ -1536,7 +2626,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Waiting Period (page 36)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "5ae33a32842194ad7125"
     }
   },
   {
@@ -1550,7 +2650,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Waiting Period (page 36)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "69f0f87a917e34ce1115"
     }
   },
   {
@@ -1564,7 +2674,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Waiting Period (page 36)",
+      "schema_version": 2,
+      "token_estimate": 68,
+      "injection_flags": "",
+      "chunk_id": "ccd0391e605aba73731c"
     }
   },
   {
@@ -1578,7 +2698,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Waiting Period (page 37)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "15a3aeb828e0f78610f3"
     }
   },
   {
@@ -1592,7 +2722,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Waiting Period (page 37)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "43c2c0ff7eb85de5b35c"
     }
   },
   {
@@ -1606,7 +2746,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Waiting Period (page 37)",
+      "schema_version": 2,
+      "token_estimate": 348,
+      "injection_flags": "",
+      "chunk_id": "68db81a7305ed6fc104d"
     }
   },
   {
@@ -1620,7 +2770,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Waiting Period (page 38)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "86053ae643400f6603da"
     }
   },
   {
@@ -1634,7 +2794,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Waiting Period (page 38)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "473d7fe27a5cce618c0b"
     }
   },
   {
@@ -1648,7 +2818,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Waiting Period (page 38)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "b4fd58e04b19d19064b9"
     }
   },
   {
@@ -1662,7 +2842,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Waiting Period (page 38)",
+      "schema_version": 2,
+      "token_estimate": 81,
+      "injection_flags": "",
+      "chunk_id": "e7a3e9f63852e906c1ce"
     }
   },
   {
@@ -1676,7 +2866,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "3f1a50d5f34888e94e03"
     }
   },
   {
@@ -1690,7 +2890,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "544794d73dc9405a6f38"
     }
   },
   {
@@ -1704,7 +2914,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 333,
+      "injection_flags": "",
+      "chunk_id": "49b69e70b8b4819ee79f"
     }
   },
   {
@@ -1718,7 +2938,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Waiting Period (page 40)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "b83f61b3ca7f98f40693"
     }
   },
   {
@@ -1732,7 +2962,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Waiting Period (page 40)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "12827805b47964267f20"
     }
   },
   {
@@ -1746,7 +2986,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Waiting Period (page 40)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "8469738dc45d9d454031"
     }
   },
   {
@@ -1760,7 +3010,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Waiting Period (page 40)",
+      "schema_version": 2,
+      "token_estimate": 38,
+      "injection_flags": "",
+      "chunk_id": "0ce6a1bca10b71f2a3ab"
     }
   },
   {
@@ -1774,7 +3034,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Waiting Period (page 41)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "be6c72fd4242c3d4ac04"
     }
   },
   {
@@ -1788,7 +3058,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Waiting Period (page 41)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "3429215403267e56b940"
     }
   },
   {
@@ -1802,7 +3082,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Waiting Period (page 41)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "fd229540c51e600facb9"
     }
   },
   {
@@ -1816,7 +3106,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Waiting Period (page 41)",
+      "schema_version": 2,
+      "token_estimate": 46,
+      "injection_flags": "",
+      "chunk_id": "de1e1dcc794176b6955c"
     }
   },
   {
@@ -1830,7 +3130,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "19c8583b5b9c0874dc4d"
     }
   },
   {
@@ -1844,7 +3154,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "40a5c5f9632168135c9d"
     }
   },
   {
@@ -1858,7 +3178,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "8bea90dccdf1e60642bc"
     }
   },
   {
@@ -1872,7 +3202,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Waiting Period (page 43)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "d3482676e8e6ada18109"
     }
   },
   {
@@ -1886,7 +3226,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Waiting Period (page 43)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "158abf9b7db29bba2d86"
     }
   },
   {
@@ -1900,7 +3250,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Waiting Period (page 43)",
+      "schema_version": 2,
+      "token_estimate": 246,
+      "injection_flags": "",
+      "chunk_id": "ad6a423da8595445c654"
     }
   },
   {
@@ -1914,7 +3274,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "7989ed4a0b9a1d958091"
     }
   },
   {
@@ -1928,7 +3298,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "40c6e5d163ef4f4b3f3d"
     }
   },
   {
@@ -1942,7 +3322,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 206,
+      "injection_flags": "",
+      "chunk_id": "5f059555b0a14e5d55d6"
     }
   },
   {
@@ -1956,7 +3346,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Waiting Period (page 45)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "f31602920a5fcd36fac7"
     }
   },
   {
@@ -1970,7 +3370,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Waiting Period (page 45)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "0282aa1d3b7a0adc5621"
     }
   },
   {
@@ -1984,7 +3394,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Waiting Period (page 45)",
+      "schema_version": 2,
+      "token_estimate": 350,
+      "injection_flags": "",
+      "chunk_id": "41f1a0e2e1b3ac6a961f"
     }
   },
   {
@@ -1998,7 +3418,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Waiting Period (page 46)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "65968333ce9b25bab499"
     }
   },
   {
@@ -2012,7 +3442,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Waiting Period (page 46)",
+      "schema_version": 2,
+      "token_estimate": 263,
+      "injection_flags": "",
+      "chunk_id": "f306c939cad9a7f0fa51"
     }
   },
   {
@@ -2026,7 +3466,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "c15ba87d7f6b9a35af76"
     }
   },
   {
@@ -2040,7 +3490,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 211,
+      "injection_flags": "",
+      "chunk_id": "39f52185843eaaf43830"
     }
   },
   {
@@ -2054,7 +3514,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "797cb5d3bbeeb5638369"
     }
   },
   {
@@ -2068,7 +3538,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "6f94ac431c0713c99c6e"
     }
   },
   {
@@ -2082,7 +3562,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "57f62cdeb6eb316c4731"
     }
   },
   {
@@ -2096,7 +3586,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 61,
+      "injection_flags": "",
+      "chunk_id": "1188d8411a12002d3ceb"
     }
   },
   {
@@ -2110,7 +3610,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "e272973fcf8317f48612"
     }
   },
   {
@@ -2124,7 +3634,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 195,
+      "injection_flags": "",
+      "chunk_id": "3cc0c91dd17f27dcb6f6"
     }
   },
   {
@@ -2138,7 +3658,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "bce6d6ccfc041fadf446"
     }
   },
   {
@@ -2152,7 +3682,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 102,
+      "injection_flags": "",
+      "chunk_id": "33b2cc950fc745f4d5ac"
     }
   },
   {
@@ -2166,7 +3706,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "46c19d9dfb9ecdedf887"
     }
   },
   {
@@ -2180,7 +3730,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 102,
+      "injection_flags": "",
+      "chunk_id": "d69d39697dab630f1747"
     }
   },
   {
@@ -2194,7 +3754,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "84d7336f56aa4d0080b4"
     }
   },
   {
@@ -2208,7 +3778,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 53,
+      "injection_flags": "",
+      "chunk_id": "707442cd56de1eee874a"
     }
   },
   {
@@ -2222,7 +3802,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Page 53",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "137038994fafc594e698"
     }
   },
   {
@@ -2236,7 +3826,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Page 53",
+      "schema_version": 2,
+      "token_estimate": 53,
+      "injection_flags": "",
+      "chunk_id": "11b051c943f67ef8f574"
     }
   },
   {
@@ -2250,7 +3850,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "881c0bb2a8af605681ce"
     }
   },
   {
@@ -2264,7 +3874,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 92,
+      "injection_flags": "",
+      "chunk_id": "3add690acff92e772c68"
     }
   },
   {
@@ -2278,7 +3898,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Page 55",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "0cdd6b0066eff5669b94"
     }
   },
   {
@@ -2292,7 +3922,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Page 55",
+      "schema_version": 2,
+      "token_estimate": 121,
+      "injection_flags": "",
+      "chunk_id": "c2d4477d06a30efe7f0a"
     }
   },
   {
@@ -2306,7 +3946,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Page 56",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "b2cbbb4cfac7033b3daf"
     }
   },
   {
@@ -2320,7 +3970,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Page 56",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "ac060053d14685f45572"
     }
   },
   {
@@ -2334,7 +3994,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "30d2406bd9e1be38a885"
     }
   },
   {
@@ -2348,7 +4018,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 122,
+      "injection_flags": "",
+      "chunk_id": "6d067924bc97874275f5"
     }
   },
   {
@@ -2362,7 +4042,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 58,
+      "page_end": 58,
+      "section_path": "Page 58",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "e1f207be6b4fd2b29ba0"
     }
   },
   {
@@ -2376,7 +4066,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 58,
+      "page_end": 58,
+      "section_path": "Page 58",
+      "schema_version": 2,
+      "token_estimate": 61,
+      "injection_flags": "",
+      "chunk_id": "ac0ddae1cf72bbc40cf3"
     }
   },
   {
@@ -2390,7 +4090,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "f1c1ce370f526e9d31b5"
     }
   },
   {
@@ -2404,7 +4114,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 261,
+      "injection_flags": "",
+      "chunk_id": "7c0cfbee127fba23d10b"
     }
   },
   {
@@ -2418,7 +4138,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "2d815a456a7219151b7f"
     }
   },
   {
@@ -2432,7 +4162,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 85,
+      "injection_flags": "",
+      "chunk_id": "1f85a4603b82452dcb3c"
     }
   },
   {
@@ -2446,7 +4186,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 61,
+      "page_end": 61,
+      "section_path": "Page 61",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "312f56d22d6d967c08d0"
     }
   },
   {
@@ -2460,7 +4210,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 62,
+      "page_end": 62,
+      "section_path": "Page 62",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "fe488624b2d0d61dca41"
     }
   },
   {
@@ -2474,7 +4234,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 63,
+      "page_end": 63,
+      "section_path": "Exclusions (page 63)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "861e492994b682cc66ed"
     }
   },
   {
@@ -2488,7 +4258,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 63,
+      "page_end": 63,
+      "section_path": "Exclusions (page 63)",
+      "schema_version": 2,
+      "token_estimate": 287,
+      "injection_flags": "",
+      "chunk_id": "5b25a24fe9ad905a9c1d"
     }
   },
   {
@@ -2502,7 +4282,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 64,
+      "page_end": 64,
+      "section_path": "Exclusions (page 64)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "434408a00885dec65638"
     }
   },
   {
@@ -2516,7 +4306,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 64,
+      "page_end": 64,
+      "section_path": "Exclusions (page 64)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "8a0441968f7b3424255f"
     }
   },
   {
@@ -2530,7 +4330,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 65,
+      "page_end": 65,
+      "section_path": "Exclusions (page 65)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "466bc6b4ae83352307a5"
     }
   },
   {
@@ -2544,7 +4354,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 65,
+      "page_end": 65,
+      "section_path": "Exclusions (page 65)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "d9bb14919ba2657a0e52"
     }
   },
   {
@@ -2558,7 +4378,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 65,
+      "page_end": 65,
+      "section_path": "Exclusions (page 65)",
+      "schema_version": 2,
+      "token_estimate": 42,
+      "injection_flags": "",
+      "chunk_id": "20b88e2412d4af97277f"
     }
   },
   {
@@ -2572,7 +4402,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 66,
+      "page_end": 66,
+      "section_path": "Exclusions (page 66)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "a7fbaeaf2f93b55bf84d"
     }
   },
   {
@@ -2586,7 +4426,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 66,
+      "page_end": 66,
+      "section_path": "Exclusions (page 66)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "88e44e0271c5eefbdc12"
     }
   },
   {
@@ -2600,7 +4450,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 66,
+      "page_end": 66,
+      "section_path": "Exclusions (page 66)",
+      "schema_version": 2,
+      "token_estimate": 47,
+      "injection_flags": "",
+      "chunk_id": "8f0b62f929beef5ed2ca"
     }
   },
   {
@@ -2614,7 +4474,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 67,
+      "page_end": 67,
+      "section_path": "Exclusions (page 67)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "cb7e2d836a3e04d2ff03"
     }
   },
   {
@@ -2628,7 +4498,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 67,
+      "page_end": 67,
+      "section_path": "Exclusions (page 67)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "9e4087fa8c67aaaf43f8"
     }
   },
   {
@@ -2642,7 +4522,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 68,
+      "page_end": 68,
+      "section_path": "Exclusions (page 68)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "95bb29a4baadbcaafc34"
     }
   },
   {
@@ -2656,7 +4546,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 68,
+      "page_end": 68,
+      "section_path": "Exclusions (page 68)",
+      "schema_version": 2,
+      "token_estimate": 318,
+      "injection_flags": "",
+      "chunk_id": "2e19aae7458adfd227c2"
     }
   },
   {
@@ -2670,7 +4570,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 69,
+      "page_end": 69,
+      "section_path": "Page 69",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "07f88dec573c2ed583e8"
     }
   },
   {
@@ -2684,7 +4594,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 69,
+      "page_end": 69,
+      "section_path": "Page 69",
+      "schema_version": 2,
+      "token_estimate": 160,
+      "injection_flags": "",
+      "chunk_id": "59655f238d2734ed7a16"
     }
   },
   {
@@ -2698,7 +4618,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 70,
+      "page_end": 70,
+      "section_path": "Waiting Period (page 70)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "bfe17671e5c00598fc61"
     }
   },
   {
@@ -2712,7 +4642,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 70,
+      "page_end": 70,
+      "section_path": "Waiting Period (page 70)",
+      "schema_version": 2,
+      "token_estimate": 199,
+      "injection_flags": "",
+      "chunk_id": "ba4229635ef53feff72e"
     }
   },
   {
@@ -2726,7 +4666,17 @@
       "source": "bajaj_allianz_mhcp_edge_policy_wording",
       "source_file": "health__mhcp_edge__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__mhcp_edge__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 71,
+      "page_end": 71,
+      "section_path": "Waiting Period (page 71)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "969cf11746d08c47889f"
     }
   }
 ]

@@ -10,7 +10,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "aab9ce7f55b0935685a1"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "1a02c8da5f94307967b6"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 150,
+      "injection_flags": "",
+      "chunk_id": "40f4458181d62c97361d"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "43a75486245247e93769"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "77c76d1854fbc9712ce8"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 99,
+      "injection_flags": "",
+      "chunk_id": "e25b2021a6f43077a8e1"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "fd182b3eb8fdbfe34476"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "dc3be912b2c1ab13a9e1"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 132,
+      "injection_flags": "",
+      "chunk_id": "f80d6887746d546291e9"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "4eee27d8c49c25ad0b12"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "9822b9163e5299695cfa"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 186,
+      "injection_flags": "",
+      "chunk_id": "ca32b5494881054b17bb"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "2582c30c9fbd68613a2d"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "d4e7cac6108505053180"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "f0e6e8c3e95a904919e7"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 325,
+      "injection_flags": "",
+      "chunk_id": "0367fc0e665791904384"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "a42782c05746ab8db7b6"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 261,
+      "injection_flags": "",
+      "chunk_id": "43034b929c37f4a8ab26"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "9f9e79b217bd34d38b1b"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "8f2da79cfe34ac981b4b"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "2c4bbbd5143154d0a663"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "5299dc8cc6c3397f99f6"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 146,
+      "injection_flags": "",
+      "chunk_id": "6a24ef4f0588f1ee2305"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "14bde21370da262e27ac"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "2171c508f414d38a622e"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 99,
+      "injection_flags": "",
+      "chunk_id": "469ce70d5750f92f9388"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "22b83a8855217c581743"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "5d4df51cadf655e1a4fe"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 102,
+      "injection_flags": "",
+      "chunk_id": "2aa8896b86fec9dc4de3"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "4c1aabfe7a7943afea17"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "8e9d34354c7f1049cc50"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 201,
+      "injection_flags": "",
+      "chunk_id": "1becf9cec7f01ef965c6"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "df1f0053985b24977270"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "d83de110f448cf60b316"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "c019c9dd5f1f835059cb"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "330ea11621c9c27f6066"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 124,
+      "injection_flags": "",
+      "chunk_id": "680e4584051933596086"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "2fd6cde7ee9ee11932d5"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 301,
+      "injection_flags": "",
+      "chunk_id": "a98f4a78aacc80093df8"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "c74e13e7c8cd7ebc7a8c"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 229,
+      "injection_flags": "",
+      "chunk_id": "5c8f19030409e00785d6"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "9cc52c57d8b6ebd68fbb"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 236,
+      "injection_flags": "",
+      "chunk_id": "fa06bc195c9410250f20"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "2a0864d5a2bcfb539710"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 186,
+      "injection_flags": "",
+      "chunk_id": "1d1ea0faccbb4556d942"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "c1265b56c78c9b2f1224"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "tata_aig_auto_secure_private_car_extended_warranty_insurance_policy_policy_wording",
       "source_file": "motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/motor__auto_secure_private_car_extended_warranty_insurance_policy__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 144,
+      "injection_flags": "",
+      "chunk_id": "96a01d2826a24a6ad69d"
     }
   }
 ]

@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "85a447573986472381a5"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "de739c76b61cd16bfbcf"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 113,
+      "injection_flags": "",
+      "chunk_id": "c46c8b3c0a8cd2bf3106"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "15d0be698d276088c83d"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "a6c8353944c5d603718b"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 222,
+      "injection_flags": "",
+      "chunk_id": "52dc061e220f2551f0c2"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "21a693b25884ca27439a"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "ac9d148cdbc6be1c4715"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 176,
+      "injection_flags": "",
+      "chunk_id": "a60b899ed543c1bc2996"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "450535750e0beb2bc60b"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "fdb8174032be40a0185e"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 48,
+      "injection_flags": "",
+      "chunk_id": "ff37b3ea957b54f527b7"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "080bc8456f66090069a5"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "395eb178eabaf1dd947b"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "58600ed1988c04a1640d"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "44f08bc20be12bc990e8"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 64,
+      "injection_flags": "",
+      "chunk_id": "62fc8203c00d5491daf4"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "b1daa0e13a7ccf3cb6ab"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "50b25c5f0069949a234c"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 41,
+      "injection_flags": "",
+      "chunk_id": "a43a698eb599f4ca068c"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "bajaj_allianz_fetal_flourish_policy_wording",
       "source_file": "health__fetal_flourish__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__fetal_flourish__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 282,
+      "injection_flags": "",
+      "chunk_id": "710f20da622c2e20658e"
     }
   }
 ]

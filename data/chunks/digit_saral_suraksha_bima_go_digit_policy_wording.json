@@ -10,7 +10,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 50,
+      "injection_flags": "",
+      "chunk_id": "8aa48fd805e6cb73a147"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 221,
+      "injection_flags": "",
+      "chunk_id": "c85150d1ae6da0c22771"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "b9a80971556d2960c3cf"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "b8a051d79e05814309e4"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "d6d05007c43d0655dd9b"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "a44fc863608803d33187"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "87f73520dda34aea468c"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 322,
+      "injection_flags": "",
+      "chunk_id": "91cf40936ef58e8a6fc3"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 360,
+      "injection_flags": "",
+      "chunk_id": "78d23fddcd27a3e7b59b"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "c87111a58355f85f07a1"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 324,
+      "injection_flags": "",
+      "chunk_id": "5f4fef3730a04e7d013c"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Optional Covers (page 8)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "6121894ca23e8c740276"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Optional Covers (page 8)",
+      "schema_version": 2,
+      "token_estimate": 220,
+      "injection_flags": "",
+      "chunk_id": "289a222928afdadc9e33"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "5ece4ae258a2ff573575"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "82b02d53b14597893226"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 218,
+      "injection_flags": "",
+      "chunk_id": "863cc5a0941414b7752c"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Optional Covers (page 10)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "e1e4138475f20bda3c82"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Optional Covers (page 10)",
+      "schema_version": 2,
+      "token_estimate": 156,
+      "injection_flags": "",
+      "chunk_id": "644f915b5127f4e71cf5"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "df489e91a232802375fb"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "2e2a0b0f6d99b09f4265"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 166,
+      "injection_flags": "",
+      "chunk_id": "edd5556aeb65a5c2f570"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 177,
+      "injection_flags": "",
+      "chunk_id": "428eb23c2d96023268ba"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "41b647f275df994e9b8d"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "cacf476865fa8f3087a7"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 75,
+      "injection_flags": "",
+      "chunk_id": "d4314cff3aeaa05da5c6"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "cdfe474a9bfa8dab8fed"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "ab5fa4680c1c20ba4e90"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "c4bd8b33667982a36d03"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "11aeb08ecf6282ac1885"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 86,
+      "injection_flags": "",
+      "chunk_id": "57c2ff384c81f0f5d5e1"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "ab23784e2b378535e5ff"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "77d8de20b9318ff454f9"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 102,
+      "injection_flags": "",
+      "chunk_id": "cde0661009e5a9331435"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "103a250015d2e08ecef0"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 347,
+      "injection_flags": "",
+      "chunk_id": "d58c33aee7910f12e1bb"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "1704ae42baf387a8172f"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "69ef718c6b3992abcb81"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 121,
+      "injection_flags": "",
+      "chunk_id": "5dcd5aa826a9d76a7902"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "3ac1fe8bbbb2876e199a"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "293664e3e12c2673d9fb"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 193,
+      "injection_flags": "",
+      "chunk_id": "e1ac0a457222b6c5466d"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Optional Covers (page 20)",
+      "schema_version": 2,
+      "token_estimate": 214,
+      "injection_flags": "",
+      "chunk_id": "1aedcd23ca29a0a7bbdd"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "968f0df131bca37ffce5"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "be7b3120b2475dcdef9a"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 156,
+      "injection_flags": "",
+      "chunk_id": "7d0c04d56734a5e79c7b"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "4a92d9a244f5ac2bd768"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 162,
+      "injection_flags": "",
+      "chunk_id": "c022a7c9e96e8ef6ab71"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "4262175f7b44986ff36b"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 239,
+      "injection_flags": "",
+      "chunk_id": "9cbf215c01d937e8d87f"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "f092802fff3ea442073b"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 332,
+      "injection_flags": "",
+      "chunk_id": "581763c9b6082fd90141"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "ed3c01439665b73e034e"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 207,
+      "injection_flags": "",
+      "chunk_id": "c8247f5e0ef7ecdb2176"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "digit_saral_suraksha_bima_go_digit_policy_wording",
       "source_file": "health__saral_suraksha_bima_go_digit__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__saral_suraksha_bima_go_digit__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 40,
+      "injection_flags": "",
+      "chunk_id": "d81442b3902af66117bf"
     }
   }
 ]

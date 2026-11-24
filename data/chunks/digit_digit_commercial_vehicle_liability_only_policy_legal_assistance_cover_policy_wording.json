@@ -10,7 +10,17 @@
       "source": "digit_digit_commercial_vehicle_liability_only_policy_legal_assistance_cover_policy_wording",
       "source_file": "motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "3ae8ab518dc5f1d9fd4b"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_digit_commercial_vehicle_liability_only_policy_legal_assistance_cover_policy_wording",
       "source_file": "motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "2e4c7cb7e81fd7df90ca"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_digit_commercial_vehicle_liability_only_policy_legal_assistance_cover_policy_wording",
       "source_file": "motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 190,
+      "injection_flags": "",
+      "chunk_id": "49379ac35ca208889478"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_digit_commercial_vehicle_liability_only_policy_legal_assistance_cover_policy_wording",
       "source_file": "motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "a4a3851dc5436820af68"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "digit_digit_commercial_vehicle_liability_only_policy_legal_assistance_cover_policy_wording",
       "source_file": "motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "6491a5c250bf8eeb5c51"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "digit_digit_commercial_vehicle_liability_only_policy_legal_assistance_cover_policy_wording",
       "source_file": "motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 180,
+      "injection_flags": "",
+      "chunk_id": "dd6755706e71ef5d48b2"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "digit_digit_commercial_vehicle_liability_only_policy_legal_assistance_cover_policy_wording",
       "source_file": "motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_commercial_vehicle_liability_only_policy_legal_assistance_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 199,
+      "injection_flags": "",
+      "chunk_id": "ffa11770e26aaa45c086"
     }
   }
 ]

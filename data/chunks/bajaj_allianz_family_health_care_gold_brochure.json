@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 29,
+      "injection_flags": "",
+      "chunk_id": "003fb87e60f5a6786ff9"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "6c925169709a152cc30c"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "ddda30e9d5764100f6a4"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "d6671ea12ad34ab21a2b"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 114,
+      "injection_flags": "",
+      "chunk_id": "016621611e9621f1e9c3"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "81e0c7a45b75b19ef153"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "020cbbeb8ed9082df035"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 66,
+      "injection_flags": "",
+      "chunk_id": "27a6d990d51f3566a2aa"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "a425b4dd5984c8710b15"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "6be0135838f1093cc394"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 179,
+      "injection_flags": "",
+      "chunk_id": "d0e8dace8e3af3e67f97"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "711f021875645874cf83"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 341,
+      "injection_flags": "",
+      "chunk_id": "fd07c57796cf31e729f7"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "81efb02c529f34d7a344"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 268,
+      "injection_flags": "",
+      "chunk_id": "f9369d45030838222812"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "be747034ce8d3970d55a"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "d70784ed5d102fd5d18b"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 86,
+      "injection_flags": "",
+      "chunk_id": "31442d5fc2a80ce414eb"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "4443babe34d76420646d"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "006ecea61a24e7bf9902"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 195,
+      "injection_flags": "",
+      "chunk_id": "3492cf1cc442ec3a6276"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "68e19fc08867e111064a"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "926c2a654588fb3bd527"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 113,
+      "injection_flags": "",
+      "chunk_id": "7a047ab0dd6c18ea0213"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "b509bdcce260bb673cee"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "9ffe73fa759551c1e933"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 186,
+      "injection_flags": "",
+      "chunk_id": "089e0866e5748f6a0313"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "b799e5f822831a303c13"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "f8a8d8c2bd03dbda7b42"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "7b160ca55cc401e5ce3e"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "a82ab5ea961fce98f70b"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 343,
+      "injection_flags": "",
+      "chunk_id": "9901c086607f82cce11f"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "476b5c5f8d434ca07aee"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "a6a91245b92321ee848a"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 344,
+      "injection_flags": "",
+      "chunk_id": "1a2bbbdb5e42049f1b44"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "4275977ed795b78ef6e1"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 58,
+      "injection_flags": "",
+      "chunk_id": "da5185cb4cadfddc29b1"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "bajaj_allianz_family_health_care_gold_brochure",
       "source_file": "health__family_health_care_gold__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_gold__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 232,
+      "injection_flags": "",
+      "chunk_id": "a2d3eab11075e3d9fc08"
     }
   }
 ]

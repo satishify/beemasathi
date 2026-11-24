@@ -10,7 +10,17 @@
       "source": "max_bupa_empower_health_plan_single_sheeter_ss_brochure",
       "source_file": "health__empower_health_plan_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 94,
+      "injection_flags": "",
+      "chunk_id": "35daf0fc681499c4af58"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_empower_health_plan_single_sheeter_ss_brochure",
       "source_file": "health__empower_health_plan_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "eb5299bbd2b75cf456a3"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_empower_health_plan_single_sheeter_ss_brochure",
       "source_file": "health__empower_health_plan_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "49af11042eac7f1755fd"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_empower_health_plan_single_sheeter_ss_brochure",
       "source_file": "health__empower_health_plan_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__empower_health_plan_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 267,
+      "injection_flags": "",
+      "chunk_id": "84fc1e82395cc617aadc"
     }
   }
 ]

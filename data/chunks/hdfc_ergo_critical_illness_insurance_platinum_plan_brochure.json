@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_platinum_plan_brochure",
       "source_file": "health__critical_illness_insurance_platinum_plan__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance_platinum_plan__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 20,
+      "injection_flags": "",
+      "chunk_id": "ab0f50531472c3696180"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_platinum_plan_brochure",
       "source_file": "health__critical_illness_insurance_platinum_plan__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance_platinum_plan__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 127,
+      "injection_flags": "",
+      "chunk_id": "460c2d8b60f2ba472d9a"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_platinum_plan_brochure",
       "source_file": "health__critical_illness_insurance_platinum_plan__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance_platinum_plan__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "59b99826c03c0fa47e98"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_platinum_plan_brochure",
       "source_file": "health__critical_illness_insurance_platinum_plan__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance_platinum_plan__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "a8c06eef36bbe67fb08c"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_platinum_plan_brochure",
       "source_file": "health__critical_illness_insurance_platinum_plan__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance_platinum_plan__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 243,
+      "injection_flags": "",
+      "chunk_id": "02c507fb5101300b142f"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_platinum_plan_brochure",
       "source_file": "health__critical_illness_insurance_platinum_plan__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance_platinum_plan__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 213,
+      "injection_flags": "",
+      "chunk_id": "4ab823e3f4b151388ed0"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_platinum_plan_brochure",
       "source_file": "health__critical_illness_insurance_platinum_plan__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance_platinum_plan__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 187,
+      "injection_flags": "",
+      "chunk_id": "16c3762082ea1a9ea899"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_critical_illness_insurance_platinum_plan_brochure",
       "source_file": "health__critical_illness_insurance_platinum_plan__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__critical_illness_insurance_platinum_plan__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 140,
+      "injection_flags": "",
+      "chunk_id": "6d93611f67d428caa69a"
     }
   }
 ]

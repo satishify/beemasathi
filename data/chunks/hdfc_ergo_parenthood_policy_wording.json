@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_parenthood_policy_wording",
       "source_file": "health__parenthood__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__parenthood__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "b82fd01f9bb2f4710f5a"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_parenthood_policy_wording",
       "source_file": "health__parenthood__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__parenthood__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "804f53e8b6ad3f33cf21"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_parenthood_policy_wording",
       "source_file": "health__parenthood__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__parenthood__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 94,
+      "injection_flags": "",
+      "chunk_id": "1ba0f8db4439f6f74fa5"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_parenthood_policy_wording",
       "source_file": "health__parenthood__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__parenthood__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "797fcfa6c1cd78ce1fc9"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_parenthood_policy_wording",
       "source_file": "health__parenthood__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__parenthood__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 114,
+      "injection_flags": "",
+      "chunk_id": "b6a0f1eab39c70f8a513"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_parenthood_policy_wording",
       "source_file": "health__parenthood__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__parenthood__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "5b4a7715cb1b66a1c01e"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_parenthood_policy_wording",
       "source_file": "health__parenthood__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__parenthood__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 146,
+      "injection_flags": "",
+      "chunk_id": "30e8d63384e22e9f6087"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_parenthood_policy_wording",
       "source_file": "health__parenthood__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__parenthood__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "78df42158013365bcb78"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "hdfc_ergo_parenthood_policy_wording",
       "source_file": "health__parenthood__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__parenthood__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 115,
+      "injection_flags": "",
+      "chunk_id": "3c87a7bc84784bebc231"
     }
   }
 ]

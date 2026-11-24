@@ -10,7 +10,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "176734b349770937fb63"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "b7f04203cf83869d39a0"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 154,
+      "injection_flags": "",
+      "chunk_id": "430ff68fabc35b49cca1"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "93523474c8afc45e2bb0"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "834d4e513a200f623c5e"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "1b2d7c2ee388c30fe79d"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "6c0a6dcaf3ffa35bdf06"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "e273e4007922f2a91355"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "235b7a53d909f19d3068"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "0008a6398ab0aaefc6c6"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 77,
+      "injection_flags": "",
+      "chunk_id": "55061cc876466d9b0d2b"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "ff8b836e63765e494804"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "239dbe00dd061f83050f"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 89,
+      "injection_flags": "",
+      "chunk_id": "62e5ec3ebbdb90abf63e"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "e2a30a15aeea8958518e"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "4f6462c496cd46380813"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 101,
+      "injection_flags": "",
+      "chunk_id": "ffa5d29ba2407fb14105"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "d25ad523e0ada5d87c13"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "cec5e05c955cff8f975d"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 236,
+      "injection_flags": "",
+      "chunk_id": "fc0a4813fabbfddb2d18"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "ca3843140c42bedbc210"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "e02808e1cc8b0b611157"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 185,
+      "injection_flags": "",
+      "chunk_id": "f998965b7f03667454b4"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "d51cea23e8e1841ee2c9"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "c5a4648dd84bb9039bd6"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 130,
+      "injection_flags": "",
+      "chunk_id": "77d8f8b2bdd0979311e0"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "4e8da2c59c59eec59306"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "2df57a5fcea3348a884c"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 77,
+      "injection_flags": "",
+      "chunk_id": "7be3f02f0c85d07d47c3"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "0c4c3336d7d1d941b267"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "574b6208676be7eb7935"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 172,
+      "injection_flags": "",
+      "chunk_id": "72af18dff1291efde271"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "6579716ea9a2df4a1749"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "2f8494d7641ef8ef0a1f"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 232,
+      "injection_flags": "",
+      "chunk_id": "abe8463f27ff76f7cb1e"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "c978abf8aa22ab053d7c"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 342,
+      "injection_flags": "",
+      "chunk_id": "51d48e5fecb0fc6a1fd4"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "135f56676ca1b387b874"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "2287da053da6b31f6615"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 185,
+      "injection_flags": "",
+      "chunk_id": "a6d28bdfa502ec1e4e89"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "14fa01325b5efcd1aa50"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "adfd96045d31513d5b47"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 175,
+      "injection_flags": "",
+      "chunk_id": "e2768b5728d089dfc85d"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "b2202d1006daf4218e48"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "f0c61a474b0cdee71af0"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "36e60db56fa30dd9e950"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "3b9fed54666998e667a5"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 350,
+      "injection_flags": "",
+      "chunk_id": "1803b345da84f3ebaf08"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "521b1fc0b7afd1bbe882"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 112,
+      "injection_flags": "",
+      "chunk_id": "b4ede340dfcc47dd9c05"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "e0b5d53e04a6b6c0649d"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 350,
+      "injection_flags": "",
+      "chunk_id": "cb94479443beb8220b16"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "e1dd027c99ad57807af9"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "b3e4b6c281078683ef00"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 165,
+      "injection_flags": "",
+      "chunk_id": "87684210bb92d05c2d19"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "6c9d304552d0b361df9f"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 219,
+      "injection_flags": "",
+      "chunk_id": "de3cc67ae45a84819580"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "e078cb5628db00cc2f0c"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 77,
+      "injection_flags": "",
+      "chunk_id": "e207c7545a0d6d2b1e87"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "2ed1e9780d3837aff246"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "36923dd4e891fa81a5e1"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 55,
+      "injection_flags": "",
+      "chunk_id": "41bd31f2de8a64689651"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 341,
+      "injection_flags": "",
+      "chunk_id": "5f3a4184446149bf7263"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "445ef20328bba702c4ed"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "tata_aig_group_medicare_micro_insurance_base_microinsurance_policy_wording",
       "source_file": "health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__group_medicare_micro_insurance_base_microinsurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 101,
+      "injection_flags": "",
+      "chunk_id": "926bbfa164f8ecfa7301"
     }
   }
 ]

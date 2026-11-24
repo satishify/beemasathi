@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "f6004af4bcc9a83ddff8"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "f082199088cf292c50a1"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 77,
+      "injection_flags": "",
+      "chunk_id": "3d7872624e8856693083"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "cc4aec7a4ca16b8f574d"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "41832d4b1b75d202b55d"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 95,
+      "injection_flags": "",
+      "chunk_id": "a04feb14a494ebfd358b"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "17cd72c07153aa486cff"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 327,
+      "injection_flags": "",
+      "chunk_id": "2df3cf5d838b44108ad6"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "c804b5219284958aeaff"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "aa2ea547cb52c74e20b8"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 85,
+      "injection_flags": "",
+      "chunk_id": "6d30765e64307ce5883c"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "3d538363516efd63ef8b"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "4536281145372ade1da6"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "7262b061546226555b24"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "890d7c61a1e0b54cba5a"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 155,
+      "injection_flags": "",
+      "chunk_id": "bb70d661287ce4a5a532"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "ee0e564d2da1ae65da88"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "7d99a9ebb96e7d0500ee"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 111,
+      "injection_flags": "",
+      "chunk_id": "70b2d41ebbefefcef925"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "b92dbfa0ad2b1a9227b7"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 211,
+      "injection_flags": "",
+      "chunk_id": "69248c878346df68825f"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "ccf643d64eabe4887189"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 297,
+      "injection_flags": "",
+      "chunk_id": "6f7ea0671238a526c833"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "f50293274e9cf9999008"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "6591791f7645dad9e436"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 74,
+      "injection_flags": "",
+      "chunk_id": "481cc98bd6dff0993350"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "915f46875e5abae57671"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 222,
+      "injection_flags": "",
+      "chunk_id": "b6ab785c973b5a906ebe"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 277,
+      "injection_flags": "",
+      "chunk_id": "a52dcdc4645a9b95fb4e"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "8fb2fb1ef7487c52aaf0"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 81,
+      "injection_flags": "",
+      "chunk_id": "202923a7f8b915520b34"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "864d52a575dc7c0e6896"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 101,
+      "injection_flags": "",
+      "chunk_id": "9115af5993880b54f378"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "cfccdd13b8ca4f9d2795"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 249,
+      "injection_flags": "",
+      "chunk_id": "d87c4aa36d2e93fedef1"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "hdfc_ergo_hospital_daily_cash_policy_wording",
       "source_file": "health__hospital_daily_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hospital_daily_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "9e3bfd1aaaa7ec8a4539"
     }
   }
 ]

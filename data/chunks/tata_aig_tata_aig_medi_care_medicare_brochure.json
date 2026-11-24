@@ -10,7 +10,17 @@
       "source": "tata_aig_tata_aig_medi_care_medicare_brochure",
       "source_file": "health__tata_aig_medi_care_medicare__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_medicare__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "00ef784ba8a081039207"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "tata_aig_tata_aig_medi_care_medicare_brochure",
       "source_file": "health__tata_aig_medi_care_medicare__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_medicare__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 141,
+      "injection_flags": "",
+      "chunk_id": "e117882d4d79e252e6d7"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "tata_aig_tata_aig_medi_care_medicare_brochure",
       "source_file": "health__tata_aig_medi_care_medicare__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_medicare__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "663b9c4aa22037dc1770"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "tata_aig_tata_aig_medi_care_medicare_brochure",
       "source_file": "health__tata_aig_medi_care_medicare__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_medicare__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 91,
+      "injection_flags": "",
+      "chunk_id": "eae03cf045dc8834f214"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "tata_aig_tata_aig_medi_care_medicare_brochure",
       "source_file": "health__tata_aig_medi_care_medicare__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_medicare__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "eff4a1aa15a7601e8b08"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "tata_aig_tata_aig_medi_care_medicare_brochure",
       "source_file": "health__tata_aig_medi_care_medicare__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_medicare__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 75,
+      "injection_flags": "",
+      "chunk_id": "33586e6fbdda04bba92a"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "tata_aig_tata_aig_medi_care_medicare_brochure",
       "source_file": "health__tata_aig_medi_care_medicare__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_medicare__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "6f40f13eaffda7548226"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "tata_aig_tata_aig_medi_care_medicare_brochure",
       "source_file": "health__tata_aig_medi_care_medicare__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_medicare__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "08914796311eeb232ac6"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "tata_aig_tata_aig_medi_care_medicare_brochure",
       "source_file": "health__tata_aig_medi_care_medicare__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_medicare__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "6db03d78b943b5f80df0"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "tata_aig_tata_aig_medi_care_medicare_brochure",
       "source_file": "health__tata_aig_medi_care_medicare__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_medicare__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 204,
+      "injection_flags": "",
+      "chunk_id": "75afac0d2c2ab00bee15"
     }
   }
 ]

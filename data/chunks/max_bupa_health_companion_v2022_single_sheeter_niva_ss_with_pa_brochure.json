@@ -10,7 +10,17 @@
       "source": "max_bupa_health_companion_v2022_single_sheeter_niva_ss_with_pa_brochure",
       "source_file": "health__health_companion_v2022_single_sheeter_niva_ss_with_pa__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_companion_v2022_single_sheeter_niva_ss_with_pa__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 290,
+      "injection_flags": "",
+      "chunk_id": "de5ec296c6ccd66b1f01"
     }
   }
 ]

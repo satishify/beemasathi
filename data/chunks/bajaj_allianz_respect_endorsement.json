@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Bajaj General Insurance Limited (Formerly Known As Bajaj Allianz General Insurance Co. Ltd.)\nBajaj Insurance House, Airport Road, Yerawada, Pune - 411 006. Reg. No.: 113 CIN: U66010PN2000PLC015329\nUIN: BAJHLIA23141V012223\nFor more details, log on to: www.bajajgeneralinsurance.com or\ncall at : Sales - 1800 209 0144 / Service - 1800 209 5858 (Toll Free No.)\nURN - Bajaj General/Health/Individual/014\nANNEXURE - RESPECT SENIOR CARE RIDER (Individual)\nNOTE: Please attach this Annexure with the Base Product Proposal Form\nPlan Details (please refer table below)\nPlease tick one\nPlan 1 Plan 2 Plan 3\nOptional Cover: Yes No\nInsured Member Details\n1. Customer Full Name:\nTitle First Name\nMiddle Name Surname\n2. Permanent / Residential Address :\nHouse No & Name\nLandmark/Locality\nRoad/Area Name City\nState Pin Code\n3. Registered Contact details\nTelephone (Res.) Telephone (Office)\nMobile Number E-Mail @\n4. Alternate/Secondary Contact details\nTelephone (Res.) Telephone (Office)\nMobile Number E-Mail @\nPlan Details for reference\nServices Plan 1 Plan 2 Plan 3\nEmergency Road Ambulance Service Yes Yes Yes\nPlanned Road Ambulance Service Yes Yes Yes\nConcierge Assistance Services Yes Yes Yes\nNursing Care at Home No Yes Yes\nPhysiotherapy Service No Yes Yes\nTele-consultation services for Psychological conditions No Yes Yes\nFall Detection Technology through Smart Watch No No Yes\nMedical Tele-consultation services Optional Optional Optional",
+    "metadata": {
+      "insurer": "bajaj_allianz",
+      "policy_name": "respect",
+      "section": "Page 1",
+      "page": 1,
+      "chunk_type": "general",
+      "source": "bajaj_allianz_respect_endorsement",
+      "source_file": "health__respect__endorsement.pdf",
+      "document_type": "endorsement",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect__endorsement.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "endorsement",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 358,
+      "injection_flags": "",
+      "chunk_id": "f4d48764c44035484878"
+    }
+  },
+  {
+    "text": "DECLARATIONS – PHYSICAL PROPOSAL FORM\nAre you or any of the proposal applicants a PEP* or a close relative of PEP*?\nIf yes, please share the details\n“Politically Exposed Persons” (PEPs) are individuals who are or have been entrusted with prominent public functions in a foreign country, e.g.,\nHeads of States/Governments, senior politicians, senior government/juridical /military officers, senior executives of state-owned corporations,\nimportant political party officials, etc.” Yes / No\nI/we hereby give my/our consent to the Company to verify and obtain my/our identity/address proof through CERSAI records or National\nSecurities Depository Limited Portal for the purpose of undertaking KYC verification. Yes / No\nI/we hereby declare and confirm that the premium has been paid out of legally acquired sources of income and the subsequent premiums if\nany, will continue to be paid out of legally declared and assessed source of income. Yes / No\nI/We hereby give voluntary consent to Bajaj General/Company to share my/our personal information and data provided in this\nproposal form with its group companies or any other person in connection with the Insurance Policy or otherwise, including for providing\nproducts and services of group companies that may be of interest to me/us, to be used in accordance with their respective privacy policies\nand subject to appropriate measures being in place to safeguard my/our personal information. Yes / No\nIt is mandatory to keep your policy with updated contact (Mobile No., Email ID and PAN Card) and bank account details, to process any of your",
+    "metadata": {
+      "insurer": "bajaj_allianz",
+      "policy_name": "respect",
+      "section": "Page 2",
+      "page": 2,
+      "chunk_type": "premium",
+      "source": "bajaj_allianz_respect_endorsement",
+      "source_file": "health__respect__endorsement.pdf",
+      "document_type": "endorsement",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect__endorsement.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "endorsement",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "2ddbfaf4e8d9002302cf"
+    }
+  },
+  {
+    "text": "and subject to appropriate measures being in place to safeguard my/our personal information. Yes / No\nIt is mandatory to keep your policy with updated contact (Mobile No., Email ID and PAN Card) and bank account details, to process any of your\nservice requests faster and hassle-free in future.\nYou can update the same through Bajaj General App, WhatsApp Service (Say 'Hi' on WhatsApp- +91 7507245858), Contact our 24-Hour Call\nCenter at 1800-209-5858, 1800-102-5858, Give a Missed Call on 8080945060, SMS \"WORRY\" to 575758, Email-\ncareforyou@bajajgeneral.com, website-https://www.bajajgeneralinsurance.com/general-insurance.html, contact your agent or nearest branch.",
+    "metadata": {
+      "insurer": "bajaj_allianz",
+      "policy_name": "respect",
+      "section": "Page 2",
+      "page": 2,
+      "chunk_type": "general",
+      "source": "bajaj_allianz_respect_endorsement",
+      "source_file": "health__respect__endorsement.pdf",
+      "document_type": "endorsement",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect__endorsement.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "endorsement",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 167,
+      "injection_flags": "",
+      "chunk_id": "12720fb1be14d6e95d2e"
+    }
+  }
+]

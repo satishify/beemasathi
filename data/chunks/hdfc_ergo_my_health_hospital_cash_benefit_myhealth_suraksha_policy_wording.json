@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 228,
+      "injection_flags": "",
+      "chunk_id": "ab8e4688e578a06bac24"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "f946834acfffc1e8a570"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 365,
+      "injection_flags": "",
+      "chunk_id": "8e283911a2bc7f437e10"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "ddf985ec87e22059588c"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "2b1ec5b9702bfe3e5100"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "e6a3df5797f81b59e6dc"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "d75845c546d0763ac894"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 148,
+      "injection_flags": "",
+      "chunk_id": "748faf97a4c0a9c47721"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "fb2623a7c636f2360443"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 306,
+      "injection_flags": "",
+      "chunk_id": "2c477259ce4475a794c5"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "a06aa02e8544f069a321"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "9aa50225d4875e686068"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 165,
+      "injection_flags": "",
+      "chunk_id": "321d3478c33e7e0d1f92"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "2f8d9533f92c77601cd2"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 349,
+      "injection_flags": "",
+      "chunk_id": "d16e8afc043c00528a20"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "268e8d953caac0b82e40"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 320,
+      "injection_flags": "",
+      "chunk_id": "b649fd45ac9ceac6676b"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "0edcc100c882f8e87dfb"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 294,
+      "injection_flags": "",
+      "chunk_id": "e6eebb40c0594feb88b1"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "24ade637d1a2d07cdabb"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "ecd37bdf02ef9a936a7a"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "a2cc47fbd22b9f74382b"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 135,
+      "injection_flags": "",
+      "chunk_id": "124874d1fb8e065b5ed5"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "5372fd7f2feb8ed8d255"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "a896fab2d1f3c2e41b5d"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "d77423589bdb2280d555"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 125,
+      "injection_flags": "",
+      "chunk_id": "37cb5577d67ae65c4a56"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "a51dca568c2e9e53ad60"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "3161cbb1d95990e91421"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "6b0965e83e45120a83a6"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "995bc89572b436280078"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 99,
+      "injection_flags": "",
+      "chunk_id": "353d5a081fc207175332"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "fa716fee34e2653b9e91"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 293,
+      "injection_flags": "",
+      "chunk_id": "38674cfb81ee3f31aeaf"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "cade48e33febcc27b681"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 339,
+      "injection_flags": "",
+      "chunk_id": "dd0538b9f4fd6d8b24b2"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "c8dfa969a56d375be31c"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "8dc328b2a1373ed0ef08"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 119,
+      "injection_flags": "",
+      "chunk_id": "3693d751e8496bd4338c"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "2f5576496149e4322ae7"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "b3173400152c76ed16ec"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 70,
+      "injection_flags": "",
+      "chunk_id": "c20130748d6f8d0d88a1"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "8bb31d06febfb4b059a3"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "d8f6c45d792fd62ddfc2"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 127,
+      "injection_flags": "",
+      "chunk_id": "56df2639ef8e517cdb37"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "24165f8daf5fc405156f"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 324,
+      "injection_flags": "",
+      "chunk_id": "9ada7b0b869281d31f88"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Waiting Period (page 22)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "aeff67084a91948db274"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Waiting Period (page 22)",
+      "schema_version": 2,
+      "token_estimate": 346,
+      "injection_flags": "",
+      "chunk_id": "47b1b5eea4f33c7a7e3f"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "1f602ecf5d917db22ee5"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "7263bfc119bbba5c30ed"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "21b7cbf38c6d84b01838"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 225,
+      "injection_flags": "",
+      "chunk_id": "623e48a4e27b29d4c25b"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "cfea6cb5764709503ac5"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 174,
+      "injection_flags": "",
+      "chunk_id": "c31fc4419cf3e81c3dce"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "e1c78130823366477fa0"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 226,
+      "injection_flags": "",
+      "chunk_id": "6a5aa632c69822206154"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "204dfc3005439acd120a"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 118,
+      "injection_flags": "",
+      "chunk_id": "2e20497b277f8d587593"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "678b03f5f47c682f3c42"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 82,
+      "injection_flags": "",
+      "chunk_id": "2269afc74e695080cb24"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "ef0629dbd8e93bd10aa3"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 85,
+      "injection_flags": "",
+      "chunk_id": "381c67226c7bf31d6d6a"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "2417a3f0105e2b265455"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 261,
+      "injection_flags": "",
+      "chunk_id": "eb7cb85a214dee9c456b"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "b9378760d465e517efab"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 341,
+      "injection_flags": "",
+      "chunk_id": "130944fce04c0ac0de74"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "hdfc_ergo_my_health_hospital_cash_benefit_myhealth_suraksha_policy_wording",
       "source_file": "health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__my_health_hospital_cash_benefit_myhealth_suraksha__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 172,
+      "injection_flags": "",
+      "chunk_id": "94f5b41ae9b4c0fe8902"
     }
   }
 ]

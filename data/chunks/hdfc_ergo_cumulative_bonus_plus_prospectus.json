@@ -1,0 +1,50 @@
+[
+  {
+    "text": "HDFC ERGO General Insurance\nCumulative Bonus Plus – Prospectus\nCumulative Bonus Plus – Prospectus\nA. Preamble\nCumulative Bonus Plus is an add-on that can only be opted and shall only function along with an active\nHDFC ERGO Retail Health Base Product. This add-on cannot be opted in isolation or as a separate\nproduct.\nB. Operative Clause\na. This Add-on can be opted without any additional premium only at inception or at the time of renewal\nof Base Policy.\nb. All other general terms & conditions, exclusions, clauses, eligibility rules, and definitions applicable\nto the Base Product will apply to this add-on unless specifically stated otherwise in this document or\non the Policy Schedule of the Base Policy.\nc. Policy duration of this Add-on shall be same as that of the Base Policy.\nd. Base Policy or Base Product means the HDFC ERGO Retail Health Insurance policy or product to\nwhich this add-on is attached\nC. Coverage\nCoverage provided under any type of cumulative bonus cover which increases the coverage amount,\npost completion of a Policy Year, of the base policy, shall be superseded to the extent of coverage as\ndetailed hereunder.\na. The applicable bonus under the base policy shall be provided irrespective of any claims made\nduring a Policy Year.\nb. Clause in the Base Policy pertaining to reduction in bonus post completion of policy year owing to a\nclaim during the Policy Year shall stand void.\nc. All other terms and conditions applicable to the benefit providing cumulative bonus under the base\npolicy shall remain same.",
+    "metadata": {
+      "insurer": "hdfc_ergo",
+      "policy_name": "cumulative_bonus_plus",
+      "section": "Exclusions (page 1)",
+      "page": 1,
+      "chunk_type": "exclusion",
+      "source": "hdfc_ergo_cumulative_bonus_plus_prospectus",
+      "source_file": "health__cumulative_bonus_plus__prospectus.pdf",
+      "document_type": "prospectus",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__cumulative_bonus_plus__prospectus.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "prospectus",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "5d4529f8219a7acb8446"
+    }
+  },
+  {
+    "text": "c. All other terms and conditions applicable to the benefit providing cumulative bonus under the base\npolicy shall remain same.\nHDFC ERGO General Insurance Company Limited. IRDAI Reg. No.146 CIN: U66030MH2007PLC177117. Registered & Corporate Office: 6th\nFloor, Leela Business Park, Andheri-Kurla Road, Andheri (East), Mumbai – 400 059.Cumulative Bonus Plus UIN: HDFHLIA25038V012425\nPage 1 of 1",
+    "metadata": {
+      "insurer": "hdfc_ergo",
+      "policy_name": "cumulative_bonus_plus",
+      "section": "Exclusions (page 1)",
+      "page": 1,
+      "chunk_type": "general",
+      "source": "hdfc_ergo_cumulative_bonus_plus_prospectus",
+      "source_file": "health__cumulative_bonus_plus__prospectus.pdf",
+      "document_type": "prospectus",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__cumulative_bonus_plus__prospectus.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "prospectus",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 98,
+      "injection_flags": "",
+      "chunk_id": "dcb3a6e4d080036fc13d"
+    }
+  }
+]

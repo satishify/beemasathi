@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 146,
+      "injection_flags": "",
+      "chunk_id": "585c8fc2524e597c7a06"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 336,
+      "injection_flags": "",
+      "chunk_id": "783cd67017eb47241023"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 303,
+      "injection_flags": "",
+      "chunk_id": "079732bcf97d68d3a9b7"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 267,
+      "injection_flags": "",
+      "chunk_id": "141ced2db5ed526086e0"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 231,
+      "injection_flags": "",
+      "chunk_id": "86aceeb37226a9f78b7f"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 173,
+      "injection_flags": "",
+      "chunk_id": "712b4e11ad7d09931b09"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "93f090971320806860b2"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 42,
+      "injection_flags": "",
+      "chunk_id": "6faf5d99d0a4acb71971"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 196,
+      "injection_flags": "",
+      "chunk_id": "a9cf67e05e0aeef63f13"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 177,
+      "injection_flags": "",
+      "chunk_id": "ebeea9d6ac8998b1a8bf"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 249,
+      "injection_flags": "",
+      "chunk_id": "a6d847186c75ee4245ff"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "hdfc_ergo_health_wallet_new_brochure",
       "source_file": "health__health_wallet_new__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_wallet_new__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 188,
+      "injection_flags": "",
+      "chunk_id": "33224b3105d6d92055f5"
     }
   }
 ]

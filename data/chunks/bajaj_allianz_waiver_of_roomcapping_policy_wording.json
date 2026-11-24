@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_waiver_of_roomcapping_policy_wording",
       "source_file": "health__waiver_of_roomcapping__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__waiver_of_roomcapping__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "7885924393ba52ca5476"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_waiver_of_roomcapping_policy_wording",
       "source_file": "health__waiver_of_roomcapping__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__waiver_of_roomcapping__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 347,
+      "injection_flags": "",
+      "chunk_id": "482001626ba00ca3c682"
     }
   }
 ]

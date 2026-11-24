@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 43,
+      "injection_flags": "",
+      "chunk_id": "a5176783b1ce252e05b7"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "0b6d5e32756d1a8163ef"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "81b244b1ed12d56c2242"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "04c2543e561f4aefb7b4"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "a1932c40376ac1507e5b"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "60cb3167971f85ec5df5"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "74139c44906d8ec94e12"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "2e419f5f55695a66dbc3"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "3ecb4418a1fecfc6ad5b"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "b4906b7cd933a752f6da"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 347,
+      "injection_flags": "",
+      "chunk_id": "62152b063fc670f5e07f"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 280,
+      "injection_flags": "",
+      "chunk_id": "49c1b2ae115cc4810f4c"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "33f303832c5e49f1d875"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "9b422febb96f560b6909"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "d00474d24bca0bb077fa"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "dc4a9e3a7e1b390de24d"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "8992dc085c18fbbd847e"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "9fe4bf55b73f2d70d384"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "b1fcb3668050ed95cb97"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "d30f70b3904fea229c1e"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "1fa4045e2cbfed973190"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 346,
+      "injection_flags": "",
+      "chunk_id": "5b1257ff3f37ce5a0df5"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "042e33a32d16ab8134fb"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 310,
+      "injection_flags": "",
+      "chunk_id": "1dd15f97c1c911326f1d"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "1e0dd29d6346ffc6fe4a"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "3a5f7aa9fad50dac2b47"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "c11e3e2deda7ec3cc52c"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "eed9d7f7a322a16d7f96"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 169,
+      "injection_flags": "",
+      "chunk_id": "06c323ea4af4c1353599"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "b2710124930025cd4c59"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "06b8d0d92481892e94b7"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "131c472f7b694f491fdf"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 238,
+      "injection_flags": "",
+      "chunk_id": "0e978641d1c4459ae1b4"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "bajaj_allianz_family_health_care_silver_brochure",
       "source_file": "health__family_health_care_silver__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__family_health_care_silver__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 174,
+      "injection_flags": "",
+      "chunk_id": "583b5f878b513d0a0159"
     }
   }
 ]

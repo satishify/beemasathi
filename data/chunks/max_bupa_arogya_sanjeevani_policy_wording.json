@@ -10,7 +10,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "c92d5d404c192879ad8a"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "720d9254e91b6b43379a"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 198,
+      "injection_flags": "",
+      "chunk_id": "70bc7127c49907331464"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "d747c98ee0cbd9e23dea"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "8e3e5d0cd97f4c40ceb4"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 225,
+      "injection_flags": "",
+      "chunk_id": "e7ea860d5638b37eda61"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "2a3164475f39f2194b99"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "a3f7d38cc7efd928782a"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 306,
+      "injection_flags": "",
+      "chunk_id": "717b60de76685c2ee54c"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "6182bc751dcd4e255018"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "964402504201543713d7"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 348,
+      "injection_flags": "",
+      "chunk_id": "69b7fc6280b5d34d56cf"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "c6348764336925b49eb0"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "f5f5aa525d5435d4ca8a"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 357,
+      "injection_flags": "",
+      "chunk_id": "4e2492ca2fc50ce8ecae"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "76dcc58a86df73c3d029"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "f5a1925b3aa090a7fc11"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "9a2c60666a06979d173f"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "36c87bafba9e2775df9d"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 172,
+      "injection_flags": "",
+      "chunk_id": "2424714888e81ea6d363"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "f1ccba6f00fbcb2c865e"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "3d04ed4209cb0d6f7b2b"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 107,
+      "injection_flags": "",
+      "chunk_id": "a09a2f632bf458d3f09b"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "a4d1c4b11cdc8d77d5d5"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 224,
+      "injection_flags": "",
+      "chunk_id": "6b9aa9608635a1ebe5c1"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "823e29d6bfcf4e3b0b6c"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "136c2b9c61a011996be9"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 85,
+      "injection_flags": "",
+      "chunk_id": "e410399d71b6148634ab"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "7a1e3b14367f9da9f0bd"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "1b3497a734c9173ac354"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 202,
+      "injection_flags": "",
+      "chunk_id": "ef216ddc78a52d449ed1"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "For Cashless Claims (page 12)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "3213988c0d612ebb8a40"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "For Cashless Claims (page 12)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "b1f1ee943d0eeef3846f"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "152f5a430ff293bcc561"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "3bc92ee113a53c7ddd36"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "5b6710439e0c6de4159b"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "fe92ea9831f1e1ebb1d4"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "0d5e7fd35a93c258ccc2"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 186,
+      "injection_flags": "",
+      "chunk_id": "f34877cf9aafb9cf0b1c"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "a8a45c72fae1f0e212f6"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "3b697d5ff29316e29adf"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 347,
+      "injection_flags": "",
+      "chunk_id": "95bb48b923191f54c437"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "f5774c42d270cd388c8c"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "a5e6e084da70cf69c7d9"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 180,
+      "injection_flags": "",
+      "chunk_id": "d62edc71a5b06aa14791"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Waiting Period (page 17)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "880d57b32fb82d9c4f13"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Waiting Period (page 17)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "00d74718d710a3e7e0c7"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Waiting Period (page 17)",
+      "schema_version": 2,
+      "token_estimate": 310,
+      "injection_flags": "",
+      "chunk_id": "642bc6c896e319514988"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "4b6a33fc4c95b2a8d864"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "72bb4ebb25bbecadc0e9"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "0209cc98188f96daba5d"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 330,
+      "injection_flags": "",
+      "chunk_id": "d770f96ef4fe7eca417f"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 295,
+      "injection_flags": "",
+      "chunk_id": "d79944cbcb5a97bd7d17"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 289,
+      "injection_flags": "",
+      "chunk_id": "5d44e20db0b42efe82a5"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 298,
+      "injection_flags": "",
+      "chunk_id": "c50f1fd614ef6c42a26e"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 169,
+      "injection_flags": "",
+      "chunk_id": "306393cc355775325ae1"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "6a3ea39b40f62c7dd62f"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 43,
+      "injection_flags": "",
+      "chunk_id": "26188f57f5ce57a8dd9e"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "65b235ba469d14811205"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 40,
+      "injection_flags": "",
+      "chunk_id": "6661569d5400e951edce"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "4cbb28b06e10fad957d1"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 66,
+      "injection_flags": "",
+      "chunk_id": "133789fa37a38316fce1"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "080e094f4fd8b5b47bdc"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "max_bupa_arogya_sanjeevani_policy_wording",
       "source_file": "health__arogya_sanjeevani__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__arogya_sanjeevani__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 60,
+      "injection_flags": "",
+      "chunk_id": "62fb2eeee517ad011ec6"
     }
   }
 ]

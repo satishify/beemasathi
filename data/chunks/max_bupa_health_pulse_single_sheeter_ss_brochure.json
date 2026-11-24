@@ -10,7 +10,17 @@
       "source": "max_bupa_health_pulse_single_sheeter_ss_brochure",
       "source_file": "health__health_pulse_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_pulse_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 265,
+      "injection_flags": "",
+      "chunk_id": "a4ed1aa90531ab5b8bfc"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_health_pulse_single_sheeter_ss_brochure",
       "source_file": "health__health_pulse_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_pulse_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "2e2dd862e008d8d8f71d"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_health_pulse_single_sheeter_ss_brochure",
       "source_file": "health__health_pulse_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_pulse_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "461e7cf74b53df807446"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_health_pulse_single_sheeter_ss_brochure",
       "source_file": "health__health_pulse_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_pulse_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "c0069c0a02cac7c41cc3"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "max_bupa_health_pulse_single_sheeter_ss_brochure",
       "source_file": "health__health_pulse_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_pulse_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 84,
+      "injection_flags": "",
+      "chunk_id": "2a918880bc02ecabe496"
     }
   }
 ]

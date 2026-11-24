@@ -10,7 +10,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "78f7170d8831f11ac399"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 162,
+      "injection_flags": "",
+      "chunk_id": "31d14e48f387e1d969fd"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "920e4e6f2bc45cf2e869"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 338,
+      "injection_flags": "",
+      "chunk_id": "10ca9fc75105179370f4"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "363ff698b49edf6b452a"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "123f3a2db76b67966a30"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "8b49ff2f0a64362c340a"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "5214134dcd368b99c842"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "f77b8c1ba8673f55a379"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "c0ee6f27d00bee7afc17"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 319,
+      "injection_flags": "",
+      "chunk_id": "219a21242f05e62e46d1"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "e1c218b7562bb9f0f6e3"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "ae7f70e461e7326cdc02"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "70d5fe8227cdf5b17941"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "d809302c32818ae76121"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "8ebd6638ac4002c68478"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "tata_aig_tata_aig_group_hospital_cash_additional_optional_cover_policy_wording",
       "source_file": "health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_group_hospital_cash_additional_optional_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 149,
+      "injection_flags": "",
+      "chunk_id": "a4b62135057fb0979d97"
     }
   }
 ]

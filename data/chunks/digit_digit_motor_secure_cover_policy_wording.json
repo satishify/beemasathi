@@ -10,7 +10,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "c968a6f9bec74deed898"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 156,
+      "injection_flags": "",
+      "chunk_id": "5e900b68d5268ef05be9"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "94884f634dfca7d324b8"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "9fe5da60c9bb0e2a9103"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "8f91620f9bc1b8b8a21b"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 286,
+      "injection_flags": "",
+      "chunk_id": "30b048d83125e81653aa"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "75088162cd4333e647ae"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "fc34e1f607ba792ecb5b"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 327,
+      "injection_flags": "",
+      "chunk_id": "b1c5103bdd94ca21bc6f"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "8bfc6199881e488bca78"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "a9c64a475178abdd0b57"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "af3950b553dd07ca6f1b"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 182,
+      "injection_flags": "",
+      "chunk_id": "acdfb78c1262c88e788f"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "e0e1e05ad75fe9f90c71"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 363,
+      "injection_flags": "",
+      "chunk_id": "9d1efc20ee726ade4424"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "de6dffecd1711c46763c"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "3b38b76acd321e04d982"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 259,
+      "injection_flags": "",
+      "chunk_id": "f9030d3607641394f105"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "675fa189bfcf20e9dc22"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "f26dcdf12add9b1b9e74"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "25061dfb6b2fb522c9da"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 257,
+      "injection_flags": "",
+      "chunk_id": "d5b8797425f30bb7e495"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "ab291e69602f23758a67"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "7743ee5cd8014534d40b"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "4a508621d1e9b0bc51a9"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "5f01ace47ba2c9c48969"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "291c052bb843155bed90"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "5bf6956790dc7070d0b6"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "3420549ad745c2836dac"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "2d6fd95ebec6f50c69ca"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 353,
+      "injection_flags": "",
+      "chunk_id": "13a3423c511ec41f01e1"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "d7b8fe6b9bb2d2f71ede"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "9269b88961bb3a10ee16"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 315,
+      "injection_flags": "",
+      "chunk_id": "689e593542c406fe0af6"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "3b91236e845c9ded77de"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "5fb6024953154c282e06"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 337,
+      "injection_flags": "",
+      "chunk_id": "95613c7ed221566147ec"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "7db2e631b561cdb01a1c"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "ae25418c12c22ac17552"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "367fd66300f81aaa868a"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 129,
+      "injection_flags": "",
+      "chunk_id": "3982b066a50cf1d35049"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "2dff4d76c03be342925a"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "0fc416707eedc4fcf405"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "b8491b1b47afe79cebf1"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 55,
+      "injection_flags": "",
+      "chunk_id": "5b934ca67f5bbd78dd63"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "e3e30c1c025cea238fb2"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "f349c037fc3d1c74adc1"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "f85ec2d6b35053956124"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "4d7bcd1aab492eac315d"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "bd7b6f2a4999a3cb6e04"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "8ac003ac98ddc7daf523"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 64,
+      "injection_flags": "",
+      "chunk_id": "4ff7e9e0f3b2d5ad6462"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "f9d5e2182776103ae318"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "268e1dd2c145285ed1a8"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "830268efc150d56afeae"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 54,
+      "injection_flags": "",
+      "chunk_id": "52101f061ea76042561f"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "9e1bd15c35bd4c69301c"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "c57000d2e681b4867529"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "50a1cf7b21f7e93c7f6d"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 99,
+      "injection_flags": "",
+      "chunk_id": "dc6cc8d10faef271fb5f"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "b650c5d6becd39bf5676"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "66f1e298a3382c48a8ba"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "ee714f6752da5907d596"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "fec8b4c3352ea3de3128"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "a73ce8032f3223130e80"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 350,
+      "injection_flags": "",
+      "chunk_id": "30fe4811c34386a3d960"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "53f309d0a0b49be6155c"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "70613e3d75c11a34f434"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "5a4b04ad550941c6a23e"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 134,
+      "injection_flags": "",
+      "chunk_id": "53a7423d8611f3afb97e"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "9f64ef690b3608e941b7"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "1d325ec5da9d82d3273d"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "3857c65dfc54531daf42"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 175,
+      "injection_flags": "",
+      "chunk_id": "9df80b9c6aa0e1c20082"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "a13b84b664846c0dbfe1"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "e067415545a7cce4bcfe"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "c89a31c34b296e529ca9"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 326,
+      "injection_flags": "",
+      "chunk_id": "6fc4b6380f7ca027e970"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "1c9e9c0ecc9c6af66566"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "d9c56c9f46c735d91279"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "8244d19b789eb722f219"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "6d937cb72a665916b598"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 293,
+      "injection_flags": "",
+      "chunk_id": "c5ba718a8a0f114ca0c5"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Exclusions (page 26)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "91ba0be0472dfca39969"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Exclusions (page 26)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "5d059d42949ab2a2b95d"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Exclusions (page 26)",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "96e2893a7dd26252354e"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "fd5a585484f59385b04c"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "2040f77b7e140b08e8dc"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "ba480f7605747ec9b94c"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 75,
+      "injection_flags": "",
+      "chunk_id": "12bae20e0fa954b4a8c4"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Exclusions (page 28)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "1a49edce4621ba95f7ca"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Exclusions (page 28)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "dfe87b48c4b32ece6a63"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Exclusions (page 28)",
+      "schema_version": 2,
+      "token_estimate": 297,
+      "injection_flags": "",
+      "chunk_id": "daf7c7c7f02660619e82"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "216b079a0b33a1e26c07"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "54f72be4fda90692328a"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "6cd08c86c559b2b679c9"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "fb4480c5bca64428a31e"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "faa39759b17069b4de14"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "f64893388dca475a43d1"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Exclusions (page 31)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "21b1fe075980320789d6"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Exclusions (page 31)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "7e222987c9d44f017c34"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Exclusions (page 31)",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "1ff7a994bd5b4acea469"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Exclusions (page 32)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "38b5f46243e0ed6875f4"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Exclusions (page 32)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "b7a60b2f19d336324dc1"
     }
   },
   {
@@ -1466,7 +2506,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Exclusions (page 32)",
+      "schema_version": 2,
+      "token_estimate": 279,
+      "injection_flags": "",
+      "chunk_id": "4067b4eb36d6dea39213"
     }
   },
   {
@@ -1480,7 +2530,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Exclusions (page 33)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "0b176f3b2602358020eb"
     }
   },
   {
@@ -1494,7 +2554,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Exclusions (page 33)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "cc3b8a400217ab6ecb43"
     }
   },
   {
@@ -1508,7 +2578,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Exclusions (page 33)",
+      "schema_version": 2,
+      "token_estimate": 275,
+      "injection_flags": "",
+      "chunk_id": "84805a59df3f37dae6da"
     }
   },
   {
@@ -1522,7 +2602,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "4c2dbf3e0481b3b06375"
     }
   },
   {
@@ -1536,7 +2626,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "3fbd3eed38478cf0bb1e"
     }
   },
   {
@@ -1550,7 +2650,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 278,
+      "injection_flags": "",
+      "chunk_id": "5441197dd02471793a37"
     }
   },
   {
@@ -1564,7 +2674,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Exclusions (page 35)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "b601e758e6101e0a235d"
     }
   },
   {
@@ -1578,7 +2698,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Exclusions (page 35)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "82ffd5bb848ce38bd8d9"
     }
   },
   {
@@ -1592,7 +2722,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Exclusions (page 35)",
+      "schema_version": 2,
+      "token_estimate": 292,
+      "injection_flags": "",
+      "chunk_id": "80d58e4e746336d4ef4e"
     }
   },
   {
@@ -1606,7 +2746,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Exclusions (page 36)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "b9b39d51829b906c95af"
     }
   },
   {
@@ -1620,7 +2770,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Exclusions (page 36)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "dcbd11dd7084de7f75b6"
     }
   },
   {
@@ -1634,7 +2794,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Exclusions (page 36)",
+      "schema_version": 2,
+      "token_estimate": 130,
+      "injection_flags": "",
+      "chunk_id": "fbffe226d839b70eeae6"
     }
   },
   {
@@ -1648,7 +2818,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Exclusions (page 37)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "844889f4b36db9dae1d3"
     }
   },
   {
@@ -1662,7 +2842,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Exclusions (page 37)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "018b1d237836d8ab7709"
     }
   },
   {
@@ -1676,7 +2866,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Exclusions (page 37)",
+      "schema_version": 2,
+      "token_estimate": 348,
+      "injection_flags": "",
+      "chunk_id": "a1b3787e44dcb3903c56"
     }
   },
   {
@@ -1690,7 +2890,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "7335fd9d934cf229026b"
     }
   },
   {
@@ -1704,7 +2914,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "ac77127c4dfa28c0ec04"
     }
   },
   {
@@ -1718,7 +2938,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 176,
+      "injection_flags": "",
+      "chunk_id": "f4a6e193e774aeba4bd5"
     }
   },
   {
@@ -1732,7 +2962,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "21b9105ccdc82a113c58"
     }
   },
   {
@@ -1746,7 +2986,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "8f82cd443d5d5b251aff"
     }
   },
   {
@@ -1760,7 +3010,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "654008f1882159fae0c4"
     }
   },
   {
@@ -1774,7 +3034,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 65,
+      "injection_flags": "",
+      "chunk_id": "844e2a6c0b48fdfeb7f6"
     }
   },
   {
@@ -1788,7 +3058,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Exclusions (page 40)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "f909fde8687eedbf5c27"
     }
   },
   {
@@ -1802,7 +3082,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Exclusions (page 40)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "022b63b37904dcfd6de3"
     }
   },
   {
@@ -1816,7 +3106,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Exclusions (page 40)",
+      "schema_version": 2,
+      "token_estimate": 355,
+      "injection_flags": "",
+      "chunk_id": "8f6dc68c5c04f3ee4e85"
     }
   },
   {
@@ -1830,7 +3130,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Exclusions (page 41)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "2ef2f91fb8ce6f4e1875"
     }
   },
   {
@@ -1844,7 +3154,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Exclusions (page 41)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "badd1c862146e7bf4500"
     }
   },
   {
@@ -1858,7 +3178,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Exclusions (page 41)",
+      "schema_version": 2,
+      "token_estimate": 302,
+      "injection_flags": "",
+      "chunk_id": "f5bbaf60f214948aaae2"
     }
   },
   {
@@ -1872,7 +3202,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Waiting Period (page 42)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "57f0c13889a6fa3243bf"
     }
   },
   {
@@ -1886,7 +3226,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Waiting Period (page 42)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "09cb42c5cc98bf1327e1"
     }
   },
   {
@@ -1900,7 +3250,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Waiting Period (page 42)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "24fc1dc2d3f3f639c7c3"
     }
   },
   {
@@ -1914,7 +3274,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Waiting Period (page 42)",
+      "schema_version": 2,
+      "token_estimate": 181,
+      "injection_flags": "",
+      "chunk_id": "6c535f4f0b203f81a55d"
     }
   },
   {
@@ -1928,7 +3298,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "d54f9478ef5007b71d40"
     }
   },
   {
@@ -1942,7 +3322,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "e597908f55f7f6709b19"
     }
   },
   {
@@ -1956,7 +3346,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "1173c309bfde9f1e7c47"
     }
   },
   {
@@ -1970,7 +3370,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "e408ab2766c5d0494763"
     }
   },
   {
@@ -1984,7 +3394,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "2b6c427ca1e5f0454af9"
     }
   },
   {
@@ -1998,7 +3418,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 222,
+      "injection_flags": "",
+      "chunk_id": "ce66c41ebd842d998fb5"
     }
   },
   {
@@ -2012,7 +3442,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "f8df86f8b25e8d93d735"
     }
   },
   {
@@ -2026,7 +3466,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "5f30abfa63cdafb21fbd"
     }
   },
   {
@@ -2040,7 +3490,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 208,
+      "injection_flags": "",
+      "chunk_id": "aaec12cb628736e8ed65"
     }
   },
   {
@@ -2054,7 +3514,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Exclusions (page 46)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "52776b78b8e52c95b3f0"
     }
   },
   {
@@ -2068,7 +3538,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Exclusions (page 46)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "99c237fbf482c42de0df"
     }
   },
   {
@@ -2082,7 +3562,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Exclusions (page 46)",
+      "schema_version": 2,
+      "token_estimate": 181,
+      "injection_flags": "",
+      "chunk_id": "5d32f3c0030bbc610eb9"
     }
   },
   {
@@ -2096,7 +3586,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "3a8e065a6b8993921671"
     }
   },
   {
@@ -2110,7 +3610,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "fbfa404c20b880ef25a7"
     }
   },
   {
@@ -2124,7 +3634,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 233,
+      "injection_flags": "",
+      "chunk_id": "748b845f5f36ac45103a"
     }
   },
   {
@@ -2138,7 +3658,17 @@
       "source": "digit_digit_motor_secure_cover_policy_wording",
       "source_file": "motor__digit_motor_secure_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_motor_secure_cover__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 164,
+      "injection_flags": "",
+      "chunk_id": "990951c2494a52f50cf7"
     }
   }
 ]

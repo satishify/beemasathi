@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "7e3b0ddd8ae52a8b5e20"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "c2b69732c1ba7e3db11b"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "7e9a31c1d03dade0e8fd"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "2ef07c8d4208002ff8ea"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "4cfab1fc29df2ae07469"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 273,
+      "injection_flags": "",
+      "chunk_id": "bd72ff7786150c177bf4"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "e6f5b14d2b1d4c2a1166"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "2cdf44b1661a68252749"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 310,
+      "injection_flags": "",
+      "chunk_id": "b7d844746e9d63411ad9"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "0c09b68c2948d0c26299"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "51fa3fff91958d26df7f"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 269,
+      "injection_flags": "",
+      "chunk_id": "4646e019a9f383b01c7f"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "4a17110de5ef2fede402"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "1eb21f6a23ff3cc5aaf8"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 259,
+      "injection_flags": "",
+      "chunk_id": "cbcbb073c4ee1cbb55e1"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "ae8e4f55334401645d63"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "b7e2b62bf7eff9495e24"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 98,
+      "injection_flags": "",
+      "chunk_id": "fa8a7fc2ebc03018e07e"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "c5c20f90125aa8b046e7"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "4f0801ba6f9ef2741291"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 356,
+      "injection_flags": "",
+      "chunk_id": "9edd75c5064e6764c2f0"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "954415f08dbf999302d9"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "30a4d87faf94303f5fc5"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "a50468814e8f8ce31333"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 107,
+      "injection_flags": "",
+      "chunk_id": "2816b82bfb75a78b050e"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "ad44d3bf870d148b037f"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "3cdae3c494ddaf98ee50"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "f885909f5896f43ac7a3"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 230,
+      "injection_flags": "",
+      "chunk_id": "1e91f99d30cf3699c3dd"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "18decbf098961b588b15"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "f13fab4815548a2cb994"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "252c02899e5aca3fbfdd"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 147,
+      "injection_flags": "",
+      "chunk_id": "a4c6a1492fc3d1c82060"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "a5e525a8348196adb647"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "54167d9a0aad7f162770"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "8ce845843deb4121aed0"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 288,
+      "injection_flags": "",
+      "chunk_id": "355cb7fdf37837735dca"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "0b1adc0968dfe5a14439"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "87fb0947fb4a1d208fb1"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "6d5437f15554f86aefdd"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 240,
+      "injection_flags": "",
+      "chunk_id": "2b65bf920e8658abd3c7"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "59b5e2cf12a1a407ad6e"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "0d4d4c2729b2d829b910"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "a7ad8d886fba0fc769fb"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 180,
+      "injection_flags": "",
+      "chunk_id": "8c55a34b9b0342ea0392"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "77e790664c68c90d0c8d"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "ae18fca62f903816dc20"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "74925315bdf8b941b917"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "d8cdc1cfccfd7fe47963"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "2be6b07a2a0642dca9be"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "c2662b2414228adce385"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "bajaj_allianz_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 208,
+      "injection_flags": "",
+      "chunk_id": "64d4c18d341455301b42"
     }
   }
 ]

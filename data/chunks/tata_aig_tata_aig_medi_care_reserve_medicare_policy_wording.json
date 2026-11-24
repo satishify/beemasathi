@@ -10,7 +10,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 354,
+      "injection_flags": "",
+      "chunk_id": "7a37ef138e17e9b2f973"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "02305cc53072647c6957"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 365,
+      "injection_flags": "",
+      "chunk_id": "c3b4accf17d5f8d6ddda"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 131,
+      "injection_flags": "",
+      "chunk_id": "55ff31c92e2d29dc3117"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "282452c5b44a92f932be"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 295,
+      "injection_flags": "",
+      "chunk_id": "96ad4df1b17c722e304f"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "c059f0f7825f4011fb6c"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "e3d9ddaad38ffe63e6ca"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 131,
+      "injection_flags": "",
+      "chunk_id": "d5bd3176365dd8d69ae9"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "3e8ea9b33b1917c59666"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "1295849e4eaa4cb41da1"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "fe87da4fe63426ca10b7"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "55ef0db514fc99a8184e"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "660364b879cffbb47163"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 288,
+      "injection_flags": "",
+      "chunk_id": "c300486ed09332504203"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "ab00e2626f44d91ca379"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 344,
+      "injection_flags": "",
+      "chunk_id": "73781fcf7523057934e7"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Optional Covers (page 9)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "6a80186173ce07b9e976"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Optional Covers (page 9)",
+      "schema_version": 2,
+      "token_estimate": 265,
+      "injection_flags": "",
+      "chunk_id": "7f9cbc3b455a7dc42ee2"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "02aa9cf32d161cc1cff1"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "a3fed1e42e0435426994"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "0177efd251ff8deedc1d"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "e540f6f087317c0dd90a"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "3a6f7c7f54e6676df03e"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 207,
+      "injection_flags": "",
+      "chunk_id": "e622fb75c0de06bd1cd3"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "8fe9f1ddd66b010b6fcb"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "ccbf23df6fbab825a62d"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "affa73938686dc6e27bc"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "a12f3190a8148d6cd3eb"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "17c7fc0cb38ad76312be"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "439a18418329e11b3236"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "51e0665a560be87a39fd"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 131,
+      "injection_flags": "",
+      "chunk_id": "6e84ce7cfb3b3c55e7ad"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "9974a8b25c86419d5e50"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "a35e31afe742ea808f06"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "56855600ca2d457fd422"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 358,
+      "injection_flags": "",
+      "chunk_id": "76ae2a3e97bb377f2f3b"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "081f0ec1ea9ea00bc003"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 357,
+      "injection_flags": "",
+      "chunk_id": "e2d9fe54049cd713190e"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 157,
+      "injection_flags": "",
+      "chunk_id": "5cab700f86fa2a184a58"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "180062f89890d75185b1"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "aacb81e5b9a8dfe777c4"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 250,
+      "injection_flags": "",
+      "chunk_id": "7492bc9825d307dffdfd"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "630cf884fa2a5d123f99"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "a9cac84c99b7396c5384"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 139,
+      "injection_flags": "",
+      "chunk_id": "ec132ca1281515208c1b"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Waiting Period (page 20)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "3dc4e253e57fecbc31a0"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Waiting Period (page 20)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "ada3e67e0181d35bf496"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Waiting Period (page 20)",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "722dd047fea0a16cf7b6"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "d6ac6216631d5c84e95c"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 290,
+      "injection_flags": "",
+      "chunk_id": "7e6e2ef34c91f39526d7"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Waiting Period (page 22)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "55b20a91519bf7eaebe1"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Waiting Period (page 22)",
+      "schema_version": 2,
+      "token_estimate": 299,
+      "injection_flags": "",
+      "chunk_id": "76e5c1400257255219da"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Exclusions (page 23)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "638053fa508fbd7f9e0c"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Exclusions (page 23)",
+      "schema_version": 2,
+      "token_estimate": 354,
+      "injection_flags": "",
+      "chunk_id": "b9419e369fd88dc356cf"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "018dc97c07c2fe574b39"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "bb7efa506848bb6d3176"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 136,
+      "injection_flags": "",
+      "chunk_id": "a50fbab431366af96f99"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "ca5981fa148aaa986ff0"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "54afc6b9ac84f3ca73f6"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 134,
+      "injection_flags": "",
+      "chunk_id": "0a4aa3374319541472eb"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "a6c2cd51d26c1cdfb779"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "a8714d09d179f676c6ef"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 158,
+      "injection_flags": "",
+      "chunk_id": "decc381e834b108f5dd5"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "4721202dedd40fbfd87e"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "eb8db4ae55a929ca4aa2"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 224,
+      "injection_flags": "",
+      "chunk_id": "48c9616a8eac5280440a"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Waiting Period (page 28)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "eed3f2f55f065b425106"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Waiting Period (page 28)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "1a6c4a8610fa8e73d2d6"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Waiting Period (page 28)",
+      "schema_version": 2,
+      "token_estimate": 239,
+      "injection_flags": "",
+      "chunk_id": "037cbe060a63cf7cf68b"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "b3dfc1ae1b34e6fc2522"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "80d4ca6962bf75ceaa71"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 194,
+      "injection_flags": "",
+      "chunk_id": "9a8cdde79f98a247830f"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "a39f754efb3575cffa08"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "afa220bddb8637b95183"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 131,
+      "injection_flags": "",
+      "chunk_id": "be64524f452c7de24209"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "ceb0be66d3f36e3914c5"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "1355c17a91c4880071ac"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "c4d00cf49b7497972625"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "b6246bd5202d49726045"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "9045e6f89e14161a4bcb"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 170,
+      "injection_flags": "",
+      "chunk_id": "f69c185eea55498c2867"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "1809d052a031fe4704c3"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 261,
+      "injection_flags": "",
+      "chunk_id": "74bc8edfb46d478c81ef"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "2dacb39eb733e3771660"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "f1eebaeebcc5a2139a1e"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 131,
+      "injection_flags": "",
+      "chunk_id": "91b7b426fa9966e33dc7"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "3026b4598fd859a797f1"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "533acdd3cc0304ceafb1"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 285,
+      "injection_flags": "",
+      "chunk_id": "2178de5abe877d539c1b"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "634ac4bb8935ad4196fc"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 279,
+      "injection_flags": "",
+      "chunk_id": "0f8194bf8619a54ea9b7"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "f51a5900ff2cd8024058"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 220,
+      "injection_flags": "",
+      "chunk_id": "d043c2e53176115a8e9e"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "d914a5355f0259399c5c"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 273,
+      "injection_flags": "",
+      "chunk_id": "e888682e3f92c2f848e5"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "7e28c6215c7449a29b40"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 217,
+      "injection_flags": "",
+      "chunk_id": "f47c05714197f566865a"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "3cc97a49038279af2c82"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "d92c92f56973f2762330"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "tata_aig_tata_aig_medi_care_reserve_medicare_policy_wording",
       "source_file": "health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_medi_care_reserve_medicare__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "3f4ef05bfd075645431d"
     }
   }
 ]

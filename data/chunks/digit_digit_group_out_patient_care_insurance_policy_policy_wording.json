@@ -10,7 +10,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "37ab27d7b0a2edfc191d"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "52b23fdcf149e12fe4bf"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "070ab42146fee1f07367"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "b7eff2078e39615964f6"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 270,
+      "injection_flags": "",
+      "chunk_id": "594142ce25a568136128"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "c7e54a7dd53d2b297283"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "deae793c2dde072086fd"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "f978411af5282f08404d"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "6739b420c169b545652b"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "b08915e92bee999fb56e"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "4fb6744acfddf6add936"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 62,
+      "injection_flags": "",
+      "chunk_id": "3c7d5b3a39a099fafe74"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "84918fbbc04ff1bb253f"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "88b803b4aafda5ff9cae"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "f3603c3b88e4a0efed6f"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 131,
+      "injection_flags": "",
+      "chunk_id": "141904555f3227962975"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "3dfbf5b2829fed974906"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "6b5f3e46b1c13c031dcb"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "e21926e4bf600706102e"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 207,
+      "injection_flags": "",
+      "chunk_id": "ad82683251e8520ec3d6"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 213,
+      "injection_flags": "",
+      "chunk_id": "874ab360b425a268574d"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "08b0c61d3841e7841ffc"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "e44f683bede644feb9eb"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 300,
+      "injection_flags": "",
+      "chunk_id": "15536cc2b7bfbe17600f"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "b9fc2c6f854d42e7018a"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "f9f71f83814e1dc85ba7"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 266,
+      "injection_flags": "",
+      "chunk_id": "d827d29acfe384a10560"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "c3bdd0023c927ac7097d"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "ff46d8800bd720f11d00"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "a094171f6882acc17bf9"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "a78d887e2849f45d8058"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "2d16ac5bdccc4ee054bd"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 239,
+      "injection_flags": "",
+      "chunk_id": "a24fa2ccc4e6a9d62568"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "a2f56480a90ce0931729"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "2cf903f9133c645a2ee9"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 276,
+      "injection_flags": "",
+      "chunk_id": "15c43d89dfc037f30fd0"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "896b7095121f39e7935b"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "883875e27f14cc255ebb"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 248,
+      "injection_flags": "",
+      "chunk_id": "08acbe9feff01c9342f3"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "045b915a396d13fbf5c3"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "d14fbb9604d05f3648d4"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 355,
+      "injection_flags": "",
+      "chunk_id": "98a9c6b7a3526c98eea8"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "bb758028340eb9f214a8"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "8414eedcd586b32fda5c"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 308,
+      "injection_flags": "",
+      "chunk_id": "1d1eff37c7470c9b9208"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "45949b3a42f1f39abc86"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "5f642d3235267ae95f64"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 270,
+      "injection_flags": "",
+      "chunk_id": "5c540a4d9d7aca5d5a02"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 140,
+      "injection_flags": "",
+      "chunk_id": "3f21649ecc02088b6a1a"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "c868e89210703d7d912e"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "67447a8e7eebc8b1e881"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 265,
+      "injection_flags": "",
+      "chunk_id": "df23dec91d11945e220c"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "ca5951dd280fdb987435"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "c2ae5006451d5d108b7c"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 159,
+      "injection_flags": "",
+      "chunk_id": "7430cc786b6116bfc222"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "d60d3c8752e87ebb9340"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "6d50bf9a286754789e18"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 107,
+      "injection_flags": "",
+      "chunk_id": "1fc5cfd9f6e983bc4e97"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "b61e8b6848f1e65d12ab"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "9a8215bd55fd4f7b8fba"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 159,
+      "injection_flags": "",
+      "chunk_id": "11c56563b4cd472f9f7a"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "bb372d6898adcbe24114"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "2aabc7c3ac23b99f565f"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 54,
+      "injection_flags": "",
+      "chunk_id": "78a592beaac531252029"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "ed17501a5906f23bee35"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 55,
+      "injection_flags": "",
+      "chunk_id": "bb651c07d3741bcf225d"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "414ce5a738b20df43211"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "d6a9b356d3b395a74475"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 334,
+      "injection_flags": "",
+      "chunk_id": "8de46417f1d7fa18fb33"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Exclusions (page 25)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "77aa2b0ca0d972b667fa"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Exclusions (page 25)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "2e672979509ab99a10b2"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Exclusions (page 25)",
+      "schema_version": 2,
+      "token_estimate": 248,
+      "injection_flags": "",
+      "chunk_id": "12362a6853052e6fd828"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "274356eefd293668d5c2"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "0d328bacf4f925f075f1"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 337,
+      "injection_flags": "",
+      "chunk_id": "af1ec63b28c7e18b0116"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "02b48d49ee28f549ef11"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "706d0503ce1f21eb9119"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 243,
+      "injection_flags": "",
+      "chunk_id": "3c5bf5067cd696d0d262"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "74cb179b1d6c75a5f4ea"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "bf74d2cd8ff706eaf784"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 202,
+      "injection_flags": "",
+      "chunk_id": "c400436e946e27804957"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "96b29d2f26acbd772b03"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "3fb2b08c5e0dad8f4371"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "0561c3196673b2366422"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "7ea236777e820e55256b"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 312,
+      "injection_flags": "",
+      "chunk_id": "874b7709d26b08c1111f"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "c259b801e49dc636b2c3"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 360,
+      "injection_flags": "",
+      "chunk_id": "91d510495983a7d01855"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "726cfe9a2abb5f4acf35"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 125,
+      "injection_flags": "",
+      "chunk_id": "755986c04bf79ecd3e4a"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "c51c21d0dcbd7fff2e5e"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "c9b7d34cce381486dc3b"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 29,
+      "injection_flags": "",
+      "chunk_id": "a2335d1c9a225c87a4c2"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "ad156e3116fa9a518dc4"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "1a88af42dcb85642daac"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "ddaf1a914a4f5597d2ac"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "52ed55cb44abbd49aacb"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "6c323639dc2333ea6b1a"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 62,
+      "injection_flags": "",
+      "chunk_id": "372f39317a961796b3bd"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "8b333003ae4202477711"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 315,
+      "injection_flags": "",
+      "chunk_id": "c47ce79b5e8cf501fc20"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "173bdbca26a0240d62c4"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "53d6689cd92a35cc261d"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "digit_digit_group_out_patient_care_insurance_policy_policy_wording",
       "source_file": "health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_group_out_patient_care_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 160,
+      "injection_flags": "",
+      "chunk_id": "1ccf003920f1b8103b34"
     }
   }
 ]

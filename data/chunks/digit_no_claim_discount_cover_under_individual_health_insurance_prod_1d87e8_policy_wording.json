@@ -10,7 +10,17 @@
       "source": "digit_no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8_policy_wording",
       "source_file": "health__no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "22a7a37074bd8ff234c7"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8_policy_wording",
       "source_file": "health__no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "e0135edf869fc621515b"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8_policy_wording",
       "source_file": "health__no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 158,
+      "injection_flags": "",
+      "chunk_id": "52be3b5e7500ce85a251"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8_policy_wording",
       "source_file": "health__no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__no_claim_discount_cover_under_individual_health_insurance_prod_1d87e8__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "fb9f9ad22c6047c982a5"
     }
   }
 ]

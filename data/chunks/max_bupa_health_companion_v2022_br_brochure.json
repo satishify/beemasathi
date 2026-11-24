@@ -10,7 +10,17 @@
       "source": "max_bupa_health_companion_v2022_br_brochure",
       "source_file": "health__health_companion_v2022_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_companion_v2022_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "97c98ea6f0c5ed44282e"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_health_companion_v2022_br_brochure",
       "source_file": "health__health_companion_v2022_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_companion_v2022_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "69d97b63c17d02e5d04b"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_health_companion_v2022_br_brochure",
       "source_file": "health__health_companion_v2022_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_companion_v2022_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "6337e80211b9eceafa56"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_health_companion_v2022_br_brochure",
       "source_file": "health__health_companion_v2022_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_companion_v2022_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 366,
+      "injection_flags": "",
+      "chunk_id": "fddfc653d4833866e013"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "max_bupa_health_companion_v2022_br_brochure",
       "source_file": "health__health_companion_v2022_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_companion_v2022_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "0b371b80d756dede90e4"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "max_bupa_health_companion_v2022_br_brochure",
       "source_file": "health__health_companion_v2022_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_companion_v2022_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "fb3e75fdc938f61240ca"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "max_bupa_health_companion_v2022_br_brochure",
       "source_file": "health__health_companion_v2022_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_companion_v2022_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "699b680641b63ff178ef"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "max_bupa_health_companion_v2022_br_brochure",
       "source_file": "health__health_companion_v2022_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_companion_v2022_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "e62fe6c77b36b507afef"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "max_bupa_health_companion_v2022_br_brochure",
       "source_file": "health__health_companion_v2022_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_companion_v2022_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 176,
+      "injection_flags": "",
+      "chunk_id": "7530c240861af7cc7baa"
     }
   }
 ]

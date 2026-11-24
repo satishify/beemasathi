@@ -10,7 +10,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 201,
+      "injection_flags": "",
+      "chunk_id": "ddd89397cab4b8c1ca17"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "47700ed7a33723ec5e82"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "8153d2b2a6df174628e5"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "3e1086e3baab5587024e"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "fa899187a5716dac3bfa"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 223,
+      "injection_flags": "",
+      "chunk_id": "6d84e2d9083361ef390c"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "3a43ed76e542cd533c6a"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "ece7879f9cc88882edbb"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "27a65097fee14e389572"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "8936c6eacc71b312fc22"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 161,
+      "injection_flags": "",
+      "chunk_id": "f92bdc5eb7ab09db08ed"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "7769ba58e54712430e4a"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "15db75cc8baedfc20da0"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "6f203ca1a783111f94df"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "417d09dded617ea1ac2f"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 198,
+      "injection_flags": "",
+      "chunk_id": "ed18109804956ecd835e"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "3966ca6288042c22e8bf"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "4f8da81830c69be7165a"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "c1fca279c0509914bb11"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 341,
+      "injection_flags": "",
+      "chunk_id": "7dd277b18546f9f9e3fa"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 368,
+      "injection_flags": "",
+      "chunk_id": "d20907124899d3379c96"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "7ce7d439d2750a4458da"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "a6f55e9c66a2ac3bcb57"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "252d36aa49d06c54d076"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "2f850cb2f9a9f2c334c8"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 89,
+      "injection_flags": "",
+      "chunk_id": "fb14c0f9875694c73e9a"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "75b06ba30efb9edb8d78"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "ffc3557f7546b2cfa57a"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "3b9cdd2d64585b94ac65"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "e6ca759aa8ee7012433e"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 101,
+      "injection_flags": "",
+      "chunk_id": "aa434f21ef6ee4c13e7e"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "631ec14d2e5664d193e0"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "7a0b47379e968ee89a2e"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "4ad81828268d309120be"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 287,
+      "injection_flags": "",
+      "chunk_id": "6923c68d996a49467dfb"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "2ece8afd2bd72a6c7bc8"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "9b1679ed2816fd4f8982"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 129,
+      "injection_flags": "",
+      "chunk_id": "6127786b0d809b997873"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "b9b2f865e8ffb7f915c2"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "tata_aig_critical_illness_policy_wording",
       "source_file": "health__critical_illness__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__critical_illness__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 308,
+      "injection_flags": "",
+      "chunk_id": "b7b34f014296758ce959"
     }
   }
 ]

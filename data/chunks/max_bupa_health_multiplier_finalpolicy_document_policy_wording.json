@@ -10,7 +10,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "453813d16f3d2ceb6fda"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "4b22ad31f16ef7eb0df9"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 157,
+      "injection_flags": "",
+      "chunk_id": "93e05f804b2d029bebe5"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "fdb0441ef5c0e108c860"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "5f5959af795a075b3d52"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "e8eb370c3f0ed6e9f184"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "f1770204f36b24ee9539"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "bb74f52da5c1ad6c5b72"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 216,
+      "injection_flags": "",
+      "chunk_id": "3a4f32a29699037e5756"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "ab8633fda7ce47ebc3f2"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "07dc162392f44db6c3ce"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 242,
+      "injection_flags": "",
+      "chunk_id": "b04009cac16ca24af8fb"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "cd3f0c6f5e3c4effcb8c"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "0cf8987b8de94134e047"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 275,
+      "injection_flags": "",
+      "chunk_id": "139667ab8e889bf4bfb6"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 366,
+      "injection_flags": "",
+      "chunk_id": "08a2656b98bfa7d0d15b"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "7d217d90d067fc2a9a94"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 347,
+      "injection_flags": "",
+      "chunk_id": "a3133bb0a4dee0c87b8e"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "88972d314fc8b1584e78"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "78b366e3ede00709538f"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 312,
+      "injection_flags": "",
+      "chunk_id": "e15332c04af12d04d78c"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "c86cf0dc5ea67cf031e1"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "e1c5c9b1492f67cdefb8"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 114,
+      "injection_flags": "",
+      "chunk_id": "2fff92957eefdb54c0f6"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "bdbe3e3080e3963849b3"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "53e5092f1a5d247475f4"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 97,
+      "injection_flags": "",
+      "chunk_id": "66a7bd950339bb9a40a1"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "35346817f2cf6aacf1f0"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "2c6c37fdcab0628eaaeb"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "7d8d291bc3251dbfc55c"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "4b0dda64bd9688cfd367"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 59,
+      "injection_flags": "",
+      "chunk_id": "8bdf59c308f28f58253d"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "93e797b06f5f24d4f2b6"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 304,
+      "injection_flags": "",
+      "chunk_id": "fba87091566d06e70278"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "a4990372967279d3fa44"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 308,
+      "injection_flags": "",
+      "chunk_id": "0e2f2dc7b6aa7c8d28d2"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "73b86bc571768ced323e"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "563c721705a3fb28bdaa"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "7bd7f262b995054f042b"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 329,
+      "injection_flags": "",
+      "chunk_id": "c03801f1acd0738f23e9"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "5f3ca62bcaf9d3c46a3a"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 304,
+      "injection_flags": "",
+      "chunk_id": "05afdb6b9f7b25719003"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "e2307b767346d7b6c773"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 297,
+      "injection_flags": "",
+      "chunk_id": "1e3fa9604d072349daef"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "823acbd29ed170c28ff5"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "75c02121aa679f386e41"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 42,
+      "injection_flags": "",
+      "chunk_id": "968102d2a794ebbaea05"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "536ca0c17733347ac7e1"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "f73fba4ff76bc410126c"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Waiting Period (page 20)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "79dfe125f84f9be616ec"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Waiting Period (page 20)",
+      "schema_version": 2,
+      "token_estimate": 349,
+      "injection_flags": "",
+      "chunk_id": "9caa593c5b9a43da1634"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "e4b4d1152eb829c3158b"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 304,
+      "injection_flags": "",
+      "chunk_id": "0cdb4b56ca17737101b1"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "95ab66dacc1e88279e74"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "2f37e9ed280b77ce2bfa"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "9914a965cd7dbf2fa3b8"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 213,
+      "injection_flags": "",
+      "chunk_id": "7899d04198fd59a18195"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "961daa3fa7d05763e051"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "f2f5e73c0e2c1141b582"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 108,
+      "injection_flags": "",
+      "chunk_id": "cd4326c04b3afb7596bb"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Waiting Period (page 25)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "9b40e52f5ffa4c196fa7"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Waiting Period (page 25)",
+      "schema_version": 2,
+      "token_estimate": 310,
+      "injection_flags": "",
+      "chunk_id": "8030c99bc8d611700d52"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "2018d11e243208b91d73"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 281,
+      "injection_flags": "",
+      "chunk_id": "a8b5eeec269d9f69172c"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "66b8b43d1aae258d77a2"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 285,
+      "injection_flags": "",
+      "chunk_id": "dc338ea0011ca804cad1"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Waiting Period (page 28)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "376c269b45aa2e733e24"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Waiting Period (page 28)",
+      "schema_version": 2,
+      "token_estimate": 301,
+      "injection_flags": "",
+      "chunk_id": "1076a1ea428035d0c76e"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "bd26c65abc95f0ac4b66"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "749521417c8487b30a7f"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 51,
+      "injection_flags": "",
+      "chunk_id": "838f3f5929b3979ae0e7"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "5b9651575b6345b96f3f"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "535729e7a56076d1a2bd"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 323,
+      "injection_flags": "",
+      "chunk_id": "8f0a0f6003b819c98a15"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "649f4edfecbd5bf936b7"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "bedf0553e54bdb6dde85"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 178,
+      "injection_flags": "",
+      "chunk_id": "987a5a1bb1dde5ea2a15"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Waiting Period (page 32)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "ebebaf9636f738bdf3ed"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Waiting Period (page 32)",
+      "schema_version": 2,
+      "token_estimate": 214,
+      "injection_flags": "",
+      "chunk_id": "3ebd91e0c661b00f5cbd"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Waiting Period (page 33)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "73f7c25744dc17adb5d6"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Waiting Period (page 33)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "7c7581aa9deb9fa093bf"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "6812cbcc407e03b4e448"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "d3e61767dab8d3b46c32"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 79,
+      "injection_flags": "",
+      "chunk_id": "c88e76873f0c5a770620"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Waiting Period (page 35)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "9e3882153347f5fb0c37"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Waiting Period (page 35)",
+      "schema_version": 2,
+      "token_estimate": 354,
+      "injection_flags": "",
+      "chunk_id": "3f932b2eb8c6726fd658"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 295,
+      "injection_flags": "",
+      "chunk_id": "eab1f5f3c402ea203be6"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "3779ef0a43dc302ab0a7"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 97,
+      "injection_flags": "",
+      "chunk_id": "9c4bfd5d926f8917702a"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Waiting Period (page 38)",
+      "schema_version": 2,
+      "token_estimate": 155,
+      "injection_flags": "",
+      "chunk_id": "018b1576bac42f4c3a23"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 277,
+      "injection_flags": "",
+      "chunk_id": "0a733cc7070c55cc27c6"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 252,
+      "injection_flags": "",
+      "chunk_id": "f49ef48a6db155ccb025"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Page 41",
+      "schema_version": 2,
+      "token_estimate": 209,
+      "injection_flags": "",
+      "chunk_id": "e22fc98c2f20c20b618f"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 258,
+      "injection_flags": "",
+      "chunk_id": "7ed322779dfb73d05f34"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 343,
+      "injection_flags": "",
+      "chunk_id": "56d1ccc5aede1821c3f0"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "aca65330d02b30b73f12"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 60,
+      "injection_flags": "",
+      "chunk_id": "2af53fd80dd8487a1598"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "07c7bc9d850d97b9dd46"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 189,
+      "injection_flags": "",
+      "chunk_id": "93efa65744d57a02a5a5"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "4e36e367d7e739c61c30"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 33,
+      "injection_flags": "",
+      "chunk_id": "1354bc21e09809bed750"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "12d2a0d6d4cbe187421e"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "fb8fe8d4e1cf7815d8c9"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 54,
+      "injection_flags": "",
+      "chunk_id": "384cc3ccc369a52beecb"
     }
   },
   {
@@ -1466,7 +2506,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "5108cfa5bf986678b6ee"
     }
   },
   {
@@ -1480,7 +2530,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 357,
+      "injection_flags": "",
+      "chunk_id": "abbbc964d45c1173af55"
     }
   },
   {
@@ -1494,7 +2554,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 362,
+      "injection_flags": "",
+      "chunk_id": "85e1b7d3fe349f758d30"
     }
   },
   {
@@ -1508,7 +2578,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 368,
+      "injection_flags": "",
+      "chunk_id": "8c74ef1413551a8f56cf"
     }
   },
   {
@@ -1522,7 +2602,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Page 53",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "441daa81298a4d921657"
     }
   },
   {
@@ -1536,7 +2626,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 311,
+      "injection_flags": "",
+      "chunk_id": "5685a9c97659b25fae39"
     }
   },
   {
@@ -1550,7 +2650,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Page 55",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "7255f94fe5e22f576146"
     }
   },
   {
@@ -1564,7 +2674,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Page 56",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "becdea67ee58ab7fe5a2"
     }
   },
   {
@@ -1578,7 +2698,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Page 56",
+      "schema_version": 2,
+      "token_estimate": 107,
+      "injection_flags": "",
+      "chunk_id": "788e5cb2a7d0714f84a5"
     }
   },
   {
@@ -1592,7 +2722,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "77461085224aef29c92b"
     }
   },
   {
@@ -1606,7 +2746,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 36,
+      "injection_flags": "",
+      "chunk_id": "e99eb9c858cca5e30eb2"
     }
   },
   {
@@ -1620,7 +2770,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 58,
+      "page_end": 58,
+      "section_path": "Page 58",
+      "schema_version": 2,
+      "token_estimate": 334,
+      "injection_flags": "",
+      "chunk_id": "619b599e9ee448309d47"
     }
   },
   {
@@ -1634,7 +2794,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "7e7c7962495690a8efdc"
     }
   },
   {
@@ -1648,7 +2818,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 40,
+      "injection_flags": "",
+      "chunk_id": "b21bbd23bacc567a8aa5"
     }
   },
   {
@@ -1662,7 +2842,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "e1cebf7570aa6930a265"
     }
   },
   {
@@ -1676,7 +2866,17 @@
       "source": "max_bupa_health_multiplier_finalpolicy_document_policy_wording",
       "source_file": "health__health_multiplier_finalpolicy_document__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_multiplier_finalpolicy_document__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 61,
+      "page_end": 61,
+      "section_path": "Page 61",
+      "schema_version": 2,
+      "token_estimate": 168,
+      "injection_flags": "",
+      "chunk_id": "593c6e9b3252e53e7ca8"
     }
   }
 ]

@@ -10,7 +10,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 171,
+      "injection_flags": "",
+      "chunk_id": "a82753916de6df53c86c"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "efc69b02b2042746404e"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "2b5f55d13c4c7fb8788f"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 296,
+      "injection_flags": "",
+      "chunk_id": "c8d6a303314a299dffc6"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "8f523ef563353a9eb19b"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "eb3e0908654f84430ad9"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "977b24611c898055e0c3"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 127,
+      "injection_flags": "",
+      "chunk_id": "8368cea9c07452cf1edb"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "e030a44fdbf4b336f434"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 224,
+      "injection_flags": "",
+      "chunk_id": "438d886f299e863a8c81"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "01ca461aea71ab2e2d99"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "f4c1c3eea878dd39e2e0"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 46,
+      "injection_flags": "",
+      "chunk_id": "793dfffebd5d3b436f07"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "70e92a747373711e92d0"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "375bf187dfd14bad5aa6"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "max_bupa_health_premia_gold_br_brochure",
       "source_file": "health__health_premia_gold_br__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_premia_gold_br__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "6de2aaffb623156e20c6"
     }
   }
 ]

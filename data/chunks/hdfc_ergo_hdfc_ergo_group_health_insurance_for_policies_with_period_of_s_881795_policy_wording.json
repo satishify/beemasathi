@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 196,
+      "injection_flags": "",
+      "chunk_id": "749b5da122a23a16be30"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "20a231babd10f6b9d9d8"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "0fcf492278aed07728c3"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "b22a4db79c273f937322"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "5537badb15bac9804b42"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "22a2cf243a27ebd6efb6"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "5876810fb3e35da05f9f"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 160,
+      "injection_flags": "",
+      "chunk_id": "f26ec7c1b1edb23431b4"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "1c1c1c9ab86dd764a210"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "bcfa1b63bfbe01dd9a94"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "8c012d5b402eacc7f91f"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "4c8bb50cfd00365d9d93"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "49e922df5930985554ad"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 160,
+      "injection_flags": "",
+      "chunk_id": "b2e2c603ddf63132d5b1"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "3a6bd3fc55e41b58bb47"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 355,
+      "injection_flags": "",
+      "chunk_id": "383612ffbeaec3dd1548"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "f9cc1c71905f84dcb0cb"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "da107834a7bbe838b291"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 203,
+      "injection_flags": "",
+      "chunk_id": "04c0898c73a3c9a8a8a2"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "95cac0ffbe460c3288ef"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "b22b7fe77e3a31944e40"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "3ed25549709591089e8b"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "0ef824a0b3d08326e2f5"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 142,
+      "injection_flags": "",
+      "chunk_id": "04d27b5500c002b83540"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "b598ea1100f75da0de75"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "f41066dd34fb9afa9af3"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 92,
+      "injection_flags": "",
+      "chunk_id": "7403a3f43ccce597d3e1"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "47fa7f73d7553ea5fadb"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 341,
+      "injection_flags": "",
+      "chunk_id": "7c43ae753d7a05d30b48"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "5b012361553927b62571"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 299,
+      "injection_flags": "",
+      "chunk_id": "f512c58f88becb69fe13"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "0c95134599a0e51ef650"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 299,
+      "injection_flags": "",
+      "chunk_id": "e90e78fbd0370735a38d"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "336479a3ea24e05a0e18"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "6234d80ae90b6ceb255c"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 115,
+      "injection_flags": "",
+      "chunk_id": "80e5c50e9c66fa047de8"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "0fe6211341e1fcef56df"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 340,
+      "injection_flags": "",
+      "chunk_id": "25f739a582aec52a8a9a"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "7e2b2e12fb39197c5929"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 349,
+      "injection_flags": "",
+      "chunk_id": "4414bb3d214fcb0740a2"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "6fe63c2efec7974c3015"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 302,
+      "injection_flags": "",
+      "chunk_id": "d3afbe95b04f4d1b5264"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "57298d50e8bc5628c4e4"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 335,
+      "injection_flags": "",
+      "chunk_id": "57280039b016533d0b0a"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "0137f73371f38b86f941"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 278,
+      "injection_flags": "",
+      "chunk_id": "42a0340693a752683ae0"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Optional Covers (page 21)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "a035a182cc44eb8b08c8"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Optional Covers (page 21)",
+      "schema_version": 2,
+      "token_estimate": 344,
+      "injection_flags": "",
+      "chunk_id": "08d54cbf44ba1c86c3c9"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "4ea6596dfc49f9b15c64"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 260,
+      "injection_flags": "",
+      "chunk_id": "02dff22affd6d0d99423"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "29463bc175e37e3e8988"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 70,
+      "injection_flags": "",
+      "chunk_id": "17c2bc74db9c5a475c0b"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "011a736b25658ef9d9fc"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 345,
+      "injection_flags": "",
+      "chunk_id": "3f1e6d6f45d8452b04f1"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "e018a344a724dc9fdaf7"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 176,
+      "injection_flags": "",
+      "chunk_id": "3f874732ac3dc98ea489"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "9780951723584bc4c631"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 83,
+      "injection_flags": "",
+      "chunk_id": "241a63d2a513367c26a9"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "964e7b7536e21aa2f6e5"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 307,
+      "injection_flags": "",
+      "chunk_id": "c1eff4eca7e0003865f1"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "bed122707fa2c7518c27"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 360,
+      "injection_flags": "",
+      "chunk_id": "a1793b3524934c1da35e"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "0cc3480c37ff02b89229"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 215,
+      "injection_flags": "",
+      "chunk_id": "3084b4c0680c871178af"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "3a31bf7767a4315ad23a"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 108,
+      "injection_flags": "",
+      "chunk_id": "d7d8ee18783bd71842c4"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "9a22654dc4139746ad4a"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 222,
+      "injection_flags": "",
+      "chunk_id": "bf71bd9be8050733da86"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "898da7576d83d36f1780"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "12e184ebfef76a6dd4a9"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "f0327fda1ba1db612582"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 345,
+      "injection_flags": "",
+      "chunk_id": "00874d798247ac81c256"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "For Cashless Claims (page 34)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "e98875a667e80dd51afc"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "For Cashless Claims (page 34)",
+      "schema_version": 2,
+      "token_estimate": 270,
+      "injection_flags": "",
+      "chunk_id": "540993d3ce52f96cee6e"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "a1d3d5594d270b44df2b"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 328,
+      "injection_flags": "",
+      "chunk_id": "e12bf9fbe908fcbb5fc4"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "b4deaad3504a362056fb"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 296,
+      "injection_flags": "",
+      "chunk_id": "5437fadd4cc0a5a153c2"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Exclusions (page 37)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "b55ec3166422c562caf5"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Exclusions (page 37)",
+      "schema_version": 2,
+      "token_estimate": 296,
+      "injection_flags": "",
+      "chunk_id": "ab795d17aaa98d8be651"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "5f61ed0dc309213415fe"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "8cb75eebd7a143c7066a"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "076afd4be8d156b809a7"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 331,
+      "injection_flags": "",
+      "chunk_id": "0b8a0470c138bf249219"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "57c8552ce2728bb9656b"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 241,
+      "injection_flags": "",
+      "chunk_id": "cfb102523d5fdc3754b3"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Waiting Period (page 41)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "c2cbe5c01bee4349a0dc"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Waiting Period (page 41)",
+      "schema_version": 2,
+      "token_estimate": 345,
+      "injection_flags": "",
+      "chunk_id": "e15e3c639919bd9c6016"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "8966a1432de20ccfef8b"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 197,
+      "injection_flags": "",
+      "chunk_id": "8c42fc4107331045519f"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "e45431ae1fb704d1c297"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 173,
+      "injection_flags": "",
+      "chunk_id": "36d73eda182398c18cb8"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "91539f62563592bdb56e"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 115,
+      "injection_flags": "",
+      "chunk_id": "eead33edd2d3e92d2433"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Table Of Benefits (page 45)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "3288557560117d474b00"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Table Of Benefits (page 45)",
+      "schema_version": 2,
+      "token_estimate": 249,
+      "injection_flags": "",
+      "chunk_id": "d0481b796278f69757d4"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Waiting Period (page 46)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "24ed960b4d77232079de"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Waiting Period (page 46)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "7294ff9a0147d9c293b5"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Waiting Period (page 47)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "601e7b0832aa5e249831"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Waiting Period (page 47)",
+      "schema_version": 2,
+      "token_estimate": 336,
+      "injection_flags": "",
+      "chunk_id": "0cce037c3abe7af3e060"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Waiting Period (page 48)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "afe74050e58220f57f88"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Waiting Period (page 48)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "779d1e24bfbe2be1373f"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Waiting Period (page 48)",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "5ddb173247a3b2add74f"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "fadb682d3398a5cca91d"
     }
   },
   {
@@ -1466,7 +2506,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "6c535c4d7c0df806e9ed"
     }
   },
   {
@@ -1480,7 +2530,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Waiting Period (page 50)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "7ce0b1109fa1eb9836d9"
     }
   },
   {
@@ -1494,7 +2554,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Waiting Period (page 50)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "59ebc566b5f5980d6087"
     }
   },
   {
@@ -1508,7 +2578,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Waiting Period (page 50)",
+      "schema_version": 2,
+      "token_estimate": 105,
+      "injection_flags": "",
+      "chunk_id": "380aa608bc6a3a86cf72"
     }
   },
   {
@@ -1522,7 +2602,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Waiting Period (page 51)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "758163ff879910fa8041"
     }
   },
   {
@@ -1536,7 +2626,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Waiting Period (page 51)",
+      "schema_version": 2,
+      "token_estimate": 318,
+      "injection_flags": "",
+      "chunk_id": "59646702f6c1f9cfde38"
     }
   },
   {
@@ -1550,7 +2650,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "For Cashless Claims (page 52)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "8eb62e16e52240eefd65"
     }
   },
   {
@@ -1564,7 +2674,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "For Cashless Claims (page 52)",
+      "schema_version": 2,
+      "token_estimate": 313,
+      "injection_flags": "",
+      "chunk_id": "caa8ba5a5f0e1e40a3d6"
     }
   },
   {
@@ -1578,7 +2698,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Optional Covers (page 53)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "45343c6b81f09e313bb4"
     }
   },
   {
@@ -1592,7 +2722,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Optional Covers (page 53)",
+      "schema_version": 2,
+      "token_estimate": 308,
+      "injection_flags": "",
+      "chunk_id": "9c0124f384f691df8efb"
     }
   },
   {
@@ -1606,7 +2746,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Optional Covers (page 54)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "2c80888a9785fb0fb912"
     }
   },
   {
@@ -1620,7 +2770,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Optional Covers (page 54)",
+      "schema_version": 2,
+      "token_estimate": 349,
+      "injection_flags": "",
+      "chunk_id": "db85440ef6a6ba599223"
     }
   },
   {
@@ -1634,7 +2794,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Waiting Period (page 55)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "ecc073d2e9de55458254"
     }
   },
   {
@@ -1648,7 +2818,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Waiting Period (page 55)",
+      "schema_version": 2,
+      "token_estimate": 71,
+      "injection_flags": "",
+      "chunk_id": "5eb3672eb2fb1f1dd920"
     }
   },
   {
@@ -1662,7 +2842,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Optional Covers (page 56)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "d43ffd12ad7c230c4aa0"
     }
   },
   {
@@ -1676,7 +2866,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Optional Covers (page 56)",
+      "schema_version": 2,
+      "token_estimate": 314,
+      "injection_flags": "",
+      "chunk_id": "f402016cdafc43d929d4"
     }
   },
   {
@@ -1690,7 +2890,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "f83f2e91d06018ce4a3d"
     }
   },
   {
@@ -1704,7 +2914,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "73917066640b73bbb7fa"
     }
   },
   {
@@ -1718,7 +2938,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 67,
+      "injection_flags": "",
+      "chunk_id": "c9b705dccd7f733663fa"
     }
   },
   {
@@ -1732,7 +2962,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 58,
+      "page_end": 58,
+      "section_path": "Waiting Period (page 58)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "a242bc9da36763fe27a1"
     }
   },
   {
@@ -1746,7 +2986,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 58,
+      "page_end": 58,
+      "section_path": "Waiting Period (page 58)",
+      "schema_version": 2,
+      "token_estimate": 253,
+      "injection_flags": "",
+      "chunk_id": "a54113ae14bb92b70adc"
     }
   },
   {
@@ -1760,7 +3010,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Waiting Period (page 59)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "a68b638b2d44ad0b6a4d"
     }
   },
   {
@@ -1774,7 +3034,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Waiting Period (page 59)",
+      "schema_version": 2,
+      "token_estimate": 224,
+      "injection_flags": "",
+      "chunk_id": "83e186ff1ac32810040f"
     }
   },
   {
@@ -1788,7 +3058,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Waiting Period (page 60)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "708797a0ff6e56e641b1"
     }
   },
   {
@@ -1802,7 +3082,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Waiting Period (page 60)",
+      "schema_version": 2,
+      "token_estimate": 198,
+      "injection_flags": "",
+      "chunk_id": "b8e02fffb77f01bc5fae"
     }
   },
   {
@@ -1816,7 +3106,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 61,
+      "page_end": 61,
+      "section_path": "Page 61",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "5e90065266d236f84a15"
     }
   },
   {
@@ -1830,7 +3130,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 61,
+      "page_end": 61,
+      "section_path": "Page 61",
+      "schema_version": 2,
+      "token_estimate": 302,
+      "injection_flags": "",
+      "chunk_id": "f484e394b2b2369d6a82"
     }
   },
   {
@@ -1844,7 +3154,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 62,
+      "page_end": 62,
+      "section_path": "Exclusions (page 62)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "6968cd84d8ce5e6d3795"
     }
   },
   {
@@ -1858,7 +3178,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 62,
+      "page_end": 62,
+      "section_path": "Exclusions (page 62)",
+      "schema_version": 2,
+      "token_estimate": 347,
+      "injection_flags": "",
+      "chunk_id": "4639941fdda6c2d98d30"
     }
   },
   {
@@ -1872,7 +3202,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 63,
+      "page_end": 63,
+      "section_path": "Page 63",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "23f956e5156e3605eb63"
     }
   },
   {
@@ -1886,7 +3226,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 63,
+      "page_end": 63,
+      "section_path": "Page 63",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "75f9e3b300735414ceda"
     }
   },
   {
@@ -1900,7 +3250,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 63,
+      "page_end": 63,
+      "section_path": "Page 63",
+      "schema_version": 2,
+      "token_estimate": 72,
+      "injection_flags": "",
+      "chunk_id": "d947295b330fabbb4725"
     }
   },
   {
@@ -1914,7 +3274,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 64,
+      "page_end": 64,
+      "section_path": "Page 64",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "3d7b814563cd00552fc8"
     }
   },
   {
@@ -1928,7 +3298,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 64,
+      "page_end": 64,
+      "section_path": "Page 64",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "6501665116006883b16a"
     }
   },
   {
@@ -1942,7 +3322,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 64,
+      "page_end": 64,
+      "section_path": "Page 64",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "fd850238e4476389af63"
     }
   },
   {
@@ -1956,7 +3346,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 65,
+      "page_end": 65,
+      "section_path": "Page 65",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "c72cca9886747484a0f4"
     }
   },
   {
@@ -1970,7 +3370,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 65,
+      "page_end": 65,
+      "section_path": "Page 65",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "3bf415bb9d135417edf2"
     }
   },
   {
@@ -1984,7 +3394,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 65,
+      "page_end": 65,
+      "section_path": "Page 65",
+      "schema_version": 2,
+      "token_estimate": 134,
+      "injection_flags": "",
+      "chunk_id": "3ada3dfb369cd1083bda"
     }
   },
   {
@@ -1998,7 +3418,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 66,
+      "page_end": 66,
+      "section_path": "Waiting Period (page 66)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "bb86e23ae4dbaab54530"
     }
   },
   {
@@ -2012,7 +3442,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 66,
+      "page_end": 66,
+      "section_path": "Waiting Period (page 66)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "42b0b597a380a281f5fe"
     }
   },
   {
@@ -2026,7 +3466,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 66,
+      "page_end": 66,
+      "section_path": "Waiting Period (page 66)",
+      "schema_version": 2,
+      "token_estimate": 77,
+      "injection_flags": "",
+      "chunk_id": "5d66df8b3be30ab7b077"
     }
   },
   {
@@ -2040,7 +3490,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 67,
+      "page_end": 67,
+      "section_path": "Waiting Period (page 67)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "158e2244647ea56b41b5"
     }
   },
   {
@@ -2054,7 +3514,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 67,
+      "page_end": 67,
+      "section_path": "Waiting Period (page 67)",
+      "schema_version": 2,
+      "token_estimate": 293,
+      "injection_flags": "",
+      "chunk_id": "5f50260759bae930a379"
     }
   },
   {
@@ -2068,7 +3538,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 68,
+      "page_end": 68,
+      "section_path": "Waiting Period (page 68)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "59162691192b7baff5cb"
     }
   },
   {
@@ -2082,7 +3562,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 68,
+      "page_end": 68,
+      "section_path": "Waiting Period (page 68)",
+      "schema_version": 2,
+      "token_estimate": 338,
+      "injection_flags": "",
+      "chunk_id": "89e5b11ef7eaf51e2f1b"
     }
   },
   {
@@ -2096,7 +3586,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 69,
+      "page_end": 69,
+      "section_path": "Page 69",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "afe6dcfe2813943f721c"
     }
   },
   {
@@ -2110,7 +3610,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 69,
+      "page_end": 69,
+      "section_path": "Page 69",
+      "schema_version": 2,
+      "token_estimate": 268,
+      "injection_flags": "",
+      "chunk_id": "2316d21ff2faba8cbecd"
     }
   },
   {
@@ -2124,7 +3634,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 70,
+      "page_end": 70,
+      "section_path": "Waiting Period (page 70)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "3cd556bf5c6a0bd0cb4b"
     }
   },
   {
@@ -2138,7 +3658,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 70,
+      "page_end": 70,
+      "section_path": "Waiting Period (page 70)",
+      "schema_version": 2,
+      "token_estimate": 283,
+      "injection_flags": "",
+      "chunk_id": "9473595ca21eb405b70a"
     }
   },
   {
@@ -2152,7 +3682,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 71,
+      "page_end": 71,
+      "section_path": "Coverage Details (page 71)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "03e264a740a1a2c7aaa1"
     }
   },
   {
@@ -2166,7 +3706,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 71,
+      "page_end": 71,
+      "section_path": "Coverage Details (page 71)",
+      "schema_version": 2,
+      "token_estimate": 295,
+      "injection_flags": "",
+      "chunk_id": "fcf0207294adab0566a5"
     }
   },
   {
@@ -2180,7 +3730,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 72,
+      "page_end": 72,
+      "section_path": "Page 72",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "764dada9d995db4aa9bf"
     }
   },
   {
@@ -2194,7 +3754,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 72,
+      "page_end": 72,
+      "section_path": "Page 72",
+      "schema_version": 2,
+      "token_estimate": 153,
+      "injection_flags": "",
+      "chunk_id": "efae27792c4b9a55a4fe"
     }
   },
   {
@@ -2208,7 +3778,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 73,
+      "page_end": 73,
+      "section_path": "Page 73",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "362f82388780d7235034"
     }
   },
   {
@@ -2222,7 +3802,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 73,
+      "page_end": 73,
+      "section_path": "Page 73",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "f2fd381943225927f2c3"
     }
   },
   {
@@ -2236,7 +3826,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 73,
+      "page_end": 73,
+      "section_path": "Page 73",
+      "schema_version": 2,
+      "token_estimate": 75,
+      "injection_flags": "",
+      "chunk_id": "105ebcdb1f156dbc8a2d"
     }
   },
   {
@@ -2250,7 +3850,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 74,
+      "page_end": 74,
+      "section_path": "Page 74",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "794d360b8f952b573b75"
     }
   },
   {
@@ -2264,7 +3874,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 74,
+      "page_end": 74,
+      "section_path": "Page 74",
+      "schema_version": 2,
+      "token_estimate": 176,
+      "injection_flags": "",
+      "chunk_id": "5a398edadcda121c5460"
     }
   },
   {
@@ -2278,7 +3898,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 75,
+      "page_end": 75,
+      "section_path": "Page 75",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "9d9651ad6bdecbfbb0f8"
     }
   },
   {
@@ -2292,7 +3922,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 75,
+      "page_end": 75,
+      "section_path": "Page 75",
+      "schema_version": 2,
+      "token_estimate": 272,
+      "injection_flags": "",
+      "chunk_id": "957f84f0c963c39ae4c0"
     }
   },
   {
@@ -2306,7 +3946,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 76,
+      "page_end": 76,
+      "section_path": "Page 76",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "0aa00b13135e4007a271"
     }
   },
   {
@@ -2320,7 +3970,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 76,
+      "page_end": 76,
+      "section_path": "Page 76",
+      "schema_version": 2,
+      "token_estimate": 163,
+      "injection_flags": "",
+      "chunk_id": "94637447a6103de1d1c8"
     }
   },
   {
@@ -2334,7 +3994,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 77,
+      "page_end": 77,
+      "section_path": "Page 77",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "d570386f89b68e559821"
     }
   },
   {
@@ -2348,7 +4018,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 77,
+      "page_end": 77,
+      "section_path": "Page 77",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "236f2dc31ae73382e4cb"
     }
   },
   {
@@ -2362,7 +4042,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 78,
+      "page_end": 78,
+      "section_path": "Page 78",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "6246e17217c96b60e3fe"
     }
   },
   {
@@ -2376,7 +4066,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 78,
+      "page_end": 78,
+      "section_path": "Page 78",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "a116c298355783f74223"
     }
   },
   {
@@ -2390,7 +4090,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 78,
+      "page_end": 78,
+      "section_path": "Page 78",
+      "schema_version": 2,
+      "token_estimate": 80,
+      "injection_flags": "",
+      "chunk_id": "4bdcc1342ddb846816da"
     }
   },
   {
@@ -2404,7 +4114,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 79,
+      "page_end": 79,
+      "section_path": "Page 79",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "227e57d6829d5e7bccb2"
     }
   },
   {
@@ -2418,7 +4138,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 79,
+      "page_end": 79,
+      "section_path": "Page 79",
+      "schema_version": 2,
+      "token_estimate": 141,
+      "injection_flags": "",
+      "chunk_id": "ae317640900f6aed0bce"
     }
   },
   {
@@ -2432,7 +4162,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 80,
+      "page_end": 80,
+      "section_path": "Page 80",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "f6fc8d59204e95d86b77"
     }
   },
   {
@@ -2446,7 +4186,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 80,
+      "page_end": 80,
+      "section_path": "Page 80",
+      "schema_version": 2,
+      "token_estimate": 128,
+      "injection_flags": "",
+      "chunk_id": "4dca5f07c53b243280a9"
     }
   },
   {
@@ -2460,7 +4210,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 81,
+      "page_end": 81,
+      "section_path": "Page 81",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "3612c65d507ea6fabb73"
     }
   },
   {
@@ -2474,7 +4234,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 81,
+      "page_end": 81,
+      "section_path": "Page 81",
+      "schema_version": 2,
+      "token_estimate": 207,
+      "injection_flags": "",
+      "chunk_id": "2a2d78457a697b7fc26e"
     }
   },
   {
@@ -2488,7 +4258,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 82,
+      "page_end": 82,
+      "section_path": "Page 82",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "148b0e013c586f0f8826"
     }
   },
   {
@@ -2502,7 +4282,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 82,
+      "page_end": 82,
+      "section_path": "Page 82",
+      "schema_version": 2,
+      "token_estimate": 142,
+      "injection_flags": "",
+      "chunk_id": "5731ce52da539313256d"
     }
   },
   {
@@ -2516,7 +4306,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 83,
+      "page_end": 83,
+      "section_path": "Page 83",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "2f36a125a04865307d07"
     }
   },
   {
@@ -2530,7 +4330,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 83,
+      "page_end": 83,
+      "section_path": "Page 83",
+      "schema_version": 2,
+      "token_estimate": 151,
+      "injection_flags": "",
+      "chunk_id": "9666ddb687db8a7b5101"
     }
   },
   {
@@ -2544,7 +4354,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 84,
+      "page_end": 84,
+      "section_path": "Page 84",
+      "schema_version": 2,
+      "token_estimate": 315,
+      "injection_flags": "",
+      "chunk_id": "d7bc37bd347f04402509"
     }
   },
   {
@@ -2558,7 +4378,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 85,
+      "page_end": 85,
+      "section_path": "Page 85",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "fe99c0a0b4d2e7210dcb"
     }
   },
   {
@@ -2572,7 +4402,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 86,
+      "page_end": 86,
+      "section_path": "Page 86",
+      "schema_version": 2,
+      "token_estimate": 360,
+      "injection_flags": "",
+      "chunk_id": "5d4ee62723ffc2556c9e"
     }
   },
   {
@@ -2586,7 +4426,17 @@
       "source": "hdfc_ergo_hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795_policy_wording",
       "source_file": "health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__hdfc_ergo_group_health_insurance_for_policies_with_period_of_s_881795__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 87,
+      "page_end": 87,
+      "section_path": "Page 87",
+      "schema_version": 2,
+      "token_estimate": 139,
+      "injection_flags": "",
+      "chunk_id": "44041645aa660a1f583a"
     }
   }
 ]

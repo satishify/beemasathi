@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 40,
+      "injection_flags": "",
+      "chunk_id": "2bc4ff5cb561d48f3c0b"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "eda17dc3e70a2e363bec"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 344,
+      "injection_flags": "",
+      "chunk_id": "6bd0400d81cb548e5e8b"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "f9531ee0bf464f359aa9"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 55,
+      "injection_flags": "",
+      "chunk_id": "f3332962009cf6e32acc"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "9188db89648a954f68c1"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 242,
+      "injection_flags": "",
+      "chunk_id": "75d2172210ade39e38ac"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "041142b77745f690e671"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 273,
+      "injection_flags": "",
+      "chunk_id": "ed8c1960ce048d800e2b"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "629fd05e3f9c70ab56b5"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 365,
+      "injection_flags": "",
+      "chunk_id": "5342f2918a3a64dd3415"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "0a07569e8c4fd20fc073"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 322,
+      "injection_flags": "",
+      "chunk_id": "d722445bc1c17dd24ef1"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_respect_product_group_brochure",
       "source_file": "health__respect_product_group__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__respect_product_group__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 232,
+      "injection_flags": "",
+      "chunk_id": "3b9a22f503c25e01a505"
     }
   }
 ]

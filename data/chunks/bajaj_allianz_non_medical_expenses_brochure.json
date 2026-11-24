@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_non_medical_expenses_brochure",
       "source_file": "health__non_medical_expenses__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 285,
+      "injection_flags": "",
+      "chunk_id": "00fc675295f4f0f105a6"
     }
   }
 ]

@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 261,
+      "injection_flags": "",
+      "chunk_id": "42f84624998969640bb2"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 276,
+      "injection_flags": "",
+      "chunk_id": "cd63765589282da0951e"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 87,
+      "injection_flags": "",
+      "chunk_id": "e5eb26dcbde2add42151"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "47a9d5d8d13c5c6b24ea"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "685cb391bf7f4f0d43d3"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "61fa35443f8f52ae82ff"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "4b76ddafc1e8230b4122"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 89,
+      "injection_flags": "",
+      "chunk_id": "c3886939746dc5a63f46"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "ad908657520cf3864294"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "29f4120b48e60bf3f460"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 133,
+      "injection_flags": "",
+      "chunk_id": "0ea53d03d0c529d81c2b"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "d33e46ea2f178138bbf5"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "19ac2f51152b2db5b11a"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "15641a78afdcbdecfe11"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "ce0aa10b98b33f6253f5"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "3874062a5ad060841a63"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 123,
+      "injection_flags": "",
+      "chunk_id": "20a7545d00e581226d1d"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "6510466ab0044dc5d37a"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "a17f548d8233eb8dd318"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "64fe84b28282575208ce"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "ded1ae09907208f15eb6"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 123,
+      "injection_flags": "",
+      "chunk_id": "267408fd5bf3b2295435"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "97eff22300ab71ba0490"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 269,
+      "injection_flags": "",
+      "chunk_id": "82ce1240b463549635a3"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "d06f64d2ad6be5c22493"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 296,
+      "injection_flags": "",
+      "chunk_id": "c8db483c227de42f210e"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "e14673b918c4fafe9c5c"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "fae00cecfcb88c92bbd6"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "dd6cce7752c976ccddb3"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "33f90205eaf556d20181"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 304,
+      "injection_flags": "",
+      "chunk_id": "ae36e1a3fada9ba1f5c3"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "3f0cd8786a1eebf37d8f"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 327,
+      "injection_flags": "",
+      "chunk_id": "96cd7f01165de90a3c50"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "a93d6391cb5528c0064b"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "c3920260d223f14e53fe"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "702779cd4b232991455e"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 308,
+      "injection_flags": "",
+      "chunk_id": "9ee651499f98b3088ae4"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "b248b91b772b53e2aa10"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "ffcf1d3cc9a9f2c9ba24"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "259cfaa163335b1dc2dd"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 352,
+      "injection_flags": "",
+      "chunk_id": "c9a264035230a768e38e"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "b0019fe2162b03a2e7bd"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "88551e7aa1a3330d9946"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 86,
+      "injection_flags": "",
+      "chunk_id": "ab4303235dbdf243c821"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "1011199b2a5a24b57157"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "715ddb635d011de2be45"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 72,
+      "injection_flags": "",
+      "chunk_id": "0ec843e25c5068acbcde"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "8f8be33d46573cbaeea0"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "ee1197b237ebf90d6730"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Waiting Period (page 23)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "06965a357e13d8a8eed5"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Waiting Period (page 23)",
+      "schema_version": 2,
+      "token_estimate": 275,
+      "injection_flags": "",
+      "chunk_id": "a97c8d19762e74ca0be6"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "3c8930306e4417ba283f"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "8981e25215193492d360"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "1e8b8ba1e8526433889b"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 198,
+      "injection_flags": "",
+      "chunk_id": "03a1468642e3a668b47c"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "9415a0d5e58c108d029b"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 368,
+      "injection_flags": "",
+      "chunk_id": "b45d74fe06c8b1d6fa4e"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "aa435648d610a8292713"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 358,
+      "injection_flags": "",
+      "chunk_id": "2f40ac77fec1132c7e19"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "727ca4c4b91d4b7300a1"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "54addfb3145fc5628e13"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "11a6ec7f3f57f6dd2816"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 129,
+      "injection_flags": "",
+      "chunk_id": "989875f1e7833968fd15"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "ede63160a72ddb361311"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 137,
+      "injection_flags": "",
+      "chunk_id": "25ae402ba497d9141bbb"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "93b5431b1889ac9dfe18"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 362,
+      "injection_flags": "",
+      "chunk_id": "b633602e9d17d21eca48"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "b6437c35c90c3f7bb96a"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 142,
+      "injection_flags": "",
+      "chunk_id": "c238df38f414a412361e"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "hdfc_ergo_health_suraksha_top_up_pro_policy_wording",
       "source_file": "health__health_suraksha_top_up_pro__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__health_suraksha_top_up_pro__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "7f10a853ec85e27fc6c0"
     }
   }
 ]

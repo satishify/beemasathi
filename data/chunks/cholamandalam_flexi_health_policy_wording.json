@@ -10,7 +10,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 49,
+      "injection_flags": "",
+      "chunk_id": "fa742176bff77c204629"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "55470ca9a4b300f221a6"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 62,
+      "injection_flags": "",
+      "chunk_id": "5307717b5e328de01872"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 55,
+      "injection_flags": "",
+      "chunk_id": "beede67b90f8d00719ef"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 313,
+      "injection_flags": "",
+      "chunk_id": "2b70c107b5a24aa57afd"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 357,
+      "injection_flags": "",
+      "chunk_id": "2a783259d2eb3b9fe3a4"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "b03701f6f887335e955d"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 290,
+      "injection_flags": "",
+      "chunk_id": "43b0cf2ae3ca8bba707e"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "d5dcfa11e2427255ff2b"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 337,
+      "injection_flags": "",
+      "chunk_id": "f8437b2017bc737b3af3"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "b41891bc46387f2b0c65"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 278,
+      "injection_flags": "",
+      "chunk_id": "d202b55a864982a44c76"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "1a66a2183781cf94f5b8"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 366,
+      "injection_flags": "",
+      "chunk_id": "978e72d3ca9e701b05d9"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "9c7173905ca17a63505f"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 356,
+      "injection_flags": "",
+      "chunk_id": "59d6415c3fe47c770de8"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "1dbec6b7652fae73cb1b"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "e68f7cb30fbcf380f2a8"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 57,
+      "injection_flags": "",
+      "chunk_id": "19f10a10e8e6cbda3d14"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "edb1089b5c4fe3fbfe20"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 289,
+      "injection_flags": "",
+      "chunk_id": "23590d64a7fd8f2f58d3"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "82acdcf0920fe33138fa"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "1cfb3dd5141d61706799"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 79,
+      "injection_flags": "",
+      "chunk_id": "4a15c51cb598ef849e55"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "c379e4b53e0d0cf7972f"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 203,
+      "injection_flags": "",
+      "chunk_id": "eae6831bf4256167f99a"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "a322d3b4bf65714ee8d5"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 91,
+      "injection_flags": "",
+      "chunk_id": "495b40db76cbc587cffe"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "df1b87f70117e40e597e"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "daa865ea69d1fe29a2aa"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 80,
+      "injection_flags": "",
+      "chunk_id": "a2f9d5d32e65d84a52a1"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "4a01a1b2a67a7b6855f9"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 219,
+      "injection_flags": "",
+      "chunk_id": "bd925243f536ae7d81a7"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "03082224fd110436a3b9"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 175,
+      "injection_flags": "",
+      "chunk_id": "a4ab50d8ac504df6dd3b"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Waiting Period (page 22)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "2deb47853a292f0dabe4"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Waiting Period (page 22)",
+      "schema_version": 2,
+      "token_estimate": 197,
+      "injection_flags": "",
+      "chunk_id": "19d1db72472bad9d5799"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "bd5736559b53868fd961"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 194,
+      "injection_flags": "",
+      "chunk_id": "45c2bbbb95087677be23"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "bddfb1c0664ff5b95f70"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 153,
+      "injection_flags": "",
+      "chunk_id": "68eca70013f58882fd85"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "55d994f9a0c14736a50f"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 212,
+      "injection_flags": "",
+      "chunk_id": "687eae5f5fec8e3ba327"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "3827dcbc888502250145"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 132,
+      "injection_flags": "",
+      "chunk_id": "7ed8f15514f1e8fa23e9"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "02033b18ddb5f0dd6864"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 226,
+      "injection_flags": "",
+      "chunk_id": "d9423e50dc9c93dde5b0"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Waiting Period (page 28)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "6bcc6a4a4fcd3beb974d"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Waiting Period (page 28)",
+      "schema_version": 2,
+      "token_estimate": 203,
+      "injection_flags": "",
+      "chunk_id": "e97e2f1e4174c0ecc038"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "d59286e40665b3b0b813"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "4101c8d1962f35b2f06e"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 41,
+      "injection_flags": "",
+      "chunk_id": "21ef3c26ab051cd5c46d"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "2be79ac7c38d1a7a8910"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "f5ffcd764cb5b9f5fe75"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "f041a4720ebf9c1eaf96"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 304,
+      "injection_flags": "",
+      "chunk_id": "e49e44fe130de4b2c1d0"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "bb58d9284f9097b7774c"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 332,
+      "injection_flags": "",
+      "chunk_id": "8ed91f7bcd25893f7787"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "f74bb029536bbeb9836d"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "0d24f673f6be4670a13e"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Waiting Period (page 34)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "35d36f89c6e8a38e2309"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Waiting Period (page 34)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "d5faa14322688fd74b8b"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "2f64196d2830f94ad788"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 248,
+      "injection_flags": "",
+      "chunk_id": "94c82d8b9e2e5a722d63"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Waiting Period (page 36)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "452f285d146f4ebbba5a"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Waiting Period (page 36)",
+      "schema_version": 2,
+      "token_estimate": 289,
+      "injection_flags": "",
+      "chunk_id": "7c264fd68ff5bdb24b44"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "316ec8f7292da73bfbb4"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 171,
+      "injection_flags": "",
+      "chunk_id": "9ef4508bb9d6ce791159"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "For Cashless Claims (page 38)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "efd42da352d741fc7bb2"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "For Cashless Claims (page 38)",
+      "schema_version": 2,
+      "token_estimate": 295,
+      "injection_flags": "",
+      "chunk_id": "711253ce7bf679bcddd6"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 338,
+      "injection_flags": "",
+      "chunk_id": "d92ccac6edfdca88d713"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "4f914cfd177987506f46"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 33,
+      "injection_flags": "",
+      "chunk_id": "4e2cd82eabe0af819a1a"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Page 41",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "4f5ad72db15fcf97550a"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Page 41",
+      "schema_version": 2,
+      "token_estimate": 319,
+      "injection_flags": "",
+      "chunk_id": "52c841b0786ab9012cd5"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Waiting Period (page 42)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "066112ceddfcc844d775"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Waiting Period (page 42)",
+      "schema_version": 2,
+      "token_estimate": 220,
+      "injection_flags": "",
+      "chunk_id": "3f413dec42389f6b774d"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "fe7cc99f4d2c57a99806"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 282,
+      "injection_flags": "",
+      "chunk_id": "332cb650c02e4c9d2bb8"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "39957c9e248f9b8899dc"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 57,
+      "injection_flags": "",
+      "chunk_id": "489ab62253a2303ee29c"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 269,
+      "injection_flags": "",
+      "chunk_id": "5ea795116ea973242df7"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "31db4d097188ca1928fc"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 26,
+      "injection_flags": "",
+      "chunk_id": "f87901ba73bc3f47ec9d"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "5fad3d03ff5831be757c"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 64,
+      "injection_flags": "",
+      "chunk_id": "f653dbe9f24c84e2165f"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 294,
+      "injection_flags": "",
+      "chunk_id": "d6c7b79592220063ed0b"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "58f4fe8803946be3ec61"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 40,
+      "injection_flags": "",
+      "chunk_id": "4d9936a30d5b34dc6ce9"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 301,
+      "injection_flags": "",
+      "chunk_id": "31871611015a0daaceef"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 323,
+      "injection_flags": "",
+      "chunk_id": "7a7c1b951311adcff9cf"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 289,
+      "injection_flags": "",
+      "chunk_id": "06e99f560d03065262b7"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Page 53",
+      "schema_version": 2,
+      "token_estimate": 287,
+      "injection_flags": "",
+      "chunk_id": "a3a1887bbb6710c9ab10"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 322,
+      "injection_flags": "",
+      "chunk_id": "4822930dc6ab773fcd7e"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Page 55",
+      "schema_version": 2,
+      "token_estimate": 284,
+      "injection_flags": "",
+      "chunk_id": "5358ee2f926405ef110f"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Page 56",
+      "schema_version": 2,
+      "token_estimate": 259,
+      "injection_flags": "",
+      "chunk_id": "57f50ba5ce9a68f2d706"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 276,
+      "injection_flags": "",
+      "chunk_id": "2262d6a96ac2552c5b7f"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 58,
+      "page_end": 58,
+      "section_path": "Page 58",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "7103306b71f8ae9282d7"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "e7f45ec1e34ee4dc283d"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "a41fea925995dc935517"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 61,
+      "page_end": 61,
+      "section_path": "Page 61",
+      "schema_version": 2,
+      "token_estimate": 286,
+      "injection_flags": "",
+      "chunk_id": "cbfdf8e59e6dedec8b3d"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 62,
+      "page_end": 62,
+      "section_path": "Page 62",
+      "schema_version": 2,
+      "token_estimate": 317,
+      "injection_flags": "",
+      "chunk_id": "0b8823940e779bf898a9"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 63,
+      "page_end": 63,
+      "section_path": "Page 63",
+      "schema_version": 2,
+      "token_estimate": 331,
+      "injection_flags": "",
+      "chunk_id": "58f8c812fed4e61abbc1"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 64,
+      "page_end": 64,
+      "section_path": "Page 64",
+      "schema_version": 2,
+      "token_estimate": 323,
+      "injection_flags": "",
+      "chunk_id": "bbbba65c7e7dac081128"
     }
   },
   {
@@ -1466,7 +2506,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 65,
+      "page_end": 65,
+      "section_path": "Page 65",
+      "schema_version": 2,
+      "token_estimate": 259,
+      "injection_flags": "",
+      "chunk_id": "0798830ef41754304c4b"
     }
   },
   {
@@ -1480,7 +2530,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 66,
+      "page_end": 66,
+      "section_path": "Page 66",
+      "schema_version": 2,
+      "token_estimate": 218,
+      "injection_flags": "",
+      "chunk_id": "3e759449110fa400514f"
     }
   },
   {
@@ -1494,7 +2554,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 67,
+      "page_end": 67,
+      "section_path": "Page 67",
+      "schema_version": 2,
+      "token_estimate": 227,
+      "injection_flags": "",
+      "chunk_id": "e1c5b6737999550e059b"
     }
   },
   {
@@ -1508,7 +2578,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 68,
+      "page_end": 68,
+      "section_path": "Page 68",
+      "schema_version": 2,
+      "token_estimate": 213,
+      "injection_flags": "",
+      "chunk_id": "1bccade0523811c9b233"
     }
   },
   {
@@ -1522,7 +2602,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 69,
+      "page_end": 69,
+      "section_path": "Page 69",
+      "schema_version": 2,
+      "token_estimate": 230,
+      "injection_flags": "",
+      "chunk_id": "82a387c4c0d2244be94b"
     }
   },
   {
@@ -1536,7 +2626,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 70,
+      "page_end": 70,
+      "section_path": "Page 70",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "c392bc3bf7fd42c71203"
     }
   },
   {
@@ -1550,7 +2650,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 70,
+      "page_end": 70,
+      "section_path": "Page 70",
+      "schema_version": 2,
+      "token_estimate": 124,
+      "injection_flags": "",
+      "chunk_id": "564e294f21b9ff9d0b4a"
     }
   },
   {
@@ -1564,7 +2674,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 71,
+      "page_end": 71,
+      "section_path": "Exclusions (page 71)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "c2a78ec2de3c2ed13013"
     }
   },
   {
@@ -1578,7 +2698,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 71,
+      "page_end": 71,
+      "section_path": "Exclusions (page 71)",
+      "schema_version": 2,
+      "token_estimate": 209,
+      "injection_flags": "",
+      "chunk_id": "63bd540d932d02afbb3f"
     }
   },
   {
@@ -1592,7 +2722,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 72,
+      "page_end": 72,
+      "section_path": "Page 72",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "bb6a0b6d4508d3627a41"
     }
   },
   {
@@ -1606,7 +2746,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 72,
+      "page_end": 72,
+      "section_path": "Page 72",
+      "schema_version": 2,
+      "token_estimate": 334,
+      "injection_flags": "",
+      "chunk_id": "fdded882c72ada7a9161"
     }
   },
   {
@@ -1620,7 +2770,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 73,
+      "page_end": 73,
+      "section_path": "Page 73",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "ff95bf8f95bf6f278698"
     }
   },
   {
@@ -1634,7 +2794,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 73,
+      "page_end": 73,
+      "section_path": "Page 73",
+      "schema_version": 2,
+      "token_estimate": 339,
+      "injection_flags": "",
+      "chunk_id": "9be2badbecc4631f166d"
     }
   },
   {
@@ -1648,7 +2818,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 74,
+      "page_end": 74,
+      "section_path": "Page 74",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "597a501efe597bdd1e4a"
     }
   },
   {
@@ -1662,7 +2842,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 74,
+      "page_end": 74,
+      "section_path": "Page 74",
+      "schema_version": 2,
+      "token_estimate": 263,
+      "injection_flags": "",
+      "chunk_id": "15deab99bb0441014cc8"
     }
   },
   {
@@ -1676,7 +2866,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 75,
+      "page_end": 75,
+      "section_path": "Waiting Period (page 75)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "40308474ddbeae59b1bc"
     }
   },
   {
@@ -1690,7 +2890,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 75,
+      "page_end": 75,
+      "section_path": "Waiting Period (page 75)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "2f80b48fdd2ff80b99a5"
     }
   },
   {
@@ -1704,7 +2914,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 76,
+      "page_end": 76,
+      "section_path": "Page 76",
+      "schema_version": 2,
+      "token_estimate": 205,
+      "injection_flags": "",
+      "chunk_id": "df493b502373bc21e3ef"
     }
   },
   {
@@ -1718,7 +2938,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 77,
+      "page_end": 77,
+      "section_path": "Page 77",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "0cceecdd7723e965e48b"
     }
   },
   {
@@ -1732,7 +2962,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 77,
+      "page_end": 77,
+      "section_path": "Page 77",
+      "schema_version": 2,
+      "token_estimate": 38,
+      "injection_flags": "",
+      "chunk_id": "c0542f552a5e68c3df82"
     }
   },
   {
@@ -1746,7 +2986,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 78,
+      "page_end": 78,
+      "section_path": "Page 78",
+      "schema_version": 2,
+      "token_estimate": 305,
+      "injection_flags": "",
+      "chunk_id": "8e013bddfdeed1cacf00"
     }
   },
   {
@@ -1760,7 +3010,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 79,
+      "page_end": 79,
+      "section_path": "Exclusions (page 79)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "dc9cf8261848bc5be243"
     }
   },
   {
@@ -1774,7 +3034,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 79,
+      "page_end": 79,
+      "section_path": "Exclusions (page 79)",
+      "schema_version": 2,
+      "token_estimate": 254,
+      "injection_flags": "",
+      "chunk_id": "7a48ebfb51ca86b3189b"
     }
   },
   {
@@ -1788,7 +3058,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 80,
+      "page_end": 80,
+      "section_path": "Page 80",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "3625894b54d25a57eb7f"
     }
   },
   {
@@ -1802,7 +3082,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 80,
+      "page_end": 80,
+      "section_path": "Page 80",
+      "schema_version": 2,
+      "token_estimate": 174,
+      "injection_flags": "",
+      "chunk_id": "7bb90e17be731b03168e"
     }
   },
   {
@@ -1816,7 +3106,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 81,
+      "page_end": 81,
+      "section_path": "Waiting Period (page 81)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "41cfa9c28de7809b9b4c"
     }
   },
   {
@@ -1830,7 +3130,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 81,
+      "page_end": 81,
+      "section_path": "Waiting Period (page 81)",
+      "schema_version": 2,
+      "token_estimate": 211,
+      "injection_flags": "",
+      "chunk_id": "ca4230ddd7b19c8bc99e"
     }
   },
   {
@@ -1844,7 +3154,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 82,
+      "page_end": 82,
+      "section_path": "Page 82",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "117fbdab7eca1155a842"
     }
   },
   {
@@ -1858,7 +3178,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 82,
+      "page_end": 82,
+      "section_path": "Page 82",
+      "schema_version": 2,
+      "token_estimate": 210,
+      "injection_flags": "",
+      "chunk_id": "678ea1359eb541c216a6"
     }
   },
   {
@@ -1872,7 +3202,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 83,
+      "page_end": 83,
+      "section_path": "Exclusions (page 83)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "410bdb5778d3328d5817"
     }
   },
   {
@@ -1886,7 +3226,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 83,
+      "page_end": 83,
+      "section_path": "Exclusions (page 83)",
+      "schema_version": 2,
+      "token_estimate": 243,
+      "injection_flags": "",
+      "chunk_id": "40299ba4ffd5e3e8fc52"
     }
   },
   {
@@ -1900,7 +3250,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 84,
+      "page_end": 84,
+      "section_path": "Page 84",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "27ba585c1acb2685a60c"
     }
   },
   {
@@ -1914,7 +3274,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 84,
+      "page_end": 84,
+      "section_path": "Page 84",
+      "schema_version": 2,
+      "token_estimate": 212,
+      "injection_flags": "",
+      "chunk_id": "6fb5be2fdda3a9da0c96"
     }
   },
   {
@@ -1928,7 +3298,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 85,
+      "page_end": 85,
+      "section_path": "Page 85",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "49075dce5029e3040f87"
     }
   },
   {
@@ -1942,7 +3322,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 85,
+      "page_end": 85,
+      "section_path": "Page 85",
+      "schema_version": 2,
+      "token_estimate": 158,
+      "injection_flags": "",
+      "chunk_id": "b2edebf1d593e62aef82"
     }
   },
   {
@@ -1956,7 +3346,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 86,
+      "page_end": 86,
+      "section_path": "Page 86",
+      "schema_version": 2,
+      "token_estimate": 271,
+      "injection_flags": "",
+      "chunk_id": "de5b2e79145636eb2ef7"
     }
   },
   {
@@ -1970,7 +3370,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 87,
+      "page_end": 87,
+      "section_path": "Page 87",
+      "schema_version": 2,
+      "token_estimate": 95,
+      "injection_flags": "",
+      "chunk_id": "1a4b0d7febb5dd737bf3"
     }
   },
   {
@@ -1984,7 +3394,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 89,
+      "page_end": 89,
+      "section_path": "Page 89",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "eeb016cfdbbad4891f85"
     }
   },
   {
@@ -1998,7 +3418,17 @@
       "source": "cholamandalam_flexi_health_policy_wording",
       "source_file": "health__flexi_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__flexi_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 89,
+      "page_end": 89,
+      "section_path": "Page 89",
+      "schema_version": 2,
+      "token_estimate": 57,
+      "injection_flags": "",
+      "chunk_id": "a682da4448350dd19752"
     }
   }
 ]

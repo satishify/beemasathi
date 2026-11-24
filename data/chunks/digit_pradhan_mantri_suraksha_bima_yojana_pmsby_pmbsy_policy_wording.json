@@ -10,7 +10,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 21,
+      "injection_flags": "",
+      "chunk_id": "fc25572b0fdbc6b25274"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 210,
+      "injection_flags": "",
+      "chunk_id": "41846191fe3e1ec06358"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "a8f81f0c9f4ffd5bec23"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "86645bce0cf7805e5936"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "4bd86f858c27d7dbacfa"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "e117fd834126bb6f133c"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 108,
+      "injection_flags": "",
+      "chunk_id": "ad513fc9a9b39c2c64f5"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "9bbddfdd26243ca2b362"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "da0d8cbe0778ef6e7ea6"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "e26ecc9c6de2ef38e1da"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "ba2cd8202985996cb68c"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 72,
+      "injection_flags": "",
+      "chunk_id": "dd722268e9d6f3c7ad73"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "699abefd98112d5bbb72"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "68ee49315ac6aa7827c8"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 236,
+      "injection_flags": "",
+      "chunk_id": "43a15d29ed262984cd96"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "a3b0f409176c430795e6"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "7cf6865b6aa64625f00d"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 262,
+      "injection_flags": "",
+      "chunk_id": "28d5a90b56efb0f436a6"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "a32eea0b000fa6ca89a8"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "2037ab030da802990992"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 273,
+      "injection_flags": "",
+      "chunk_id": "cbd2f11bf930e05f9341"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "dd1ae3310e7b04bd3cd7"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "526fe71bc74a0e3d6027"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 234,
+      "injection_flags": "",
+      "chunk_id": "425be9b620498b30b426"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "00774fffb60f052493d8"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "4e116e97cc61ea9af815"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "digit_pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy_policy_wording",
       "source_file": "health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__pradhan_mantri_suraksha_bima_yojana_pmsby_pmbsy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 160,
+      "injection_flags": "",
+      "chunk_id": "2b29c45b9a2843ddc06c"
     }
   }
 ]

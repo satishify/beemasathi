@@ -10,7 +10,17 @@
       "source": "digit_wellness_benefit_program_group_cover_policy_wording",
       "source_file": "health__wellness_benefit_program_group_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__wellness_benefit_program_group_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "723442348121d6f87089"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_wellness_benefit_program_group_cover_policy_wording",
       "source_file": "health__wellness_benefit_program_group_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__wellness_benefit_program_group_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "a30edec39cefaa16812e"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_wellness_benefit_program_group_cover_policy_wording",
       "source_file": "health__wellness_benefit_program_group_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__wellness_benefit_program_group_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "59788b33c47b66c38b40"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_wellness_benefit_program_group_cover_policy_wording",
       "source_file": "health__wellness_benefit_program_group_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__wellness_benefit_program_group_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 366,
+      "injection_flags": "",
+      "chunk_id": "a7c820ba174c3b586676"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "digit_wellness_benefit_program_group_cover_policy_wording",
       "source_file": "health__wellness_benefit_program_group_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__wellness_benefit_program_group_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 44,
+      "injection_flags": "",
+      "chunk_id": "0b8ef26d36406c089b1e"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "digit_wellness_benefit_program_group_cover_policy_wording",
       "source_file": "health__wellness_benefit_program_group_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__wellness_benefit_program_group_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "e7b6770b43373a2e73dd"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "digit_wellness_benefit_program_group_cover_policy_wording",
       "source_file": "health__wellness_benefit_program_group_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__wellness_benefit_program_group_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "694234000c95ec93ef69"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "digit_wellness_benefit_program_group_cover_policy_wording",
       "source_file": "health__wellness_benefit_program_group_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__wellness_benefit_program_group_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 133,
+      "injection_flags": "",
+      "chunk_id": "79edb2555abfbdde3806"
     }
   }
 ]

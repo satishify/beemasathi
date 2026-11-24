@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "2d91dfae42f2039ab2c3"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "59cf1499e5f2b8e31acd"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 217,
+      "injection_flags": "",
+      "chunk_id": "06991636fbbb14fd0324"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "fc53b93d3c329d11e9db"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "042c39347f0816ff27f4"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 183,
+      "injection_flags": "",
+      "chunk_id": "e8ca160a3bcb55916bfe"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "c883510e991fae96a581"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "9fc9c88f75bc9b293415"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 187,
+      "injection_flags": "",
+      "chunk_id": "63cc344ad353c75f3305"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "866158579529859a6bf0"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "16402c4fccc464fd1627"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 190,
+      "injection_flags": "",
+      "chunk_id": "a10db4c97ec36f6c7fee"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "ac6dfa1eee25119a26fd"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "2663b944247834a12c67"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "525a63acaac996a27510"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "5847a63df04bf3cb9731"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "2d5d8a7e666456de996a"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 113,
+      "injection_flags": "",
+      "chunk_id": "b7362d7455f1397ba67a"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "6bb6997879cd08e89603"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "392faccc7882a00be593"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 71,
+      "injection_flags": "",
+      "chunk_id": "be5406dbd9b4d3ddf913"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "7b2fecd672114bd071fb"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "bdf8181713f4ba832846"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 157,
+      "injection_flags": "",
+      "chunk_id": "a8141a7ed01afc480df5"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "6e97080adb1a02fffef2"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "3370e09acd12c945f139"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 115,
+      "injection_flags": "",
+      "chunk_id": "937e7ec773ede2c2afb9"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "402c0bdb8be9fc63f0e9"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "4138f91278e56699e6a3"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 223,
+      "injection_flags": "",
+      "chunk_id": "423e9039edc4cddc710e"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "2be3b1cf663523cc37f3"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "a0c6fa6394dde3319e89"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 153,
+      "injection_flags": "",
+      "chunk_id": "c256ae7d4b42adcf7b74"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "9106856d9371dfd45ce1"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "dde069851d164963e2a6"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 58,
+      "injection_flags": "",
+      "chunk_id": "cb7afafa627d84e67985"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "a41dcb2fc529b0f4eaab"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "ddaacdb75db8dd3d6487"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 314,
+      "injection_flags": "",
+      "chunk_id": "8951527b2158ebeefceb"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "af176b6a5a588400b726"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "d37a87131a2a7636bec6"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 269,
+      "injection_flags": "",
+      "chunk_id": "6a959ac5bc996faeb6ad"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "5f6cebf2c9c1eec9e889"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "9b6b0d20f1d172e42d36"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 181,
+      "injection_flags": "",
+      "chunk_id": "197078347a4a2c56adf5"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "a918e1d0111e320f374e"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "74059dae45bf044294f6"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 302,
+      "injection_flags": "",
+      "chunk_id": "e434a9447f595673856e"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "15b211c4e2e73ca9abd4"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "bajaj_allianz_my_swasthya_care_policy_wording",
       "source_file": "health__my_swasthya_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__my_swasthya_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 322,
+      "injection_flags": "",
+      "chunk_id": "a8f90063cf55f0138561"
     }
   }
 ]

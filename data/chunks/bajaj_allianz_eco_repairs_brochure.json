@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_eco_repairs_brochure",
       "source_file": "motor__eco_repairs__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/motor__eco_repairs__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 153,
+      "injection_flags": "",
+      "chunk_id": "9dd3f17bf60aba9b579f"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_eco_repairs_brochure",
       "source_file": "motor__eco_repairs__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/motor__eco_repairs__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "5f749ddccbe7c17e5737"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_eco_repairs_brochure",
       "source_file": "motor__eco_repairs__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/motor__eco_repairs__brochure.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 218,
+      "injection_flags": "",
+      "chunk_id": "76ae1c854339d1b9362b"
     }
   }
 ]

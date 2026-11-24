@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "a4a2ff0180d4c936b78d"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "1ab7fa078b0e09ce4791"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "32e5bf457464b451973a"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "4f3b1260376bfbd546b8"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "e1a17d9146c1e91387ed"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "80e6830d55de1fd718a7"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "3fcbafad84e3c2cae739"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "e2b6a2bdfe7bbf87b901"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 130,
+      "injection_flags": "",
+      "chunk_id": "a4e3151f81563c20d25f"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "c3d75902aaa039c58f58"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "7720491f39308ae3db1a"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "6e742824dc5439b6d726"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "99a9e1ac200eb1622943"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "72d515dd1c81112f4812"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "b2a271e9ee70cc1df15c"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "fae494c7803dccd59031"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "e56200ae94aa07d31dad"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "5c8352b0834c5869526b"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "2d0a3551bdba494a207f"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 140,
+      "injection_flags": "",
+      "chunk_id": "beeeb5efa5ea7124c5a2"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "e9013801437c4eb065fa"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "8861e23ee8821ba75cf4"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "2c05a94db68d7b9d421c"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "437ec7dbb307c6ae9d41"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "37e901e3585bca3767c4"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "ab39586ef9abbf01ae00"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "32b6a2880cb9f969b38b"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "913b4d5126f42388a1f0"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "b4b6e109af60fc628a00"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "d77fc6862a15152ab0ec"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 83,
+      "injection_flags": "",
+      "chunk_id": "d0fa6a54caf498963898"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "b9a1587f67912b55a031"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "e1a43629010ae2b7ca8c"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "c955a97e09c41c1c193a"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "17177259fd91be254a0f"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Waiting Period (page 8)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "916c2ad73ff8ebbd7711"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "6c769e93c1bb7d9a6d89"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "bc817724a174e450ea81"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "085694d116de1825af84"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "89cab7bef37f43088a3b"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 167,
+      "injection_flags": "",
+      "chunk_id": "75ad8865a052d3ca1fad"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "8a531d20e0c8f6f2b753"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "f22f8b47b0f44fc2b4b8"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "50e7cb840a0fcdb9f275"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "bajaj_allianz_hospital_cash_policy_wording",
       "source_file": "health__hospital_cash__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__hospital_cash__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 330,
+      "injection_flags": "",
+      "chunk_id": "c61d31f286d2190f0f23"
     }
   }
 ]

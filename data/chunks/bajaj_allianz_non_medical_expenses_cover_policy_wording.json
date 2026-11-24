@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_non_medical_expenses_cover_policy_wording",
       "source_file": "health__non_medical_expenses_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "b434c5917b48440d836d"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_non_medical_expenses_cover_policy_wording",
       "source_file": "health__non_medical_expenses_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "72c016945430c7274392"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_non_medical_expenses_cover_policy_wording",
       "source_file": "health__non_medical_expenses_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 295,
+      "injection_flags": "",
+      "chunk_id": "213ece6a83f973f58dc7"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_non_medical_expenses_cover_policy_wording",
       "source_file": "health__non_medical_expenses_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "57931f81af858870cd7d"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_non_medical_expenses_cover_policy_wording",
       "source_file": "health__non_medical_expenses_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "e937b8e378810c9408b7"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_non_medical_expenses_cover_policy_wording",
       "source_file": "health__non_medical_expenses_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 165,
+      "injection_flags": "",
+      "chunk_id": "e6585fec35e62f54072d"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_non_medical_expenses_cover_policy_wording",
       "source_file": "health__non_medical_expenses_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 350,
+      "injection_flags": "",
+      "chunk_id": "2b4a67216ffb4fb1be2b"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_non_medical_expenses_cover_policy_wording",
       "source_file": "health__non_medical_expenses_cover__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__non_medical_expenses_cover__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 319,
+      "injection_flags": "",
+      "chunk_id": "f69d4c77befa327031cc"
     }
   }
 ]

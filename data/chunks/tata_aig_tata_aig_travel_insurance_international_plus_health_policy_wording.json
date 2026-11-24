@@ -10,7 +10,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "ffec86c31dacf95676e9"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "758e20ee6925eeedb704"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 330,
+      "injection_flags": "",
+      "chunk_id": "4b6b4b8e1463267d3096"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "124d9fe56d944b1da838"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "853ee74e719b378cdefd"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 222,
+      "injection_flags": "",
+      "chunk_id": "d6a884d1a8cd6514cfd8"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "e7fbd74340514c00b3f5"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "48fe6a9ce1460e6415fa"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 153,
+      "injection_flags": "",
+      "chunk_id": "3d93b5ecc2672c203c51"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "dde03d6980abf2cdae39"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "58d9dbd28ee2543781d6"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 134,
+      "injection_flags": "",
+      "chunk_id": "fc6201b69336fba00280"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "8b088e038bbb25d81592"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "b50dc3bb0b6059e404fc"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 109,
+      "injection_flags": "",
+      "chunk_id": "dab367df586a8882a5e0"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "33882ed6b373916bd6b7"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "c2aa03e47147be77112b"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 269,
+      "injection_flags": "",
+      "chunk_id": "be8bbdef925180d97768"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "be45c22e7509f8ee8840"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "897f9078a3b331873079"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Exclusions (page 7)",
+      "schema_version": 2,
+      "token_estimate": 167,
+      "injection_flags": "",
+      "chunk_id": "5a051c10d3257c811f77"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "116bd4f5357b34300dc1"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "93ec1896ef41352209d4"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "46e702d442c2fc2a29d0"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "097486b5d928c83e6231"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "474a46d81c3afb957793"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "c6d30018fb02f569318d"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 152,
+      "injection_flags": "",
+      "chunk_id": "35fe0537caea4b04a68b"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "c834ec8254ae633d5a25"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 270,
+      "injection_flags": "",
+      "chunk_id": "02f2bee7dd92eeb5d8e8"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "c86544c287d49a6c4a59"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "4ae248ebaab51659b7bc"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 115,
+      "injection_flags": "",
+      "chunk_id": "40c793c817ffcadf2723"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "2bf838a620262327a842"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 276,
+      "injection_flags": "",
+      "chunk_id": "75331e2d72907582a22f"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "a908d6d2b022dcd30ef9"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "815de911043e2a98cc4f"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 116,
+      "injection_flags": "",
+      "chunk_id": "8a4c247cfd65387e8fca"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "02bc5a029d0b5423e15f"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "bd75d77cdc54138d2b9e"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 131,
+      "injection_flags": "",
+      "chunk_id": "df3efa77b23ff91b6fe3"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "f74987c5f0b1df4e6510"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "6bcd3d5b0bbe877f3ddf"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "0bb3867d739899b18a59"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "001e34cb6efe3909c1c1"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 353,
+      "injection_flags": "",
+      "chunk_id": "c186d5a865ba91ecb53b"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "78ede59467a082a19bcc"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "951dd7df2449089258ed"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 119,
+      "injection_flags": "",
+      "chunk_id": "b7cc258d716fc918b5e1"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "c93070e520cec850ccc7"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "1b61dc0e1e0cc5bd5cae"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "bbc50d966cd328e1c39f"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "af87c09be0bab0a62168"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "22cd6b8fbdee84e15a3b"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 75,
+      "injection_flags": "",
+      "chunk_id": "feee4194e88da37ca40b"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "9c4cbc5cfad736c366c0"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 323,
+      "injection_flags": "",
+      "chunk_id": "72c13b52b5788bca298a"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "fc7979a275be3041169a"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "89e0aa3aec96b27b6f79"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 151,
+      "injection_flags": "",
+      "chunk_id": "fe8e80d5922d72289b04"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Exclusions (page 23)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "680fcb20a65746a00380"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Exclusions (page 23)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "057161bef5a4cdbd0530"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Exclusions (page 23)",
+      "schema_version": 2,
+      "token_estimate": 131,
+      "injection_flags": "",
+      "chunk_id": "30394f7797f08b3ecf8b"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "a3738ccc25d917e468fe"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "772584f17200802c2fa0"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Exclusions (page 25)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "ab87b2bd46bf029c5a7d"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Exclusions (page 25)",
+      "schema_version": 2,
+      "token_estimate": 341,
+      "injection_flags": "",
+      "chunk_id": "8254181254ed0cfb43ff"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Exclusions (page 26)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "6d56c90f3ed0b8765deb"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Exclusions (page 26)",
+      "schema_version": 2,
+      "token_estimate": 336,
+      "injection_flags": "",
+      "chunk_id": "62337f90d3523e86ec87"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "320daaaf52376762408a"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "a24771372d9278a85aba"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 129,
+      "injection_flags": "",
+      "chunk_id": "7e5365139cc9ce8488b6"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Exclusions (page 28)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "5e6e283d994febb21fa3"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Exclusions (page 28)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "9245cb33fa0fcd52bd37"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "6f293b2e43d9dd25af02"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "5097724e2868bcfbc104"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "1f899b626a9dd14f7557"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Exclusions (page 30)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "dac0858b3c1eb2423cb2"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Exclusions (page 30)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "3309bc092d2f4ba8505f"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "28d102e5180dc17a08d0"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 365,
+      "injection_flags": "",
+      "chunk_id": "dbc3222f878922787fbf"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 122,
+      "injection_flags": "",
+      "chunk_id": "1e27849ff73631984a30"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Exclusions (page 32)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "6a845a446b14fc62fd70"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Exclusions (page 32)",
+      "schema_version": 2,
+      "token_estimate": 260,
+      "injection_flags": "",
+      "chunk_id": "477273187841692ced72"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "0f1f1e508296176e4f07"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 330,
+      "injection_flags": "",
+      "chunk_id": "fbd0110c8df4d817d518"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "6863a52f60d46a3ea071"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "5832dbabf65986768404"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "aee5b88e4237c7689a43"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Exclusions (page 35)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "4e250a61d979b1a31eb9"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Exclusions (page 35)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "816da440254845bdd46a"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "f03cae4635f6dc2a9c49"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "49c1212a48f589ba56f9"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 117,
+      "injection_flags": "",
+      "chunk_id": "3e3bdbffd16cb17a3159"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "e7c76e1a790b22cf6bdd"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "61421293fce49cd960b9"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 151,
+      "injection_flags": "",
+      "chunk_id": "b9fc0b45b850fa834895"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "bede22b105ee036b8b73"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "6e95471afefe24844f54"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "e7670df9cdd8796e65fc"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "00e9b1e4dc184ef98bd4"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "0dcdff38b05fdb1ed2ca"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "7c4cbdf6d4a935d1cfec"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "d3028de1c27b5a4f9fc2"
     }
   },
   {
@@ -1466,7 +2506,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "448b06589ec8822f359f"
     }
   },
   {
@@ -1480,7 +2530,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "8e716ac4c69b99dadaff"
     }
   },
   {
@@ -1494,7 +2554,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Page 41",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "da57f6d7ee87b98b81ac"
     }
   },
   {
@@ -1508,7 +2578,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Page 41",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "35d9f29696aa116f90e3"
     }
   },
   {
@@ -1522,7 +2602,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "95be4baa1f46232dffbf"
     }
   },
   {
@@ -1536,7 +2626,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "52a2b96851c7af71f771"
     }
   },
   {
@@ -1550,7 +2650,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 358,
+      "injection_flags": "",
+      "chunk_id": "7de13cb0c9364aa67ed5"
     }
   },
   {
@@ -1564,7 +2674,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "76a6a186ea1cdd426167"
     }
   },
   {
@@ -1578,7 +2698,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "1cb98f88dfbbde618c0b"
     }
   },
   {
@@ -1592,7 +2722,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 127,
+      "injection_flags": "",
+      "chunk_id": "13e9dde029ce9590711f"
     }
   },
   {
@@ -1606,7 +2746,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "c5a1f67df3ab3853b9a4"
     }
   },
   {
@@ -1620,7 +2770,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "8331741668370938bf11"
     }
   },
   {
@@ -1634,7 +2794,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "e3ae1c9d13050171228b"
     }
   },
   {
@@ -1648,7 +2818,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "1ad7d68dddfd04cfa71f"
     }
   },
   {
@@ -1662,7 +2842,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "ed6d1321886645a6c8df"
     }
   },
   {
@@ -1676,7 +2866,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "0346e663bf3aa2f49a3f"
     }
   },
   {
@@ -1690,7 +2890,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "14baf30cf4432a29190a"
     }
   },
   {
@@ -1704,7 +2914,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "12ba61c7919a1de14542"
     }
   },
   {
@@ -1718,7 +2938,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "10bccca7f79cc85aaedc"
     }
   },
   {
@@ -1732,7 +2962,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "86a41db9598be308a1bf"
     }
   },
   {
@@ -1746,7 +2986,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 184,
+      "injection_flags": "",
+      "chunk_id": "a89a3567fe5a691fdf23"
     }
   },
   {
@@ -1760,7 +3010,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "2de20d269f1ab82ff113"
     }
   },
   {
@@ -1774,7 +3034,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "4faee29d8167b16fe4cb"
     }
   },
   {
@@ -1788,7 +3058,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "904714a3c0e6501e2a4e"
     }
   },
   {
@@ -1802,7 +3082,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "e3158627a732eb6fd817"
     }
   },
   {
@@ -1816,7 +3106,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "4a55fb664708e62521e6"
     }
   },
   {
@@ -1830,7 +3130,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "9688de92f5aac44be193"
     }
   },
   {
@@ -1844,7 +3154,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 263,
+      "injection_flags": "",
+      "chunk_id": "30c016803eea90d0575b"
     }
   },
   {
@@ -1858,7 +3178,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "63a8404be5264ded86cb"
     }
   },
   {
@@ -1872,7 +3202,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "405300f7157e3e1db5f6"
     }
   },
   {
@@ -1886,7 +3226,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 262,
+      "injection_flags": "",
+      "chunk_id": "4f8e283ee4d9e6f3a453"
     }
   },
   {
@@ -1900,7 +3250,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "edbbc52ca7c4c2e2887f"
     }
   },
   {
@@ -1914,7 +3274,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "fec65b05f5a1acce10ba"
     }
   },
   {
@@ -1928,7 +3298,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 147,
+      "injection_flags": "",
+      "chunk_id": "50f122043560af4ed312"
     }
   },
   {
@@ -1942,7 +3322,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "b2c193b3929b19312878"
     }
   },
   {
@@ -1956,7 +3346,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "c24ad058db51f2dd0520"
     }
   },
   {
@@ -1970,7 +3370,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 115,
+      "injection_flags": "",
+      "chunk_id": "cd685698aa9c3ec96a34"
     }
   },
   {
@@ -1984,7 +3394,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Page 53",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "6ea470f0111afa0b2a12"
     }
   },
   {
@@ -1998,7 +3418,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Page 53",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "d70ff88e1cc72891cb29"
     }
   },
   {
@@ -2012,7 +3442,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Page 53",
+      "schema_version": 2,
+      "token_estimate": 251,
+      "injection_flags": "",
+      "chunk_id": "9e3e1be5cb16e2a90e81"
     }
   },
   {
@@ -2026,7 +3466,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "65771eb38948434db403"
     }
   },
   {
@@ -2040,7 +3490,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "ede4ac6ab90ccefcc5e2"
     }
   },
   {
@@ -2054,7 +3514,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 308,
+      "injection_flags": "",
+      "chunk_id": "462d59ddfc358ac22ab6"
     }
   },
   {
@@ -2068,7 +3538,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Page 55",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "2e1b9142b185c90104d7"
     }
   },
   {
@@ -2082,7 +3562,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Page 55",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "ee9cd295d34053d161bd"
     }
   },
   {
@@ -2096,7 +3586,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Page 55",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "d0f09f4495b85b5a31d6"
     }
   },
   {
@@ -2110,7 +3610,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Page 56",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "4f7f64d6d5cda6214fd0"
     }
   },
   {
@@ -2124,7 +3634,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Page 56",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "90906374c02b65eb97cb"
     }
   },
   {
@@ -2138,7 +3658,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Page 56",
+      "schema_version": 2,
+      "token_estimate": 311,
+      "injection_flags": "",
+      "chunk_id": "ad297416b27071c4148b"
     }
   },
   {
@@ -2152,7 +3682,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "bf0c33f387195a5000f2"
     }
   },
   {
@@ -2166,7 +3706,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "cf095e97ac256319c6fd"
     }
   },
   {
@@ -2180,7 +3730,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 115,
+      "injection_flags": "",
+      "chunk_id": "32f81dbd14df7ccb5dda"
     }
   },
   {
@@ -2194,7 +3754,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 58,
+      "page_end": 58,
+      "section_path": "Page 58",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "2503cd0660b9f745e748"
     }
   },
   {
@@ -2208,7 +3778,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 58,
+      "page_end": 58,
+      "section_path": "Page 58",
+      "schema_version": 2,
+      "token_estimate": 141,
+      "injection_flags": "",
+      "chunk_id": "129af32d4c332e740029"
     }
   },
   {
@@ -2222,7 +3802,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "784a44cbd8d658c3c7a1"
     }
   },
   {
@@ -2236,7 +3826,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "631d1f9fc07f7df42273"
     }
   },
   {
@@ -2250,7 +3850,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "2ba7e988b368bd0f9356"
     }
   },
   {
@@ -2264,7 +3874,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 279,
+      "injection_flags": "",
+      "chunk_id": "492852955247c7518a95"
     }
   },
   {
@@ -2278,7 +3898,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "7b676ac4ade3e187fb69"
     }
   },
   {
@@ -2292,7 +3922,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "82872f3da5e04c8212cd"
     }
   },
   {
@@ -2306,7 +3946,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "a0ba9dc82230921801f1"
     }
   },
   {
@@ -2320,7 +3970,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 260,
+      "injection_flags": "",
+      "chunk_id": "335a4baa17d275e0b284"
     }
   },
   {
@@ -2334,7 +3994,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 61,
+      "page_end": 61,
+      "section_path": "Page 61",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "b76088322d7f50c254d2"
     }
   },
   {
@@ -2348,7 +4018,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 61,
+      "page_end": 61,
+      "section_path": "Page 61",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "d4bb938427cf87a1f590"
     }
   },
   {
@@ -2362,7 +4042,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 61,
+      "page_end": 61,
+      "section_path": "Page 61",
+      "schema_version": 2,
+      "token_estimate": 213,
+      "injection_flags": "",
+      "chunk_id": "b26c1e80f3347b062072"
     }
   },
   {
@@ -2376,7 +4066,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 62,
+      "page_end": 62,
+      "section_path": "Exclusions (page 62)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "d6a0555c5f8d60bee289"
     }
   },
   {
@@ -2390,7 +4090,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 62,
+      "page_end": 62,
+      "section_path": "Exclusions (page 62)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "d8a6114171e4e771f3d8"
     }
   },
   {
@@ -2404,7 +4114,17 @@
       "source": "tata_aig_tata_aig_travel_insurance_international_plus_health_policy_wording",
       "source_file": "health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__tata_aig_travel_insurance_international_plus_health__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 62,
+      "page_end": 62,
+      "section_path": "Exclusions (page 62)",
+      "schema_version": 2,
+      "token_estimate": 194,
+      "injection_flags": "",
+      "chunk_id": "1a3362734565721ff3e4"
     }
   }
 ]

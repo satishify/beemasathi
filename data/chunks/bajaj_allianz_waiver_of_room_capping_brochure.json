@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_waiver_of_room_capping_brochure",
       "source_file": "health__waiver_of_room_capping__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__waiver_of_room_capping__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 323,
+      "injection_flags": "",
+      "chunk_id": "2034a9c6de0c508308d1"
     }
   }
 ]

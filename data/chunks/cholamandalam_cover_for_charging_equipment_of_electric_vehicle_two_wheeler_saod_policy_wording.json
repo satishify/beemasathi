@@ -10,7 +10,17 @@
       "source": "cholamandalam_cover_for_charging_equipment_of_electric_vehicle_two_wheeler_saod_policy_wording",
       "source_file": "motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_saod__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_saod__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "b103913b35b3702f2886"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "cholamandalam_cover_for_charging_equipment_of_electric_vehicle_two_wheeler_saod_policy_wording",
       "source_file": "motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_saod__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_saod__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 338,
+      "injection_flags": "",
+      "chunk_id": "0c91075eb126ffdaf36b"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "cholamandalam_cover_for_charging_equipment_of_electric_vehicle_two_wheeler_saod_policy_wording",
       "source_file": "motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_saod__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_saod__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 228,
+      "injection_flags": "",
+      "chunk_id": "bb68fbef83fca409ae72"
     }
   }
 ]

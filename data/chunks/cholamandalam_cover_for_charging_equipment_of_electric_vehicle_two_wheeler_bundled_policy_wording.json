@@ -10,7 +10,17 @@
       "source": "cholamandalam_cover_for_charging_equipment_of_electric_vehicle_two_wheeler_bundled_policy_wording",
       "source_file": "motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_bundled__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_bundled__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "11cce2400c54965a1abd"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "cholamandalam_cover_for_charging_equipment_of_electric_vehicle_two_wheeler_bundled_policy_wording",
       "source_file": "motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_bundled__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_bundled__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 319,
+      "injection_flags": "",
+      "chunk_id": "b808cdf34722a09413ea"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "cholamandalam_cover_for_charging_equipment_of_electric_vehicle_two_wheeler_bundled_policy_wording",
       "source_file": "motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_bundled__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/motor__cover_for_charging_equipment_of_electric_vehicle_two_wheeler_bundled__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 242,
+      "injection_flags": "",
+      "chunk_id": "6c15ee9b6f22f204bb8c"
     }
   }
 ]

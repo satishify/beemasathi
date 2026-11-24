@@ -10,7 +10,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "0debdb47f4c46516f05f"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "d4a49dbff47b44d7d7c7"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 111,
+      "injection_flags": "",
+      "chunk_id": "8c3f70f1ae222e047a25"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "9af5748df4484107014d"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "534eccb8cbbbd585df99"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "93f34acaf3225cfe9cac"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "0f4302f7e99ce38b9719"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "56d9e9b4d3b328f4be94"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 334,
+      "injection_flags": "",
+      "chunk_id": "e7dd69aeb3cb132b3449"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "333e71e60a79ec3c8a31"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "da754b00c8c9111c49fa"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 277,
+      "injection_flags": "",
+      "chunk_id": "31bed0bdd844cd8d6493"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "8c7cf3af0c1e5d37abdb"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "a564f2db78b884950bff"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 246,
+      "injection_flags": "",
+      "chunk_id": "1d27c4bd97610337e26f"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "7d0c3863ce1c67d18806"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "dd971c04c92e563c7eaa"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 317,
+      "injection_flags": "",
+      "chunk_id": "38e2a6bf57b054c82e95"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "14f261609621af382286"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "0d14a25399664ea0249f"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 226,
+      "injection_flags": "",
+      "chunk_id": "abc57ae65bd95e8c56c6"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "0884d9cf3868b209699d"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "907188f5908888979a53"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 224,
+      "injection_flags": "",
+      "chunk_id": "1508ac60364765f6a471"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "928f8135f9b7b07ca280"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 349,
+      "injection_flags": "",
+      "chunk_id": "ef04399ee39d239b7b6e"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "1b12c69357ffa65b88b5"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "1a6d6ad1cb1014da500b"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "2114e1e68a8f47980217"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "db1cdcfcfbffa2488c71"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "446e9ed2810e9d7018e0"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "b0ca973eedb38aee064c"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 90,
+      "injection_flags": "",
+      "chunk_id": "676b8638285385f0a117"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "26db43bca2ea34af4bc5"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "88ee05bc6913b3969eda"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 85,
+      "injection_flags": "",
+      "chunk_id": "8a437d44973489a11f8e"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "56208b8df78f868d7b73"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "bc2eece250694e16e7e3"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 268,
+      "injection_flags": "",
+      "chunk_id": "a3d110d22273f863dabe"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "b7ff73fd67d08306754f"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "9fe2a40c68f0aa5fd90d"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 142,
+      "injection_flags": "",
+      "chunk_id": "f8d9a74fb382d7c3ed3a"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "268130b2bf842cce991a"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "504adb59c50102db786a"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "955748158dbb2d8a63d8"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 94,
+      "injection_flags": "",
+      "chunk_id": "9805ae901826a146a5ee"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "b4ec984934d4515640a4"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "1f8c7938259cfc8cbc87"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 327,
+      "injection_flags": "",
+      "chunk_id": "cd5ac6c9dc7f2f91b2d2"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "0b83c63f38058b0036d5"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "3744707e54e5c7e5ab91"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "788e48da2bedd7c73ee1"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 342,
+      "injection_flags": "",
+      "chunk_id": "deed9e5daa6c6128ae02"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "3fdabb8d5973a2a5aac5"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "54254530d71f5b2fc91d"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 75,
+      "injection_flags": "",
+      "chunk_id": "620cf7a5936a89df5c9d"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "f3333e540b821b3e10e8"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 291,
+      "injection_flags": "",
+      "chunk_id": "079d3797f081fd6fb7e4"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "1d22b8f23745e6eecbcf"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 265,
+      "injection_flags": "",
+      "chunk_id": "c3c34e171c26eb8ae64d"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "9de08147d84661ff58ec"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 296,
+      "injection_flags": "",
+      "chunk_id": "750be3e380417b97c5c6"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "765d963298a708232219"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "500164279adf68101074"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "5745de51a0a86fa5bd0c"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 344,
+      "injection_flags": "",
+      "chunk_id": "c7c57329bbf8988f10bc"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "a2ef7e2064fd6c4f13ee"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 240,
+      "injection_flags": "",
+      "chunk_id": "8c5032efef52dc62dcfe"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Waiting Period (page 30)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "a2e6be649d08913c4a87"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Waiting Period (page 30)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "2ba7b102075786922202"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Waiting Period (page 31)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "6b29beeab445a18151dd"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Waiting Period (page 31)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "efad74c03a3f8078e7f3"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Waiting Period (page 31)",
+      "schema_version": 2,
+      "token_estimate": 130,
+      "injection_flags": "",
+      "chunk_id": "e6f6ca8da8dec9ad1eec"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Waiting Period (page 32)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "9741b94101480fde7ba4"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Waiting Period (page 32)",
+      "schema_version": 2,
+      "token_estimate": 295,
+      "injection_flags": "",
+      "chunk_id": "0607dba2b8beeb6e083a"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "f6e5418c9a137a409de2"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 328,
+      "injection_flags": "",
+      "chunk_id": "12804c62a582d1a2fe7d"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "73641689fbd967f50dcb"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 325,
+      "injection_flags": "",
+      "chunk_id": "94f502a8463973d05d81"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "e4197fdc6eba109a1dbe"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "1c5d2857bd5e5560456f"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 80,
+      "injection_flags": "",
+      "chunk_id": "6b7823bf4be612a573e6"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "afdcc02a4d37edf4567a"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "be734bf34c71cdbb123e"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 52,
+      "injection_flags": "",
+      "chunk_id": "1ccd09b56676d8eb2666"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "484e51ff6de976652952"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "7838497ffddc6c34a39e"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 137,
+      "injection_flags": "",
+      "chunk_id": "54ad3315e20a3e56b62a"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "4ca0fb930bac611ce177"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "22512b5e06cbf74779bc"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 123,
+      "injection_flags": "",
+      "chunk_id": "7772127299c03f7791e3"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "45b179b9a39af26d7161"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "0be7e15d4f5055078a08"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "50eeae8ec8f910465cfb"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "50ae7395d32ab56d8f5d"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 79,
+      "injection_flags": "",
+      "chunk_id": "c710850d92bcf2963293"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Page 41",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "0f678b5987b083fb7639"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Page 41",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "73ade02abb5192113039"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Waiting Period (page 42)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "b2679b8af4aea1e08e5e"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Waiting Period (page 42)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "cffd489a1dcac75e9d46"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Waiting Period (page 42)",
+      "schema_version": 2,
+      "token_estimate": 110,
+      "injection_flags": "",
+      "chunk_id": "350c413ce27bd2342342"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Waiting Period (page 43)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "f58a3bc01daa9ee40fc3"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Waiting Period (page 43)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "68c89249571113909299"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Waiting Period (page 44)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "4d5aa92ec3f96103b9bf"
     }
   },
   {
@@ -1466,7 +2506,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Waiting Period (page 44)",
+      "schema_version": 2,
+      "token_estimate": 358,
+      "injection_flags": "",
+      "chunk_id": "fb3cdd90bc56adeee582"
     }
   },
   {
@@ -1480,7 +2530,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "7ba5cf01d1e0f4f75bcf"
     }
   },
   {
@@ -1494,7 +2554,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 368,
+      "injection_flags": "",
+      "chunk_id": "7b1d60f0249cd6bb2700"
     }
   },
   {
@@ -1508,7 +2578,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "9bf6a871817c2b41ff59"
     }
   },
   {
@@ -1522,7 +2602,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 299,
+      "injection_flags": "",
+      "chunk_id": "035ac7e6ea2409d78850"
     }
   },
   {
@@ -1536,7 +2626,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "4ce24e77c41bcfbb1ce2"
     }
   },
   {
@@ -1550,7 +2650,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "32b1c362bed69838e1b8"
     }
   },
   {
@@ -1564,7 +2674,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 156,
+      "injection_flags": "",
+      "chunk_id": "91a1c8d7c9ecfffae29c"
     }
   },
   {
@@ -1578,7 +2698,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "f03cf3608ed0f3e46629"
     }
   },
   {
@@ -1592,7 +2722,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "ee881693fe76af47b742"
     }
   },
   {
@@ -1606,7 +2746,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 167,
+      "injection_flags": "",
+      "chunk_id": "073a29e3db0cef0532b5"
     }
   },
   {
@@ -1620,7 +2770,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "6824b8d7464cd37fb434"
     }
   },
   {
@@ -1634,7 +2794,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "4b0132fdb8abebc9e4e1"
     }
   },
   {
@@ -1648,7 +2818,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 107,
+      "injection_flags": "",
+      "chunk_id": "e20879716a09c52245af"
     }
   },
   {
@@ -1662,7 +2842,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "ac8638604689dd4c3a98"
     }
   },
   {
@@ -1676,7 +2866,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "57a7ed1cfdbb1eaf9a81"
     }
   },
   {
@@ -1690,7 +2890,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "a668b080233a64560504"
     }
   },
   {
@@ -1704,7 +2914,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "a12a5b2cf57db822f99a"
     }
   },
   {
@@ -1718,7 +2938,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 180,
+      "injection_flags": "",
+      "chunk_id": "ed8dad2caa6d4deb7bd4"
     }
   },
   {
@@ -1732,7 +2962,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "ff26b221b631611bf27c"
     }
   },
   {
@@ -1746,7 +2986,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 273,
+      "injection_flags": "",
+      "chunk_id": "21d8ecc14a2b70427a62"
     }
   },
   {
@@ -1760,7 +3010,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Page 53",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "bea0f98f771a50942d63"
     }
   },
   {
@@ -1774,7 +3034,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Page 53",
+      "schema_version": 2,
+      "token_estimate": 189,
+      "injection_flags": "",
+      "chunk_id": "5ff96d91271b8bb27ed8"
     }
   },
   {
@@ -1788,7 +3058,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "e09a1b6896b1601b1cee"
     }
   },
   {
@@ -1802,7 +3082,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "e5b965a1ded4a21de7d0"
     }
   },
   {
@@ -1816,7 +3106,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 95,
+      "injection_flags": "",
+      "chunk_id": "90d003ba8e2999662f80"
     }
   },
   {
@@ -1830,7 +3130,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Page 55",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "50ec5f9dfb8d29689b07"
     }
   },
   {
@@ -1844,7 +3154,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 55,
+      "page_end": 55,
+      "section_path": "Page 55",
+      "schema_version": 2,
+      "token_estimate": 250,
+      "injection_flags": "",
+      "chunk_id": "6c9ea3e9a78378cb42c3"
     }
   },
   {
@@ -1858,7 +3178,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Table Of Benefits (page 56)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "9de4bfe3ed4b57ec6e4e"
     }
   },
   {
@@ -1872,7 +3202,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 56,
+      "page_end": 56,
+      "section_path": "Table Of Benefits (page 56)",
+      "schema_version": 2,
+      "token_estimate": 82,
+      "injection_flags": "",
+      "chunk_id": "12febe86b05598c66fab"
     }
   },
   {
@@ -1886,7 +3226,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "d5f723175c775a16463f"
     }
   },
   {
@@ -1900,7 +3250,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 57,
+      "page_end": 57,
+      "section_path": "Page 57",
+      "schema_version": 2,
+      "token_estimate": 345,
+      "injection_flags": "",
+      "chunk_id": "7979e9fb6b2cecafa1c2"
     }
   },
   {
@@ -1914,7 +3274,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 58,
+      "page_end": 58,
+      "section_path": "Page 58",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "e67010bb4686cdfde8f9"
     }
   },
   {
@@ -1928,7 +3298,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 58,
+      "page_end": 58,
+      "section_path": "Page 58",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "d8b84b134758f822fd56"
     }
   },
   {
@@ -1942,7 +3322,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "57f281d0cba47838488c"
     }
   },
   {
@@ -1956,7 +3346,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 59,
+      "page_end": 59,
+      "section_path": "Page 59",
+      "schema_version": 2,
+      "token_estimate": 331,
+      "injection_flags": "",
+      "chunk_id": "07d1a338ec78ae9a78f7"
     }
   },
   {
@@ -1970,7 +3370,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "744ef49efe9841f599fa"
     }
   },
   {
@@ -1984,7 +3394,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "2b1efea89dcb9170eda4"
     }
   },
   {
@@ -1998,7 +3418,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 60,
+      "page_end": 60,
+      "section_path": "Page 60",
+      "schema_version": 2,
+      "token_estimate": 169,
+      "injection_flags": "",
+      "chunk_id": "86b98b667d4c9a765488"
     }
   },
   {
@@ -2012,7 +3442,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 61,
+      "page_end": 61,
+      "section_path": "Page 61",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "96805e133b09fd8d3bd4"
     }
   },
   {
@@ -2026,7 +3466,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 61,
+      "page_end": 61,
+      "section_path": "Page 61",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "020c3e735eaaddef6acb"
     }
   },
   {
@@ -2040,7 +3490,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 62,
+      "page_end": 62,
+      "section_path": "Page 62",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "7cf78610eec2feeb2574"
     }
   },
   {
@@ -2054,7 +3514,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 62,
+      "page_end": 62,
+      "section_path": "Page 62",
+      "schema_version": 2,
+      "token_estimate": 294,
+      "injection_flags": "",
+      "chunk_id": "31b7c0856cd91d42d901"
     }
   },
   {
@@ -2068,7 +3538,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 63,
+      "page_end": 63,
+      "section_path": "Page 63",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "047e535ec5dc98180e0b"
     }
   },
   {
@@ -2082,7 +3562,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 63,
+      "page_end": 63,
+      "section_path": "Page 63",
+      "schema_version": 2,
+      "token_estimate": 275,
+      "injection_flags": "",
+      "chunk_id": "b14c326d5fa1c063c2e8"
     }
   },
   {
@@ -2096,7 +3586,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 64,
+      "page_end": 64,
+      "section_path": "Page 64",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "12da28f233c97c1c8809"
     }
   },
   {
@@ -2110,7 +3610,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 64,
+      "page_end": 64,
+      "section_path": "Page 64",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "3ed9d166ca358a34421d"
     }
   },
   {
@@ -2124,7 +3634,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 65,
+      "page_end": 65,
+      "section_path": "Page 65",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "fed92da562146a7e2aa3"
     }
   },
   {
@@ -2138,7 +3658,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 65,
+      "page_end": 65,
+      "section_path": "Page 65",
+      "schema_version": 2,
+      "token_estimate": 354,
+      "injection_flags": "",
+      "chunk_id": "d972e6a60e437c5a3328"
     }
   },
   {
@@ -2152,7 +3682,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 66,
+      "page_end": 66,
+      "section_path": "Page 66",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "42527b6bd5bef0e86f45"
     }
   },
   {
@@ -2166,7 +3706,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 66,
+      "page_end": 66,
+      "section_path": "Page 66",
+      "schema_version": 2,
+      "token_estimate": 253,
+      "injection_flags": "",
+      "chunk_id": "681c7bb17c540f211b71"
     }
   },
   {
@@ -2180,7 +3730,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 67,
+      "page_end": 67,
+      "section_path": "Page 67",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "67ed82b7736eec8b9434"
     }
   },
   {
@@ -2194,7 +3754,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 67,
+      "page_end": 67,
+      "section_path": "Page 67",
+      "schema_version": 2,
+      "token_estimate": 355,
+      "injection_flags": "",
+      "chunk_id": "e510721a9aa0d9511cb3"
     }
   },
   {
@@ -2208,7 +3778,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 68,
+      "page_end": 68,
+      "section_path": "Page 68",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "d1af4d2535e81b865474"
     }
   },
   {
@@ -2222,7 +3802,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 68,
+      "page_end": 68,
+      "section_path": "Page 68",
+      "schema_version": 2,
+      "token_estimate": 356,
+      "injection_flags": "",
+      "chunk_id": "e84238d2607dac14707b"
     }
   },
   {
@@ -2236,7 +3826,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 69,
+      "page_end": 69,
+      "section_path": "Waiting Period (page 69)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "ccccd28e6054a29ed880"
     }
   },
   {
@@ -2250,7 +3850,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 69,
+      "page_end": 69,
+      "section_path": "Waiting Period (page 69)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "f9f76539b82118d41b43"
     }
   },
   {
@@ -2264,7 +3874,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 69,
+      "page_end": 69,
+      "section_path": "Waiting Period (page 69)",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "0c9c80d9d93728dac21a"
     }
   },
   {
@@ -2278,7 +3898,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 70,
+      "page_end": 70,
+      "section_path": "Waiting Period (page 70)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "20b8613e235bed5be959"
     }
   },
   {
@@ -2292,7 +3922,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 70,
+      "page_end": 70,
+      "section_path": "Waiting Period (page 70)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "7339bff501249543908b"
     }
   },
   {
@@ -2306,7 +3946,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 70,
+      "page_end": 70,
+      "section_path": "Waiting Period (page 70)",
+      "schema_version": 2,
+      "token_estimate": 93,
+      "injection_flags": "",
+      "chunk_id": "37c0e6ef4451dfd59aef"
     }
   },
   {
@@ -2320,7 +3970,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 71,
+      "page_end": 71,
+      "section_path": "Page 71",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "ce971faa9c7a0c173552"
     }
   },
   {
@@ -2334,7 +3994,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 71,
+      "page_end": 71,
+      "section_path": "Page 71",
+      "schema_version": 2,
+      "token_estimate": 325,
+      "injection_flags": "",
+      "chunk_id": "1c881aba35e8c60b129e"
     }
   },
   {
@@ -2348,7 +4018,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 72,
+      "page_end": 72,
+      "section_path": "Page 72",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "b38f580e489da152bb11"
     }
   },
   {
@@ -2362,7 +4042,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 72,
+      "page_end": 72,
+      "section_path": "Page 72",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "41077fd3c2f5ceb196fa"
     }
   },
   {
@@ -2376,7 +4066,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 72,
+      "page_end": 72,
+      "section_path": "Page 72",
+      "schema_version": 2,
+      "token_estimate": 58,
+      "injection_flags": "",
+      "chunk_id": "91418967fd91e45f98c8"
     }
   },
   {
@@ -2390,7 +4090,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 73,
+      "page_end": 73,
+      "section_path": "Page 73",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "fad7dc75afa82aed4ab8"
     }
   },
   {
@@ -2404,7 +4114,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 73,
+      "page_end": 73,
+      "section_path": "Page 73",
+      "schema_version": 2,
+      "token_estimate": 279,
+      "injection_flags": "",
+      "chunk_id": "a2f1e4ef2fe04bc1a976"
     }
   },
   {
@@ -2418,7 +4138,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 74,
+      "page_end": 74,
+      "section_path": "Page 74",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "e6e76b11c5fa8c36b341"
     }
   },
   {
@@ -2432,7 +4162,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 74,
+      "page_end": 74,
+      "section_path": "Page 74",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "c8945fe262a1f296ac80"
     }
   },
   {
@@ -2446,7 +4186,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 74,
+      "page_end": 74,
+      "section_path": "Page 74",
+      "schema_version": 2,
+      "token_estimate": 95,
+      "injection_flags": "",
+      "chunk_id": "32c3ed502819b15ea057"
     }
   },
   {
@@ -2460,7 +4210,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 75,
+      "page_end": 75,
+      "section_path": "Waiting Period (page 75)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "e92dbbbaa1edfb24460d"
     }
   },
   {
@@ -2474,7 +4234,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 75,
+      "page_end": 75,
+      "section_path": "Waiting Period (page 75)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "b2adfd9d74d921cf1655"
     }
   },
   {
@@ -2488,7 +4258,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 75,
+      "page_end": 75,
+      "section_path": "Waiting Period (page 75)",
+      "schema_version": 2,
+      "token_estimate": 192,
+      "injection_flags": "",
+      "chunk_id": "1d1b173e96befe97b169"
     }
   },
   {
@@ -2502,7 +4282,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 76,
+      "page_end": 76,
+      "section_path": "Waiting Period (page 76)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "5aca14f2ba635523ddaa"
     }
   },
   {
@@ -2516,7 +4306,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 76,
+      "page_end": 76,
+      "section_path": "Waiting Period (page 76)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "b0e95ca11a06a1679a22"
     }
   },
   {
@@ -2530,7 +4330,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 77,
+      "page_end": 77,
+      "section_path": "Waiting Period (page 77)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "4d702e6b541589a7e980"
     }
   },
   {
@@ -2544,7 +4354,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 77,
+      "page_end": 77,
+      "section_path": "Waiting Period (page 77)",
+      "schema_version": 2,
+      "token_estimate": 346,
+      "injection_flags": "",
+      "chunk_id": "90bb833f1f4cde92582a"
     }
   },
   {
@@ -2558,7 +4378,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 78,
+      "page_end": 78,
+      "section_path": "Page 78",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "c5836abb0e903efa489b"
     }
   },
   {
@@ -2572,7 +4402,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 78,
+      "page_end": 78,
+      "section_path": "Page 78",
+      "schema_version": 2,
+      "token_estimate": 298,
+      "injection_flags": "",
+      "chunk_id": "feb5251f92bb27475ed2"
     }
   },
   {
@@ -2586,7 +4426,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 79,
+      "page_end": 79,
+      "section_path": "Page 79",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "06c687b8f00a2db2e2fc"
     }
   },
   {
@@ -2600,7 +4450,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 79,
+      "page_end": 79,
+      "section_path": "Page 79",
+      "schema_version": 2,
+      "token_estimate": 304,
+      "injection_flags": "",
+      "chunk_id": "568ddba7e815fdd3c249"
     }
   },
   {
@@ -2614,7 +4474,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 80,
+      "page_end": 80,
+      "section_path": "Page 80",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "0ecde720cb676afac9e8"
     }
   },
   {
@@ -2628,7 +4498,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 80,
+      "page_end": 80,
+      "section_path": "Page 80",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "b4b3cb6d8984a4f43242"
     }
   },
   {
@@ -2642,7 +4522,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 80,
+      "page_end": 80,
+      "section_path": "Page 80",
+      "schema_version": 2,
+      "token_estimate": 179,
+      "injection_flags": "",
+      "chunk_id": "b7a52b3b9b27c6fadc85"
     }
   },
   {
@@ -2656,7 +4546,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 81,
+      "page_end": 81,
+      "section_path": "Page 81",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "310ec462f0a9fda78e4a"
     }
   },
   {
@@ -2670,7 +4570,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 81,
+      "page_end": 81,
+      "section_path": "Page 81",
+      "schema_version": 2,
+      "token_estimate": 305,
+      "injection_flags": "",
+      "chunk_id": "faa6569649643929122e"
     }
   },
   {
@@ -2684,7 +4594,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 82,
+      "page_end": 82,
+      "section_path": "Page 82",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "425ad60e8e8938bb230b"
     }
   },
   {
@@ -2698,7 +4618,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 82,
+      "page_end": 82,
+      "section_path": "Page 82",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "10fa0de4f312513371a5"
     }
   },
   {
@@ -2712,7 +4642,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 82,
+      "page_end": 82,
+      "section_path": "Page 82",
+      "schema_version": 2,
+      "token_estimate": 251,
+      "injection_flags": "",
+      "chunk_id": "cf13932997c978d477ae"
     }
   },
   {
@@ -2726,7 +4666,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 83,
+      "page_end": 83,
+      "section_path": "Exclusions (page 83)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "89ad4b234b8c203a3689"
     }
   },
   {
@@ -2740,7 +4690,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 83,
+      "page_end": 83,
+      "section_path": "Exclusions (page 83)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "9d28b6fb426497219aa7"
     }
   },
   {
@@ -2754,7 +4714,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 83,
+      "page_end": 83,
+      "section_path": "Exclusions (page 83)",
+      "schema_version": 2,
+      "token_estimate": 215,
+      "injection_flags": "",
+      "chunk_id": "6f54b3a115604c7c46fa"
     }
   },
   {
@@ -2768,7 +4738,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 84,
+      "page_end": 84,
+      "section_path": "Waiting Period (page 84)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "385b4781ca90616b4161"
     }
   },
   {
@@ -2782,7 +4762,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 84,
+      "page_end": 84,
+      "section_path": "Waiting Period (page 84)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "194c868e2a8dc2d4dd36"
     }
   },
   {
@@ -2796,7 +4786,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 84,
+      "page_end": 84,
+      "section_path": "Waiting Period (page 84)",
+      "schema_version": 2,
+      "token_estimate": 169,
+      "injection_flags": "",
+      "chunk_id": "e8d6cf85f9ff6908d438"
     }
   },
   {
@@ -2810,7 +4810,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 85,
+      "page_end": 85,
+      "section_path": "Page 85",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "967767416126cd05ac88"
     }
   },
   {
@@ -2824,7 +4834,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 85,
+      "page_end": 85,
+      "section_path": "Page 85",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "0f5796b716d89f255335"
     }
   },
   {
@@ -2838,7 +4858,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 85,
+      "page_end": 85,
+      "section_path": "Page 85",
+      "schema_version": 2,
+      "token_estimate": 297,
+      "injection_flags": "",
+      "chunk_id": "fd3cd3235739743b406c"
     }
   },
   {
@@ -2852,7 +4882,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 86,
+      "page_end": 86,
+      "section_path": "Waiting Period (page 86)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "743729e07357b55ac9f7"
     }
   },
   {
@@ -2866,7 +4906,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 86,
+      "page_end": 86,
+      "section_path": "Waiting Period (page 86)",
+      "schema_version": 2,
+      "token_estimate": 280,
+      "injection_flags": "",
+      "chunk_id": "7c46f605f58bf6df38cd"
     }
   },
   {
@@ -2880,7 +4930,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 87,
+      "page_end": 87,
+      "section_path": "Page 87",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "bcc682255c73bf22ded4"
     }
   },
   {
@@ -2894,7 +4954,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 87,
+      "page_end": 87,
+      "section_path": "Page 87",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "cf85c530c9ac0f8652b5"
     }
   },
   {
@@ -2908,7 +4978,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 87,
+      "page_end": 87,
+      "section_path": "Page 87",
+      "schema_version": 2,
+      "token_estimate": 178,
+      "injection_flags": "",
+      "chunk_id": "a996b22bb35825d062db"
     }
   },
   {
@@ -2922,7 +5002,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 88,
+      "page_end": 88,
+      "section_path": "Waiting Period (page 88)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "da4d3aefe212f122afa7"
     }
   },
   {
@@ -2936,7 +5026,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 88,
+      "page_end": 88,
+      "section_path": "Waiting Period (page 88)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "646b8d634c7b5e85a36e"
     }
   },
   {
@@ -2950,7 +5050,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 88,
+      "page_end": 88,
+      "section_path": "Waiting Period (page 88)",
+      "schema_version": 2,
+      "token_estimate": 60,
+      "injection_flags": "",
+      "chunk_id": "91f69d4a7517f37aad2e"
     }
   },
   {
@@ -2964,7 +5074,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 89,
+      "page_end": 89,
+      "section_path": "Waiting Period (page 89)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "75c106c48c2a7cf645c6"
     }
   },
   {
@@ -2978,7 +5098,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 89,
+      "page_end": 89,
+      "section_path": "Waiting Period (page 89)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "4982f1406a3e0c832347"
     }
   },
   {
@@ -2992,7 +5122,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 89,
+      "page_end": 89,
+      "section_path": "Waiting Period (page 89)",
+      "schema_version": 2,
+      "token_estimate": 95,
+      "injection_flags": "",
+      "chunk_id": "be63587c3bc3d920ce30"
     }
   },
   {
@@ -3006,7 +5146,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 90,
+      "page_end": 90,
+      "section_path": "Exclusions (page 90)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "da5246aa9a67ff3b37f0"
     }
   },
   {
@@ -3020,7 +5170,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 90,
+      "page_end": 90,
+      "section_path": "Exclusions (page 90)",
+      "schema_version": 2,
+      "token_estimate": 257,
+      "injection_flags": "",
+      "chunk_id": "77ef62151db8a403eaab"
     }
   },
   {
@@ -3034,7 +5194,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 91,
+      "page_end": 91,
+      "section_path": "Page 91",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "c172294861cb8c2de184"
     }
   },
   {
@@ -3048,7 +5218,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 91,
+      "page_end": 91,
+      "section_path": "Page 91",
+      "schema_version": 2,
+      "token_estimate": 64,
+      "injection_flags": "",
+      "chunk_id": "ae48b0ef66ef506a2d81"
     }
   },
   {
@@ -3062,7 +5242,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 92,
+      "page_end": 92,
+      "section_path": "Page 92",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "f9f8eb4bc57fb9901d48"
     }
   },
   {
@@ -3076,7 +5266,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 93,
+      "page_end": 93,
+      "section_path": "Page 93",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "af6c3220aa8493e5f9d4"
     }
   },
   {
@@ -3090,7 +5290,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 93,
+      "page_end": 93,
+      "section_path": "Page 93",
+      "schema_version": 2,
+      "token_estimate": 203,
+      "injection_flags": "",
+      "chunk_id": "89d29879f889e8ebde5d"
     }
   },
   {
@@ -3104,7 +5314,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 94,
+      "page_end": 94,
+      "section_path": "Page 94",
+      "schema_version": 2,
+      "token_estimate": 250,
+      "injection_flags": "",
+      "chunk_id": "9b13251096d37d1d7a67"
     }
   },
   {
@@ -3118,7 +5338,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 95,
+      "page_end": 95,
+      "section_path": "Page 95",
+      "schema_version": 2,
+      "token_estimate": 266,
+      "injection_flags": "",
+      "chunk_id": "2264e2ad5b0e1bbf3664"
     }
   },
   {
@@ -3132,7 +5362,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 96,
+      "page_end": 96,
+      "section_path": "Page 96",
+      "schema_version": 2,
+      "token_estimate": 216,
+      "injection_flags": "",
+      "chunk_id": "f76f81bacf6c944ea2bd"
     }
   },
   {
@@ -3146,7 +5386,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 97,
+      "page_end": 97,
+      "section_path": "Page 97",
+      "schema_version": 2,
+      "token_estimate": 248,
+      "injection_flags": "",
+      "chunk_id": "7d2bb6fd540bac735187"
     }
   },
   {
@@ -3160,7 +5410,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 98,
+      "page_end": 98,
+      "section_path": "Page 98",
+      "schema_version": 2,
+      "token_estimate": 296,
+      "injection_flags": "",
+      "chunk_id": "c949bcb86a8be749de4a"
     }
   },
   {
@@ -3174,7 +5434,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 99,
+      "page_end": 99,
+      "section_path": "Page 99",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "7b492f6601c2a575cf3b"
     }
   },
   {
@@ -3188,7 +5458,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 99,
+      "page_end": 99,
+      "section_path": "Page 99",
+      "schema_version": 2,
+      "token_estimate": 33,
+      "injection_flags": "",
+      "chunk_id": "5ae9d6c073a43805d5cf"
     }
   },
   {
@@ -3202,7 +5482,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 100,
+      "page_end": 100,
+      "section_path": "Page 100",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "3d2665cdf7156ca57740"
     }
   },
   {
@@ -3216,7 +5506,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 101,
+      "page_end": 101,
+      "section_path": "Page 101",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "6a3fa7c644b752585791"
     }
   },
   {
@@ -3230,7 +5530,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 101,
+      "page_end": 101,
+      "section_path": "Page 101",
+      "schema_version": 2,
+      "token_estimate": 32,
+      "injection_flags": "",
+      "chunk_id": "82e667eac036528909dd"
     }
   },
   {
@@ -3244,7 +5554,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 102,
+      "page_end": 102,
+      "section_path": "Page 102",
+      "schema_version": 2,
+      "token_estimate": 318,
+      "injection_flags": "",
+      "chunk_id": "6bc55063fb8b8f937f81"
     }
   },
   {
@@ -3258,7 +5578,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 103,
+      "page_end": 103,
+      "section_path": "Page 103",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "0b4d1f913503690aa1bf"
     }
   },
   {
@@ -3272,7 +5602,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 104,
+      "page_end": 104,
+      "section_path": "Page 104",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "9d568a872d9277caa602"
     }
   },
   {
@@ -3286,7 +5626,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 105,
+      "page_end": 105,
+      "section_path": "Page 105",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "1ba5a96b21ecd3918b95"
     }
   },
   {
@@ -3300,7 +5650,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 106,
+      "page_end": 106,
+      "section_path": "Page 106",
+      "schema_version": 2,
+      "token_estimate": 326,
+      "injection_flags": "",
+      "chunk_id": "75de241cc5d70775435d"
     }
   },
   {
@@ -3314,7 +5674,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 107,
+      "page_end": 107,
+      "section_path": "Page 107",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "0886935513fe95e49265"
     }
   },
   {
@@ -3328,7 +5698,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 107,
+      "page_end": 107,
+      "section_path": "Page 107",
+      "schema_version": 2,
+      "token_estimate": 61,
+      "injection_flags": "",
+      "chunk_id": "0e61565538a7953db5af"
     }
   },
   {
@@ -3342,7 +5722,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 108,
+      "page_end": 108,
+      "section_path": "Page 108",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "71b911b720b387213038"
     }
   },
   {
@@ -3356,7 +5746,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 108,
+      "page_end": 108,
+      "section_path": "Page 108",
+      "schema_version": 2,
+      "token_estimate": 86,
+      "injection_flags": "",
+      "chunk_id": "58254a43e7ca2cc8a28e"
     }
   },
   {
@@ -3370,7 +5770,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 109,
+      "page_end": 109,
+      "section_path": "Page 109",
+      "schema_version": 2,
+      "token_estimate": 347,
+      "injection_flags": "",
+      "chunk_id": "c812e3f7b3c82797d1bb"
     }
   },
   {
@@ -3384,7 +5794,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 110,
+      "page_end": 110,
+      "section_path": "Page 110",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "dd2ee6fced4cfbbdb6d4"
     }
   },
   {
@@ -3398,7 +5818,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 111,
+      "page_end": 111,
+      "section_path": "Page 111",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "ab7ba6433c91602e5c1e"
     }
   },
   {
@@ -3412,7 +5842,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 111,
+      "page_end": 111,
+      "section_path": "Page 111",
+      "schema_version": 2,
+      "token_estimate": 74,
+      "injection_flags": "",
+      "chunk_id": "0dacc1916d6bbe99ea23"
     }
   },
   {
@@ -3426,7 +5866,17 @@
       "source": "max_bupa_smart_health_finalpolicy_policy_wording",
       "source_file": "health__smart_health_finalpolicy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__smart_health_finalpolicy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 112,
+      "page_end": 112,
+      "section_path": "Page 112",
+      "schema_version": 2,
+      "token_estimate": 300,
+      "injection_flags": "",
+      "chunk_id": "f0225d42378406446b3e"
     }
   }
 ]

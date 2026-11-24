@@ -10,7 +10,17 @@
       "source": "max_bupa_health_assurance_pa_single_sheeter_ss_brochure",
       "source_file": "health__health_assurance_pa_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_assurance_pa_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 84,
+      "injection_flags": "",
+      "chunk_id": "5276b761bce54e71b034"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_health_assurance_pa_single_sheeter_ss_brochure",
       "source_file": "health__health_assurance_pa_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_assurance_pa_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "9a41073221b112686ac6"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_health_assurance_pa_single_sheeter_ss_brochure",
       "source_file": "health__health_assurance_pa_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_assurance_pa_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 317,
+      "injection_flags": "",
+      "chunk_id": "846c4db9d120d41bc93b"
     }
   }
 ]

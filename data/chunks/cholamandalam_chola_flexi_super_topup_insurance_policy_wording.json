@@ -10,7 +10,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 31,
+      "injection_flags": "",
+      "chunk_id": "ee8eaf5fedca810766c9"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "f2dd562dffcbef46c1cc"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 315,
+      "injection_flags": "",
+      "chunk_id": "16a1f9fdbc875bc72fec"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 351,
+      "injection_flags": "",
+      "chunk_id": "98c44820982a2ee086a9"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 20,
+      "injection_flags": "",
+      "chunk_id": "99cae1ffb1f9cb9b802d"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "d5f86b92f9283dc4e7d6"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 275,
+      "injection_flags": "",
+      "chunk_id": "c5d817fb0651985c9ef5"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "5c563dee97e74cbe91c2"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 312,
+      "injection_flags": "",
+      "chunk_id": "c46e4ab5b479b4c2a8d7"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "1412992a005e31db5e05"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 288,
+      "injection_flags": "",
+      "chunk_id": "0d93492765e4c81001eb"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "ca404bbc7cfe90035a4d"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 290,
+      "injection_flags": "",
+      "chunk_id": "9422e137fb74cdcb215c"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "6a1f0432be28953d7b8d"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 320,
+      "injection_flags": "",
+      "chunk_id": "66b38c24bbafbd98e862"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "bf745165d80adcf6f40b"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "ca9d448ea3e9500719c6"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "ff6118ae4540204e3366"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 323,
+      "injection_flags": "",
+      "chunk_id": "009ffc77251b32e0037a"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "af69cd03ad8c0813a467"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 322,
+      "injection_flags": "",
+      "chunk_id": "1130a884859cb99e6d88"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "c1c6cc0b188889a3b721"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 217,
+      "injection_flags": "",
+      "chunk_id": "affd8dccf90fec51a912"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 254,
+      "injection_flags": "",
+      "chunk_id": "be24a7992a7610b9af90"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 348,
+      "injection_flags": "",
+      "chunk_id": "6b3dafff092ee295fff3"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "39cf81a5ebe9b5ada375"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 166,
+      "injection_flags": "",
+      "chunk_id": "cf3cfdd44e7f82963fbd"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "a055867c2b7741407f67"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 291,
+      "injection_flags": "",
+      "chunk_id": "1fbfefe45093e1a88087"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "a30def09a53aaf7f2d2c"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 183,
+      "injection_flags": "",
+      "chunk_id": "1dd8053ddf714f806d9e"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "ff0bad8501b83b1b0739"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 161,
+      "injection_flags": "",
+      "chunk_id": "8dc2d3954495d4842160"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "25d3ee6fecf339892304"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 145,
+      "injection_flags": "",
+      "chunk_id": "1d17515bdba56ea1a9db"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "3d3fd1cc91427f0a4885"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 327,
+      "injection_flags": "",
+      "chunk_id": "993b820e4ab7fc6992cf"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "4fb06b986b9a0241b530"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 225,
+      "injection_flags": "",
+      "chunk_id": "4c4733c05652169c5dd1"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "3c88bbf80da918de11a5"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 310,
+      "injection_flags": "",
+      "chunk_id": "7a11e361917a4a34ece1"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "09652facbdff795c8ff6"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "636d3d6ab46dbc8d1911"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "3f093a2881b69b9e2eeb"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 333,
+      "injection_flags": "",
+      "chunk_id": "c1517ff44809d5ad5fef"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "585700ccb88488ad61f7"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "95cd107cd6c89f174ccb"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "9931f878e897d3dbfe5d"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "81fabfdef12ba28870bc"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Waiting Period (page 27)",
+      "schema_version": 2,
+      "token_estimate": 368,
+      "injection_flags": "",
+      "chunk_id": "9f8de8c1637de6b25eb9"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "376d98c7ac75dc08ab7d"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 258,
+      "injection_flags": "",
+      "chunk_id": "c22cd69bb9421cd66c38"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "1b60a0103b40dad0b925"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 120,
+      "injection_flags": "",
+      "chunk_id": "0e507d52cdfa58e45925"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "951b76e8b79eda019a5e"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "b2601950aae3fd635f86"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "f274d2b306aed74cbb20"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 269,
+      "injection_flags": "",
+      "chunk_id": "88728b671ae44985f568"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Waiting Period (page 32)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "258caee441813a336010"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Waiting Period (page 32)",
+      "schema_version": 2,
+      "token_estimate": 179,
+      "injection_flags": "",
+      "chunk_id": "90dbef1015b5253f5d34"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "8b359fb891dd25fd09a7"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 105,
+      "injection_flags": "",
+      "chunk_id": "5cc8457b87592ba84642"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "8c64b2e032ca0be02ec2"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 358,
+      "injection_flags": "",
+      "chunk_id": "9dc65e7e533e8d9c0d0e"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "4d32a584ff9d10865c1f"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 60,
+      "injection_flags": "",
+      "chunk_id": "407e5c1560ddce60c035"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 153,
+      "injection_flags": "",
+      "chunk_id": "bfe1a3b04848dc3a4f61"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 355,
+      "injection_flags": "",
+      "chunk_id": "a5c9399348c7ba4f9bd3"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "e4d400ea8311a5b79782"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Page 39",
+      "schema_version": 2,
+      "token_estimate": 103,
+      "injection_flags": "",
+      "chunk_id": "9fc287a402243033d2d4"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Page 40",
+      "schema_version": 2,
+      "token_estimate": 196,
+      "injection_flags": "",
+      "chunk_id": "f63f1fb9358fb3150833"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Page 41",
+      "schema_version": 2,
+      "token_estimate": 230,
+      "injection_flags": "",
+      "chunk_id": "35855829c41d7861de8d"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 202,
+      "injection_flags": "",
+      "chunk_id": "a2be949537deb87acd0a"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 200,
+      "injection_flags": "",
+      "chunk_id": "6f3d5e1ce559f730068b"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "cdbe658f2ddd25dcb43b"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 274,
+      "injection_flags": "",
+      "chunk_id": "200e4123f013ed8daac9"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "83063e3d7d1aed1fca64"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "f538d26a705abeb09901"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 40,
+      "injection_flags": "",
+      "chunk_id": "ca03a2224e9743534d94"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 338,
+      "injection_flags": "",
+      "chunk_id": "18f46a7dc6cdf71a69c7"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "6f8dbd5f535dbc593149"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 41,
+      "injection_flags": "",
+      "chunk_id": "83d90af3e7de7855707c"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 162,
+      "injection_flags": "",
+      "chunk_id": "e388b2b9e0b9533bb835"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "4298eacf81a0a346f052"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "cholamandalam_chola_flexi_super_topup_insurance_policy_wording",
       "source_file": "health__chola_flexi_super_topup_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_flexi_super_topup_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 84,
+      "injection_flags": "",
+      "chunk_id": "e341d4699cf30301b606"
     }
   }
 ]

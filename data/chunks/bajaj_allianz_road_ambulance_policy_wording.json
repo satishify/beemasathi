@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_road_ambulance_policy_wording",
       "source_file": "health__road_ambulance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__road_ambulance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "570d06a94bab861083f3"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_road_ambulance_policy_wording",
       "source_file": "health__road_ambulance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__road_ambulance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "903fb9d1ec2ba2aca617"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_road_ambulance_policy_wording",
       "source_file": "health__road_ambulance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__road_ambulance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 89,
+      "injection_flags": "",
+      "chunk_id": "42ffddcf320b0857049a"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_road_ambulance_policy_wording",
       "source_file": "health__road_ambulance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__road_ambulance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "7b236e5327a5111520a6"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_road_ambulance_policy_wording",
       "source_file": "health__road_ambulance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__road_ambulance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "eeb05c407a7c126ef64e"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_road_ambulance_policy_wording",
       "source_file": "health__road_ambulance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__road_ambulance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 63,
+      "injection_flags": "",
+      "chunk_id": "46b3e5bbb402c15d92e9"
     }
   }
 ]

@@ -10,7 +10,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "c7a69a98a65f28637eae"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 187,
+      "injection_flags": "",
+      "chunk_id": "e75d501b4404cc94b7bb"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "5de05c86cdbc65bc589e"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "8622621c49e3a1a14492"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 252,
+      "injection_flags": "",
+      "chunk_id": "da15781e53c541f8e555"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "1cbe8080fbf009bd0067"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "9b7f60505eee0fca9035"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "9dc218dde448c89dceab"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "1b640b754e6642073cfe"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "23555989cd5a26392996"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "3fbe97b9d278bd2806a5"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 69,
+      "injection_flags": "",
+      "chunk_id": "c439949d3717ae676d13"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "70a8c890cf242fc63891"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "0147319452cac0631cc7"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "9423a41cf61f765045a4"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "323630fa90ea6425fdf9"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "da3839aaa4b7cbc1a414"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "4064e40c835ae8da2166"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 292,
+      "injection_flags": "",
+      "chunk_id": "521c83214bf525dc8a91"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "2113f1baa95c6195af20"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 90,
+      "injection_flags": "",
+      "chunk_id": "46087d2016cef0b19101"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "56c66eb41e8acf7d4f2e"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 133,
+      "injection_flags": "",
+      "chunk_id": "417c7d8b96bfd41785ee"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "34e4ce67ca959f3bf3d5"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "5f2d49d29d6f148c065d"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 109,
+      "injection_flags": "",
+      "chunk_id": "cde390cbc8ebbb580d2c"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "1a3dcaa18e631b962341"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "2ad98510cd0226011089"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "e259129f4d5f8312a647"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 157,
+      "injection_flags": "",
+      "chunk_id": "1c3f6dcf97dfaa105509"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "8ecd181b11217f20c18b"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "cab90c0f342c00454e94"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 140,
+      "injection_flags": "",
+      "chunk_id": "b1446ed4092d791655f7"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "b465bcecc425409aedf3"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "fa1b355b88540620990e"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 144,
+      "injection_flags": "",
+      "chunk_id": "fb455774e945252dd730"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 359,
+      "injection_flags": "",
+      "chunk_id": "786ba22519c840465f32"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "0cb7b2db6c2987d8c270"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "3bad0e8537d0a29fa6fa"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 234,
+      "injection_flags": "",
+      "chunk_id": "1e4c494a04635819944a"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "08dc00facbdbaccd49df"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "f89382b5013a239175b2"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 334,
+      "injection_flags": "",
+      "chunk_id": "94338064d1f966f6700a"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "821dad890524d2794c92"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "fceaf36dd9123e7fcb94"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 188,
+      "injection_flags": "",
+      "chunk_id": "3d185cf10e9890fef1db"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "13cd81001a13a3f7b8f6"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "d398122d3282734a4d5d"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "ea0e49c8d7b3ef6d652c"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "e1bfcfddce4b5919d82c"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "b8a30acd26d24fe39b8f"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 256,
+      "injection_flags": "",
+      "chunk_id": "14b0ea07049326fab8ca"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "11b251999c435e0da703"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Waiting Period (page 21)",
+      "schema_version": 2,
+      "token_estimate": 275,
+      "injection_flags": "",
+      "chunk_id": "88dbadbbd761b49c44a8"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "8618f1eae433bac83d06"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 162,
+      "injection_flags": "",
+      "chunk_id": "be5814fd2b62860d921f"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "15dd6189e5fd8a2f8cce"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 259,
+      "injection_flags": "",
+      "chunk_id": "bd554e82030266c9e1fb"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "375a86031aefa5a5e0e9"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 338,
+      "injection_flags": "",
+      "chunk_id": "05f4ad430c130232edeb"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "58ab97bfc60dead94112"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 150,
+      "injection_flags": "",
+      "chunk_id": "bf8620dd42db3984ec4f"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "f1258e078ed270fb5dfb"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "c40d86886f5868119850"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "digit_digit_illness_group_policy_policy_wording",
       "source_file": "health__digit_illness_group_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_illness_group_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 156,
+      "injection_flags": "",
+      "chunk_id": "62763158fdb86047cf7b"
     }
   }
 ]

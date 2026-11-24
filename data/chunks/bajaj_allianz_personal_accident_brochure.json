@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 27,
+      "injection_flags": "",
+      "chunk_id": "2bc394adba81cc058e45"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "21e4b9d4037719db95af"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "0016d462ab6cacbd248d"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 149,
+      "injection_flags": "",
+      "chunk_id": "11f6dcb0224bd4bd8bb3"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Coverage Details (page 3)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "f58ca3c42f93deaa296d"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Coverage Details (page 3)",
+      "schema_version": 2,
+      "token_estimate": 347,
+      "injection_flags": "",
+      "chunk_id": "3938ea1af733d4253c59"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "a3a4f79cd6f758cc56cc"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "f892b8146d8a26dd5352"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Exclusions (page 4)",
+      "schema_version": 2,
+      "token_estimate": 303,
+      "injection_flags": "",
+      "chunk_id": "4d7aa530b7c3fd797d2c"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "cc182d5172525003876a"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "f63fa378cb61ac91e6c4"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "18e0772e8a4c9fd992d5"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "a92dedc43c3fe2bad72d"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 271,
+      "injection_flags": "",
+      "chunk_id": "bc90c5eff62e0540daf1"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_personal_accident_brochure",
       "source_file": "health__personal_accident__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__personal_accident__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 231,
+      "injection_flags": "",
+      "chunk_id": "1b9441a3a30790cafd6e"
     }
   }
 ]

@@ -10,7 +10,17 @@
       "source": "tata_aig_health_multiplier_policy_wording",
       "source_file": "health__health_multiplier__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__health_multiplier__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "d6b6e4a0c3d51fe6ed0c"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "tata_aig_health_multiplier_policy_wording",
       "source_file": "health__health_multiplier__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__health_multiplier__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 189,
+      "injection_flags": "",
+      "chunk_id": "8bde0982a23e3be4f6e3"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "tata_aig_health_multiplier_policy_wording",
       "source_file": "health__health_multiplier__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/tata_aig/health__health_multiplier__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "609720bb29d4bacdfcdf"
     }
   }
 ]

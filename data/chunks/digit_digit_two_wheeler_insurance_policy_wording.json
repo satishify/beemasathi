@@ -10,7 +10,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Optional Covers (page 1)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "fd7efca6b3441306a5e0"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Optional Covers (page 1)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "8d29b26bb4b3f3f73e7b"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Optional Covers (page 1)",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "f6f48de40a5904a30617"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "e72a05c5e0b4b44cf573"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "d1856e6841d21b05eb38"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 184,
+      "injection_flags": "",
+      "chunk_id": "a830354fc6b6e11895af"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "67da2a9c27601756728d"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "0741aa4c274121b41ca5"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "0156ab91c57b90304936"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Optional Covers (page 4)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "cd07e3a6ceb907647255"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Optional Covers (page 4)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "93f96113948078327776"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Optional Covers (page 4)",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "296924ec013e93bd8955"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "ca26eb3f618e5eacb80c"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "646330ee0f1327027159"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 243,
+      "injection_flags": "",
+      "chunk_id": "c4f359d8fa1bb9d94b6a"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "5d84927cdf405c384a78"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "233db48011cdb6b6752b"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 271,
+      "injection_flags": "",
+      "chunk_id": "757e8fe81ffe775e45fe"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "38d6f629177e1f412732"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "4a8ad3df6908f4fd1a22"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 267,
+      "injection_flags": "",
+      "chunk_id": "723a8c5aee2ca18ee86c"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "3af962e3d5589026021c"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "e921055d4f894ab2f617"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "d731497152a0afce934a"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "320f5c7e740b1df20c77"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "6106583338fcf79525d0"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 360,
+      "injection_flags": "",
+      "chunk_id": "b716874c3eb5b7e56bcd"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "028fcb18876418762b77"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "034f2737d2d62f4f40c4"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 38,
+      "injection_flags": "",
+      "chunk_id": "323c6451afeab2df11ab"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "c58b576435db7942818c"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "210088a5733ed9ce71ed"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 266,
+      "injection_flags": "",
+      "chunk_id": "8fb2210837166ab934f5"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "d256b3663d9204a91786"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "c14031006390f3c2f158"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "4a59990eab907dbaf092"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "35d624562198a0f64f7f"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 372,
+      "injection_flags": "",
+      "chunk_id": "e71caef6727c72ef1919"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "78e66eb0b65fbddbeda6"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 116,
+      "injection_flags": "",
+      "chunk_id": "b70370b68846f675f847"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "c0b7ac240198039b81a6"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "6cd7011896b7b4702373"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 360,
+      "injection_flags": "",
+      "chunk_id": "1ce965dbf528f7ca05f3"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "e92ff4dfdb61cf97866b"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "1d7e50039d902228c28a"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Exclusions (page 15)",
+      "schema_version": 2,
+      "token_estimate": 200,
+      "injection_flags": "",
+      "chunk_id": "d81c5f75cf0ae6708283"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "a59cfe1de4ed5e41adbe"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "5ed1a7bfb972a926dab5"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Exclusions (page 16)",
+      "schema_version": 2,
+      "token_estimate": 248,
+      "injection_flags": "",
+      "chunk_id": "026ae9c401a850060ced"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "b7ea336fdd5febb4957e"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "f5850e8e0029e97d8ec5"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Exclusions (page 17)",
+      "schema_version": 2,
+      "token_estimate": 277,
+      "injection_flags": "",
+      "chunk_id": "f64ae5941d48edc1e4ad"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "ff1f92e9ee66aaa785d2"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "6bcf368d20dc07586b23"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Exclusions (page 18)",
+      "schema_version": 2,
+      "token_estimate": 189,
+      "injection_flags": "",
+      "chunk_id": "c3c292b1604fd05d3b35"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "9760b66406e72d59aa5f"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "16c4acb682f4fd54e9ea"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "b25830ada6b5dc8b5bec"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 55,
+      "injection_flags": "",
+      "chunk_id": "92644d8249a8f4dcaacd"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "12f68877cf0ccb427ff0"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "7fb9987abcff12a80b08"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "508f1b03eaad9f021895"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 124,
+      "injection_flags": "",
+      "chunk_id": "54bdb50f63a55dbf4b45"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Exclusions (page 21)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "c5b317f244bc92ad4e34"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Exclusions (page 21)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "0dbfb0c509e018ede2e1"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Exclusions (page 21)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "90bd2ea3f2d38a1a0555"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Exclusions (page 21)",
+      "schema_version": 2,
+      "token_estimate": 79,
+      "injection_flags": "",
+      "chunk_id": "5707c2467492f3e0393e"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Exclusions (page 22)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "e29d89cf09f12a44b923"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Exclusions (page 22)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "9d8be0a69b366d1c5007"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Exclusions (page 22)",
+      "schema_version": 2,
+      "token_estimate": 259,
+      "injection_flags": "",
+      "chunk_id": "e9549941288bb436fae7"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "811221b472ba50fbf510"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "21197d484c43a596d350"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 303,
+      "injection_flags": "",
+      "chunk_id": "955363829cde5683dda0"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "3dc2e83490fe492edae4"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "d4e8760a10922fd8a5d4"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "3765e7422ac39d1f9fd1"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 103,
+      "injection_flags": "",
+      "chunk_id": "251b744910c9f567e15f"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "ab6cc44fac5f683fac32"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "9220acca92bc07d2e0cf"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "35f079f0de7873422363"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 99,
+      "injection_flags": "",
+      "chunk_id": "8b1551b1dee83c5f119e"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Exclusions (page 26)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "05dcfbefe614f9b21827"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Exclusions (page 26)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "43d19ba82a70ee103bba"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Exclusions (page 26)",
+      "schema_version": 2,
+      "token_estimate": 365,
+      "injection_flags": "",
+      "chunk_id": "440ad6e11fc610826771"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Optional Covers (page 27)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "ce9998625d4c47b5587a"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Optional Covers (page 27)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "1fb39356350c821d497f"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Optional Covers (page 27)",
+      "schema_version": 2,
+      "token_estimate": 363,
+      "injection_flags": "",
+      "chunk_id": "4475f4f65a518a9912f3"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Exclusions (page 28)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "022bd45ae6a83fcbaec3"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Exclusions (page 28)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "e865a54029b11bd9ce7c"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Exclusions (page 28)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "813984b4037293a4ff4e"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Exclusions (page 28)",
+      "schema_version": 2,
+      "token_estimate": 67,
+      "injection_flags": "",
+      "chunk_id": "71954a7c8a7c489a1c62"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "4ebf5cbb28f531fd778d"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "d8d71d493c0dd66d5f8c"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 71,
+      "injection_flags": "",
+      "chunk_id": "2e324d34a0c533c0bdfa"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Exclusions (page 30)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "287a263a35378456dd72"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Exclusions (page 30)",
+      "schema_version": 2,
+      "token_estimate": 335,
+      "injection_flags": "",
+      "chunk_id": "3f0fef2ed67569762eb4"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Exclusions (page 31)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "a2d3cba34c7f481c930b"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Exclusions (page 31)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "376e60e79ebab8ed7ffd"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Exclusions (page 31)",
+      "schema_version": 2,
+      "token_estimate": 265,
+      "injection_flags": "",
+      "chunk_id": "3e7fb892a4e2f1bf2043"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Exclusions (page 32)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "295763582cfd37731c91"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Exclusions (page 32)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "653a506bee0587061f52"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Exclusions (page 32)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "68a3c4d2235b518822ce"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "658b5496fdf716981b1f"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "91e7ca47ebb5eac149be"
     }
   },
   {
@@ -1466,7 +2506,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "6399908b1d5359d765d6"
     }
   },
   {
@@ -1480,7 +2530,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 159,
+      "injection_flags": "",
+      "chunk_id": "cb3c382f7dae264e3f47"
     }
   },
   {
@@ -1494,7 +2554,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "6617f1a863740928c209"
     }
   },
   {
@@ -1508,7 +2578,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "42995e0631c3de586e76"
     }
   },
   {
@@ -1522,7 +2602,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 354,
+      "injection_flags": "",
+      "chunk_id": "91d0a0ff33f80b0c47d1"
     }
   },
   {
@@ -1536,7 +2626,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "0a015e79a85bbf22253d"
     }
   },
   {
@@ -1550,7 +2650,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "ca4d1c0d6b7b6c681d68"
     }
   },
   {
@@ -1564,7 +2674,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 270,
+      "injection_flags": "",
+      "chunk_id": "7d5a1eda457d3c18ba4d"
     }
   },
   {
@@ -1578,7 +2698,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "5c04c18769e6160e21ba"
     }
   },
   {
@@ -1592,7 +2722,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "2924c72c02b8d923238e"
     }
   },
   {
@@ -1606,7 +2746,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Page 36",
+      "schema_version": 2,
+      "token_estimate": 157,
+      "injection_flags": "",
+      "chunk_id": "2d06340f4671a7588758"
     }
   },
   {
@@ -1620,7 +2770,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "d2e495673f12e39872b2"
     }
   },
   {
@@ -1634,7 +2794,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Page 37",
+      "schema_version": 2,
+      "token_estimate": 350,
+      "injection_flags": "",
+      "chunk_id": "bb3a981abb8444e78a8c"
     }
   },
   {
@@ -1648,7 +2818,17 @@
       "source": "digit_digit_two_wheeler_insurance_policy_wording",
       "source_file": "motor__digit_two_wheeler_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "motor"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/motor__digit_two_wheeler_insurance__policy_wording.pdf",
+      "line_of_business": "motor",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 274,
+      "injection_flags": "",
+      "chunk_id": "f5f975f9f5f3daea1661"
     }
   }
 ]

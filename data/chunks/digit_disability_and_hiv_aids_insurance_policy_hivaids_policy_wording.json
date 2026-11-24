@@ -10,7 +10,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "418099ae8468d9499d42"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "a339cfde3b6c9cf95400"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 64,
+      "injection_flags": "",
+      "chunk_id": "057b5934bcef5eac384a"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "65fdb9322dc6fcd756b5"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "db399340c5e9d131e673"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "ad8a0eeefc087ae7a71d"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "9ac332cea5b7fe54461d"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "8f01720266a8384e5732"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 367,
+      "injection_flags": "",
+      "chunk_id": "0ee6f8b82a54e50a8cae"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "573c10cb6464dfa0f0b8"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "74ca4505957f55ce2675"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "6f2f1d4fe85a6d29cbb8"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 112,
+      "injection_flags": "",
+      "chunk_id": "2a655ed4647408c19c56"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "cdc11b363c779c9ac648"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "4b6546c51f58757cf906"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "e347dbf921660f85874c"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "39a9090eac975d12ea88"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "da8256a7a1e6b2d10b7f"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "f08a863318d96a506e7c"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Exclusions (page 6)",
+      "schema_version": 2,
+      "token_estimate": 279,
+      "injection_flags": "",
+      "chunk_id": "21a28a42d8f7a3264f51"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "73dddb428b13e9d1945e"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "2a54f8343fd3229fe88f"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Waiting Period (page 7)",
+      "schema_version": 2,
+      "token_estimate": 264,
+      "injection_flags": "",
+      "chunk_id": "cc2022ce1b4da6a26424"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "e81d4dcda9d88b21bd04"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "7da330180d005ae4b3c3"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 115,
+      "injection_flags": "",
+      "chunk_id": "4d30d43c81a9c32838e7"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "ef62e7dcf151355c768e"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "b9fe1e636ef16e420dae"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 117,
+      "injection_flags": "",
+      "chunk_id": "0fa86def649d206e70a8"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "8eef259378c9e845abc7"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "e0671cf0bb9fad6b6371"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 91,
+      "injection_flags": "",
+      "chunk_id": "b2dbb793ea9afe0f3959"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "e6a414fbfe64ffbcf67c"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "ac467c4d90199caddf19"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Exclusions (page 11)",
+      "schema_version": 2,
+      "token_estimate": 240,
+      "injection_flags": "",
+      "chunk_id": "54ef238c33b5c7b6388d"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "e4d16760f1f1bc6c0aaa"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "e2dae178dc043baeb781"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 233,
+      "injection_flags": "",
+      "chunk_id": "18e3d7740906979ee086"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "1c376099c287ce571857"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "ef1b4989ae48e81bac8b"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Waiting Period (page 13)",
+      "schema_version": 2,
+      "token_estimate": 325,
+      "injection_flags": "",
+      "chunk_id": "d71f0937a479c06438a0"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "550deb118ca8ca4bb3ef"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "e2a1161acf7e9b273df6"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "186de1f30288fb21bd77"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 84,
+      "injection_flags": "",
+      "chunk_id": "a96e148f18f6904fd262"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "fda751e8a5dde9cb86a4"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "3d928b5317573f76e9e2"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 238,
+      "injection_flags": "",
+      "chunk_id": "96f32e5464329c05a816"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "097d94fcb55f01d43a2b"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "438a59d39d9e5f52ac0b"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Waiting Period (page 16)",
+      "schema_version": 2,
+      "token_estimate": 175,
+      "injection_flags": "",
+      "chunk_id": "74d449f5d86e1d7fc214"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Waiting Period (page 17)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "a13637ff7909085b16de"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Waiting Period (page 17)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "8236f6071d92e967df61"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Waiting Period (page 17)",
+      "schema_version": 2,
+      "token_estimate": 136,
+      "injection_flags": "",
+      "chunk_id": "f2ad7d5831f07b3ae53b"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Table Of Benefits (page 18)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "efa8b1c6b42064656217"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Table Of Benefits (page 18)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "30c1a477f0fc310a0198"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Table Of Benefits (page 18)",
+      "schema_version": 2,
+      "token_estimate": 53,
+      "injection_flags": "",
+      "chunk_id": "656bddd5f7fc23830a68"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "e952c0ac5e3f8469e1b1"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 253,
+      "injection_flags": "",
+      "chunk_id": "39cce9cb4a8a151e5c88"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "eea2924ffaf6f791159f"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "470df57d9c2bdd3ace17"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "digit_disability_and_hiv_aids_insurance_policy_hivaids_policy_wording",
       "source_file": "health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__disability_and_hiv_aids_insurance_policy_hivaids__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 111,
+      "injection_flags": "",
+      "chunk_id": "8766bbbb6571a49c1b9a"
     }
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "text": "Bajaj General Insurance Limited (Formerly known as Bajaj Allianz General Insurance Co. Ltd.)\nRegd. Office & Head Office: Bajaj Insurance House, Airport Road, Yerawada, Pune - 411006.\nIRDAI Reg No.: 113 | CIN: U66010PN2000PLC015329\nWeb: www.bajajgeneralinsurance.com | Email ID: careforyou@bajajgeneral.com\nToll Free: Service- 1800 209 5858 /Sales- 1800 209 0144\nInsta Shield Rider\nUIN- BAJHLIA26072V012526\nCUSTOMER INFORMATION SHEET\nThis document provides key information about your policy. You are also advised to go through your policy\ndocument\nSl Title Description Policy Clause\nNo Number\n1 Name of Insta shield Rider\nInsurance\nProduct\n2 Policy Number Kindly refer to Your Policy schedule\n3 Type of Kindly refer to Your Policy schedule\nInsurance\n4 Sum Insured Kindly refer to Your Policy schedule\n(Basis)\n5 Policy Insta Shield\nCoverage If this rider is opted, We shall indemnify the Medical Expenses incurred\n(What the related to an admissible Hospitalization of the Insured Person under the Base\nPolicy Covers) Policy, including In-patient Hospitalization Treatment, Pre-Hospitalisation\nMedical Expense and Post-Hospitalisation Medical Expense due to the\nchronic condition(s) listed below and their complications from the 31st day of\nPolicy inception date after serving initial waiting period of 30 days, provided\nthat\ni. The chronic diseases/illnesses/conditions is declared by the Insured\nPerson and accepted by Us at the inception of the Base Policy and\nmentioned in the Policy Schedule, or\nii. If the chronic diseases/illnesses/conditions is detected during Pre-",
+    "text": "Bajaj General\nInsta Shield Rider\nTime to rethink waiting periods\nfor chronic conditions\nTHREE YEARS\nTWO YEARS\nONE YEAR\nJUST 30 DAYS\nCIN:U66010PN2000PLC015329, UIN: BAJHLIA26072V012526",
     "metadata": {
       "insurer": "bajaj_allianz",
       "policy_name": "insta_shield",
@@ -8,41 +8,47 @@
       "page": 1,
       "chunk_type": "waiting_period",
       "source": "bajaj_allianz_insta_shield_brochure",
-      "source_file": "health__insta_shield__cis.pdf",
+      "source_file": "health__insta_shield__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__insta_shield__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 45,
+      "injection_flags": "",
+      "chunk_id": "ea7371738fcc483ab19f"
     }
   },
   {
-    "text": "mentioned in the Policy Schedule, or\nii. If the chronic diseases/illnesses/conditions is detected during Pre-\npolicy medical examination, coverage shall apply only if accepted by the\nCompany and reflected in the Policy Schedule.\niii. Once applied, the premium loading for Insta Shield Rider continues for\nall renewals.\niv. The above reduced waiting period of 30 days shall be applicable only for\nspecified Insured Persons who have opted and paid additional premium\nfor this rider.\nv. The Optional Cover shall be applicable on Individual basis in case of an\nIndividual Base Policy. In case of a Floater Base Policy, the Optional\nCover shall be applicable on Individual basis who have declared the Pre-\nExisting Diseases (PED), applied for this cover and accepted by us.\nvi. This cover will be available only during inception of the policy or upon\naddition of a new member in the Base Policy during Renewal.\nvii. Increase in Base Sum Insured- A waiting period of 30 days shall be\napplicable on the incremented Sum Insured in case the Base Sum\nInsured is increased at the time of renewal. The acceptance of\nenhancement of Sum Insured would be at the discretion of the\nCompany, based on the health condition of the Insured Beneficiary(s) &\nclaim history of the Policy.\nDiseases/illnesses/conditions covered under this rider\ni. Asthma is a chronic, non-communicable respiratory disease\ncharacterized by inflamed and narrowed airways in the lungs that\nmake airflow difficult which causes recurrent, variable episodes of\nbreathlessness and wheezing, often accompanied by chest tightness",
+    "text": "BAJAJ GENERAL INSURANCE LIMITED\nINSTA SHIELD RIDER - YOUR SHIELD AGAINST CHRONIC CONDITIONS – INSTANTLY!\nLife doesn’t wait, and neither should your health cover! Insta Shield Rider is your\n(Formerly known as Bajaj Allianz General Insurance Company Limited) is one of India’s leading, most\nfast-track protection against chronic conditions like diabetes, hypertension, and more,\ntrusted and dynamic private general insurance companies. It is a subsidiary of Bajaj Finserv Limited,\nwith just a 30-day waiting period.\nIndia’s leading and most diversified financial services group.\nBajaj General offers a broad portfolio of innovative and customer-focused insurance solutions, spanning\nmotor, health, and home insurance, along with specialised products such as pet insurance, wedding\ninsurance, event protection, cyber insurance, and rural insurance. From safeguarding your health and\nhome to protecting your travels and life’s most important moments, Bajaj General aims to be a constant SALIENT FEATURES\npartner in your journey. Bajaj General equally offers a comprehensive and a well-diversified range of\nproducts, including fire, marine, engineering, liability and surety insurance to corporates and SME’s. The Quick Coverage: Only 30-day waiting period for listed chronic conditions\ncompany also participates in various government schemes with a focus on financial inclusion. The\ncompany is also known for its robust risk selection capabilities, digital adoption and product innovation. Covers Major Lifestyle Diseases: Diabetes, Hypertension, Asthma, Cholesterol, Obesity,\nHypothyroidism",
     "metadata": {
       "insurer": "bajaj_allianz",
       "policy_name": "insta_shield",
-      "section": "Waiting Period (page 1)",
-      "page": 1,
+      "section": "Waiting Period (page 2)",
+      "page": 2,
       "chunk_type": "waiting_period",
       "source": "bajaj_allianz_insta_shield_brochure",
-      "source_file": "health__insta_shield__cis.pdf",
+      "source_file": "health__insta_shield__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__insta_shield__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "97193796775e1526af5f"
     }
   },
   {
-    "text": "make airflow difficult which causes recurrent, variable episodes of\nbreathlessness and wheezing, often accompanied by chest tightness\nCIN: U66010PN2000PLC015329 UIN: BAJHLIA26072V012526 1",
-    "metadata": {
-      "insurer": "bajaj_allianz",
-      "policy_name": "insta_shield",
-      "section": "Waiting Period (page 1)",
-      "page": 1,
-      "chunk_type": "general",
-      "source": "bajaj_allianz_insta_shield_brochure",
-      "source_file": "health__insta_shield__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "health"
-    }
-  },
-  {
-    "text": "Bajaj General Insurance Limited (Formerly known as Bajaj Allianz General Insurance Co. Ltd.)\nRegd. Office & Head Office: Bajaj Insurance House, Airport Road, Yerawada, Pune - 411006.\nIRDAI Reg No.: 113 | CIN: U66010PN2000PLC015329\nWeb: www.bajajgeneralinsurance.com | Email ID: careforyou@bajajgeneral.com\nToll Free: Service- 1800 209 5858 /Sales- 1800 209 0144\nand cough.\nii. Blood pressure (Hypertension) a condition where the pressure in the\nblood vessels is persistently too high, with readings of 140/90 mmHg\nor higher on two separate occasions. This elevated pressure means the\nheart has to work harder to pump blood throughout the body and can\nlead to serious health problems like heart attack, stroke, and kidney\ndisease.\niii. Cholesterol (Hyperlipidemia) - Hyperlipidemia is a condition where\nthere are abnormally high levels of fats (lipids), such as cholesterol and\ntriglycerides, in the blood. This condition is a major risk factor for heart\ndisease and stroke.\niv. Diabetes mellitus is a chronic metabolic disease characterized by\nelevated blood glucose levels, resulting from defects in insulin\nsecretion, insulin action, or both. This condition leads to long-term\ndamage and dysfunction of vital organs such as the eyes, kidneys,\nnerves, heart, and blood vessels, causing severe health complications\nlike vision loss, kidney failure, nerve damage, and increased risk of\nheart attack and stroke.\nv. Obesity means abnormal or excessive fat accumulation that may\nimpair health. Obesity is measured in Body Mass Index. Body mass",
+    "text": "company is also known for its robust risk selection capabilities, digital adoption and product innovation. Covers Major Lifestyle Diseases: Diabetes, Hypertension, Asthma, Cholesterol, Obesity,\nHypothyroidism\nEstablished in 2001, the company has grown its footprint to nearly 1,500* towns and cities across India,\nensuring easy access and a close connection to its customers. This access is enabled through the\nApplicable only for My Health Care Plan and Health Guard policies\nlargest distribution network, spanning across individual agents, point-of-sales personnel, banks, NBFCs,\nmotor dealers, brokers and the company’s proprietary sales force.\nIt holds an [ICRA]AAA* rating from ICRA Limited, reflecting the highest level of confidence in its financial\nstrength and stability. With a strong legacy, a forward-looking mindset, and an unwavering focus on its\n‘Customer-First’ philosophy, Bajaj General remains committed to protecting what matters most,\nempowering individuals, families, and businesses to live with confidence and peace of mind. HOW IT WORKS\nOpt for Insta Shield Rider Declare chronic conditions Enjoy coverage from Day 31\nwith your base health policy upfront for hospitalisation and\nrelated expenses*\n*Subject to underwriting decision",
     "metadata": {
       "insurer": "bajaj_allianz",
       "policy_name": "insta_shield",
@@ -50,93 +56,91 @@
       "page": 2,
       "chunk_type": "general",
       "source": "bajaj_allianz_insta_shield_brochure",
-      "source_file": "health__insta_shield__cis.pdf",
+      "source_file": "health__insta_shield__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__insta_shield__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 313,
+      "injection_flags": "",
+      "chunk_id": "e504dea1b201fc07e211"
     }
   },
   {
-    "text": "v. Obesity means abnormal or excessive fat accumulation that may\nimpair health. Obesity is measured in Body Mass Index. Body mass\nindex (BMI) is a simple index of weight-for-height that is commonly\nused to classify overweight and obesity in adults. It is defined as a\nperson’s weight in kilograms divided by the square of his height in\nmeters (kg/m2). The WHO definition is:\na. BMI greater than or equal to 25 is overweight\nb. BMI greater than or equal to 30 is obesity\nvi. Hypothyroidism disorders -Hypothyroidism is a condition where the\nthyroid gland doesn't produce enough thyroid hormones to meet the\nbody's needs, causing many bodily functions to slow down. Diagnosed\nby high Thyroid-Stimulating Hormone (TSH) and low thyroxine (T4)\nlevels, it affects metabolism and can lead to symptoms like fatigue,\ncold intolerance, and weight gain.\n6 Exclusions All exclusions applicable in opted Base Policy shall be applicable to this\n(What the Rider, mutatis mutandis except exclusion Pre-Existing Diseases (Code-\npolicy does not Excl01) shall not apply for above mentioned chronic conditions/diseases\ncover) if this rider has been opted by the Insured Person(s)\n7 Waiting Waiting period of 30 days from the inception date of Insta Shield Rider under\nPeriod Health Indemnity Base Policy.\n•Time period A waiting period of 30 days shall be applicable on the incremented Sum\nduring which Insured in case the Base Sum Insured is increased at the time of renewal\nspecified\ndisease/trea\ntment are\nnot covered\n•It is counted\nfrom\nbeginning of\nthe policy\ncoverage\n8 Financial Sublimit: Not Applicable\nLimits of",
+    "text": "UNDERWRITING GUIDELINES\nCONDITIONS COVERED\nCoverage:\nIndemnifies medical expenses for hospitalisation, pre & post-hospitalization due to chronic\nconditions:\nAsthma Hyperlipedaemia Asthma, Hypertension, Hyperlipidemia, Diabetes Mellitus, Obesity, Hypothyroidism\n(Cholesterol disorder)\nApplicable after 30-day waiting period from policy inception.\nHypertension Diabetes Mellitus New Business:\n(High blood pressure) Available only with base indemnity cover\nMax entry age: 55 years\nHHyyppootthhyyrrooiiddiissmm Obesity Medical Requirements:\nTele-verification mandatory\nMidterm inclusion:\nRider can be opted at inception only, however a new member can be added at midterm\nOnce opted, this rider continues for all subsequent renewals\nIMPORTANT NOTES\n• Premium loading continues for renewals\n• Exclusions of base policy apply (except PED exclusion for listed conditions)\n• Cannot opt mid-term",
     "metadata": {
       "insurer": "bajaj_allianz",
       "policy_name": "insta_shield",
-      "section": "Waiting Period (page 2)",
-      "page": 2,
-      "chunk_type": "waiting_period",
-      "source": "bajaj_allianz_insta_shield_brochure",
-      "source_file": "health__insta_shield__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "health"
-    }
-  },
-  {
-    "text": "8 Financial Sublimit: Not Applicable\nLimits of\nCoverage Co-payment: Not Applicable\ni. Sublimit\n(it is a Deductible: Not Applicable\nCIN: U66010PN2000PLC015329 UIN: BAJHLIA26072V012526 2",
-    "metadata": {
-      "insurer": "bajaj_allianz",
-      "policy_name": "insta_shield",
-      "section": "Waiting Period (page 2)",
-      "page": 2,
-      "chunk_type": "co_pay",
-      "source": "bajaj_allianz_insta_shield_brochure",
-      "source_file": "health__insta_shield__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "health"
-    }
-  },
-  {
-    "text": "Bajaj General Insurance Limited (Formerly known as Bajaj Allianz General Insurance Co. Ltd.)\nRegd. Office & Head Office: Bajaj Insurance House, Airport Road, Yerawada, Pune - 411006.\nIRDAI Reg No.: 113 | CIN: U66010PN2000PLC015329\nWeb: www.bajajgeneralinsurance.com | Email ID: careforyou@bajajgeneral.com\nToll Free: Service- 1800 209 5858 /Sales- 1800 209 0144\npre-\ndefined Any other limit: Not Applicable\nlimit and\nthe\ninsurance\ncompany\nwill not\npay any\namount in\nexcess of\nthis limit)\nii. Co-\npayment\n(it is a\nspecified\namount\n/percenta\nge of the\nadmissible\nclaim\namount to\nbe paid by\npolicy\nholder/ins\nured)\niii. Deductibl\ne (it is a\nspecified\namount:\nUpto\nwhich an\ninsurance\ncompany\nwill not\npay any\nclaim and\nWhich will\nbe\ndeducted\nfrom total\nclaim\namount (if\nclaim\namount is\nmore than\nthe\nspecified\namount)\niv. Any other\nlimit (as\napplicable\n)\nCIN: U66010PN2000PLC015329 UIN: BAJHLIA26072V012526 3",
-    "metadata": {
-      "insurer": "bajaj_allianz",
-      "policy_name": "insta_shield",
-      "section": "Page 3",
+      "section": "Waiting Period (page 3)",
       "page": 3,
-      "chunk_type": "claim_process",
-      "source": "bajaj_allianz_insta_shield_brochure",
-      "source_file": "health__insta_shield__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "health"
-    }
-  },
-  {
-    "text": "Bajaj General Insurance Limited (Formerly known as Bajaj Allianz General Insurance Co. Ltd.)\nRegd. Office & Head Office: Bajaj Insurance House, Airport Road, Yerawada, Pune - 411006.\nIRDAI Reg No.: 113 | CIN: U66010PN2000PLC015329\nWeb: www.bajajgeneralinsurance.com | Email ID: careforyou@bajajgeneral.com\nToll Free: Service- 1800 209 5858 /Sales- 1800 209 0144\n9 Claims/claim As Per Base Policy.\ns procedure\n10 Policy Call centre number (Toll free): 1800-209-5858\nServicing Details of Company officials: Branch-wise GRO details can be found on the\nbelow link.\nhttps://www.bajajgeneralinsurance.com/download-documents/other-\ninformation/GRO-List.pdf\n11 Grievances Grievance Redressal Procedure:\n/Complaints\nGrievance–In case of any grievance relating to servicing the Policy, the\nInsured Person may submit in writing to the Policy Schedule issuing office\nor regional office for redressal.\nFor updated details of Grievance\nofficer, www.bajajgeneralinsurance.com/about-us/customer-service.html\nIRDAI Integrated Grievance Management System– https://igms.irdai.gov.in/\nE-mail:\na.Level 1: careforyou@bajajgeneral.com and for senior citizens\nto seniorcitizen@bajajgeneral.com\nb.Level 2: In case You are not satisfied with the response given to You at\nLevel 1 You may write to Our Grievance Redressal Officer\nat ggro@bajajgeneral.com\nc.Level 3: If in case, Your grievance is still not resolved, and You wish to\ntalk to Our care specialist, please give a missed call on +91 80809 45060 OR\nSMS To 575758 and Our care specialist will call You back. 5. If You are still",
-    "metadata": {
-      "insurer": "bajaj_allianz",
-      "policy_name": "insta_shield",
-      "section": "Page 4",
-      "page": 4,
-      "chunk_type": "claim_process",
-      "source": "bajaj_allianz_insta_shield_brochure",
-      "source_file": "health__insta_shield__cis.pdf",
-      "document_type": "brochure",
-      "line_of_business": "health"
-    }
-  },
-  {
-    "text": "talk to Our care specialist, please give a missed call on +91 80809 45060 OR\nSMS To 575758 and Our care specialist will call You back. 5. If You are still\nnot satisfied with the decision of the Insurance Company, You may\napproach the Insurance Ombudsman, established by the Central\nGovernment for redressal of grievance\nInsurance Ombudsman – The Insured Person may also approach the office\nof Insurance Ombudsman of the respective area/region for redressal of\ngrievance. The contact details of the Insurance Ombudsman offices have\nbeen provided as Annexure-II in Policy Wording\n12 Things to Free Look Cancellation: As Per Base Policy.\nremember\nPolicy Renewal: As Per Base Policy.\nMigration and Portability: As Per Base Policy.\nChange in Sum Insured: As Per Base Policy.\nMoratorium period: As Per Base Policy.\n13 Your Please disclose all pre-existing disease/s or condition/s before buying a\nObligations policy. Non-disclosure may affect the claim settlement\nDisclosure of other material information during the policy period.\nLegal Disclaimer Note: The information must be read in conjunction with the product brochure and policy\ndocument. In case of any conflict between the CIS and the policy document, the terms and conditions mentioned in\nthe policy document shall prevail.\nCIN: U66010PN2000PLC015329 UIN: BAJHLIA26072V012526 4",
-    "metadata": {
-      "insurer": "bajaj_allianz",
-      "policy_name": "insta_shield",
-      "section": "Page 4",
-      "page": 4,
       "chunk_type": "waiting_period",
       "source": "bajaj_allianz_insta_shield_brochure",
-      "source_file": "health__insta_shield__cis.pdf",
+      "source_file": "health__insta_shield__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__insta_shield__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 221,
+      "injection_flags": "",
+      "chunk_id": "4f2b9cae27cfe26764df"
     }
   },
   {
-    "text": "Bajaj General Insurance Limited (Formerly known as Bajaj Allianz General Insurance Co. Ltd.)\nRegd. Office & Head Office: Bajaj Insurance House, Airport Road, Yerawada, Pune - 411006.\nIRDAI Reg No.: 113 | CIN: U66010PN2000PLC015329\nWeb: www.bajajgeneralinsurance.com | Email ID: careforyou@bajajgeneral.com\nToll Free: Service- 1800 209 5858 /Sales- 1800 209 0144\nDeclaration by policy holder\nI have read the above and confirm having noted the details\nPlace\nDate: Signature of Policy holder\nNote: Web link for downloading the product related documents\nhttps://www.bajajgeneralinsurance.com/health-insurance-plans/health-insurance-documents.html\nCIN: U66010PN2000PLC015329 UIN: BAJHLIA26072V012526 5",
+    "text": "AGE BAND LOADING\nAGE PREMIUM LOADING ON THE CURRENT PREMIUM\nUP TO 45 17.50%\n46 18.00%\n47 18.50%\n48 19.00%\n49 19.50%\n50 20.00%\n51 20.50%\n52 21.00%\n53 21.50%\n54 22.00%\n55 22.50%\nFOR RENEWALS ONLY\n56 23.00%\n57 23.50%\n58 24.00%\n59 24.50%\n60 25.00%\n61 25.50%\n62 26.00%\n63 26.50%\n64 27.00%\n65 AND ABOVE 27.50%",
+    "metadata": {
+      "insurer": "bajaj_allianz",
+      "policy_name": "insta_shield",
+      "section": "Page 4",
+      "page": 4,
+      "chunk_type": "renewal",
+      "source": "bajaj_allianz_insta_shield_brochure",
+      "source_file": "health__insta_shield__brochure.pdf",
+      "document_type": "brochure",
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__insta_shield__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 75,
+      "injection_flags": "",
+      "chunk_id": "d2b839102042b15b498d"
+    }
+  },
+  {
+    "text": "BAJAJ GENERAL INSURANCE LIMITED\n(Formerly known as Bajaj Allianz General Insurance Co. Ltd.)\nBAJAJ INSURANCE HOUSE, AIRPORT ROAD,\nYERAWADA, PUNE - 411006. IRDAI REG NO.: 113.\nFOR ANY QUERY (TOLL FREE)\n1800-209-0144 /1800-209-5858\nwww.bajajgeneralinsurance.com\ncareforyou@bajajgeneral.com\n*As on 2025\nNote: It is mandatory to keep updated your policy with your correct contact details and bank\naccount details, to process any of your service requests faster and hassle-free. To update\nyour contact details i.e. Mobile No., Email ID, PAN Card, and Bank Account details,\nplease use chatbot, visit our website, contact your agent or nearest branch.\nFor more details on risk factors, Terms and Conditions, please read the Policy Wordings and\nProspectus before concluding a sale.\nCIN:U66010PN2000PLC015329, UIN: Insta Shield Rider - BAJHLIA26072V012526\nBGI-O-0458/19-12-2025\nPolicy holders can download Bajaj General app for one - touch access. Available on  | ",
     "metadata": {
       "insurer": "bajaj_allianz",
       "policy_name": "insta_shield",
       "section": "Page 5",
       "page": 5,
-      "chunk_type": "premium",
+      "chunk_type": "general",
       "source": "bajaj_allianz_insta_shield_brochure",
-      "source_file": "health__insta_shield__cis.pdf",
+      "source_file": "health__insta_shield__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__insta_shield__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 239,
+      "injection_flags": "",
+      "chunk_id": "cbbaf172f4cfffd79173"
     }
   }
 ]

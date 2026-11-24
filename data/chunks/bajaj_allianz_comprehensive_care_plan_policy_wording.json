@@ -10,7 +10,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "48e00743eeb7ac318e4e"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "674ad919da6a853f6a32"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "4e7ce331d8ab7b5fe856"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "b7807d38e729a8d1e75b"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "20eff981819455448530"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "324ac504994d356bbd02"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "b72602920963b34dde28"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "c764bd75708c73cd4981"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 124,
+      "injection_flags": "",
+      "chunk_id": "6b469068406c044cc822"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "7d40a694a6cef17b8c86"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "c1807213dc94f13ca990"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "8eff64bedffd8c29bfc0"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "ce11780708d42a2e17b0"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Exclusions (page 3)",
+      "schema_version": 2,
+      "token_estimate": 94,
+      "injection_flags": "",
+      "chunk_id": "edfdc7440c05a99e08e6"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "06903db0b576f59370ef"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "d79bf371c7d6a8606a32"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "0a7984a7b7e12ad9ff9f"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 246,
+      "injection_flags": "",
+      "chunk_id": "c8468c288db4c0999267"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "04c9d9c99cc8322ff35c"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "b5afe4230e83f756f8a3"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "2cc85bea4fcc0e109919"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "6705ae67e1c3c992b9ea"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "04fab83ddb240dad1ace"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Exclusions (page 5)",
+      "schema_version": 2,
+      "token_estimate": 218,
+      "injection_flags": "",
+      "chunk_id": "8433f05804e53be19135"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "7cbcd669a4561719dd20"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "6a710f6e257ee29b2a3d"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "90d84200055faa0025ef"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 158,
+      "injection_flags": "",
+      "chunk_id": "a81a6a70ba639b0a9ddf"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "95a086bd1f7bcfb8573d"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "e6c9999d53d3b3bb4685"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "42205647f41ec502b121"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 227,
+      "injection_flags": "",
+      "chunk_id": "0e9ecb44ae0b97c4101e"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "2065935d1b6d7a794c50"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "b360d45f95b155a69401"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "f4ae57f65767f9c52de4"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "ae1808c6e95170154c20"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 226,
+      "injection_flags": "",
+      "chunk_id": "b7a8bb77c799dfecb5f0"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "e82d7b04ca6feccc2520"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 366,
+      "injection_flags": "",
+      "chunk_id": "d927dbbbc2806f662277"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "9ad7cfb77b1d24f3f07b"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "6fee9bbc14bdf8022436"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Exclusions (page 9)",
+      "schema_version": 2,
+      "token_estimate": 131,
+      "injection_flags": "",
+      "chunk_id": "87f029aae365bc99dcea"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "4749fa930eee2be350f4"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "a8e0690afe87978bb9b3"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "b1b20d51f9e110750ca5"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "d1061559a6f09130d5d7"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "64ad08bebc6f3d89d2a6"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 258,
+      "injection_flags": "",
+      "chunk_id": "1c85ab8b83633e2912d0"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "cad7601ea1a8e6ff4864"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "b81260bcc66bd51b7f28"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "90787ad97e28e88ff039"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "d24356739c48fe374ca8"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 296,
+      "injection_flags": "",
+      "chunk_id": "7d29bd22a8ab3c9a4363"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "8ae97225527193edcd9c"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "fe24c850e96d19f73304"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "3615e392616572856044"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "3b1fc6b10b4a3bfbbf99"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "052bb8e5b0d6c4004b4c"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Waiting Period (page 12)",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "aec49510d5deee7fa460"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "dfd07c4352e30f42f9f8"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "a685f04f41698d5c5e89"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "2acd21546042804dd0d9"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "ff4dbd0cc8dd1741a0d7"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 134,
+      "injection_flags": "",
+      "chunk_id": "fee88e9a53fa3508a00f"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "aebbe3c8813d0cb05e7f"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 364,
+      "injection_flags": "",
+      "chunk_id": "69256964e7d101f8f7ad"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "850b26ef6d51cce59087"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "899cf2fba448e522afa6"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "682376cf63a176562ebf"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 371,
+      "injection_flags": "",
+      "chunk_id": "bc0573576e519cd86734"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 209,
+      "injection_flags": "",
+      "chunk_id": "ad2cc0edf8117efeed55"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "13391ab5121e64987741"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "059bdb7d8ad1ab08952a"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "f4dd803283873185ad26"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "5c2edfd35c4d01c0bb47"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "ce173610b60ee2ce5d3c"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "9b3e293b189cd0d06711"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 200,
+      "injection_flags": "",
+      "chunk_id": "74e854ab2f77811b26cc"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "b1bd0972583ab9e5faf6"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "68118d8cd199f094ed95"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "e212931dd753a4da2864"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "ac6cce28c05ea00a7339"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 245,
+      "injection_flags": "",
+      "chunk_id": "678ffa15f4c09f7ef06b"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "57ce217c3c9c73d89276"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "bf0b227610a646c933bd"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "55896d507daa54a4ce19"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "ef28a67c52f5a6550f85"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "e540309978c6d4ba6c32"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "e1f79176194b90216b04"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "23705a9708644990e49d"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 51,
+      "injection_flags": "",
+      "chunk_id": "2e3be842c3ebe114548b"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "1cb50a3f060a27e20180"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 357,
+      "injection_flags": "",
+      "chunk_id": "9c1e3c6b7bf118e1475e"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "fc2cc5288d28091873cf"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "b0e42c6e5195b7d2c8a4"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Exclusions (page 19)",
+      "schema_version": 2,
+      "token_estimate": 114,
+      "injection_flags": "",
+      "chunk_id": "92a62693301f1ccbc837"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "f1992aa24844205d1b81"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "cd3160b78670cf8b91bf"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 204,
+      "injection_flags": "",
+      "chunk_id": "cfdda5c3e4f940454376"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "c7def861534714a1898b"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 285,
+      "injection_flags": "",
+      "chunk_id": "a11d7f750dad825631e3"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Exclusions (page 22)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "26e697f6cf99bcd902c0"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Exclusions (page 22)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "51062d5b256523ebc900"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Exclusions (page 22)",
+      "schema_version": 2,
+      "token_estimate": 333,
+      "injection_flags": "",
+      "chunk_id": "ae8cd23076971bb963b5"
     }
   },
   {
@@ -1466,7 +2506,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Optional Covers (page 23)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "23582b317fac87b218f7"
     }
   },
   {
@@ -1480,7 +2530,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Optional Covers (page 23)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "22cd6889d2fa5d495d9c"
     }
   },
   {
@@ -1494,7 +2554,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Optional Covers (page 23)",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "16e50ca8f7405afb547d"
     }
   },
   {
@@ -1508,7 +2578,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Optional Covers (page 23)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "54f8f4dcdbdc70627257"
     }
   },
   {
@@ -1522,7 +2602,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Optional Covers (page 23)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "95267735ce3fbfd22e7b"
     }
   },
   {
@@ -1536,7 +2626,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Optional Covers (page 23)",
+      "schema_version": 2,
+      "token_estimate": 78,
+      "injection_flags": "",
+      "chunk_id": "ba6846d912d8dd9e8171"
     }
   },
   {
@@ -1550,7 +2650,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "145ce3f0c95149dc9e65"
     }
   },
   {
@@ -1564,7 +2674,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "adfb62c14540e38df990"
     }
   },
   {
@@ -1578,7 +2698,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "6ba5624f7112ea23e11a"
     }
   },
   {
@@ -1592,7 +2722,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "5807f4b29b4611aa2ba4"
     }
   },
   {
@@ -1606,7 +2746,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Exclusions (page 24)",
+      "schema_version": 2,
+      "token_estimate": 148,
+      "injection_flags": "",
+      "chunk_id": "62c79d89e76ac785c1df"
     }
   },
   {
@@ -1620,7 +2770,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "6eed98073659a55e7e12"
     }
   },
   {
@@ -1634,7 +2794,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "1ef685760409dc90bf0d"
     }
   },
   {
@@ -1648,7 +2818,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 333,
+      "injection_flags": "",
+      "chunk_id": "1342d3bf133d0ea9cc8b"
     }
   },
   {
@@ -1662,7 +2842,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "9e7230b5e599e9fb5236"
     }
   },
   {
@@ -1676,7 +2866,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "cab1b48cb9eb79b4889f"
     }
   },
   {
@@ -1690,7 +2890,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "58b6941a0eb312a4f0c7"
     }
   },
   {
@@ -1704,7 +2914,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 216,
+      "injection_flags": "",
+      "chunk_id": "2ee68bf69ade877bf305"
     }
   },
   {
@@ -1718,7 +2938,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "ce3ccf93fc3fd8f8eb79"
     }
   },
   {
@@ -1732,7 +2962,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "5727d358b1c4ed29e3b7"
     }
   },
   {
@@ -1746,7 +2986,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 368,
+      "injection_flags": "",
+      "chunk_id": "7be68ba38316c0434721"
     }
   },
   {
@@ -1760,7 +3010,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "8b16e41df7e6b9568d47"
     }
   },
   {
@@ -1774,7 +3034,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 34,
+      "injection_flags": "",
+      "chunk_id": "85e62b86e8c0f0c2202e"
     }
   },
   {
@@ -1788,7 +3058,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "04f4ed051ef310db1c27"
     }
   },
   {
@@ -1802,7 +3082,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "fc1a9b5f571f149e7855"
     }
   },
   {
@@ -1816,7 +3106,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "0a9754cb981c29147393"
     }
   },
   {
@@ -1830,7 +3130,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 184,
+      "injection_flags": "",
+      "chunk_id": "6349867aa1559194881b"
     }
   },
   {
@@ -1844,7 +3154,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "72cd7ec9b3f88ee2eca2"
     }
   },
   {
@@ -1858,7 +3178,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 369,
+      "injection_flags": "",
+      "chunk_id": "202d5594fbdf381177b2"
     }
   },
   {
@@ -1872,7 +3202,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "bac13c43e5efe481d089"
     }
   },
   {
@@ -1886,7 +3226,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "044a73a600d2fa77d826"
     }
   },
   {
@@ -1900,7 +3250,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Exclusions (page 29)",
+      "schema_version": 2,
+      "token_estimate": 188,
+      "injection_flags": "",
+      "chunk_id": "382eea86fa9d24d4365e"
     }
   },
   {
@@ -1914,7 +3274,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 373,
+      "injection_flags": "",
+      "chunk_id": "5e4cd3d9d29753ddf987"
     }
   },
   {
@@ -1928,7 +3298,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "09125ee560ed764b6ab2"
     }
   },
   {
@@ -1942,7 +3322,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "e03daeaf30881d05343f"
     }
   },
   {
@@ -1956,7 +3346,17 @@
       "source": "bajaj_allianz_comprehensive_care_plan_policy_wording",
       "source_file": "health__comprehensive_care_plan__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/bajaj_allianz/health__comprehensive_care_plan__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 138,
+      "injection_flags": "",
+      "chunk_id": "24270ccb3e376c9cbefc"
     }
   }
 ]

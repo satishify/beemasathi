@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Optional Covers (page 1)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "cbe4baccc2eb2dab2b26"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Optional Covers (page 1)",
+      "schema_version": 2,
+      "token_estimate": 76,
+      "injection_flags": "",
+      "chunk_id": "0e89bc7bfaf3439a0f89"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "369921dceddc751ce1b1"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "6433b5d997e205f70d73"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "e47443cf1c27ca8c7f43"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 89,
+      "injection_flags": "",
+      "chunk_id": "9892df5df232728fed5f"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "ff4cffb46044cf36f6cf"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "841d7a103bc033f0c5f1"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "0094c00766df3eed06f7"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "fef8d8daf0cec4641a52"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 140,
+      "injection_flags": "",
+      "chunk_id": "47c63081d066036c1ded"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "e0433f5f40013e912bbf"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "d5dfdaf928300aac7544"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "71e18045252b3794c403"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "8694bcd5fe281d6fee19"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 135,
+      "injection_flags": "",
+      "chunk_id": "6c73adea624e63961f5e"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "d364b0e01b7806ed6c4c"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "388fb5d7101ef28d7669"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 88,
+      "injection_flags": "",
+      "chunk_id": "bf4cc5bbf1b2ce5203f8"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "bdabb8cc7b96228a2460"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "95e5cca93e280f2088d3"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 101,
+      "injection_flags": "",
+      "chunk_id": "12e0e61310ae4e1377ad"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "b274803c3d8166e670fe"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "b71574130fb3941673c7"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 68,
+      "injection_flags": "",
+      "chunk_id": "5bf3d1b30a83bd27b8fa"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "1fd18de31644bcee43bf"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "039995c5cc732beecff2"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 228,
+      "injection_flags": "",
+      "chunk_id": "c9acbf091841239320b3"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "bf176b1b08df822c834f"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "d8bfd5c1b6759553d1af"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 142,
+      "injection_flags": "",
+      "chunk_id": "58635cbfff1bc67e0033"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "27eb64e86dd472dff705"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "5162cf875f998071a2d7"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "647a1bbe7049f1e6baef"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Page 14",
+      "schema_version": 2,
+      "token_estimate": 264,
+      "injection_flags": "",
+      "chunk_id": "653efe302b839f5c56fb"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "a238e6adf7aad1cafc13"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 344,
+      "injection_flags": "",
+      "chunk_id": "3aaadb87e78a728c1849"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "191f36e901707d5d71da"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 357,
+      "injection_flags": "",
+      "chunk_id": "f78bff037bc631ba1fa3"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "6467d335b6708a9603f1"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 223,
+      "injection_flags": "",
+      "chunk_id": "bed3fa4b77abc62bad10"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Optional Covers (page 18)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "331332ef3338a3eeae8b"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Optional Covers (page 18)",
+      "schema_version": 2,
+      "token_estimate": 248,
+      "injection_flags": "",
+      "chunk_id": "eb8808b3d7265f7ab303"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "c39f263a6ffbd440a7c1"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Waiting Period (page 19)",
+      "schema_version": 2,
+      "token_estimate": 321,
+      "injection_flags": "",
+      "chunk_id": "fb73ee482b4780b78381"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "c01be4c1ad6e35c622db"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 288,
+      "injection_flags": "",
+      "chunk_id": "658faa47c05942fd3d2d"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "08711bae9c3824adb7fd"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 370,
+      "injection_flags": "",
+      "chunk_id": "0c1d95e8471a58978a4b"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "88a995bba69a1be92005"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 195,
+      "injection_flags": "",
+      "chunk_id": "ba38d12b589dbd4e225f"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "77414be889ceef7bef19"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 289,
+      "injection_flags": "",
+      "chunk_id": "7385ccfae0af73eb7755"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "fbf1a3cb83a6f071af70"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Waiting Period (page 24)",
+      "schema_version": 2,
+      "token_estimate": 295,
+      "injection_flags": "",
+      "chunk_id": "a21802183ba9d6574712"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "5b31facd04fc1d189714"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 229,
+      "injection_flags": "",
+      "chunk_id": "0043bde120e9eda62f0a"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "2de962658ce663d52662"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 152,
+      "injection_flags": "",
+      "chunk_id": "0f35d66cce241cdaef92"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "c027316371113faa0d28"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 125,
+      "injection_flags": "",
+      "chunk_id": "a153233734c8205c9dae"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Table Of Benefits (page 28)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "f3b6833a055375167d1c"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Table Of Benefits (page 28)",
+      "schema_version": 2,
+      "token_estimate": 225,
+      "injection_flags": "",
+      "chunk_id": "3c560602c50e40fdac1a"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Table Of Benefits (page 29)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "4dfd7ec55bf715a37bf2"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Table Of Benefits (page 29)",
+      "schema_version": 2,
+      "token_estimate": 248,
+      "injection_flags": "",
+      "chunk_id": "56e001fd9a3f8d8dc331"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Waiting Period (page 30)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "b396cfc2d52a02054145"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Waiting Period (page 30)",
+      "schema_version": 2,
+      "token_estimate": 288,
+      "injection_flags": "",
+      "chunk_id": "d4dc16bedef833f2a837"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Waiting Period (page 31)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "256f4622c6dca8d2575a"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Waiting Period (page 31)",
+      "schema_version": 2,
+      "token_estimate": 207,
+      "injection_flags": "",
+      "chunk_id": "129f14760dc6bd10dc10"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Waiting Period (page 32)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "739b2b020f270c990371"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Waiting Period (page 32)",
+      "schema_version": 2,
+      "token_estimate": 224,
+      "injection_flags": "",
+      "chunk_id": "27fa385abc50a064bc38"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "f86e6ea535c0a47dfb8a"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "224756e99db6ea146c0d"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "80b9b1ff40a0bf7601b4"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Exclusions (page 34)",
+      "schema_version": 2,
+      "token_estimate": 299,
+      "injection_flags": "",
+      "chunk_id": "168121f4decf8344179f"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "2e79d69cb3ae4740cb28"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "2db1c7f3abb8e8ca0cfa"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 74,
+      "injection_flags": "",
+      "chunk_id": "09a659b1adc951e71071"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Waiting Period (page 36)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "41b371e8af485680bd1e"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 36,
+      "page_end": 36,
+      "section_path": "Waiting Period (page 36)",
+      "schema_version": 2,
+      "token_estimate": 312,
+      "injection_flags": "",
+      "chunk_id": "fa4d7cd3af6548cfb6a9"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Waiting Period (page 37)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "226adf48e07ac55c95e9"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Waiting Period (page 37)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "a0acbbfa162ae73da76d"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 37,
+      "page_end": 37,
+      "section_path": "Waiting Period (page 37)",
+      "schema_version": 2,
+      "token_estimate": 65,
+      "injection_flags": "",
+      "chunk_id": "736ca8b1005404ab3143"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "321bc3a1a12648358ecf"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "18f4efcc35a45795afe0"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 38,
+      "page_end": 38,
+      "section_path": "Page 38",
+      "schema_version": 2,
+      "token_estimate": 134,
+      "injection_flags": "",
+      "chunk_id": "a968402ca965caea2d4f"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Waiting Period (page 39)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "3f8ebd8751bf1cb9b834"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 39,
+      "page_end": 39,
+      "section_path": "Waiting Period (page 39)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "765c07b2a149cfceed8b"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Waiting Period (page 40)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "aee7bd5489996204f29b"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 40,
+      "page_end": 40,
+      "section_path": "Waiting Period (page 40)",
+      "schema_version": 2,
+      "token_estimate": 241,
+      "injection_flags": "",
+      "chunk_id": "560376860b518b25aa4e"
     }
   },
   {
@@ -1270,7 +2170,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Waiting Period (page 41)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "8b293643a1429f708d85"
     }
   },
   {
@@ -1284,7 +2194,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 41,
+      "page_end": 41,
+      "section_path": "Waiting Period (page 41)",
+      "schema_version": 2,
+      "token_estimate": 355,
+      "injection_flags": "",
+      "chunk_id": "46a9d844c0e6db63bcc6"
     }
   },
   {
@@ -1298,7 +2218,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "d9bd22acdce84bd97127"
     }
   },
   {
@@ -1312,7 +2242,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 42,
+      "page_end": 42,
+      "section_path": "Page 42",
+      "schema_version": 2,
+      "token_estimate": 220,
+      "injection_flags": "",
+      "chunk_id": "48d5bc42833fa095cfa3"
     }
   },
   {
@@ -1326,7 +2266,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "47e5b1e7e7ee3ba90f08"
     }
   },
   {
@@ -1340,7 +2290,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 43,
+      "page_end": 43,
+      "section_path": "Page 43",
+      "schema_version": 2,
+      "token_estimate": 211,
+      "injection_flags": "",
+      "chunk_id": "af553ab12f317784a45a"
     }
   },
   {
@@ -1354,7 +2314,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "a74f4f2b23f3b6f542e6"
     }
   },
   {
@@ -1368,7 +2338,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 44,
+      "page_end": 44,
+      "section_path": "Page 44",
+      "schema_version": 2,
+      "token_estimate": 319,
+      "injection_flags": "",
+      "chunk_id": "dadac2cff25439bb567a"
     }
   },
   {
@@ -1382,7 +2362,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "cd6bae6d001b7f803d94"
     }
   },
   {
@@ -1396,7 +2386,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 45,
+      "page_end": 45,
+      "section_path": "Page 45",
+      "schema_version": 2,
+      "token_estimate": 235,
+      "injection_flags": "",
+      "chunk_id": "58b1720acde5a3b4d941"
     }
   },
   {
@@ -1410,7 +2410,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "e42dc71166d23c5b5904"
     }
   },
   {
@@ -1424,7 +2434,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 46,
+      "page_end": 46,
+      "section_path": "Page 46",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "8360fbb26de569a88159"
     }
   },
   {
@@ -1438,7 +2458,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "157f7bd18c874d1ef543"
     }
   },
   {
@@ -1452,7 +2482,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 47,
+      "page_end": 47,
+      "section_path": "Page 47",
+      "schema_version": 2,
+      "token_estimate": 187,
+      "injection_flags": "",
+      "chunk_id": "0dfdcb8fd68a05658e10"
     }
   },
   {
@@ -1466,7 +2506,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "5ce2eb16aca667fcedb9"
     }
   },
   {
@@ -1480,7 +2530,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 48,
+      "page_end": 48,
+      "section_path": "Page 48",
+      "schema_version": 2,
+      "token_estimate": 116,
+      "injection_flags": "",
+      "chunk_id": "91ed221bbb8ec7e4da83"
     }
   },
   {
@@ -1494,7 +2554,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "ec0fbc95ba7da6d138a8"
     }
   },
   {
@@ -1508,7 +2578,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 49,
+      "page_end": 49,
+      "section_path": "Page 49",
+      "schema_version": 2,
+      "token_estimate": 138,
+      "injection_flags": "",
+      "chunk_id": "fea01ef373127b1747ef"
     }
   },
   {
@@ -1522,7 +2602,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "ebdcaaeba6ae95d23101"
     }
   },
   {
@@ -1536,7 +2626,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 50,
+      "page_end": 50,
+      "section_path": "Page 50",
+      "schema_version": 2,
+      "token_estimate": 271,
+      "injection_flags": "",
+      "chunk_id": "ef9aefd24a01f4314fe7"
     }
   },
   {
@@ -1550,7 +2650,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "6b2ca9711a1c06e22aef"
     }
   },
   {
@@ -1564,7 +2674,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 51,
+      "page_end": 51,
+      "section_path": "Page 51",
+      "schema_version": 2,
+      "token_estimate": 150,
+      "injection_flags": "",
+      "chunk_id": "1ed7d7922417edd22839"
     }
   },
   {
@@ -1578,7 +2698,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 52,
+      "page_end": 52,
+      "section_path": "Page 52",
+      "schema_version": 2,
+      "token_estimate": 311,
+      "injection_flags": "",
+      "chunk_id": "2ac9d07f4f9035b2f3f7"
     }
   },
   {
@@ -1592,7 +2722,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 53,
+      "page_end": 53,
+      "section_path": "Page 53",
+      "schema_version": 2,
+      "token_estimate": 366,
+      "injection_flags": "",
+      "chunk_id": "be312e4af62e004bc835"
     }
   },
   {
@@ -1606,7 +2746,17 @@
       "source": "hdfc_ergo_group_mediclaim_insurance_policy_policy_wording",
       "source_file": "health__group_mediclaim_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__group_mediclaim_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 54,
+      "page_end": 54,
+      "section_path": "Page 54",
+      "schema_version": 2,
+      "token_estimate": 87,
+      "injection_flags": "",
+      "chunk_id": "8c44aa5802588667cfa8"
     }
   }
 ]

@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_cumulative_bonus_plus_group_policy_wording",
       "source_file": "health__cumulative_bonus_plus_group__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__cumulative_bonus_plus_group__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 376,
+      "injection_flags": "",
+      "chunk_id": "a70efd35100effe207eb"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_cumulative_bonus_plus_group_policy_wording",
       "source_file": "health__cumulative_bonus_plus_group__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__cumulative_bonus_plus_group__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 98,
+      "injection_flags": "",
+      "chunk_id": "037bc633fee07b06b723"
     }
   }
 ]

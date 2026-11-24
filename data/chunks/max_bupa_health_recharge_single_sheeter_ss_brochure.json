@@ -10,7 +10,17 @@
       "source": "max_bupa_health_recharge_single_sheeter_ss_brochure",
       "source_file": "health__health_recharge_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_recharge_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 187,
+      "injection_flags": "",
+      "chunk_id": "6a41ba978e9f6024e05a"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_health_recharge_single_sheeter_ss_brochure",
       "source_file": "health__health_recharge_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_recharge_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "f95d9d4d4d8084358251"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_health_recharge_single_sheeter_ss_brochure",
       "source_file": "health__health_recharge_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_recharge_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "8a6faa717b57db1bc3e0"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_health_recharge_single_sheeter_ss_brochure",
       "source_file": "health__health_recharge_single_sheeter_ss__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__health_recharge_single_sheeter_ss__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 337,
+      "injection_flags": "",
+      "chunk_id": "d128807e35c17f37136c"
     }
   }
 ]

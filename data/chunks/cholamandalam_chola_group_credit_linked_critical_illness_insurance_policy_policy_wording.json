@@ -10,7 +10,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "e6742af627e51da3225b"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "174739eef2d9543cf774"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 224,
+      "injection_flags": "",
+      "chunk_id": "94e66522cdbfb910223a"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "239a9f8773062a74f095"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "ecabf7b4dbb8b8f2c562"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 307,
+      "injection_flags": "",
+      "chunk_id": "164e0187a9beb7af114c"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "b694de9ef664fcae0084"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "523f1a89130239f7627f"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 250,
+      "injection_flags": "",
+      "chunk_id": "d9137465901bf3b748e7"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "20e0d20f47b196f0da75"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "7e814aecc48c698512d2"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 127,
+      "injection_flags": "",
+      "chunk_id": "419d7a22adb39ca845c3"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "0200cab3a135d4a02773"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Page 5",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "a0486941aa95c3cc4b64"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "0942f802b80fbb8a96ff"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "24b16fc6f8cf25336a57"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 102,
+      "injection_flags": "",
+      "chunk_id": "c712bf301c7b50d1ba20"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "01f7947ac894e2a8bcb3"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "d508469eb89e83cb3f93"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "4c6a42292739806fe141"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "a4693cb04bbbb8c60f2c"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 76,
+      "injection_flags": "",
+      "chunk_id": "7ebe96b126c0ce8d7554"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "de72e3bdd4d86b19b91a"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "ad64daf8abf613904076"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 54,
+      "injection_flags": "",
+      "chunk_id": "17d2f56fe8e34f60dc5c"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "5cfcf6292d1eefe8c339"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Page 10",
+      "schema_version": 2,
+      "token_estimate": 335,
+      "injection_flags": "",
+      "chunk_id": "49ffddd7c2853d0b6f4b"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "c40760667ff1e6ed1557"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 375,
+      "injection_flags": "",
+      "chunk_id": "163c168f19edbdfb5966"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 57,
+      "injection_flags": "",
+      "chunk_id": "84e593937ef769616a47"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "2ed16c54f87b6bedce15"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "e0426e2b9d595d532f3e"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 66,
+      "injection_flags": "",
+      "chunk_id": "a035abd549997ac401f5"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "5411cd3834b13ffb17ec"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 221,
+      "injection_flags": "",
+      "chunk_id": "db3dcfd33eaf7095f0b4"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Optional Covers (page 14)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "d7cb510c79ec6cb12529"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Optional Covers (page 14)",
+      "schema_version": 2,
+      "token_estimate": 356,
+      "injection_flags": "",
+      "chunk_id": "48a298ec01faecf37c4f"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "00a2f121b6b13a9d05a8"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "ff3ba0c16d0c8469f3cc"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "e2ab9ba57de12940686f"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "a6b8f688d3db0919d3c1"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 102,
+      "injection_flags": "",
+      "chunk_id": "6c1e7bffe37519ce80f1"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Optional Covers (page 17)",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "b476157bd13990634f78"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Optional Covers (page 17)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "c0caf196bcdc7bf7547b"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Optional Covers (page 17)",
+      "schema_version": 2,
+      "token_estimate": 131,
+      "injection_flags": "",
+      "chunk_id": "60675b0aeed6917f6678"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "42c344f503667969ecee"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Page 18",
+      "schema_version": 2,
+      "token_estimate": 353,
+      "injection_flags": "",
+      "chunk_id": "829b6bde5068b44d6f81"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "9a8bce551fad294b01b9"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "9e4c0435a248d804610a"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 198,
+      "injection_flags": "",
+      "chunk_id": "66fd8a73d7fb20abf6d7"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "3e47af936af6b0ad9a3b"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 43,
+      "injection_flags": "",
+      "chunk_id": "6d03217e7534a084b0ca"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 275,
+      "injection_flags": "",
+      "chunk_id": "59dc86252ea49a927b9e"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Optional Covers (page 22)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "e433acc815da2da03bab"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Optional Covers (page 22)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "af13b22571b97f662e93"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "606fa25fbcbd164b8e1f"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "cff93abfe378f83ffaf0"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 86,
+      "injection_flags": "",
+      "chunk_id": "bd2366826c666afe80ce"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "b0b0fd7c71ea26499967"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 316,
+      "injection_flags": "",
+      "chunk_id": "7bb2957a34deffdd73cd"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "b1b58d18a505b8dc386f"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 159,
+      "injection_flags": "",
+      "chunk_id": "fd447b16495a8b60a55c"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "2ff0da2cabd98b6fef7f"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 190,
+      "injection_flags": "",
+      "chunk_id": "e8d751ab6b9697e972da"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Optional Covers (page 27)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "1a13a733965088dfe56d"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Optional Covers (page 27)",
+      "schema_version": 2,
+      "token_estimate": 275,
+      "injection_flags": "",
+      "chunk_id": "8bed32fbcda21ed65b89"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "66c5beb9f15be05df641"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 234,
+      "injection_flags": "",
+      "chunk_id": "449d182528cdc05dc8cf"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Optional Covers (page 29)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "efde5004f5ae4d849fc3"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Optional Covers (page 29)",
+      "schema_version": 2,
+      "token_estimate": 154,
+      "injection_flags": "",
+      "chunk_id": "86f13e6ec4db55cc3b7a"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "c1854b71db4859f6aadc"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "9abdd01df2e55457472f"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "cholamandalam_chola_group_credit_linked_critical_illness_insurance_policy_policy_wording",
       "source_file": "health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__chola_group_credit_linked_critical_illness_insurance_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 95,
+      "injection_flags": "",
+      "chunk_id": "fe0b3f8b807d7ddd8d33"
     }
   }
 ]

@@ -10,7 +10,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "1e64f459115d15374831"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Exclusions (page 1)",
+      "schema_version": 2,
+      "token_estimate": 244,
+      "injection_flags": "",
+      "chunk_id": "067c85c8f3e476cbcbf4"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "45f979fed85169847ab4"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Exclusions (page 2)",
+      "schema_version": 2,
+      "token_estimate": 103,
+      "injection_flags": "",
+      "chunk_id": "1358d5fed7fe66d7c5fe"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "25ee6b8ea5e717d6c3e2"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "98f47b1bbff869e68e2d"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Page 3",
+      "schema_version": 2,
+      "token_estimate": 311,
+      "injection_flags": "",
+      "chunk_id": "812a38ab405af4145e15"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "62fed9ca500ebb635e7e"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "3b55375515b9a0a1e2bd"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 357,
+      "injection_flags": "",
+      "chunk_id": "9c6193b16e98da6e0334"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "303352e5c3b1ebfd3edc"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "78aa84a4129c22637d7f"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "46f5971700e8d70b0dc8"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 104,
+      "injection_flags": "",
+      "chunk_id": "03ff6615c45ca644eb3e"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "f4956d62b5ecaa239789"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "04ed1d9f8e53eb58bb01"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "fad8cd7f067f451d7e66"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 106,
+      "injection_flags": "",
+      "chunk_id": "b25b3acec43ec1228208"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "cfbef7804545ede41f14"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 299,
+      "injection_flags": "",
+      "chunk_id": "f5ee3d2340f4e5f2e194"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "c354cdb9571dee1beef4"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "59c504c7cf7c7d87c1bd"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Page 8",
+      "schema_version": 2,
+      "token_estimate": 122,
+      "injection_flags": "",
+      "chunk_id": "e7a78ee839068e29b498"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 377,
+      "injection_flags": "",
+      "chunk_id": "2ad8fdae539b8a5ae5e4"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "c64a1f5893b4db486cd5"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Page 9",
+      "schema_version": 2,
+      "token_estimate": 173,
+      "injection_flags": "",
+      "chunk_id": "4891368e2dc853e020eb"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "e69071660f227d0b1aee"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "7774383237b9956df55f"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Exclusions (page 10)",
+      "schema_version": 2,
+      "token_estimate": 84,
+      "injection_flags": "",
+      "chunk_id": "bcca2ee0d2027171caac"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "2d38d8061cae8ac2c4d4"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "4f3a273c61ade2f9b145"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Page 11",
+      "schema_version": 2,
+      "token_estimate": 241,
+      "injection_flags": "",
+      "chunk_id": "0cb1aabb69ff52d5fc57"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "759866f674c7b4a3e737"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "5e3c8f9ce0ddea7831ce"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Exclusions (page 12)",
+      "schema_version": 2,
+      "token_estimate": 47,
+      "injection_flags": "",
+      "chunk_id": "0a900ba16a9a8e053fbc"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "4253e2b6c5243e14ef34"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Exclusions (page 13)",
+      "schema_version": 2,
+      "token_estimate": 306,
+      "injection_flags": "",
+      "chunk_id": "ce19e17f4a28cbcbebb9"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "6ce627b41ea1bf783d50"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "b998471c264beb5f3dc2"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Exclusions (page 14)",
+      "schema_version": 2,
+      "token_estimate": 26,
+      "injection_flags": "",
+      "chunk_id": "f3e392615c64778c1de2"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 384,
+      "injection_flags": "",
+      "chunk_id": "ff61edf82e286d4182f0"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "2cce6f618c95c3cd6717"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Page 15",
+      "schema_version": 2,
+      "token_estimate": 100,
+      "injection_flags": "",
+      "chunk_id": "f524e33bca92a4b9e756"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "bb296658d52085fb559d"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "19bf1936f6d3b133a912"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "Page 16",
+      "schema_version": 2,
+      "token_estimate": 357,
+      "injection_flags": "",
+      "chunk_id": "e0a376143054bd1aaf51"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 192,
+      "injection_flags": "",
+      "chunk_id": "dd30bc630ad850dc186c"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "fc76bcfbc7594b9f661e"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "2e9d92c3be59b62f0ea0"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 153,
+      "injection_flags": "",
+      "chunk_id": "8b3bf38bdc678b1726b8"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "32f86006cc93a09cb693"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "1d3b29256c5586b3a759"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 143,
+      "injection_flags": "",
+      "chunk_id": "78e511355afb51cb3c21"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "6a528c7cece189743c2c"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Exclusions (page 20)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "856676a62c64bd69482b"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "71937e828e594c861b4a"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "3a75e1b48abb92e1c6d9"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 212,
+      "injection_flags": "",
+      "chunk_id": "ef67fdc80cd599805602"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 104,
+      "injection_flags": "",
+      "chunk_id": "6b282248ad2615a34ce9"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Waiting Period (page 23)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "d84977794ec500073193"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Waiting Period (page 23)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "ab82a1823febab285f8a"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Waiting Period (page 23)",
+      "schema_version": 2,
+      "token_estimate": 286,
+      "injection_flags": "",
+      "chunk_id": "1e01b627ca30d1ee1bdb"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "74dc07bad6788b34b96f"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "963f9760d4b3bb970ac7"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 288,
+      "injection_flags": "",
+      "chunk_id": "d4206d1a00bbdce18cb2"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Waiting Period (page 25)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "9bef3760b8173ba78327"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Waiting Period (page 25)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "fb41ed32bce8cdebae10"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Waiting Period (page 25)",
+      "schema_version": 2,
+      "token_estimate": 289,
+      "injection_flags": "",
+      "chunk_id": "b010e37076a12f5c413f"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "310c54fb882ed3c418fc"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "303e1b1a40fdc02e3475"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Waiting Period (page 26)",
+      "schema_version": 2,
+      "token_estimate": 184,
+      "injection_flags": "",
+      "chunk_id": "668db0b3350d4bc669e0"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "460ec0de65deebd39b8b"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "1c4648ae30ca65902288"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Exclusions (page 27)",
+      "schema_version": 2,
+      "token_estimate": 230,
+      "injection_flags": "",
+      "chunk_id": "b586efc37db9d1911278"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "821348b1861ffd0d6bcb"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 227,
+      "injection_flags": "",
+      "chunk_id": "eccd5d174cb1c4604a4e"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "e3afefd6ee8058eaa415"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Waiting Period (page 29)",
+      "schema_version": 2,
+      "token_estimate": 217,
+      "injection_flags": "",
+      "chunk_id": "365a174a7c26b11ebc4d"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "c2812efd025e7fba64eb"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 179,
+      "injection_flags": "",
+      "chunk_id": "5d761a3d3f6f8100ad82"
     }
   },
   {
@@ -1130,7 +1930,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "25ded51e12027cf6caba"
     }
   },
   {
@@ -1144,7 +1954,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 31,
+      "page_end": 31,
+      "section_path": "Page 31",
+      "schema_version": 2,
+      "token_estimate": 202,
+      "injection_flags": "",
+      "chunk_id": "eb6b17850e4bf5bc9e5c"
     }
   },
   {
@@ -1158,7 +1978,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "91a19873b6c6140f60d2"
     }
   },
   {
@@ -1172,7 +2002,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 32,
+      "page_end": 32,
+      "section_path": "Page 32",
+      "schema_version": 2,
+      "token_estimate": 330,
+      "injection_flags": "",
+      "chunk_id": "0596a6e07aa2d0f4c173"
     }
   },
   {
@@ -1186,7 +2026,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "fad88a480450ac9f1f19"
     }
   },
   {
@@ -1200,7 +2050,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 33,
+      "page_end": 33,
+      "section_path": "Page 33",
+      "schema_version": 2,
+      "token_estimate": 188,
+      "injection_flags": "",
+      "chunk_id": "90d03da9dc57c89d2fe9"
     }
   },
   {
@@ -1214,7 +2074,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 34,
+      "page_end": 34,
+      "section_path": "Page 34",
+      "schema_version": 2,
+      "token_estimate": 124,
+      "injection_flags": "",
+      "chunk_id": "8ea9a4accc9deeae1fd8"
     }
   },
   {
@@ -1228,7 +2098,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "af091f3b7f4f944a4e96"
     }
   },
   {
@@ -1242,7 +2122,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "a51650b3508e53f6cffb"
     }
   },
   {
@@ -1256,7 +2146,17 @@
       "source": "digit_digit_donor_shield_policy_policy_wording",
       "source_file": "health__digit_donor_shield_policy__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/digit/health__digit_donor_shield_policy__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 35,
+      "page_end": 35,
+      "section_path": "Page 35",
+      "schema_version": 2,
+      "token_estimate": 154,
+      "injection_flags": "",
+      "chunk_id": "be877fbbde79e455acc9"
     }
   }
 ]

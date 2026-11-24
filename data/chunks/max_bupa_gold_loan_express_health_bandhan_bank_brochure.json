@@ -10,7 +10,17 @@
       "source": "max_bupa_gold_loan_express_health_bandhan_bank_brochure",
       "source_file": "health__gold_loan_express_health_bandhan_bank__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__gold_loan_express_health_bandhan_bank__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 27,
+      "injection_flags": "",
+      "chunk_id": "36ad9b9e2987e4dc76b0"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "max_bupa_gold_loan_express_health_bandhan_bank_brochure",
       "source_file": "health__gold_loan_express_health_bandhan_bank__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__gold_loan_express_health_bandhan_bank__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 57,
+      "injection_flags": "",
+      "chunk_id": "2157a30b6e9bc2ba80fa"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "max_bupa_gold_loan_express_health_bandhan_bank_brochure",
       "source_file": "health__gold_loan_express_health_bandhan_bank__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__gold_loan_express_health_bandhan_bank__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 72,
+      "injection_flags": "",
+      "chunk_id": "a26dee3c029663f38a02"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "max_bupa_gold_loan_express_health_bandhan_bank_brochure",
       "source_file": "health__gold_loan_express_health_bandhan_bank__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__gold_loan_express_health_bandhan_bank__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Page 4",
+      "schema_version": 2,
+      "token_estimate": 51,
+      "injection_flags": "",
+      "chunk_id": "ee719063007f15001593"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "max_bupa_gold_loan_express_health_bandhan_bank_brochure",
       "source_file": "health__gold_loan_express_health_bandhan_bank__brochure.pdf",
       "document_type": "brochure",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/max_bupa/health__gold_loan_express_health_bandhan_bank__brochure.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "brochure",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Page 6",
+      "schema_version": 2,
+      "token_estimate": 331,
+      "injection_flags": "",
+      "chunk_id": "cc206660a94edca44a59"
     }
   }
 ]

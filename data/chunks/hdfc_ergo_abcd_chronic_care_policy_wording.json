@@ -10,7 +10,17 @@
       "source": "hdfc_ergo_abcd_chronic_care_policy_wording",
       "source_file": "health__abcd_chronic_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__abcd_chronic_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "b7666d32dc96a48f090f"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "hdfc_ergo_abcd_chronic_care_policy_wording",
       "source_file": "health__abcd_chronic_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__abcd_chronic_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Waiting Period (page 1)",
+      "schema_version": 2,
+      "token_estimate": 194,
+      "injection_flags": "",
+      "chunk_id": "5d3edb932a69eed5bfd3"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "hdfc_ergo_abcd_chronic_care_policy_wording",
       "source_file": "health__abcd_chronic_care__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/hdfc_ergo/health__abcd_chronic_care__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Waiting Period (page 2)",
+      "schema_version": 2,
+      "token_estimate": 304,
+      "injection_flags": "",
+      "chunk_id": "3bcc58adf745d756a83a"
     }
   }
 ]

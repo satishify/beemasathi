@@ -10,7 +10,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "437d0f716579282cc627"
     }
   },
   {
@@ -24,7 +34,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 383,
+      "injection_flags": "",
+      "chunk_id": "ec1d0a5c0ecfb798b460"
     }
   },
   {
@@ -38,7 +58,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 1,
+      "page_end": 1,
+      "section_path": "Page 1",
+      "schema_version": 2,
+      "token_estimate": 353,
+      "injection_flags": "",
+      "chunk_id": "4a7fbc1cd5a51b5f24c6"
     }
   },
   {
@@ -52,7 +82,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 385,
+      "injection_flags": "",
+      "chunk_id": "24515b59af90984f99ef"
     }
   },
   {
@@ -66,7 +106,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "ffc5df2070eb307fd56b"
     }
   },
   {
@@ -80,7 +130,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 2,
+      "page_end": 2,
+      "section_path": "Page 2",
+      "schema_version": 2,
+      "token_estimate": 358,
+      "injection_flags": "",
+      "chunk_id": "11b92acbd45d4a3179a8"
     }
   },
   {
@@ -94,7 +154,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "0b0ca442c2eb06d4e67d"
     }
   },
   {
@@ -108,7 +178,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 382,
+      "injection_flags": "",
+      "chunk_id": "6ea6a739c6d50b3dec5e"
     }
   },
   {
@@ -122,7 +202,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "4de3c0c0e6b573c6811b"
     }
   },
   {
@@ -136,7 +226,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 3,
+      "page_end": 3,
+      "section_path": "Waiting Period (page 3)",
+      "schema_version": 2,
+      "token_estimate": 211,
+      "injection_flags": "",
+      "chunk_id": "07a02e1004a5df068b1a"
     }
   },
   {
@@ -150,7 +250,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "d9b23fe8863cba38ca63"
     }
   },
   {
@@ -164,7 +274,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "4cc9540fb478c4c23438"
     }
   },
   {
@@ -178,7 +298,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "6863c3b66996c6d47879"
     }
   },
   {
@@ -192,7 +322,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 4,
+      "page_end": 4,
+      "section_path": "Waiting Period (page 4)",
+      "schema_version": 2,
+      "token_estimate": 160,
+      "injection_flags": "",
+      "chunk_id": "628618462540cdaab762"
     }
   },
   {
@@ -206,7 +346,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "6c5809171cb2a6526ca2"
     }
   },
   {
@@ -220,7 +370,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "21beb8fc5a67cc68f4b1"
     }
   },
   {
@@ -234,7 +394,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 5,
+      "page_end": 5,
+      "section_path": "Waiting Period (page 5)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "963688f9c2d1248665c5"
     }
   },
   {
@@ -248,7 +418,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "9ca311599058c152ad68"
     }
   },
   {
@@ -262,7 +442,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "317a9f5e38f3d3d8ce63"
     }
   },
   {
@@ -276,7 +466,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 6,
+      "page_end": 6,
+      "section_path": "Waiting Period (page 6)",
+      "schema_version": 2,
+      "token_estimate": 354,
+      "injection_flags": "",
+      "chunk_id": "ed6551e6b9eee1813171"
     }
   },
   {
@@ -290,7 +490,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "8727a2c7e711d4f740a4"
     }
   },
   {
@@ -304,7 +514,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "1fc53a47f32e0c2a4510"
     }
   },
   {
@@ -318,7 +538,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 7,
+      "page_end": 7,
+      "section_path": "Page 7",
+      "schema_version": 2,
+      "token_estimate": 123,
+      "injection_flags": "",
+      "chunk_id": "0cfa1a866eadb4158a27"
     }
   },
   {
@@ -332,7 +562,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "61f30b851063acfda069"
     }
   },
   {
@@ -346,7 +586,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "29e2653e9fde611a2285"
     }
   },
   {
@@ -360,7 +610,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 8,
+      "page_end": 8,
+      "section_path": "Exclusions (page 8)",
+      "schema_version": 2,
+      "token_estimate": 304,
+      "injection_flags": "",
+      "chunk_id": "7ca1c3e0192d5137f206"
     }
   },
   {
@@ -374,7 +634,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "16e63938dc96d1b6f19b"
     }
   },
   {
@@ -388,7 +658,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 396,
+      "injection_flags": "",
+      "chunk_id": "20f838e478e07ccd0054"
     }
   },
   {
@@ -402,7 +682,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 9,
+      "page_end": 9,
+      "section_path": "Waiting Period (page 9)",
+      "schema_version": 2,
+      "token_estimate": 228,
+      "injection_flags": "",
+      "chunk_id": "714d2b5cfbdc35bef2ba"
     }
   },
   {
@@ -416,7 +706,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "33856161d0cd43365907"
     }
   },
   {
@@ -430,7 +730,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "5a24cdce0cc8a96cdb25"
     }
   },
   {
@@ -444,7 +754,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 10,
+      "page_end": 10,
+      "section_path": "Waiting Period (page 10)",
+      "schema_version": 2,
+      "token_estimate": 200,
+      "injection_flags": "",
+      "chunk_id": "5ee8cab9da1615c901db"
     }
   },
   {
@@ -458,7 +778,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "b46297eae93e0b69354e"
     }
   },
   {
@@ -472,7 +802,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "dda938de69c7515e16e5"
     }
   },
   {
@@ -486,7 +826,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 11,
+      "page_end": 11,
+      "section_path": "Waiting Period (page 11)",
+      "schema_version": 2,
+      "token_estimate": 184,
+      "injection_flags": "",
+      "chunk_id": "b999ac33052dbc981939"
     }
   },
   {
@@ -500,7 +850,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "a3d9f5649f1c68ec81f5"
     }
   },
   {
@@ -514,7 +874,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "ff408c51886e10b6f75d"
     }
   },
   {
@@ -528,7 +898,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 12,
+      "page_end": 12,
+      "section_path": "Page 12",
+      "schema_version": 2,
+      "token_estimate": 353,
+      "injection_flags": "",
+      "chunk_id": "be62c3fefb10430011b0"
     }
   },
   {
@@ -542,7 +922,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 381,
+      "injection_flags": "",
+      "chunk_id": "830dcd1296acb733e247"
     }
   },
   {
@@ -556,7 +946,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 391,
+      "injection_flags": "",
+      "chunk_id": "04a2fb16463bafc8c85c"
     }
   },
   {
@@ -570,7 +970,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 13,
+      "page_end": 13,
+      "section_path": "Page 13",
+      "schema_version": 2,
+      "token_estimate": 160,
+      "injection_flags": "",
+      "chunk_id": "74bb1b3e08e12576eb47"
     }
   },
   {
@@ -584,7 +994,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "ad180d2a3977604aa11a"
     }
   },
   {
@@ -598,7 +1018,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 378,
+      "injection_flags": "",
+      "chunk_id": "12ad315ba75b7705018a"
     }
   },
   {
@@ -612,7 +1042,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 14,
+      "page_end": 14,
+      "section_path": "Waiting Period (page 14)",
+      "schema_version": 2,
+      "token_estimate": 328,
+      "injection_flags": "",
+      "chunk_id": "f1c23fdfc9f1f38fa0f3"
     }
   },
   {
@@ -626,7 +1066,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 374,
+      "injection_flags": "",
+      "chunk_id": "fa75ed69e6173f68fab5"
     }
   },
   {
@@ -640,7 +1090,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 394,
+      "injection_flags": "",
+      "chunk_id": "fb3f8acb27f8e174c579"
     }
   },
   {
@@ -654,7 +1114,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 15,
+      "page_end": 15,
+      "section_path": "Waiting Period (page 15)",
+      "schema_version": 2,
+      "token_estimate": 357,
+      "injection_flags": "",
+      "chunk_id": "02908748c2f7c6ce7264"
     }
   },
   {
@@ -668,7 +1138,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "For Cashless Claims (page 16)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "486137b5fc1147f92299"
     }
   },
   {
@@ -682,7 +1162,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "For Cashless Claims (page 16)",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "470f3c16d088ee3456bf"
     }
   },
   {
@@ -696,7 +1186,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 16,
+      "page_end": 16,
+      "section_path": "For Cashless Claims (page 16)",
+      "schema_version": 2,
+      "token_estimate": 229,
+      "injection_flags": "",
+      "chunk_id": "4370f1ea40eec69a1d2a"
     }
   },
   {
@@ -710,7 +1210,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 392,
+      "injection_flags": "",
+      "chunk_id": "c5813cea187016aad601"
     }
   },
   {
@@ -724,7 +1234,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 379,
+      "injection_flags": "",
+      "chunk_id": "fd049c0497618cd1cba3"
     }
   },
   {
@@ -738,7 +1258,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 17,
+      "page_end": 17,
+      "section_path": "Page 17",
+      "schema_version": 2,
+      "token_estimate": 294,
+      "injection_flags": "",
+      "chunk_id": "79f637a95bc108b7f1b8"
     }
   },
   {
@@ -752,7 +1282,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "b6f5065bfcaf1d0d985f"
     }
   },
   {
@@ -766,7 +1306,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 386,
+      "injection_flags": "",
+      "chunk_id": "7ec5bf7acc0fb0f68a06"
     }
   },
   {
@@ -780,7 +1330,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 18,
+      "page_end": 18,
+      "section_path": "Waiting Period (page 18)",
+      "schema_version": 2,
+      "token_estimate": 123,
+      "injection_flags": "",
+      "chunk_id": "fd8fc2b3b342c618f3a7"
     }
   },
   {
@@ -794,7 +1354,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 388,
+      "injection_flags": "",
+      "chunk_id": "fe95a3c9c9a8347295fe"
     }
   },
   {
@@ -808,7 +1378,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 393,
+      "injection_flags": "",
+      "chunk_id": "dcd7bf6a3e8b8a13bc25"
     }
   },
   {
@@ -822,7 +1402,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 19,
+      "page_end": 19,
+      "section_path": "Page 19",
+      "schema_version": 2,
+      "token_estimate": 164,
+      "injection_flags": "",
+      "chunk_id": "3b6c45e3347e0a9e4ad7"
     }
   },
   {
@@ -836,7 +1426,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "59bb2f1b919650b969b4"
     }
   },
   {
@@ -850,7 +1450,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 20,
+      "page_end": 20,
+      "section_path": "Page 20",
+      "schema_version": 2,
+      "token_estimate": 232,
+      "injection_flags": "",
+      "chunk_id": "e493ff8be88eab801798"
     }
   },
   {
@@ -864,7 +1474,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 387,
+      "injection_flags": "",
+      "chunk_id": "2bf4b4cdcd868758f44b"
     }
   },
   {
@@ -878,7 +1498,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 21,
+      "page_end": 21,
+      "section_path": "Page 21",
+      "schema_version": 2,
+      "token_estimate": 220,
+      "injection_flags": "",
+      "chunk_id": "3cdf3b1da57bee9511fe"
     }
   },
   {
@@ -892,7 +1522,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "9b3e036251f1607ef861"
     }
   },
   {
@@ -906,7 +1546,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 22,
+      "page_end": 22,
+      "section_path": "Page 22",
+      "schema_version": 2,
+      "token_estimate": 312,
+      "injection_flags": "",
+      "chunk_id": "c56da08437ed63668b82"
     }
   },
   {
@@ -920,7 +1570,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 397,
+      "injection_flags": "",
+      "chunk_id": "a2e630c1953fa2c6ce4b"
     }
   },
   {
@@ -934,7 +1594,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 23,
+      "page_end": 23,
+      "section_path": "Page 23",
+      "schema_version": 2,
+      "token_estimate": 108,
+      "injection_flags": "",
+      "chunk_id": "1697e2979cf1900b7c89"
     }
   },
   {
@@ -948,7 +1618,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 390,
+      "injection_flags": "",
+      "chunk_id": "4eb4506828746a914fd0"
     }
   },
   {
@@ -962,7 +1642,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 24,
+      "page_end": 24,
+      "section_path": "Page 24",
+      "schema_version": 2,
+      "token_estimate": 63,
+      "injection_flags": "",
+      "chunk_id": "e86812c124994acb43e7"
     }
   },
   {
@@ -976,7 +1666,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 380,
+      "injection_flags": "",
+      "chunk_id": "02c57d207e945635aa7f"
     }
   },
   {
@@ -990,7 +1690,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 25,
+      "page_end": 25,
+      "section_path": "Page 25",
+      "schema_version": 2,
+      "token_estimate": 65,
+      "injection_flags": "",
+      "chunk_id": "d5596636bb2b4a68582c"
     }
   },
   {
@@ -1004,7 +1714,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 399,
+      "injection_flags": "",
+      "chunk_id": "70e8dc6460fe3255402f"
     }
   },
   {
@@ -1018,7 +1738,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 26,
+      "page_end": 26,
+      "section_path": "Page 26",
+      "schema_version": 2,
+      "token_estimate": 110,
+      "injection_flags": "",
+      "chunk_id": "b1c630cb04b8d99226a2"
     }
   },
   {
@@ -1032,7 +1762,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 389,
+      "injection_flags": "",
+      "chunk_id": "98ee32ad0e21d114b95c"
     }
   },
   {
@@ -1046,7 +1786,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 27,
+      "page_end": 27,
+      "section_path": "Page 27",
+      "schema_version": 2,
+      "token_estimate": 281,
+      "injection_flags": "",
+      "chunk_id": "7bde2178c41d7b00f54a"
     }
   },
   {
@@ -1060,7 +1810,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 398,
+      "injection_flags": "",
+      "chunk_id": "36262c244b6904df8b2d"
     }
   },
   {
@@ -1074,7 +1834,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 28,
+      "page_end": 28,
+      "section_path": "Page 28",
+      "schema_version": 2,
+      "token_estimate": 232,
+      "injection_flags": "",
+      "chunk_id": "09235e8b96620cfd0cc9"
     }
   },
   {
@@ -1088,7 +1858,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 395,
+      "injection_flags": "",
+      "chunk_id": "69225c9fe13e84a454b0"
     }
   },
   {
@@ -1102,7 +1882,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 29,
+      "page_end": 29,
+      "section_path": "Page 29",
+      "schema_version": 2,
+      "token_estimate": 243,
+      "injection_flags": "",
+      "chunk_id": "92c8c4ae4cda0fd84883"
     }
   },
   {
@@ -1116,7 +1906,17 @@
       "source": "cholamandalam_group_health_insurance_policy_wording",
       "source_file": "health__group_health_insurance__policy_wording.pdf",
       "document_type": "policy_wording",
-      "line_of_business": "health"
+      "element_type": "text",
+      "source_rel": "data/raw_policies/cholamandalam/health__group_health_insurance__policy_wording.pdf",
+      "line_of_business": "health",
+      "source_doc_type": "policy_wording",
+      "page_start": 30,
+      "page_end": 30,
+      "section_path": "Page 30",
+      "schema_version": 2,
+      "token_estimate": 193,
+      "injection_flags": "",
+      "chunk_id": "8f937be7c279f8e33853"
     }
   }
 ]

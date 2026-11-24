@@ -61,6 +61,7 @@ class Trace:
                 "verified": (result.get("verification") or {}).get("verified"),
                 "unsupported": (result.get("verification") or {}).get("unsupported"),
                 "rejection_risk": result.get("rejection_risk"),
+                "guard": result.get("guard"),
                 "model": metrics.get("model"),
                 "prompt_tokens": metrics.get("prompt_tokens"),
                 "completion_tokens": metrics.get("completion_tokens"),

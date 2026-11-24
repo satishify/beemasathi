@@ -8,11 +8,26 @@ import json
 
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from config import EMBEDDING_MODEL, CHROMA_PATH, COLLECTION_NAME
+from config import (
+    CHROMA_PATH,
+    CHUNK_MAX_CHARS,
+    CHUNK_MAX_TOKENS,
+    CHUNK_OVERLAP,
+    CHUNK_OVERLAP_CHARS,
+    CHUNK_TARGET_CHARS,
+    COLLECTION_NAME,
+    EMBEDDING_MAX_INPUT_CHARS,
+    EMBEDDING_MAX_INPUT_TOKENS,
+    EMBEDDING_MODEL,
+    TABLE_EXTRACT_ENABLED,
+)
 from rag.embeddings import get_embedding_backend, hosted_configured
+from rag.index_manifest import verify_manifest, write_manifest
 from rag.provenance import is_allowed
 
 BASE_DIR = Path(__file__).parent.parent
+MANIFEST_NAME = "index_manifest.json"
+_WARNED_MANIFESTS = set()
 
 
 class PolicyVectorStore:
@@ -35,13 +50,85 @@ class PolicyVectorStore:
         self._encoder = get_embedding_backend(self.embed_fn)
         self._query_cache = {}
         self._catalog_cache = None
+        self.manifest_problems = self._check_manifest()
+
+    def _manifest_path(self) -> Path:
+        return Path(CHROMA_PATH) / MANIFEST_NAME
+
+    def _check_manifest(self) -> List[str]:
+        """Compare the stored index contract with the current config."""
+        path = self._manifest_path()
+        problems = verify_manifest(
+            path,
+            model=EMBEDDING_MODEL,
+            dim=self._encoder.dim,
+        )
+        key = (str(path), tuple(problems))
+        if problems and key not in _WARNED_MANIFESTS:
+            _WARNED_MANIFESTS.add(key)
+            for problem in problems:
+                print(f"Index manifest: {problem}")
+        return problems
+
+    def _chunk_params(self) -> Dict:
+        return {
+            "chunk_max_tokens": CHUNK_MAX_TOKENS,
+            "chunk_overlap_tokens": CHUNK_OVERLAP,
+            "chunk_target_chars": CHUNK_TARGET_CHARS,
+            "chunk_max_chars": CHUNK_MAX_CHARS,
+            "chunk_overlap_chars": CHUNK_OVERLAP_CHARS,
+            "embed_max_input_chars": EMBEDDING_MAX_INPUT_CHARS,
+            "embed_max_input_tokens": EMBEDDING_MAX_INPUT_TOKENS,
+            "table_extract": TABLE_EXTRACT_ENABLED,
+        }
+
+    def _write_manifest(self):
+        try:
+            write_manifest(
+                self._manifest_path(),
+                model=EMBEDDING_MODEL,
+                dim=self._encoder.dim,
+                chunks=self.collection.count(),
+                params=self._chunk_params(),
+                extra={
+                    "backend": self._encoder.name,
+                    "collection": COLLECTION_NAME,
+                },
+            )
+            self.manifest_problems = []
+        except OSError as exc:
+            print(f"Index manifest not written: {exc}")
     
+    @staticmethod
+    def _dedupe_chunks(chunks: List[Dict]) -> List[Dict]:
+        """Drop chunks whose content hash repeats inside one batch."""
+        seen = set()
+        unique = []
+        for chunk in chunks:
+            chunk_id = chunk["metadata"].get("chunk_id")
+            if chunk_id and chunk_id in seen:
+                continue
+            if chunk_id:
+                seen.add(chunk_id)
+            unique.append(chunk)
+        return unique
+
+    @staticmethod
+    def _chunk_ids(chunks: List[Dict]) -> List[str]:
+        ids = []
+        for index, chunk in enumerate(chunks):
+            meta = chunk["metadata"]
+            chunk_id = meta.get("chunk_id")
+            ids.append(f"{meta['source']}_{chunk_id or index}")
+        return ids
+
     def add_chunks(self, chunks: List[Dict]):
+        chunks = self._dedupe_chunks(chunks)
         if not chunks:
             print("No chunks to add.")
             return
             
-        ids = [f"{c['metadata']['source']}_{i}" for i, c in enumerate(chunks)]
+        ids = self._chunk_ids(chunks)
         texts = [c["text"] for c in chunks]
         metadatas = [c["metadata"] for c in chunks]
         embeddings = self._encoder.encode(texts).tolist()
@@ -53,10 +140,17 @@ class PolicyVectorStore:
             embeddings=embeddings,
         )
         self._catalog_cache = None
+        self._write_manifest()
         print(f"Upserted {len(chunks)} chunks into ChromaDB")
 
     def replace_source_chunks(self, chunks: List[Dict]):
-        """Replace all existing chunks for exactly one source."""
+        """Replace the chunks belonging to exactly one source document.
+
+        Documents that share a `source` key (brochure vs CIS, a re-scrape of
+        the same product) must not delete each other, so removal is scoped to
+        this file: its relative path when known, otherwise its file name and
+        insurer.
+        """
         if not chunks:
             print("No chunks to replace.")
             return
@@ -65,7 +159,23 @@ class PolicyVectorStore:
         if len(sources) != 1:
             raise ValueError("Replacement batch must contain exactly one source.")
 
-        self.collection.delete(where={"source": next(iter(sources))})
+        sample = chunks[0]["metadata"]
+        source_rel = sample.get("source_rel")
+        source_file = sample.get("source_file")
+        insurer = sample.get("insurer")
+        if source_rel:
+            self.collection.delete(where={"source_rel": source_rel})
+        if source_file and insurer:
+            self.collection.delete(
+                where={
+                    "$and": [
+                        {"source_file": Path(source_file).name},
+                        {"insurer": insurer},
+                    ]
+                }
+            )
+        elif not source_rel:
+            self.collection.delete(where={"source": next(iter(sources))})
         self.add_chunks(chunks)
 
     def _embed_query(self, query: str):
@@ -118,6 +228,7 @@ class PolicyVectorStore:
         return {
             "total_chunks": self.collection.count(),
             "embedding_backend": self._encoder.name,
+            "manifest_problems": list(self.manifest_problems),
         }
 
     def _catalog_from_index_file(self) -> List[Dict]:

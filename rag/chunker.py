@@ -1,13 +1,97 @@
 """Parse policy text (from HTML or PDF) into semantic chunks."""
 
+import hashlib
 import json
 import re
 from pathlib import Path
-from typing import List, Dict
+from typing import Dict, List
+
+from config import CHUNK_MAX_CHARS, CHUNK_OVERLAP_CHARS
+from rag.query_guard import scan_document
 
 BASE_DIR = Path(__file__).parent.parent
 CHUNKS_DIR = BASE_DIR / "data" / "chunks"
 CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
+
+SCHEMA_VERSION = 2
+CHARS_PER_TOKEN = 4
+TABLE_PIPE_LINE = re.compile(r"^\s*[^|\n]*\|[^|\n]*")
+
+
+def estimate_tokens(text: str) -> int:
+    return max(1, len(text) // CHARS_PER_TOKEN)
+
+
+def stable_chunk_id(source: str, section: str, page, text: str) -> str:
+    """Content-and-location hash: equal chunks collapse, different ones never do."""
+    digest = hashlib.sha1()
+    digest.update(f"{source}|{section}|{page}|{text}".encode("utf-8"))
+    return digest.hexdigest()[:20]
+
+
+def looks_like_table(text: str) -> bool:
+    lines = [line for line in text.splitlines() if line.strip()]
+    if len(lines) < 2:
+        return False
+    piped = sum(1 for line in lines if TABLE_PIPE_LINE.match(line))
+    return piped >= max(2, len(lines) // 2)
+
+
+def render_table(table: List[List]) -> str:
+    """Render an extracted table as pipe-separated rows the model can read."""
+    rows = []
+    for row in table or []:
+        cells = [re.sub(r"\s+", " ", str(cell or "")).strip() for cell in row]
+        if any(cells):
+            rows.append(" | ".join(cells))
+    return "\n".join(rows)
+
+
+def enrich_chunks(chunks: List[Dict], source: str) -> List[Dict]:
+    """Attach schema-v2 metadata. Text is never rewritten."""
+    for chunk in chunks:
+        meta = chunk["metadata"]
+        page = meta.get("page", "unknown")
+        meta.setdefault("page_start", page)
+        meta.setdefault("page_end", page)
+        meta["section_path"] = meta.get("section", "")
+        meta.setdefault(
+            "element_type",
+            "table" if looks_like_table(chunk["text"]) else "text",
+        )
+        meta["schema_version"] = SCHEMA_VERSION
+        meta["token_estimate"] = estimate_tokens(chunk["text"])
+        flags = scan_document(chunk["text"])
+        meta["injection_flags"] = json.dumps(flags) if flags else ""
+        meta["chunk_id"] = stable_chunk_id(
+            source, meta.get("section", ""), page, chunk["text"]
+        )
+    return chunks
+
+
+def _split_bounded(text: str, max_chars: int, overlap_chars: int) -> List[str]:
+    """Cut long text at line/space boundaries, carrying a small overlap."""
+    if len(text) <= max_chars:
+        return [text]
+    pieces = []
+    start = 0
+    total = len(text)
+    while start < total:
+        end = min(total, start + max_chars)
+        if end < total:
+            floor = start + max_chars // 2
+            cut = text.rfind("\n", floor, end)
+            if cut == -1:
+                cut = text.rfind(" ", floor, end)
+            if cut != -1:
+                end = cut
+        piece = text[start:end].strip()
+        if piece:
+            pieces.append(piece)
+        if end >= total:
+            break
+        start = max(end - overlap_chars, start + 1)
+    return pieces
 
 
 def parse_policy_to_chunks(
@@ -49,28 +133,32 @@ def parse_policy_to_chunks(
         if len(section_body) < 30:
             continue
         
-        # Further split large sections by sub-clauses
+        # Further split large sections by sub-clauses, then bound each piece
         sub_sections = re.split(r'\n(?=(?:\d+\.|[•\-]\s|\([a-z]\)\s))', section_body)
         
         for sub in sub_sections:
             sub = sub.strip()
             if len(sub) < 30:
                 continue
-            
-            # Detect chunk type
-            chunk_type = classify_chunk_type(sub, section_title)
-            
-            chunk = {
-                "text": sub,
-                "metadata": {
-                    "insurer": insurer,
-                    "policy_name": policy_name,
-                    "section": section_title[:100],
-                    "chunk_type": chunk_type,
-                    "source": f"{insurer}_{policy_name}",
+
+            for piece in _split_bounded(sub, CHUNK_MAX_CHARS, CHUNK_OVERLAP_CHARS):
+                if len(piece) < 30:
+                    continue
+
+                # Detect chunk type
+                chunk_type = classify_chunk_type(piece, section_title)
+
+                chunk = {
+                    "text": piece,
+                    "metadata": {
+                        "insurer": insurer,
+                        "policy_name": policy_name,
+                        "section": section_title[:100],
+                        "chunk_type": chunk_type,
+                        "source": f"{insurer}_{policy_name}",
+                    }
                 }
-            }
-            chunks.append(chunk)
+                chunks.append(chunk)
     
     if output_path:
         output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -124,7 +212,7 @@ def process_all_raw_policies():
         print(f"Processing TXT: {insurer}/{policy_name}")
         text = txt_file.read_text(encoding="utf-8")
         chunks = parse_policy_to_chunks(insurer, policy_name, text)
-        all_chunks.extend(chunks)
+        all_chunks.extend(enrich_chunks(chunks, f"{insurer}_{policy_name}"))
     
     # Process .pdf files (convert to text first)
     try:
@@ -138,7 +226,7 @@ def process_all_raw_policies():
                 text = '\n'.join([page.extract_text() or '' for page in pdf.pages])
             
             chunks = parse_policy_to_chunks(insurer, policy_name, text)
-            all_chunks.extend(chunks)
+            all_chunks.extend(enrich_chunks(chunks, f"{insurer}_{policy_name}"))
     except ImportError:
         print("pdfplumber not installed. Run: pip install pdfplumber")
     

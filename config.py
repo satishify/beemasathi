@@ -69,11 +69,22 @@ EMBEDDING_API_CA = os.getenv("BEEMASATHI_EMBED_CA") or ""
 EMBEDDING_API_BATCH = int(os.getenv("BEEMASATHI_EMBED_BATCH") or "16")
 
 CHROMA_PATH = "./data/chroma_db"
-COLLECTION_NAME = "policy_clauses"
+COLLECTION_NAME = os.getenv("BEEMASATHI_COLLECTION") or "policy_clauses"
 
 # Chunking config
 CHUNK_MAX_TOKENS = 512
 CHUNK_OVERLAP = 50
+CHUNK_TARGET_CHARS = int(os.getenv("BEEMASATHI_CHUNK_TARGET_CHARS") or "1200")
+CHUNK_MAX_CHARS = int(os.getenv("BEEMASATHI_CHUNK_MAX_CHARS") or "1800")
+CHUNK_OVERLAP_CHARS = int(os.getenv("BEEMASATHI_CHUNK_OVERLAP_CHARS") or "120")
+TABLE_EXTRACT_ENABLED = os.getenv("BEEMASATHI_TABLE_EXTRACT", "0") == "1"
+
+# Embedding input budget. The hosted bge-small endpoint rejects inputs above
+# 512 model tokens, so chunks are cut at a conservative character budget and
+# oversized inputs are re-cut from the token count the endpoint reports.
+EMBEDDING_MAX_INPUT_CHARS = int(os.getenv("BEEMASATHI_EMBED_MAX_CHARS") or "2000")
+EMBEDDING_MAX_INPUT_TOKENS = int(os.getenv("BEEMASATHI_EMBED_MAX_TOKENS") or "512")
+EMBEDDING_MAX_RECUT_PASSES = 4
 
 CONSTITUTIONAL_PROMPT = """You are BeemaSathi, a calm Indian health-insurance desk colleague. You help customers and policy staff understand coverage like a knowledgeable human assistant, not a form.
 
@@ -141,6 +152,13 @@ SECURITY_REFUSAL = (
     "I can't share internal instructions, credentials, or any customer's personal "
     "data, and I won't follow instructions that arrive inside documents.\n\n"
     "I can only answer health-insurance questions from the loaded policy wordings."
+)
+
+SAFETY_REFUSAL = (
+    "I cannot help with hiding medical history, backdating, or fabricating documents. "
+    "That can void the policy and is illegal.\n\n"
+    "If you want, I can explain what the loaded wording says about disclosure and "
+    "pre-existing conditions."
 )
 
 BANNED_PATTERNS = [

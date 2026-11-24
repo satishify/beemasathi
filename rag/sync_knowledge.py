@@ -12,7 +12,7 @@ from typing import Dict, List, Optional
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from config import KNOWLEDGE_SOURCES
-from rag.chunker import parse_policy_to_chunks
+from rag.chunker import enrich_chunks, parse_policy_to_chunks
 from rag.embedder import PolicyVectorStore
 from rag.ingest_pdf import ingest_pdf
 
@@ -23,7 +23,17 @@ SCAN_DIRS = (
     PROJECT_ROOT / "data" / "raw_policies",
 )
 INDEX_PATH = PROJECT_ROOT / "data" / "chunks" / "ingest_index.json"
-DOC_TYPES = {"policy_wording", "brochure", "regulation"}
+DOC_TYPES = {
+    "policy_wording",
+    "brochure",
+    "regulation",
+    "cis",
+    "prospectus",
+    "endorsement",
+}
+# Document types that carry their own authority weight, kept distinct from the
+# broad "brochure" label the scraper writes.
+SECONDARY_DOC_TYPES = {"cis", "prospectus", "endorsement"}
 SKIP_NAMES = {"manifest.json", "ingest_index.json"}
 INSURER_ALIASES = {
     "bajaj": "bajaj_allianz",
@@ -123,16 +133,25 @@ def infer_metadata(path: Path) -> Optional[Dict]:
         "insurer": None,
         "policy_name": None,
         "document_type": "policy_wording",
+        "source_doc_type": None,
         "line_of_business": None,
     }
     sidecar = _sidecar_meta(path)
     meta.update(
         {
             key: sidecar[key]
-            for key in ("insurer", "policy_name", "document_type", "line_of_business")
+            for key in (
+                "insurer",
+                "policy_name",
+                "document_type",
+                "source_doc_type",
+                "line_of_business",
+            )
             if sidecar.get(key)
         }
     )
+    sidecar_type = str(meta["document_type"] or "").lower()
+    sidecar_source_type = str(meta.get("source_doc_type") or "").lower()
 
     for part in path.parts:
         matched = match_insurer(part)
@@ -146,10 +165,11 @@ def infer_metadata(path: Path) -> Optional[Dict]:
         meta["document_type"] = "brochure"
     elif any(token in lowered for token in ("wording", "_pw", "-pw", "policy wording")):
         meta["document_type"] = "policy_wording"
-    if any(token in lowered for token in ("regulation", "guideline")) or match_insurer(stem) == "irdai":
-        if "brochure" not in lowered and "wording" not in lowered:
-            meta["document_type"] = "regulation"
-            meta["insurer"] = meta["insurer"] or "irdai"
+    if (meta["insurer"] == "irdai" or sidecar_type == "regulation") and (
+        "brochure" not in lowered and "wording" not in lowered
+    ):
+        meta["document_type"] = "regulation"
+        meta["insurer"] = meta["insurer"] or "irdai"
 
     tokens = [token for token in re.split(r"__+", stem) if token]
     if tokens and tokens[0] in {"health", "motor", "travel", "home", "commercial"}:
@@ -165,6 +185,12 @@ def infer_metadata(path: Path) -> Optional[Dict]:
         meta["policy_name"] = meta["policy_name"] or _policy_from_stem(
             "_".join(tokens[1:]), meta["insurer"] or ""
         )
+
+    if sidecar_type in DOC_TYPES:
+        meta["document_type"] = sidecar_type
+    meta["source_doc_type"] = sidecar_source_type or meta["document_type"]
+    if meta["source_doc_type"] in SECONDARY_DOC_TYPES:
+        meta["document_type"] = meta["source_doc_type"]
 
     if not meta["policy_name"] and meta["insurer"]:
         meta["policy_name"] = _policy_from_stem(stem, meta["insurer"])
@@ -197,6 +223,7 @@ def ingest_text(
     document_type: str,
     store: PolicyVectorStore = None,
     extra_metadata: Dict = None,
+    source_rel: str = None,
 ) -> Dict:
     text = path.read_text(encoding="utf-8", errors="ignore")
     chunks = parse_policy_to_chunks(insurer, policy_name, text)
@@ -210,9 +237,11 @@ def ingest_text(
                 "source_file": path.name,
                 "document_type": document_type,
                 "page": chunk["metadata"].get("page", "unknown"),
+                **({"source_rel": source_rel} if source_rel else {}),
                 **extra,
             }
         )
+    enrich_chunks(chunks, f"{insurer}_{policy_name}_{document_type}")
     store = store or PolicyVectorStore()
     store.replace_source_chunks(chunks)
     return {"chunks": len(chunks), "database_chunks": store.get_stats()["total_chunks"]}
@@ -261,7 +290,7 @@ def sync_knowledge(force: bool = False, dry_run: bool = False) -> Dict:
         try:
             extra = {
                 key: meta[key]
-                for key in ("line_of_business",)
+                for key in ("line_of_business", "source_doc_type")
                 if meta.get(key)
             }
             if path.suffix.lower() == ".pdf":
@@ -272,6 +301,7 @@ def sync_knowledge(force: bool = False, dry_run: bool = False) -> Dict:
                     document_type=meta["document_type"],
                     store=store,
                     extra_metadata=extra,
+                    source_rel=rel,
                 )
                 chunk_count = result["chunks"]
             else:
@@ -282,6 +312,7 @@ def sync_knowledge(force: bool = False, dry_run: bool = False) -> Dict:
                     document_type=meta["document_type"],
                     store=store,
                     extra_metadata=extra,
+                    source_rel=rel,
                 )
                 chunk_count = result["chunks"]
         except Exception as exc:

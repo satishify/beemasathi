@@ -15,6 +15,7 @@ from config import INSURERS
 from observability.trace import Trace
 from rag.catalog import entry_line, entry_vehicle
 from rag.generator import BimaSaathiGenerator
+from rag.query_guard import scan_query
 from rag.retriever import PolicyRetriever
 
 
@@ -68,6 +69,17 @@ class BeemaSathiOrchestrator:
         catalog: Optional[List[Dict]] = None,
     ) -> Dict:
         catalog = catalog if catalog is not None else self.retriever.store.get_catalog()
+
+        guard = scan_query(question)
+        if guard.action == "refuse":
+            plan = self.route(question, insurer, policy_name)
+            plan = TaskPlan(question, guard.plan_intent, plan.insurers, plan.policies)
+            result = guard.refusal_result(self.generator.model)
+            result["guard"] = guard.as_dict()
+            return self._wrap(
+                result, plan, {"verified": True, "unsupported": []}, []
+            )
+
         plan = self.route(question, insurer, policy_name)
 
         if plan.intent in {"safety", "security", "scope"}:

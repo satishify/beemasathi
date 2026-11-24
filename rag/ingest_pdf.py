@@ -11,7 +11,13 @@ import pdfplumber
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from rag.chunker import infer_chunk_type
+from config import TABLE_EXTRACT_ENABLED
+from rag.chunker import (
+    enrich_chunks,
+    infer_chunk_type,
+    looks_like_table,
+    render_table,
+)
 from rag.embedder import PolicyVectorStore
 
 
@@ -89,6 +95,22 @@ def extract_pdf_pages(pdf_path: Path) -> List[Tuple[int, str]]:
     return pages
 
 
+def extract_pdf_tables(pdf_path: Path) -> Dict[int, List[str]]:
+    """Render detected tables per page as pipe-separated rows."""
+    tables: Dict[int, List[str]] = {}
+    with pdfplumber.open(pdf_path) as pdf:
+        for page_number, page in enumerate(pdf.pages, 1):
+            try:
+                raw = page.extract_tables() or []
+            except Exception:
+                continue
+            rendered = [render_table(table) for table in raw]
+            rendered = [item for item in rendered if item.strip()]
+            if rendered:
+                tables[page_number] = rendered
+    return tables
+
+
 def _section_for_page(text: str, page_number: int) -> str:
     lowered = text.lower()
     for hint in SECTION_HINTS:
@@ -97,7 +119,9 @@ def _section_for_page(text: str, page_number: int) -> str:
     return f"Page {page_number}"
 
 
-def _split_page(text: str, max_chars: int = 1600) -> List[str]:
+def _split_page(
+    text: str, max_chars: int = 1600, min_chars: int = 80
+) -> List[str]:
     """Split page text into bounded, overlapping line groups."""
     lines = text.splitlines()
     chunks = []
@@ -117,7 +141,7 @@ def _split_page(text: str, max_chars: int = 1600) -> List[str]:
 
     if current:
         chunks.append("\n".join(current))
-    return [chunk for chunk in chunks if len(chunk) >= 80]
+    return [chunk for chunk in chunks if len(chunk) >= min_chars]
 
 
 def build_pdf_chunks(
@@ -126,6 +150,7 @@ def build_pdf_chunks(
     policy_name: str,
     source_file: str,
     document_type: str,
+    source_rel: str = None,
 ) -> List[Dict]:
     """Create searchable chunks while preserving page-level citations."""
     source = f"{insurer}_{policy_name}_{document_type}"
@@ -133,21 +158,53 @@ def build_pdf_chunks(
     for page_number, page_text in pages:
         section = _section_for_page(page_text, page_number)
         for page_chunk in _split_page(page_text):
-            chunks.append(
-                {
-                    "text": page_chunk,
-                    "metadata": {
-                        "insurer": insurer,
-                        "policy_name": policy_name,
-                        "section": section,
-                        "page": page_number,
-                        "chunk_type": infer_chunk_type(page_chunk),
-                        "source": source,
-                        "source_file": source_file,
-                        "document_type": document_type,
-                    },
+            metadata = {
+                "insurer": insurer,
+                "policy_name": policy_name,
+                "section": section,
+                "page": page_number,
+                "chunk_type": infer_chunk_type(page_chunk),
+                "source": source,
+                "source_file": source_file,
+                "document_type": document_type,
+                "element_type": (
+                    "table" if looks_like_table(page_chunk) else "text"
+                ),
+            }
+            if source_rel:
+                metadata["source_rel"] = source_rel
+            chunks.append({"text": page_chunk, "metadata": metadata})
+    return chunks
+
+
+def build_table_chunks(
+    tables: Dict[int, List[str]],
+    insurer: str,
+    policy_name: str,
+    source_file: str,
+    document_type: str,
+    source_rel: str = None,
+) -> List[Dict]:
+    """Turn each extracted table into page-cited, bounded chunks."""
+    source = f"{insurer}_{policy_name}_{document_type}"
+    chunks = []
+    for page_number in sorted(tables):
+        for rendered in tables[page_number]:
+            for piece in _split_page(rendered, min_chars=20):
+                metadata = {
+                    "insurer": insurer,
+                    "policy_name": policy_name,
+                    "section": f"Table (page {page_number})",
+                    "page": page_number,
+                    "chunk_type": infer_chunk_type(piece),
+                    "source": source,
+                    "source_file": source_file,
+                    "document_type": document_type,
+                    "element_type": "table",
                 }
-            )
+                if source_rel:
+                    metadata["source_rel"] = source_rel
+                chunks.append({"text": piece, "metadata": metadata})
     return chunks
 
 
@@ -158,6 +215,7 @@ def ingest_pdf(
     document_type: str = "policy_wording",
     store: PolicyVectorStore = None,
     extra_metadata: Dict = None,
+    source_rel: str = None,
 ) -> Dict:
     """Run extraction, chunk persistence, and ChromaDB replacement."""
     pdf_path = pdf_path.expanduser().resolve()
@@ -171,7 +229,19 @@ def ingest_pdf(
         policy_name=policy_name,
         source_file=pdf_path.name,
         document_type=document_type,
+        source_rel=source_rel,
     )
+    if TABLE_EXTRACT_ENABLED:
+        chunks.extend(
+            build_table_chunks(
+                tables=extract_pdf_tables(pdf_path),
+                insurer=insurer,
+                policy_name=policy_name,
+                source_file=pdf_path.name,
+                document_type=document_type,
+                source_rel=source_rel,
+            )
+        )
     if not chunks:
         raise ValueError("Text was extracted, but no usable chunks were produced.")
 
@@ -179,6 +249,7 @@ def ingest_pdf(
     if extra:
         for chunk in chunks:
             chunk["metadata"].update(extra)
+    enrich_chunks(chunks, f"{insurer}_{policy_name}_{document_type}")
 
     PARSED_DIR.mkdir(parents=True, exist_ok=True)
     CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
@@ -220,7 +291,14 @@ def main() -> None:
     parser.add_argument(
         "--document-type",
         default="policy_wording",
-        choices=["policy_wording", "brochure", "regulation"],
+        choices=[
+            "policy_wording",
+            "brochure",
+            "regulation",
+            "cis",
+            "prospectus",
+            "endorsement",
+        ],
     )
     args = parser.parse_args()
 

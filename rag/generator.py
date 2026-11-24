@@ -21,6 +21,7 @@ from config import (
     LLM_API_CONTEXT,
     LLM_API_MODEL,
     LLM_LOCAL,
+    SAFETY_REFUSAL,
     SECURITY_PATTERNS,
     SECURITY_REFUSAL,
 )
@@ -552,12 +553,7 @@ class BimaSaathiGenerator:
         user_safe, user_reason = self._safety_check(question)
         if not user_safe:
             return {
-                "answer": (
-                    "I cannot help with hiding medical history, backdating, "
-                    "or fabricating documents. That can void the policy and is illegal.\n\n"
-                    "If you want, I can explain what the loaded wording says about "
-                    "disclosure and pre-existing conditions."
-                ),
+                "answer": SAFETY_REFUSAL,
                 "safe": False,
                 "sources": [],
                 "rejection_risk": "high",

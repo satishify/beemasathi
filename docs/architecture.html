@@ -49,7 +49,7 @@
         <tr><td>Retrieval</td><td>Dense + BM25 + typed searches fused with reciprocal-rank fusion, authority weights, policy-name detection</td></tr>
         <tr><td>Agent layer</td><td>Intent router with typed plans, per-insurer fan-out for comparisons, authority resolver, number/UIN critic with one structured retry</td></tr>
         <tr><td>Generation</td><td>Qwen3-8B via OpenAI-compatible API, or qwen2.5:7b via local Ollama; baseline, zero-shot and structured prompts</td></tr>
-        <tr><td>Guardrails</td><td>Constitutional prompt, refusal rules, leak sanitiser, banned fraud patterns, and pre-model security patterns for prompt/secret/PII extraction and injection</td></tr>
+        <tr><td>Guardrails</td><td>Constitutional prompt, refusal rules, leak sanitiser, banned fraud patterns, and a pre-model query guard for prompt/secret/PII extraction, fraud advice and injection, matched after Unicode normalisation (zero-width, homoglyph, spaced-letter and leetspeak obfuscation)</td></tr>
         <tr><td>Observability</td><td>Per-request JSONL traces with hashed question, redacted preview, tokens, latency and intent; summary CLI</td></tr>
         <tr><td>Claim risk</td><td>Rule engine, 4 of 6 configured rules implemented</td></tr>
         <tr><td>Interfaces</td><td>Streamlit client; FastAPI service with <code>/ask</code>, <code>/plan</code>, <code>/predict</code>, <code>/insurers</code>, <code>/health</code> and a token-bucket rate limit</td></tr>
@@ -174,7 +174,7 @@
       <li><b>Typed search.</b> When a clause type was inferred, dense and lexical probes rerun with <code>chunk_type</code> fixed and a floor of eight results.</li>
       <li><b>Fusion.</b> <code>_fuse()</code> adds <code>1 / (60 + rank)</code> for every list an item appears in, keeping the smallest cosine distance seen. Rank agreement beats a single strong hit.</li>
       <li><b>Dedupe.</b> Items collapse on <code>(source, page, first 160 characters)</code> so the same clause quoted in two passes is scored once.</li>
-      <li><b>Fallback.</b> If filtered retrieval returns nothing, one unfiltered dense pass runs rather than returning an empty context.</li>
+      <li><b>Fallback.</b> If filtered retrieval returns nothing, one dense pass reruns without the policy-name and chunk-type hints. A selected insurer is kept, and chunks whose source file is absent from the ingest ledger are dropped from every pass.</li>
       <li><b>Line preference.</b> When the question names a line and no insurer or policy is fixed, chunks from the other line are dropped if any matching-line chunks exist.</li>
       <li><b>Rerank.</b> Final score = RRF relevance + <code>0.05 × authority</code> + line bonus <code>0.012</code> + policy-name bonus <code>0.02–0.03</code> + <code>0.002</code> per overlapping keyword. The question also reweights document types: asking for a brochure makes brochures authoritative for that query instead of the default ordering.</li>
     </ol>
@@ -348,11 +348,17 @@
         The baseline review found four trust-breaking corpus defects — a residual demo policy in
         the production collection, vector IDs that collided across documents, a catalogue that had
         drifted from the vector store, and lossy document-type mapping. Those were Gate G1 and are
-        closed: the index has no demo source, re-ingesting a source replaces its chunks instead of
-        duplicating them, and the catalogue is read from the vector store. What remains is
-        extraction and evaluation depth: no OCR or table-aware parsing, 58% of chunks cite only a
-        page, two motor questions still miss the supporting document, the judge is the same model
-        as the generator, and the planned ablations and human audit have not run yet.
+        closed: no demo chunk can be retrieved or listed, re-ingesting replaces only that file's
+        chunks (keyed by relative path, with content-hash IDs), CIS, prospectus and endorsement
+        documents keep their own authority weight instead of collapsing into "brochure", and the
+        catalogue is read from the vector store. The ingest pipeline now writes a schema-v2 chunk
+        record (stable content hash, section path, page span, element type, token estimate and
+        document-injection flags) and can parse tables when
+        <code>BEEMASATHI_TABLE_EXTRACT=1</code>; the live index predates that enrichment, so a
+        forced re-ingest is required to pick it up. What remains is extraction and evaluation
+        depth: no OCR, 58% of chunks cite only a page, two motor questions still miss the
+        supporting document, the judge is the same model as the generator, and the planned
+        ablations and human audit have not run yet.
       </p>
       <p><a href="https://github.com/satishify/beemasathi/blob/main/PROJECT_REVIEW.md">Full defect register and evidence →</a></p>
     </div>

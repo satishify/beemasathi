@@ -24,6 +24,7 @@ data/raw_policies/
 data/raw_pdfs/
 data/irdai/
 data/chroma_db/
+data/chroma_db.backup-*/
 data/manual_downloads.html
 
 # Runtime

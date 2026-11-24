@@ -179,6 +179,34 @@ class IntentRouter:
         )
         return [matched] if matched else []
 
+    def find_policies_by_insurer(self, question: str) -> Dict[str, List[str]]:
+        """Match each insurer to the plan named next to it in the question.
+
+        A single match over the whole question lets one plan's words claim a
+        match from another insurer ("Optima Super" matching a Star Health
+        policy), so each insurer only sees the text between its mention and
+        the next one.
+        """
+        text = f" {_normalize(question)} "
+        found: Dict[str, int] = {}
+        for key, aliases in INSURER_ALIASES.items():
+            for alias in aliases:
+                index = text.find(f" {alias} ")
+                if index >= 0:
+                    found[key] = index
+                    break
+        if not found:
+            return {}
+        ordered = sorted((index, key) for key, index in found.items())
+        bounds = [index for index, _ in ordered[1:]] + [len(text)]
+        result: Dict[str, List[str]] = {}
+        for (index, key), end in zip(ordered, bounds):
+            matched = match_policy(
+                text[index:end].split(), self._catalog_policies(), key
+            )
+            result[key] = _specific_policies([matched] if matched else [])
+        return result
+
     def route(
         self,
         question: str,

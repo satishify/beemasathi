@@ -350,13 +350,30 @@ class BeemaSathiOrchestrator:
         prompt_tokens = 0
         completion_tokens = 0
         safe = True
+        # Resolve the plan each insurer was asked about, separately. A single
+        # global match can return a plan from the wrong insurer, and insurer-wide
+        # retrieval would let one product's clause be attributed to another.
+        named_by_insurer = self.router.find_policies_by_insurer(question)
+        question_names_plan = any(named_by_insurer.values())
         for key in insurers:
-            chunks = self.retriever.retrieve(query=question, insurer=key, n_results=6)
+            label = INSURERS.get(key, {}).get("name", key)
+            named = named_by_insurer.get(key) or []
+            if question_names_plan and not named:
+                parts.append(
+                    f"**{label}**\nI don't have the policy named for {label} "
+                    "loaded, so I can't compare its clauses."
+                )
+                continue
+            chunks = self.retriever.retrieve(
+                query=question,
+                insurer=key,
+                policy_name=named[0] if named else None,
+                n_results=6,
+            )
             chunks = resolve_authority(chunks, prefer_brochure=plan.prefer_brochure)
             result = self.generator.generate(
                 chunks, question, catalog=catalog, strategy=strategy
             )
-            label = INSURERS.get(key, {}).get("name", key)
             parts.append(f"**{label}**\n{result.get('answer', '')}")
             sources.extend(result.get("sources") or [])
             used_chunks.extend(chunks)

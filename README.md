@@ -22,13 +22,27 @@ BEEMASATHI_LLM_MODEL=Qwen/Qwen3-8B
 BEEMASATHI_LLM_CA=/absolute/path/to/vm06-ca.crt
 ```
 
+Indexing and search share one embedding model. Set the hosted embedding endpoint
+as well, or leave the base blank to run `bge-small-en-v1.5` locally through
+sentence-transformers:
+
+```ini
+BEEMASATHI_EMBED_BASE=                              # hosted /embeddings endpoint
+BEEMASATHI_EMBED_KEY=your-group-key
+BEEMASATHI_EMBED_MODEL=bge-small-en-v1.5
+BEEMASATHI_EMBED_CA=/absolute/path/to/ca.crt
+```
+
+The index vectors and the query vectors must come from the same model, so do not
+mix the hosted and local embedding backends against one Chroma collection.
+
 With those set, `appctl.sh` skips Ollama entirely and does not load a local
 model. Without them, it falls back to the local Ollama setup below.
 
-### 1. Install Ollama + Mistral 7B
+### 1. Install Ollama + Qwen2.5 7B
 ```bash
 brew install ollama
-ollama pull mistral:7b
+ollama pull qwen2.5:7b
 ```
 
 ### 2. Setup Python Environment

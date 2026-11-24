@@ -97,7 +97,7 @@
         </tr>
         <tr>
           <td><b>Embed</b><br><code>rag/embeddings.py</code></td>
-          <td>OpenAI-compatible embedding calls, 16 texts per request, retried on capacity errors, vectors L2-normalized before storage and search</td>
+          <td>OpenAI-compatible embedding calls, 16 texts per request, inputs capped at 512 tokens with a proportional re-cut on HTTP 422 (up to four passes), retried on capacity errors, vectors L2-normalized before storage and search</td>
           <td><code>POST {BEEMASATHI_EMBED_BASE}/embeddings</code><br>via <code>requests.Session.post()</code><br>Bearer key from a gitignored file<br>Local fallback: <code>SentenceTransformerEmbeddingFunction("BAAI/bge-small-en-v1.5")</code></td>
         </tr>
         <tr>
@@ -351,12 +351,14 @@
         closed: no demo chunk can be retrieved or listed, re-ingesting replaces only that file's
         chunks (keyed by relative path, with content-hash IDs), CIS, prospectus and endorsement
         documents keep their own authority weight instead of collapsing into "brochure", and the
-        catalogue is read from the vector store. The ingest pipeline now writes a schema-v2 chunk
+        catalogue is read from the vector store. The ingest pipeline writes a schema-v2 chunk
         record (stable content hash, section path, page span, element type, token estimate and
-        document-injection flags) and can parse tables when
-        <code>BEEMASATHI_TABLE_EXTRACT=1</code>; the live index predates that enrichment, so a
-        forced re-ingest is required to pick it up. What remains is extraction and evaluation
-        depth: no OCR, 58% of chunks cite only a page, two motor questions still miss the
+        document-injection flags) and parses tables when
+        <code>BEEMASATHI_TABLE_EXTRACT=1</code>. The live index was rebuilt with schema v2:
+        48,472 of 48,572 chunks carry it, 94 earlier IRDAI-regulation chunks predate it and are
+        still served through the regulation allow-list, and 6 demo chunks with no ledger entry are
+        dropped before ranking. What remains is extraction and evaluation
+        depth: no OCR, 57% of chunks cite only a page, two motor questions still miss the
         supporting document, the judge is the same model as the generator, and the planned
         ablations and human audit have not run yet.
       </p>

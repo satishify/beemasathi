@@ -52,15 +52,17 @@
     <h2>What is indexed today</h2>
     <div class="stats cols-4">
       <div class="stat"><b>923</b><span>source files indexed</span></div>
-      <div class="stat"><b>924</b><span>PDFs collected (1.2 GB)</span></div>
-      <div class="stat"><b>362</b><span>policy wordings</span></div>
-      <div class="stat"><b>559</b><span>brochures, CIS, prospectus</span></div>
+      <div class="stat"><b>924</b><span>PDFs collected (1.1 GB)</span></div>
+      <div class="stat"><b>337</b><span>policy wordings</span></div>
+      <div class="stat"><b>558</b><span>brochures, CIS, prospectus</span></div>
     </div>
     <div class="note">
       <p>
         Composition matters. Brochures and summaries are the majority of the corpus, so default
         similarity search tends to surface them. The target design treats document type as a hard
-        authority signal for coverage questions, not a tiebreaker.
+        authority signal for coverage questions, not a tiebreaker. The remaining documents are 26
+        endorsements and 2 IRDAI regulations; endorsements outrank summaries because they amend
+        the contract.
       </p>
     </div>
   </section>
@@ -71,7 +73,7 @@
       <li>Only insurer-owned or regulator domains are accepted; third-party mirrors are rejected.</li>
       <li>PDFs are validated by signature and size; revision is resolved by date and revision marker.</li>
       <li>Each document carries a sidecar with insurer, product, document type, source URL and UIN.</li>
-      <li>Each chunk carries <code>source_file</code>, page, section, clause type, document type and line of business.</li>
+      <li>Each chunk carries <code>source_rel</code>, <code>chunk_id</code>, <code>page_start</code>/<code>page_end</code>, <code>section_path</code>, <code>element_type</code>, <code>document_type</code>, <code>line_of_business</code>, <code>token_estimate</code> and <code>injection_flags</code> under schema v2.</li>
       <li>A document without provenance cannot enter the collection.</li>
       <li>Each sync records SHA-256, chunk count and indexing time in the ingest ledger; re-ingesting a source replaces its chunks instead of duplicating them.</li>
     </ul>
@@ -114,9 +116,9 @@
     <h2>Known extraction limits</h2>
     <ul>
       <li>Page-sliced chunking cuts some clauses at page boundaries.</li>
-      <li>Tables are not extracted yet, so waiting-period and sub-limit data can be incomplete.</li>
+      <li>Table-aware extraction is available behind <code>BEEMASATHI_TABLE_EXTRACT=1</code> and 39 table chunks are indexed, but many tables still arrive as flat text, so waiting-period and sub-limit data can be incomplete.</li>
       <li>Six image-only PDFs fail extraction on every run; OCR fallback is not implemented yet.</li>
-      <li>58% of chunks carry only a page label, so section-level citation is often approximate.</li>
+      <li>57% of chunks carry only a page label, so section-level citation is often approximate.</li>
     </ul>
   </section>
 

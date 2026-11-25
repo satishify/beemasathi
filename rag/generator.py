@@ -30,6 +30,26 @@ from rag.catalog import line_counts
 # The hosted group key allows one in-flight request, so serialize API calls.
 _API_LOCK = threading.Lock()
 _API_RETRY_DELAYS = (2, 4, 8)
+_ROOT_DIR = Path(__file__).resolve().parent.parent
+
+
+def _hosted_ca_verify() -> Any:
+    """Resolve a relative CA path against the project root."""
+    if not LLM_API_CA:
+        return True
+    path = Path(LLM_API_CA)
+    return str(path if path.is_absolute() else _ROOT_DIR / path)
+
+
+def _local_backend_ready() -> bool:
+    """True when an Ollama server is listening, so a fallback can answer."""
+    try:
+        import httpx
+
+        httpx.get("http://127.0.0.1:11434/api/tags", timeout=2.0)
+        return True
+    except Exception:
+        return False
 
 
 MISSING_KNOWLEDGE_ANSWER = (
@@ -324,9 +344,24 @@ class BimaSaathiGenerator:
     ) -> Tuple[str, Dict[str, Any]]:
         """Answer with the configured backend and retain runtime metrics."""
         chat_messages = messages or [{"role": "user", "content": prompt}]
-        if self.use_api:
+        if not self.use_api:
+            return self._call_local(prompt, chat_messages)
+        try:
             return self._call_api(chat_messages)
-        return self._call_local(prompt, chat_messages)
+        except Exception as hosted_error:
+            # A hosted outage should not take the app down when the machine
+            # already has Ollama; retry the same prompt locally and say so in
+            # the metrics so a run is never silently served by another model.
+            if not _local_backend_ready():
+                raise
+            answer, metrics = self._call_local(
+                prompt, chat_messages, model=LLM_LOCAL
+            )
+            return answer, {
+                **metrics,
+                "fallback": "hosted-unavailable",
+                "hosted_error": str(hosted_error)[:200],
+            }
 
     def _call_api(self, messages: List[Dict[str, str]]) -> Tuple[str, Dict[str, Any]]:
         """Call the hosted OpenAI-compatible endpoint with bounded retries."""
@@ -347,9 +382,9 @@ class BimaSaathiGenerator:
         data = None
         with _API_LOCK:
             with httpx.Client(
-                verify=LLM_API_CA or True,
+                verify=_hosted_ca_verify(),
                 trust_env=False,
-                timeout=httpx.Timeout(180.0, connect=20.0),
+                timeout=httpx.Timeout(180.0, connect=10.0),
             ) as client:
                 for delay in _API_RETRY_DELAYS + (None,):
                     response = client.post(
@@ -389,9 +424,13 @@ class BimaSaathiGenerator:
         return content, metrics
 
     def _call_local(
-        self, prompt: str, chat_messages: List[Dict[str, str]]
+        self,
+        prompt: str,
+        chat_messages: List[Dict[str, str]],
+        model: str = None,
     ) -> Tuple[str, Dict[str, Any]]:
         """Call the local Ollama model and retain non-sensitive runtime metrics."""
+        model_name = model or self.model
         try:
             import ollama
         except ImportError:
@@ -399,7 +438,7 @@ class BimaSaathiGenerator:
 
         if ollama is not None:
             response = ollama.chat(
-                model=self.model,
+                model=model_name,
                 messages=chat_messages,
                 options={"temperature": 0.4, "num_ctx": 8192}
             )
@@ -416,7 +455,7 @@ class BimaSaathiGenerator:
             )
             metrics = {
                 "backend": "ollama-python",
-                "model": get_value("model", self.model),
+                "model": get_value("model", model_name),
                 "done_reason": get_value("done_reason"),
                 "total_duration_ns": get_value("total_duration"),
                 "load_duration_ns": get_value("load_duration"),
@@ -430,12 +469,12 @@ class BimaSaathiGenerator:
         # Fallback: use ollama CLI via subprocess
         import subprocess
         result = subprocess.run(
-            ["ollama", "run", self.model, prompt],
+            ["ollama", "run", model_name, prompt],
             capture_output=True, text=True, timeout=120
         )
         return result.stdout.strip(), {
             "backend": "ollama-cli",
-            "model": self.model,
+            "model": model_name,
         }
 
     def _pretty_policy_name(self, raw: str) -> str:

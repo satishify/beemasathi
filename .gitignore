@@ -19,13 +19,17 @@ VM02_Embeddings_Access/
 .DS_Store
 
 # Corpus artifacts: third-party PDFs and vector store are rebuilt locally,
-# never committed. See DATA.md.
+# never committed. See docs/PROJECT.md, "Data layout and exclusions".
 data/raw_policies/
 data/raw_pdfs/
 data/irdai/
 data/chroma_db/
 data/chroma_db.backup-*/
 data/manual_downloads.html
+
+# Distribution archives (built locally, uploaded by hand)
+BeemaSathi_submission.zip
+BeemaSathi_full.zip
 
 # Runtime
 logs/

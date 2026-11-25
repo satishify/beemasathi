@@ -17,10 +17,34 @@ from ui.debug_tools import format_bytes, get_ollama_runtime
 
 DEBUG_MODE = os.getenv("BEEMASATHI_DEBUG", "").lower() in {"1", "true", "yes", "on"}
 
+BRAND_LOGO = str(
+    Path(__file__).parent.parent / "assets" / "branding" / "beemasathi-logo.png"
+)
+BRAND_ICON = str(
+    Path(__file__).parent.parent / "assets" / "branding" / "beemasathi-mark.png"
+)
+
 st.set_page_config(
     page_title="BeemaSathi",
-    page_icon="🛡️",
+    page_icon=BRAND_ICON,
     layout="wide",
+)
+
+st.logo(BRAND_LOGO, size="large", icon_image=BRAND_ICON)
+
+# st.logo caps height at 32px, which shrinks the tagline to an unreadable size.
+st.markdown(
+    """
+    <style>
+    [data-testid="stSidebarLogo"] {
+        height: auto !important;
+        max-height: 56px;
+        width: auto !important;
+        max-width: 100%;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
 )
 
 # Session state
@@ -31,16 +55,15 @@ if "debug_data" not in st.session_state:
 
 # Sidebar
 with st.sidebar:
-    st.title("🛡️ BeemaSathi")
-    st.markdown("*Health and motor insurance desk*")
+    st.caption("Health and motor insurance desk")
     st.divider()
 
-    st.subheader("Select Knowledge Source")
+    st.subheader("Knowledge source")
     insurer = st.selectbox(
-        "Insurer / Regulator",
+        "Insurer or regulator",
         ["Any"] + [v["name"] for v in KNOWLEDGE_SOURCES.values()],
     )
-    policy = st.text_input("Policy Name (optional)", placeholder="e.g., Comprehensive")
+    policy = st.text_input("Policy name (optional)", placeholder="e.g., Comprehensive")
 
     st.divider()
     st.subheader("Tools")
@@ -49,7 +72,7 @@ with st.sidebar:
     debug_visible = False
     if DEBUG_MODE:
         st.divider()
-        st.subheader("Developer Debugging")
+        st.subheader("Developer debugging")
         debug_visible = st.toggle(
             "Show live diagnostics",
             value=True,
@@ -67,7 +90,7 @@ with st.sidebar:
     """)
 
 # Main area
-st.title("🛡️ BeemaSathi")
+st.title("BeemaSathi")
 st.caption("Your desk colleague for Indian health and motor insurance.")
 
 # Initialize backend
@@ -106,7 +129,7 @@ indexed_catalog = load_catalog()
 
 with st.sidebar:
     st.divider()
-    st.subheader("Indexed Knowledge")
+    st.subheader("Indexed knowledge")
     if indexed_catalog:
         insurers = {item["insurer"] for item in indexed_catalog}
         summary = (
@@ -273,7 +296,7 @@ def publish_debug(debug_data):
 with main_area:
     # Tool: Claim Predictor
     if tool_mode == "Claim Predictor":
-        st.header("🔮 Claim Rejection Predictor")
+        st.header("Claim rejection predictor")
         st.markdown("Fill in your details to check rejection risk BEFORE filing.")
 
         col1, col2 = st.columns(2)
@@ -283,8 +306,8 @@ with main_area:
                 list(INSURERS.keys()),
                 format_func=lambda x: INSURERS[x]["name"],
             )
-            cp_policy = st.text_input("Policy Name", value="comprehensive")
-            cp_hospital = st.text_input("Hospital Name")
+            cp_policy = st.text_input("Policy name", value="comprehensive")
+            cp_hospital = st.text_input("Hospital name")
             cp_network = st.selectbox(
                 "Is it a network/cashless hospital?",
                 [None, True, False],
@@ -293,24 +316,24 @@ with main_area:
                 ),
             )
             cp_procedure = st.text_input(
-                "Procedure/Treatment",
+                "Procedure or treatment",
                 placeholder="e.g., Angioplasty",
             )
 
         with col2:
             cp_room_rent = st.number_input(
-                "Room Rent per Day (₹)",
+                "Room rent per day (₹)",
                 min_value=0,
                 value=0,
                 step=500,
             )
             cp_si = st.number_input(
-                "Sum Insured (₹)",
+                "Sum insured (₹)",
                 min_value=0,
                 value=500000,
                 step=100000,
             )
-            cp_ped = st.checkbox("Have Pre-existing Disease (Diabetes/BP/etc)?")
+            cp_ped = st.checkbox("Pre-existing disease (diabetes, BP, etc.)?")
             cp_months = st.number_input(
                 "Months since policy started",
                 min_value=0,
@@ -322,7 +345,7 @@ with main_area:
                 value=12,
             )
 
-        if st.button("Predict Rejection Risk", type="primary"):
+        if st.button("Predict rejection risk", type="primary"):
             publish_debug(
                 {
                     "stage": "Running claim rule engine",
@@ -361,24 +384,34 @@ with main_area:
             level = result["risk_level"]
 
             if risk < 30:
-                st.success(f"✅ Rejection Risk: {risk}% — {level}")
+                st.success(
+                    f"Rejection risk: {risk}% — {level}",
+                    icon=":material/check_circle:",
+                )
             elif risk < 60:
-                st.warning(f"⚠️ Rejection Risk: {risk}% — {level}")
+                st.warning(
+                    f"Rejection risk: {risk}% — {level}",
+                    icon=":material/warning:",
+                )
             else:
-                st.error(f"🚨 Rejection Risk: {risk}% — {level}")
+                st.error(
+                    f"Rejection risk: {risk}% — {level}",
+                    icon=":material/error:",
+                )
 
             st.markdown(f"**Summary:** {result['summary']}")
 
             if result["failed_checks"]:
-                st.subheader("Issues Found")
+                st.subheader("Issues found")
                 for check in result["failed_checks"]:
                     with st.expander(
-                        f"❌ {check['check'].replace('_', ' ').title()}"
+                        check["check"].replace("_", " ").title(),
+                        icon=":material/error:",
                     ):
                         st.write(check["message"])
                         st.info(f"**Action:** {check['action']}")
 
-            st.subheader("📋 Documents You Need")
+            st.subheader("Documents you need")
             for doc in result["documents_needed"]:
                 st.checkbox(doc, key=doc)
 
@@ -403,14 +436,14 @@ with main_area:
 
     # Tool: Upload Policy PDF
     elif tool_mode == "Upload Policy PDF":
-        st.header("📄 Policy Upload & Analysis")
+        st.header("Policy upload and analysis")
         st.info(
             "Coming soon: Upload your policy PDF and get instant 'Gotcha' highlights."
         )
 
-        uploaded = st.file_uploader("Upload Policy PDF", type=["pdf"])
+        uploaded = st.file_uploader("Upload policy PDF", type=["pdf"])
         if uploaded:
-            st.success(f"Uploaded: {uploaded.name}")
+            st.success(f"Uploaded: {uploaded.name}", icon=":material/check_circle:")
             st.markdown("""
             **Next steps:**
             1. Save the PDF under `data/raw_pdfs/` or `data/raw_policies/{insurer}/`.
@@ -420,7 +453,7 @@ with main_area:
 
     # Tool: Ask Question (default chat)
     else:
-        st.header("💬 Ask BeemaSathi")
+        st.header("Ask BeemaSathi")
         selected_insurer_key = next(
             (
                 key
@@ -452,23 +485,28 @@ with main_area:
             st.session_state.messages = [{"role": "assistant", "content": WELCOME}]
 
         for msg in st.session_state.messages:
-            with st.chat_message(msg["role"]):
+            avatar = (
+                ":material/support_agent:"
+                if msg["role"] == "assistant"
+                else ":material/person:"
+            )
+            with st.chat_message(msg["role"], avatar=avatar):
                 st.markdown(msg["content"])
                 if msg.get("sources"):
-                    with st.expander("Sources"):
+                    with st.expander("Sources", icon=":material/menu_book:"):
                         for source in msg["sources"]:
                             st.caption(source_label(source))
 
         user_started = any(msg["role"] == "user" for msg in st.session_state.messages)
         if not user_started:
             suggestions = {
-                "Compare two health plans": (
+                ":material/compare_arrows: Compare two health plans": (
                     "How should I compare two health plans on waiting periods and exclusions?"
                 ),
-                "Motor own-damage vs liability": (
+                ":material/directions_car: Motor own-damage vs liability": (
                     "What is the difference between own-damage and liability-only motor cover?"
                 ),
-                "Claim rejection risks": (
+                ":material/report: Claim rejection risks": (
                     "What usually causes a health insurance claim to get rejected?"
                 ),
             }
@@ -511,7 +549,7 @@ with main_area:
                 }
             )
 
-            with st.chat_message("assistant"):
+            with st.chat_message("assistant", avatar=":material/support_agent:"):
                 answer_started = time.perf_counter()
                 with st.spinner("Planning, searching, and checking evidence..."):
                     result = orchestrator.answer(
@@ -600,7 +638,7 @@ with main_area:
                         + ", ".join(verification["unsupported"])
                     )
                 if result["sources"]:
-                    with st.expander("📚 Sources"):
+                    with st.expander("Sources", icon=":material/menu_book:"):
                         for source in result["sources"]:
                             st.caption(source_label(source))
 
@@ -623,5 +661,4 @@ if tool_mode == "Ask Question":
         st.rerun()
 
 # Footer
-st.divider()
-st.caption("BeemaSathi v0.1 | Built with ❤️ in India | Not affiliated with any insurer")
+st.caption("BeemaSathi v0.1 · Built in India · Not affiliated with any insurer")

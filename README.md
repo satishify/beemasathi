@@ -98,6 +98,8 @@ appctl.sh        compatibility wrapper: start/stop/restart/status/index
 agents/          intent router, orchestrator, critic, claim predictor
 api/             FastAPI service with token-bucket rate limit
 ui/              Streamlit client
+.streamlit/      theme: palette, rounded surfaces, Inter and Plus Jakarta typography
+assets/          brand mark used by the sidebar logo
 rag/             PDF extraction, chunking, embeddings, Chroma, BM25, retriever, generator, guard
 observability/   redacted JSONL traces
 eval/            gold set, judge, miners, prompt comparison, reports

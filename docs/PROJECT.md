@@ -276,7 +276,7 @@ Eighteen waiting-period, twelve UIN and ten co-pay cases were mined from indexed
 - Hybrid RAG with BM25 plus dense — document recall@8 of 0.975, clause recall 0.912.
 - Hybrid RAG with authority-aware reranking — the shipped retriever.
 - Agentic routing with the critic loop — the shipped orchestrator; answer pass rate 85/100.
-- Prompt strategies (baseline, zero-shot, structured) compared on identical retrieved context with `eval/compare_prompts.py`.
+- Prompt strategies (baseline, zero-shot, structured) compared on identical retrieved context with `eval/compare_prompts.py`: 64/74, 60/74 and 63/74 rules-only passes; mean latency 2.36 s, 1.06 s and 2.31 s; 187k, 150k and 157k prompt tokens.
 
 Planned ablations: authority-aware reranking on/off (brochure contamination), critic on/off (unsupported-claim rate), per-insurer fan-out on/off (comparison quality), calibrated distance threshold on/off (weak-evidence answers).
 
@@ -394,6 +394,8 @@ BeemaSathi/
 ├── agents/            # router, orchestrator, critic, claim predictor
 ├── api/               # FastAPI service and rate limiter
 ├── ui/                # Streamlit client
+├── .streamlit/        # theme: palette, rounded surfaces, Inter and Plus Jakarta typography
+├── assets/            # brand mark used by the sidebar logo
 ├── rag/               # crawler support, PDF extraction, chunking, embeddings,
 │                      # Chroma store, BM25, retriever, generator, query guard
 ├── observability/     # redacted JSONL traces

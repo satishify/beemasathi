@@ -42,9 +42,12 @@ class PolicyVectorStore:
             self.embed_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
                 model_name=EMBEDDING_MODEL
             )
+        # Vectors are always passed explicitly, so the collection must not
+        # register an embedding function: Chroma rejects a collection that was
+        # created with the default function when a sentence-transformer is
+        # supplied later (the hosted/local switch).
         self.collection = self.client.get_or_create_collection(
             name=COLLECTION_NAME,
-            embedding_function=self.embed_fn,
             metadata={"hnsw:space": "cosine"}
         )
         self._encoder = get_embedding_backend(self.embed_fn)

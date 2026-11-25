@@ -371,8 +371,16 @@ class BeemaSathiOrchestrator:
                 n_results=6,
             )
             chunks = resolve_authority(chunks, prefer_brochure=plan.prefer_brochure)
+            # Each call sees only one insurer's clauses, so scope the question
+            # to that insurer. Otherwise the model reads the absent insurer as
+            # a missing document and contradicts the section that covers it.
+            scoped = (
+                f"{question}\n\nAnswer only for {label}. Another section covers "
+                "every other insurer in the question, so do not comment on them "
+                "or on whether their documents are loaded."
+            )
             result = self.generator.generate(
-                chunks, question, catalog=catalog, strategy=strategy
+                chunks, scoped, catalog=catalog, strategy=strategy
             )
             parts.append(f"**{label}**\n{result.get('answer', '')}")
             sources.extend(result.get("sources") or [])

@@ -107,15 +107,15 @@
     <p>The application is a Streamlit client over a FastAPI service. It answers with a hosted Qwen3-8B endpoint or a local Ollama model.</p>
 <pre><code>git clone https://github.com/satishify/beemasathi.git
 cd beemasathi
-python3 -m venv venv
-./venv/bin/pip install -r requirements.txt
-
-cp .env.example .env        # add the model API base URL, key and CA cert
-./appctl.sh start           # http://127.0.0.1:8501</code></pre>
+./beemasathi.sh             # checks Python, installs, then a start/stop menu</code></pre>
     <p class="small">
-      Without <code>.env</code> the app falls back to local Ollama
+      The launcher runs on macOS, Linux and Windows; on Windows double-click
+      <code>Start BeemaSathi.bat</code>. Menu option 4 saves the hosted base URL, key and CA
+      path to a gitignored <code>.env</code> and tests both endpoints; option 1 starts
+      http://127.0.0.1:8501. The hosted model is tried first and generation retries on local
+      Ollama when it is unreachable. Without <code>.env</code> the app uses local Ollama
       (<code>ollama pull qwen2.5:7b</code>). The vector index is built from the corpus with
-      <code>./appctl.sh index</code>.
+      <code>./appctl.sh index</code> (or <code>python launcher.py index</code> on Windows).
     </p>
   </section>
 

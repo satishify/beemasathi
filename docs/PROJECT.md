@@ -366,12 +366,13 @@ Some insurer sites block automated collection; the scraper prints a manual fallb
 ### 9.4 Run
 
 ```bash
-streamlit run ui/app.py     # Streamlit UI
+./beemasathi.sh start       # launcher: background Streamlit on :8501
+streamlit run ui/app.py     # manual alternative, Streamlit UI
 python api/main.py          # FastAPI backend on :8000
 docker compose up --build   # API + UI, mounts ./data read-only
 ```
 
-API endpoints: `POST /ask`, `POST /plan`, `POST /predict`, `GET /insurers`, `GET /health`. Requests are limited by a per-client token bucket.
+On Windows, start with `Start BeemaSathi.bat start` or `py launcher.py start`. API endpoints: `POST /ask`, `POST /plan`, `POST /predict`, `GET /insurers`, `GET /health`. Requests are limited by a per-client token bucket.
 
 Debug diagnostics are opt-in: `BEEMASATHI_DEBUG=1 streamlit run ui/app.py`.
 
@@ -405,6 +406,7 @@ BeemaSathi/
 ├── launcher.py        # cross-platform launcher: check, config, start and stop
 ├── beemasathi.sh      # macOS/Linux entry point for launcher.py
 ├── Start BeemaSathi.bat   # Windows entry point for launcher.py
+├── Start BeemaSathi.command  # macOS Finder entry point
 ├── appctl.sh          # compatibility wrapper: start/stop/status/index
 ├── Dockerfile         # API image
 └── docker-compose.yml # API + UI

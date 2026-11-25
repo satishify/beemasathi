@@ -20,13 +20,38 @@ One model backend is required: a hosted OpenAI-compatible endpoint, or local Oll
 ```bash
 git clone https://github.com/satishify/beemasathi.git
 cd beemasathi
-python3 -m venv venv
-./venv/bin/pip install -r requirements.txt
-cp .env.example .env          # hosted base URL and keys, or leave blank for Ollama
-./appctl.sh start             # http://127.0.0.1:8501
+./beemasathi.sh
 ```
 
-Without `.env` the app uses Ollama (`ollama pull qwen2.5:7b`) and the local `BAAI/bge-small-en-v1.5` model. The corpus and vector store are not committed; build them with:
+The launcher checks Python, creates the venv and installs whatever is missing,
+then offers a menu to configure the hosted endpoint, start and stop the app.
+Choose `4` to paste the hosted base URL and key; they are saved to `.env`,
+which is gitignored, and the connection is tested on save. Press `1` to start
+at http://127.0.0.1:8501.
+
+The same launcher runs on Windows: double-click `Start BeemaSathi.bat`. On
+macOS, double-click `Start BeemaSathi.command`. Both start the menu without a
+terminal command. The logic lives in `launcher.py`, which uses the Windows
+`venv\Scripts` layout and the macOS/Linux `venv/bin` layout automatically.
+
+The hosted endpoint is tried first. If it is unreachable, rejects the key, or
+fails mid-request, the app answers with local Ollama (`qwen2.5:7b`) when it is
+installed, and records the fallback in the request metrics. Leave `.env` blank
+to run on Ollama only. Loading the index locally also needs
+`BAAI/bge-small-en-v1.5`, which `sentence-transformers` fetches on first use.
+
+The same tasks are available without the menu:
+
+```bash
+./beemasathi.sh check     # report what is installed, install nothing
+./beemasathi.sh config    # edit the hosted URL, key and model
+./beemasathi.sh start     # or stop, restart, status
+```
+
+On Windows, run the same commands through the batch file:
+`Start BeemaSathi.bat start`, `Start BeemaSathi.bat config`, and so on.
+
+Without `.env` the app uses Ollama (`ollama pull qwen2.5:7b`). The corpus and vector store are not committed; build them with:
 
 ```bash
 ./venv/bin/python scrapers/hybrid_scraper.py
@@ -66,6 +91,10 @@ Method, failure taxonomy and limits: [docs/evaluation.html](docs/evaluation.html
 ## Structure
 
 ```text
+launcher.py      cross-platform launcher: environment check, hosted config, start and stop
+beemasathi.sh    macOS/Linux entry point (runs launcher.py)
+Start BeemaSathi.bat   Windows entry point (runs launcher.py)
+appctl.sh        compatibility wrapper: start/stop/restart/status/index
 agents/          intent router, orchestrator, critic, claim predictor
 api/             FastAPI service with token-bucket rate limit
 ui/              Streamlit client

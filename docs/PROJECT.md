@@ -321,6 +321,15 @@ Still open, and stated honestly:
 
 ### 9.2 Setup
 
+`./beemasathi.sh` performs the whole setup: it checks Python, creates the venv,
+installs what is missing, and offers a menu to save the hosted endpoint in
+`.env` and to start or stop the app. The menu is implemented in `launcher.py`
+so it behaves the same everywhere: `beemasathi.sh` is the macOS/Linux entry
+point, `Start BeemaSathi.command` runs it from Finder, and
+`Start BeemaSathi.bat` is the double-click entry point on Windows. On Windows
+the launcher uses `venv\Scripts\python.exe`; on macOS/Linux it uses
+`venv/bin/python`. The equivalent manual steps:
+
 ```bash
 git clone https://github.com/satishify/beemasathi.git
 cd beemasathi
@@ -341,7 +350,7 @@ BEEMASATHI_EMBED_MODEL=bge-small-en-v1.5
 BEEMASATHI_EMBED_CA=/absolute/path/to/ca.crt
 ```
 
-Without `.env`, the app falls back to local Ollama (`ollama pull qwen2.5:7b`) and to the local `BAAI/bge-small-en-v1.5` model. Index vectors and query vectors must come from the same model, so do not mix hosted and local embedding backends against one Chroma collection.
+Without `.env`, the app falls back to local Ollama (`ollama pull qwen2.5:7b`) and to the local `BAAI/bge-small-en-v1.5` model. With `.env` configured, the hosted endpoint is tried first; if it is unreachable, rejects the key, or fails mid-request, generation retries on local Ollama when its server is running, and the metrics record `fallback: hosted-unavailable`. Index vectors and query vectors must come from the same model, so do not mix hosted and local embedding backends against one Chroma collection. Relative CA paths in `.env` (for example `certs/vm06-ca.crt`) are resolved against the project root, so they work from any working directory and on Windows.
 
 ### 9.3 Corpus and index
 
@@ -349,10 +358,10 @@ Without `.env`, the app falls back to local Ollama (`ollama pull qwen2.5:7b`) an
 ./venv/bin/python scrapers/hybrid_scraper.py --dry-run   # preview discovery
 ./venv/bin/python scrapers/hybrid_scraper.py             # download official PDFs
 ./appctl.sh index                                        # parse, chunk, embed
-./appctl.sh start                                        # http://127.0.0.1:8501
+./beemasathi.sh start                                    # http://127.0.0.1:8501
 ```
 
-Some insurer sites block automated collection; the scraper prints a manual fallback guide (`--manual-guide`). A rebuild reproduces the pipeline, not byte-identical contents.
+Some insurer sites block automated collection; the scraper prints a manual fallback guide (`--manual-guide`). A rebuild reproduces the pipeline, not byte-identical contents. On Windows, replace `./venv/bin/python` with `venv\Scripts\python.exe` and run the index step with `python launcher.py index`.
 
 ### 9.4 Run
 
@@ -393,7 +402,10 @@ BeemaSathi/
 ├── docs/              # this guide and the HTML project pages
 ├── data/              # pipeline output (PDFs and vector store excluded)
 ├── config.py          # central configuration
-├── appctl.sh          # start/index/stop helper
+├── launcher.py        # cross-platform launcher: check, config, start and stop
+├── beemasathi.sh      # macOS/Linux entry point for launcher.py
+├── Start BeemaSathi.bat   # Windows entry point for launcher.py
+├── appctl.sh          # compatibility wrapper: start/stop/status/index
 ├── Dockerfile         # API image
 └── docker-compose.yml # API + UI
 ```

@@ -4,7 +4,7 @@ from typing import Dict, List
 from pathlib import Path
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent))
-from config import CLAIM_RULES
+from config import CLAIM_RULES, INSURERS
 
 
 class ClaimPredictor:
@@ -44,7 +44,8 @@ class ClaimPredictor:
                 failed_checks.append({
                     "check": "network_hospital",
                     "weight": self.rules["network_hospital"]["rejection_weight"],
-                    "message": f"{hospital_name or 'This hospital'} is NOT in {insurer}'s cashless network. "
+                    "message": f"{hospital_name or 'This hospital'} is NOT in "
+                               f"{INSURERS.get(insurer, {}).get('name', insurer)}'s cashless network. "
                                "Reimbursement claim only. Rejection risk: HIGH if documents incomplete.",
                     "action": "Get pre-auth for reimbursement OR switch to network hospital."
                 })
@@ -128,8 +129,8 @@ class ClaimPredictor:
         if risk_score == 0:
             return "All basic checks passed. Ensure documents are complete before filing."
 
-        reasons = "; ".join([c["message"] for c in failed_checks[:2]])
-        return f"Rejection risk: {risk_score}%. Main issues: {reasons}"
+        reasons = "; ".join([c["message"].rstrip(".") for c in failed_checks[:2]])
+        return f"Rejection risk: {risk_score}%. Main issues: {reasons}."
 
 
 if __name__ == "__main__":

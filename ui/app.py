@@ -17,24 +17,24 @@ from ui.debug_tools import format_bytes, get_ollama_runtime
 
 DEBUG_MODE = os.getenv("BEEMASATHI_DEBUG", "").lower() in {"1", "true", "yes", "on"}
 
-BRAND_LOGO = str(
-    Path(__file__).parent.parent / "assets" / "branding" / "beemasathi-logo.png"
-)
-BRAND_ICON = str(
-    Path(__file__).parent.parent / "assets" / "branding" / "beemasathi-mark.png"
-)
+# Served from ui/static (server.enableStaticServing) so the logo URL stays valid
+# across server restarts; media-store URLs die with the process.
+STATIC_BRANDING = Path(__file__).parent / "static" / "branding"
+BRAND_LOGO_URL = "/app/static/branding/beemasathi-logo.png"
+BRAND_ICON_URL = "/app/static/branding/beemasathi-mark.png"
+BRAND_ICON = STATIC_BRANDING / "beemasathi-mark.png"
 
 st.set_page_config(
     page_title="BeemaSathi",
-    page_icon=BRAND_ICON if Path(BRAND_ICON).is_file() else None,
+    page_icon=str(BRAND_ICON) if BRAND_ICON.is_file() else None,
     layout="wide",
 )
 
 # A missing asset must not take the whole desk down; fall back to the mark.
-if Path(BRAND_LOGO).is_file():
-    st.logo(BRAND_LOGO, size="large", icon_image=BRAND_ICON)
-elif Path(BRAND_ICON).is_file():
-    st.logo(BRAND_ICON, size="large", icon_image=BRAND_ICON)
+if (STATIC_BRANDING / "beemasathi-logo.png").is_file():
+    st.logo(BRAND_LOGO_URL, size="large", icon_image=BRAND_ICON_URL)
+elif BRAND_ICON.is_file():
+    st.logo(BRAND_ICON_URL, size="large", icon_image=BRAND_ICON_URL)
 else:
     st.markdown("**BeemaSathi**")
 
@@ -58,6 +58,9 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 if "debug_data" not in st.session_state:
     st.session_state.debug_data = None
+# Plans the last catalog answer listed, so "compare each" can point at them.
+if "followup_plans" not in st.session_state:
+    st.session_state.followup_plans = []
 
 # Initialize backend
 @st.cache_resource
@@ -182,8 +185,9 @@ def source_label(source):
         source.get("section", "Unknown section"),
         document_type.replace("_", " ").title(),
     ]
-    if source.get("page") is not None:
-        parts.append(f"Page {source['page']}")
+    page = source.get("page")
+    if page is not None and f"page {page}" not in str(parts[2]).lower():
+        parts.append(f"Page {page}")
     return " | ".join(parts)
 
 
@@ -565,6 +569,7 @@ with main_area:
                         policy_name=policy if policy else None,
                         catalog=indexed_catalog,
                         history=st.session_state.messages[:-1],
+                        followup_plans=st.session_state.followup_plans,
                     )
                 answer_duration_ms = round(
                     (time.perf_counter() - answer_started) * 1000,
@@ -657,6 +662,7 @@ with main_area:
                     "sources": result.get("sources", []),
                 }
             )
+            st.session_state.followup_plans = result.get("focus_plans") or []
 
 # Chat input lives outside the content container so it stays pinned to the
 # bottom of the page and every new answer appears above it.

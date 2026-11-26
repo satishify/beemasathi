@@ -11,7 +11,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from agents.claim_predictor import ClaimPredictor
 from agents.critic import resolve_authority, strip_unbacked_family_limits, verify_answer
-from agents.router import IntentRouter, TaskPlan
+from agents.router import COMPARE_RE, IntentRouter, TaskPlan, TaskStep
 from config import INSURERS
 from observability.trace import Trace
 from rag.catalog import entry_line, entry_vehicle
@@ -78,6 +78,31 @@ COMPARE_HELP_ANSWER = (
     "Bupa and Digit\" or \"Compare room rent caps for HDFC Ergo and Tata AIG\"."
 )
 
+# "compare each", "compare all of them", "compare the above" point at the
+# plans the previous answer listed; on their own they name no plan.
+FOCUS_REFERENCE_RE = re.compile(
+    r"\b(?:each|all|both|them|these|those|above|every\s+one|every)\b", re.I
+)
+# "the above", "these", "those" point at the last answer even when a word in
+# the follow-up happened to match some unrelated plan.
+FOCUS_STRONG_RE = re.compile(
+    r"\b(?:above|these|those|them|the\s+list)\b", re.I
+)
+FOCUS_ASPECTS = (
+    "Compare these plans on room rent cap, co-pay, waiting period and exclusions."
+)
+FOCUS_ASPECTS_DIFFERENCES = (
+    "What differs between these plans on room rent cap, co-pay, waiting period "
+    "and exclusions?"
+)
+FOCUS_RETRIEVAL_QUERY = (
+    "room rent cap co-pay waiting period exclusions sub-limit"
+)
+# Each plan needs its own clauses in the prompt; past this many the table gets
+# wider than the model can fill without dropping a column, and the clauses no
+# longer fit beside the answer.
+FOCUS_PLAN_CAP = 4
+
 
 class BeemaSathiOrchestrator:
     def __init__(
@@ -117,6 +142,52 @@ class BeemaSathiOrchestrator:
             if previous and not self._is_format_only(previous):
                 return previous
         return question
+
+    @staticmethod
+    def _wants_focus_comparison(question: str) -> bool:
+        """True for "compare each / all of them / the above" style follow-ups."""
+        text = question or ""
+        return bool(COMPARE_RE.search(text)) and bool(FOCUS_REFERENCE_RE.search(text))
+
+    @staticmethod
+    def _apply_focus_plans(plan: TaskPlan, focus: Optional[List[Dict]]):
+        """Point a plan-less comparison at the plans the last answer listed.
+
+        Returns the plan and how many plans the listing held (0 when the
+        follow-up does not resolve to any plan). At most FOCUS_PLAN_CAP plans
+        are put in one table; the caller notes how many were left out.
+        """
+        buckets: Dict[str, List[str]] = {}
+        listed = 0
+        selected = 0
+        for item in focus or []:
+            insurer = (item or {}).get("insurer")
+            policy = (item or {}).get("policy")
+            if not insurer or not policy:
+                continue
+            if policy in (buckets.get(insurer) or []):
+                continue
+            listed += 1
+            if selected >= FOCUS_PLAN_CAP:
+                continue
+            buckets.setdefault(insurer, []).append(policy)
+            selected += 1
+        if not selected:
+            return plan, 0
+        insurers = list(buckets)
+        return (
+            replace(
+                plan,
+                intent="comparison",
+                insurers=insurers,
+                policies=[],
+                topic_plans=buckets,
+                lead_topic=None,
+                steps=[TaskStep("retrieve", target=key) for key in insurers]
+                + [TaskStep("compare")],
+            ),
+            listed,
+        )
 
     def _in_domain(
         self,
@@ -196,12 +267,14 @@ class BeemaSathiOrchestrator:
         claim: Optional[Dict] = None,
         catalog: Optional[List[Dict]] = None,
         history: Optional[List[Dict]] = None,
+        followup_plans: Optional[List[Dict]] = None,
     ) -> Dict:
         trace = Trace(question, insurer=insurer, policy_name=policy_name)
         started = time.perf_counter()
         try:
             result = self._answer(
-                question, insurer, policy_name, strategy, claim, catalog, history
+                question, insurer, policy_name, strategy, claim, catalog, history,
+                followup_plans,
             )
         except Exception as exc:
             trace.record_error(exc)
@@ -220,6 +293,7 @@ class BeemaSathiOrchestrator:
         claim: Optional[Dict] = None,
         catalog: Optional[List[Dict]] = None,
         history: Optional[List[Dict]] = None,
+        followup_plans: Optional[List[Dict]] = None,
     ) -> Dict:
         guard = scan_query(question)
         if guard.action == "refuse":
@@ -237,13 +311,32 @@ class BeemaSathiOrchestrator:
         lookup_question = self._resolve_followup_question(question, history)
         plan = self.route(lookup_question, insurer, policy_name)
 
+        # "compare each" after a list names no plan by itself; the plans it
+        # points at are the ones the previous answer listed. Only override the
+        # route when it could not assemble a comparison on its own.
+        routed_plans = sum(len(plans) for plans in plan.topic_plans.values()) or len(
+            plan.insurers
+        )
+        focus_count = 0
+        if (
+            followup_plans
+            and self._wants_focus_comparison(lookup_question)
+            and (
+                FOCUS_STRONG_RE.search(lookup_question)
+                or (routed_plans < 2 and len(plan.insurers) < 2)
+            )
+        ):
+            plan, focus_count = self._apply_focus_plans(plan, followup_plans)
+
         if plan.intent in {"safety", "security", "scope"}:
             result = self.generator.generate(
                 [], question, catalog=catalog, strategy=strategy, history=history
             )
             return self._wrap(result, plan, {"verified": True, "unsupported": []}, [])
 
-        if not self._in_domain(lookup_question, insurer, policy_name, history):
+        if not focus_count and not self._in_domain(
+            lookup_question, insurer, policy_name, history
+        ):
             result = {
                 "answer": OFF_TOPIC_ANSWER,
                 "safe": True,
@@ -272,7 +365,10 @@ class BeemaSathiOrchestrator:
             )
             if plan_count < 2:
                 return self._compare_help(plan)
-            return self._compare(lookup_question, plan, plan.insurers, catalog, history)
+            return self._compare(
+                lookup_question, plan, plan.insurers, catalog, history,
+                focus=focus_count,
+            )
 
         chunks = self._retrieve_for_question(
             lookup_question,
@@ -428,6 +524,10 @@ class BeemaSathiOrchestrator:
             text,
             flags=re.I,
         )
+        cleaned = re.sub(
+            r"\b(?:healthplus|finalpolicy|loansure|prospectuse)\b", "", text, flags=re.I
+        )
+        text = cleaned if cleaned.strip() else text
         text = re.sub(r"(?<=[a-z])\d+$", "", text, flags=re.I)
         text = re.sub(r"\s+", " ", text).strip()
         return text.title() or "Unknown"
@@ -472,6 +572,7 @@ class BeemaSathiOrchestrator:
 
         total = len(entries)
         buckets: Dict[str, List[str]] = {}
+        raw_names: Dict[tuple, str] = {}
         seen = set()
         for entry in sorted(entries, key=lambda item: -(item.get("chunks") or 0)):
             insurer = entry.get("insurer", "unknown")
@@ -480,6 +581,7 @@ class BeemaSathiOrchestrator:
             if key in seen:
                 continue
             seen.add(key)
+            raw_names[key] = entry.get("policy_name") or label
             buckets.setdefault(insurer, []).append(label)
 
         insurers_present = sorted(
@@ -560,6 +662,14 @@ class BeemaSathiOrchestrator:
             "sources": [],
             "rejection_risk": None,
             "model_metrics": {"backend": "catalog", "model": "policy_catalog"},
+            # The listed plans, so "compare each" can point back at them.
+            "focus_plans": [
+                {
+                    "insurer": insurer,
+                    "policy": raw_names.get((insurer, label.lower()), label),
+                }
+                for insurer, label in picked
+            ],
         }
         return self._wrap(result, plan, {"verified": True, "unsupported": []}, [])
 
@@ -650,6 +760,7 @@ class BeemaSathiOrchestrator:
         insurers: List[str],
         catalog: List[Dict],
         history: Optional[List[Dict]] = None,
+        focus: int = 0,
     ) -> Dict:
         notes = []
         groups = []
@@ -661,6 +772,7 @@ class BeemaSathiOrchestrator:
         question_names_plan = any(named_by_insurer.values()) or any(
             plan.topic_plans.values()
         )
+        resolved = []
         for key in insurers:
             label = self._insurer_label(key)
             topics = plan.topic_plans.get(key) or []
@@ -670,32 +782,49 @@ class BeemaSathiOrchestrator:
             if question_names_plan and not named:
                 notes.append(self._missing_plan_note(label, key, question, catalog))
                 continue
-            for policy in (named or [None])[:3]:
-                plan_label = label
-                if policy:
-                    named_label = re.sub(
-                        r"\s+polic(?:y|ies)(?:\s+(?:revision|wording|document|terms|cis))?$",
-                        "",
-                        self._policy_label(policy),
-                        flags=re.I,
-                    )
-                    plan_label = (
-                        named_label
-                        if named_label.lower().startswith(label.lower())
-                        else f"{label} {named_label}"
-                    )
-                chunks = self._retrieve_for_question(
-                    question,
-                    key,
-                    policy,
-                    n_results=6,
-                    prefer_brochure=plan.prefer_brochure,
+            for policy in (named or [None])[:FOCUS_PLAN_CAP]:
+                resolved.append((key, label, policy))
+
+        retrieval_question = question
+        compare_question = question
+        if focus and not asked_aspects(question):
+            # "compare each" names no aspect on its own; settle the same four
+            # constraints the listing offered. A wide table keeps only the rows
+            # that differ so it fits the output budget.
+            compare_question = (
+                FOCUS_ASPECTS_DIFFERENCES if len(resolved) > 3 else FOCUS_ASPECTS
+            )
+            retrieval_question = FOCUS_RETRIEVAL_QUERY
+        # Each plan needs a few clauses of its own; keep the whole prompt small
+        # enough that the table still has room to finish.
+        per_plan = max(2, 12 // max(len(resolved), 1))
+
+        for key, label, policy in resolved:
+            plan_label = label
+            if policy:
+                named_label = re.sub(
+                    r"\s+polic(?:y|ies)(?:\s+(?:revision|wording|document|terms|cis))?$",
+                    "",
+                    self._policy_label(policy),
+                    flags=re.I,
                 )
-                if not chunks:
-                    notes.append(self._missing_plan_note(label, key, question, catalog))
-                    continue
-                groups.append((plan_label, chunks))
-                used_chunks.extend(chunks)
+                plan_label = (
+                    named_label
+                    if named_label.lower().startswith(label.lower())
+                    else f"{label} {named_label}"
+                )
+            chunks = self._retrieve_for_question(
+                retrieval_question,
+                key,
+                policy,
+                n_results=per_plan,
+                prefer_brochure=plan.prefer_brochure,
+            )
+            if not chunks:
+                notes.append(self._missing_plan_note(label, key, question, catalog))
+                continue
+            groups.append((plan_label, chunks))
+            used_chunks.extend(chunks)
 
         if len(groups) < 2:
             if notes and groups:
@@ -712,11 +841,16 @@ class BeemaSathiOrchestrator:
             }
             return self._wrap(merged, plan, {"verified": True, "unsupported": []}, used_chunks)
 
-        result = self.generator.compare_plans(question, groups, history=history)
+        result = self.generator.compare_plans(compare_question, groups, history=history)
         answer = result.get("answer", "")
         lead = self._compare_lead(plan, insurers)
         if lead:
             answer = lead + "\n\n" + answer
+        if focus and len(groups) < focus:
+            notes.append(
+                f"I compared {len(groups)} of those {focus} plans. Name the "
+                "others and I'll line them up too."
+            )
         if notes and result.get("safe", True):
             answer += "\n\n" + "\n\n".join(notes)
 

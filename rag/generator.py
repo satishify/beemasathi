@@ -134,6 +134,13 @@ COMPARE_NOTE_DIFFERENCES = (
 COMPARE_NOTE_ALIGN = (
     "Do not invent a difference and do not claim more than the table shows."
 )
+# Three or more plans make the table wide; a verbose cell pushes the table past
+# the output budget and the answer arrives truncated.
+COMPARE_WIDTH_NOTE_WIDE = (
+    "\n\nWIDTH: this table has {count} plan columns. Keep every cell to one line "
+    "of at most 20 words: the rule, then the page in brackets. Summarise an "
+    "option set as 'Options A-E' instead of listing each option."
+)
 
 COMPARE_TEMPLATE = """CUSTOMER QUESTION:
 {question}
@@ -152,7 +159,7 @@ STEP 4 - ANSWER. Start with one short line naming the plans. Then a GitHub-flavo
 {table_sep}
 | ... | ... | ... |
 
-Each cell must state the actual rule from that plan - the limit, waiting period, co-pay or exclusion exactly as written - followed by its section or page in brackets, for example "1% of sum insured (Sec. 4.2, p. 42)". A cell holding only a page number is not an answer. If a plan does not state the rule, write "Not stated". Then at most three bullets, and each bullet must point to one row of the table. {mode_note}
+Each cell must state the actual rule from that plan - the limit, waiting period, co-pay or exclusion exactly as written - followed by its section or page in brackets, for example "1% of sum insured (Sec. 4.2, p. 42)". A cell holding only a page number is not an answer. If a plan does not state the rule, write "Not stated". Then at most three bullets, and each bullet must point to one row of the table. {mode_note}{width_note}
 
 RULES:
 - Compare plan against plan. Never discuss "two companies", the question's phrasing, or that you are an AI.
@@ -926,6 +933,7 @@ class BimaSaathiGenerator:
             sep_index = 1
 
         empty_cells = {"", "not stated", "not specified", "not mentioned", "not applicable"}
+        expected_cells = len(header.strip().strip("|").split("|"))
 
         def bare_rule(cell: str) -> str:
             text = re.sub(r"\([^)]*(?:sec\.?|p\.|page|code)[^)]*\)", "", cell, flags=re.I)
@@ -946,6 +954,10 @@ class BimaSaathiGenerator:
                 if i > sep_index:
                     data_rows += 1
                     cells = [cell.strip(" *_`").lower() for cell in stripped.strip("|").split("|")]
+                    # A row short of a column cannot say which plan the cell
+                    # belongs to, so it cannot be shown as a comparison.
+                    if len(cells) != expected_cells:
+                        continue
                     if all(cell in empty_cells for cell in cells[1:]):
                         continue
                     rules = {bare_rule(cell) for cell in cells[1:]}
@@ -1062,11 +1074,17 @@ class BimaSaathiGenerator:
         table_header = "| Constraint | " + " | ".join(labels) + " |"
         table_sep = "| --- |" + " --- |" * len(labels)
         differences_only = compare_mode(question) == "differences"
+        width_note = (
+            COMPARE_WIDTH_NOTE_WIDE.format(count=len(labels))
+            if len(labels) > 2
+            else ""
+        )
         prompt = COMPARE_TEMPLATE.format(
             question=question,
             labels=", ".join(labels),
             step3=COMPARE_STEP_DIFFERENTIATE if differences_only else COMPARE_STEP_ALIGN,
             mode_note=COMPARE_NOTE_DIFFERENCES if differences_only else COMPARE_NOTE_ALIGN,
+            width_note=width_note,
             table_header=table_header,
             table_sep=table_sep,
             history=self._history_text(history),

@@ -101,11 +101,10 @@ Compare prompt strategies on identical retrieved context (`baseline`,
 ```
 
 The latest judged run on the hosted Qwen3-8B backend covers all 100 cases
-(23 Nov 2026): **85/100 pass**, `doc@8 = 0.975` (79/81 labelled),
-`evidence@8 = 0.912` (73/80, retrieval re-measured 24 Nov 2026),
-`grounded_passed = 85`, zero ungrounded passes.
-Failure types: 2 `document_miss`, 5 `evidence_miss`, 8 `answer_error`.
-Twelve of the 15 failures fail a hard rule while the judge accepts the answer;
+(26 Nov 2026): **83/100 pass**, `doc@8 = 0.975` (79/81 labelled),
+`evidence@8 = 0.912` (73/80), `grounded_passed = 83`, zero ungrounded passes.
+Failure types: 2 `document_miss`, 4 `evidence_miss`, 11 `answer_error`.
+Fourteen of the 17 failures fail a hard rule while the judge accepts the answer;
 several of those are a too-narrow `must_include_any` / `must_not_include` string,
 so review the rule before treating the case as a model regression.
 

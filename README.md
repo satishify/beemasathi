@@ -65,9 +65,9 @@ The API runs separately with `python api/main.py`, or both services with `docker
 
 100 frozen gold cases. Last measured on the hosted Qwen3-8B backend:
 
-- 85/100 passing, 0 ungrounded passes
+- 83/100 passing, 0 ungrounded passes
 - document recall@8 0.975, supporting-clause recall@8 0.912
-- 2.8 s mean answer latency, 296k prompt tokens for the full run
+- 2.5 s mean answer latency, 309k prompt tokens for the full run
 - 9/9 red-team refusals
 
 ```bash

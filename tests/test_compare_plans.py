@@ -213,6 +213,52 @@ def test_compare_request_stays_within_the_provider_token_cap(monkeypatch):
     assert captured["max_tokens"] <= 1024
 
 
+def test_ragged_rows_are_dropped_because_they_cannot_be_attributed(monkeypatch):
+    bot = _bot()
+    text = (
+        TABLE
+        + "\n| Co-pay | 10% co-pay on each claim (Sec. 6, p. 7) |"
+        + "\n| Waiting period | 30 days (Sec. 2, p. 3) | 60 days (Sec. 5, p. 6) |"
+    )
+    monkeypatch.setattr(bot, "_call_model", lambda *a, **k: (text, {"backend": "test"}))
+
+    result = bot.compare_plans("Compare room rent for both plans.", GROUPS)
+
+    assert "Room rent" in result["answer"]
+    assert "Co-pay" not in result["answer"]
+    assert "Waiting period" in result["answer"]
+
+
+def test_wide_tables_get_a_cell_width_note(monkeypatch):
+    bot = _bot()
+    captured = {}
+
+    def fake_call(prompt, messages=None, max_tokens=None):
+        captured["prompt"] = prompt
+        return TABLE, {"backend": "test"}
+
+    monkeypatch.setattr(bot, "_call_model", fake_call)
+
+    bot.compare_plans("Compare room rent for all three plans.", GROUPS + GROUPS[:1])
+
+    assert "WIDTH: this table has 3 plan columns" in captured["prompt"]
+
+
+def test_two_plan_tables_do_not_get_the_width_note(monkeypatch):
+    bot = _bot()
+    captured = {}
+
+    def fake_call(prompt, messages=None, max_tokens=None):
+        captured["prompt"] = prompt
+        return TABLE, {"backend": "test"}
+
+    monkeypatch.setattr(bot, "_call_model", fake_call)
+
+    bot.compare_plans("Compare room rent for both plans.", GROUPS)
+
+    assert "WIDTH:" not in captured["prompt"]
+
+
 def test_compare_plans_needs_two_groups(monkeypatch):
     bot = _bot()
     monkeypatch.setattr(

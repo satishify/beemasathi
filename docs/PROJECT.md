@@ -204,7 +204,7 @@ Every downloaded document has a sidecar `.meta.json` recording insurer, product,
 
 **Policy matching.** Product names are normalised and matched per insurer. The router also splits a comparison question at insurer mentions so a plan named next to one insurer is not attributed to another.
 
-**Generation.** The prompt is built from numbered clauses, a compact catalogue of what is loaded, and a `RECENT CONVERSATION` block: the last eight messages of the Streamlit session, cut to 500 characters each and 2,400 characters in total, about 800 of the 8,192-token window. The block resolves follow-ups and questions about the chat itself, but it is labelled context, not evidence — coverage facts still come only from the clauses. Three prompt strategies are available: `baseline`, `zero_shot` and `structured`. If no clause passes the relevance threshold, the generator returns a knowledge-gap answer instead of calling the model with weak context, except for chat-history questions such as "what was my first question?", which skip that refusal and answer from the history block.
+**Generation.** The prompt is built from numbered clauses, a compact catalogue of what is loaded, and a `RECENT CONVERSATION` block: the last eight messages of the Streamlit session, cut to 500 characters each and 2,400 characters in total, about 800 of the 8,192-token window. The block resolves follow-ups and questions about the chat itself, but it is labelled context, not evidence — coverage facts still come only from the clauses. A list answer also hands its plans to the next turn, so "compare each" runs one comparison over them, capped at four plans per table with the rest named. Three prompt strategies are available: `baseline`, `zero_shot` and `structured`. If no clause passes the relevance threshold, the generator returns a knowledge-gap answer instead of calling the model with weak context, except for chat-history questions such as "what was my first question?", which skip that refusal and answer from the history block.
 
 **Refusal.** A missing insurer, product or clause produces a named gap and a suggestion to check the insurer's official document. A summary-only product is answered with an explicit note that the source is a brochure, not the contract.
 
@@ -334,7 +334,7 @@ Additional fixes: per-insurer retrieval for comparisons followed by one differen
 Still open, and stated honestly:
 
 - The relevance threshold is still permissive (0.72) relative to genuine match distances of 0.14–0.30.
-- Retrieval is not conversation-aware. The model receives the last eight turns, but follow-ups still retrieve on their bare text, so a pronoun-only question can miss the right clause.
+- Retrieval is partly conversation-aware: list-then-compare follow-ups resolve, but a pronoun-only coverage follow-up still retrieves on its bare text and can miss the clause.
 - Two configured claim rules (`disclosure_match`, `procedure_excluded`) are not implemented, and the score is a generic heuristic rather than a policy-specific one.
 - OCR is not implemented; six image-only PDFs fail extraction.
 - Table extraction is partial (39 table chunks).

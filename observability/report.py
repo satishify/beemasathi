@@ -15,7 +15,8 @@ CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 REPO = "https://github.com/satishify/beemasathi"
 SITE = "https://satishify.github.io/beemasathi"
 DASHBOARD = SITE + "/trace_dashboard.html"
-VIDEO = REPO + "/blob/main/demo/BeemaSathi_demo_10min.mp4"
+VIDEO = "https://drive.google.com/file/d/11ixHKGa3MAflYDsbrNPQeQBucvjYm0uF/view?usp=share_link"
+VIDEO_LABEL = "Ten-minute demo (Google Drive)"
 
 CSS = """
 @page { size: A4; margin: 15mm 14mm 14mm; }
@@ -102,7 +103,7 @@ COVER = f"""
       <tr><td>Code repository</td><td><a href="{REPO}">{REPO}</a></td></tr>
       <tr><td>Trace dashboard (Track B)</td><td><a href="{DASHBOARD}">{DASHBOARD}</a></td></tr>
       <tr><td>Project pages</td><td><a href="{SITE}">{SITE}</a></td></tr>
-      <tr><td>Ten-minute demo</td><td><a href="{VIDEO}">demo/BeemaSathi_demo_10min.mp4</a></td></tr>
+      <tr><td>Ten-minute demo</td><td><a href="{VIDEO}">Google Drive video</a></td></tr>
       <tr><td>Model card</td><td>Section 6.1 of this report</td></tr>
     </table>
   </div>
@@ -130,7 +131,7 @@ CONTENTS = """
   <tr><th>Deliverable</th><th>Where it lives</th><th>How it is produced</th></tr>
   <tr><td>Reproducible Git repository</td>
       <td><a href="%s">github.com/satishify/beemasathi</a></td>
-      <td>Public repo; <code>venv/bin/python -m pytest</code> runs 143 tests;
+      <td>Public repo; <code>venv/bin/python -m pytest</code> runs 154 tests;
           GitHub Actions runs compile and tests on every push</td></tr>
   <tr><td>Dashboard (Track B: traces)</td>
       <td><a href="%s">%s</a></td>
@@ -146,7 +147,7 @@ CONTENTS = """
       <td><code>venv/bin/python observability/report.py</code> renders
           <code>docs/PROJECT.md</code> through headless Chrome</td></tr>
   <tr><td>Ten-minute demo</td>
-      <td><a href="%s">demo/BeemaSathi_demo_10min.mp4</a> (also
+      <td><a href="%s">Google Drive video</a> (also
           <code>demo/BeemaSathi-live-demo-questions.pdf</code>)</td>
       <td>Recorded against the running Streamlit client and API on the local index</td></tr>
   <tr><td>Working system</td>

@@ -50,7 +50,7 @@ class _Retriever:
 class _Generator:
     model = "test-model"
 
-    def generate(self, chunks, question, catalog=None, strategy="baseline"):
+    def generate(self, chunks, question, catalog=None, strategy="baseline", history=None):
         return {
             "answer": "Room rent is limited to a single standard AC room.",
             "safe": True,

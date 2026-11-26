@@ -17,7 +17,9 @@ jobs:
           cache: pip
 
       - name: Install test dependencies
-        run: pip install pytest python-dotenv
+        # Tests import rag.embedder, rag.embeddings and rag.ingest_pdf, so these
+        # packages must be present; no model weights or API keys are needed.
+        run: pip install pytest python-dotenv numpy requests pdfplumber chromadb
 
       - name: Compile all modules
         run: python -m compileall -q agents api eval observability rag scrapers ui config.py

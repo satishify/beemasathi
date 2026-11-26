@@ -53,46 +53,6 @@ if "messages" not in st.session_state:
 if "debug_data" not in st.session_state:
     st.session_state.debug_data = None
 
-# Sidebar
-with st.sidebar:
-    st.caption("Health and motor insurance desk")
-    st.divider()
-
-    st.subheader("Knowledge source")
-    insurer = st.selectbox(
-        "Insurer or regulator",
-        ["Any"] + [v["name"] for v in KNOWLEDGE_SOURCES.values()],
-    )
-    policy = st.text_input("Policy name (optional)", placeholder="e.g., Comprehensive")
-
-    st.divider()
-    st.subheader("Tools")
-    tool_mode = st.radio("Mode", ["Ask Question", "Claim Predictor", "Upload Policy PDF"])
-
-    debug_visible = False
-    if DEBUG_MODE:
-        st.divider()
-        st.subheader("Developer debugging")
-        debug_visible = st.toggle(
-            "Show live diagnostics",
-            value=True,
-            help="Shows local model, memory allocation, retrieval, and timing details.",
-        )
-
-    st.divider()
-    st.markdown("""
-    I can help you:
-    - Navigate health and motor plans
-    - Compare waiting periods and exclusions
-    - Check claim-rejection risk
-
-    *Informational only. Not legal advice.*
-    """)
-
-# Main area
-st.title("BeemaSathi")
-st.caption("Your desk colleague for Indian health and motor insurance.")
-
 # Initialize backend
 @st.cache_resource
 def get_retriever():
@@ -126,6 +86,60 @@ def load_catalog():
 
 
 indexed_catalog = load_catalog()
+indexed_keys = {item.get("insurer") for item in indexed_catalog}
+
+# Sidebar
+with st.sidebar:
+    st.caption("Health and motor insurance desk")
+    st.divider()
+
+    st.subheader("Knowledge source")
+    available_names = [
+        spec["name"]
+        for key, spec in KNOWLEDGE_SOURCES.items()
+        if key in indexed_keys
+    ]
+    insurer = st.selectbox(
+        "Insurer or regulator",
+        ["Any"] + available_names,
+        help="Only insurers with indexed policy wordings are listed.",
+    )
+    pending_names = [
+        spec["name"]
+        for key, spec in KNOWLEDGE_SOURCES.items()
+        if key not in indexed_keys
+    ]
+    if pending_names:
+        st.caption("Not indexed yet — coming soon: " + ", ".join(pending_names))
+    policy = st.text_input("Policy name (optional)", placeholder="e.g., Comprehensive")
+
+    st.divider()
+    st.subheader("Tools")
+    tool_mode = st.radio("Mode", ["Ask Question", "Claim Predictor", "Upload Policy PDF"])
+
+    debug_visible = False
+    if DEBUG_MODE:
+        st.divider()
+        st.subheader("Developer debugging")
+        debug_visible = st.toggle(
+            "Show live diagnostics",
+            value=True,
+            help="Shows local model, memory allocation, retrieval, and timing details.",
+        )
+
+    st.divider()
+    st.markdown("""
+    I can help you:
+    - Navigate health and motor plans
+    - Compare waiting periods and exclusions
+    - Check claim-rejection risk
+
+    *Informational only. Not legal advice.*
+    """)
+
+# Main area
+st.title("BeemaSathi")
+st.caption("Your desk colleague for Indian health and motor insurance.")
 
 with st.sidebar:
     st.divider()
@@ -138,15 +152,6 @@ with st.sidebar:
         if "irdai" in insurers:
             summary += " plus IRDAI regulations"
         st.caption(summary + ". Ask for a plan by name when you need it.")
-        selected_key = next(
-            (key for key, value in KNOWLEDGE_SOURCES.items() if value["name"] == insurer),
-            None,
-        )
-        if selected_key and selected_key not in insurers:
-            st.warning(
-                f"No {insurer} document is indexed yet, so questions about it "
-                "will return a knowledge gap instead of an answer."
-            )
     else:
         st.caption("No policy documents indexed yet.")
 

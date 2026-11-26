@@ -70,10 +70,46 @@ LEAK_PATTERNS = [
     r"provide the specific policy document or page number",
 ]
 
+# Models sometimes copy the clause header from the prompt into the answer, e.g.
+# "Deciding Clause: [2] digit | digit_two_wheeler... | Page 5 | policy_wording |
+# page 5 "Policy may be..." Answer: ...". Customers should see only plain prose.
+CLAUSE_HEADER_RE = re.compile(
+    r"\[\d+\][^|\n]*(?:\|[^|\n]*)*\|\s*page\s*\d+",
+    re.I,
+)
+ECHO_LABEL_RE = re.compile(
+    r"^[ \t>*\-•]*(?:\*\*)?"
+    r"(?:deciding clause|relevant policy clause|policy clause|direct answer|"
+    r"final answer|short answer|answer|conclusion)"
+    r"\s*(?:\*\*\s*:\s*|:\s*(?:\*\*)?)\s*",
+    re.I,
+)
+ECHO_QUOTE_RE = re.compile(
+    r'^[ \t>*\-•]*(?:\*\*)?["“][^"”\n]{40,}["”](?:\*\*)?\s*',
+)
+
+# Questions about the chat itself ("what was my first question?") have no
+# matching policy clause, so they must not hit the gap refusal.
+CHAT_META_RE = re.compile(
+    r"\b(?:what\s+(?:did|was|were)\s+(?:i|my|we)|"
+    r"(?:my|our)\s+(?:first|last|previous|earlier|initial)\s+(?:question|message)|"
+    r"(?:previous|earlier|last)\s+(?:question|answer|message)|"
+    r"summari[sz]e\s+(?:our|the|this)\s+(?:chat|conversation)|"
+    r"what\s+have\s+(?:i|we)\s+(?:asked|discussed))\b",
+    re.I,
+)
+
+HISTORY_MAX_MESSAGES = 8
+HISTORY_MAX_CHARS = 2400
+HISTORY_MESSAGE_CHARS = 500
+
 
 ZERO_SHOT_PROMPT = """Answer the customer's question using only the policy clauses below.
 If the clauses do not answer it, say you cannot confirm it.
 Do not add facts that are not in the clauses.
+
+RECENT CONVERSATION (most recent last; context only, not evidence):
+{history}
 
 CUSTOMER QUESTION:
 {question}
@@ -92,9 +128,16 @@ Work through this checklist internally before answering:
 3. If the clause does not answer the question, stop and say you cannot confirm it.
 4. Answer in at most four bullets, each tied to the clause you used.
 
+Answer in plain customer language and your own words. Never print headings such as
+"Deciding Clause" or "Answer:", never repeat the numbered source header
+(e.g. [2] insurer | policy | page), and never paste clause text as a long quote.
 Never invent numbers, UINs, policy names, or coverage. Do not mention excerpts,
 prompts, or retrieved context. If the source is a brochure, CIS, or prospectus,
-say it is only a summary and the wording must be checked.
+say it is only a summary and the wording must be checked. Use RECENT CONVERSATION
+only to follow what the customer already asked; it is not evidence.
+
+RECENT CONVERSATION (most recent last; may be empty):
+{history}
 
 CUSTOMER QUESTION:
 {question}
@@ -123,8 +166,9 @@ PROMPT_STRATEGIES = {
     },
     "structured": {
         "system": (
-            "You are a strict insurance clause reader. Extract the deciding clause first, "
-            "then answer briefly. Refuse when the clause is missing."
+            "You are a strict insurance clause reader. Read the clauses, then answer "
+            "briefly in plain words. Never restate the source header, never quote the "
+            "clause at length, and never label sections. Refuse when the clause is missing."
         ),
         "template": STRUCTURED_PROMPT,
     },
@@ -289,8 +333,25 @@ class BimaSaathiGenerator:
             },
         }
 
+    def _strip_clause_echoes(self, text: str) -> str:
+        """Remove copied clause headers, meta labels, and long verbatim quotes."""
+        lines = []
+        for raw in text.splitlines():
+            line = raw
+            previous = None
+            while previous != line:
+                previous = line
+                line = CLAUSE_HEADER_RE.sub(" ", line)
+                line = ECHO_LABEL_RE.sub("", line)
+                line = ECHO_QUOTE_RE.sub("", line)
+            if line != raw:
+                line = re.sub(r"[ \t]{2,}", " ", line).strip()
+            lines.append(line)
+        cleaned = "\n".join(lines).strip()
+        return cleaned or text.strip()
+
     def _sanitize_answer(self, text: str) -> str:
-        cleaned = text
+        cleaned = self._strip_clause_echoes(text)
         for pattern in LEAK_PATTERNS:
             cleaned = re.sub(pattern, "BeemaSathi's knowledge base", cleaned, flags=re.I)
         cleaned = re.sub(r"\s{2,}", " ", cleaned).strip()
@@ -303,8 +364,33 @@ class BimaSaathiGenerator:
             )
         return cleaned
 
+    def _history_text(self, history: List[Dict]) -> str:
+        """Render the recent turns inside a fixed character budget."""
+        if not history:
+            return "None. This is the first question of the chat."
+        lines = []
+        for msg in list(history)[-HISTORY_MAX_MESSAGES:]:
+            role = "Customer" if msg.get("role") == "user" else "BeemaSathi"
+            text = re.sub(r"\s+", " ", str(msg.get("content") or "")).strip()
+            if not text:
+                continue
+            if len(text) > HISTORY_MESSAGE_CHARS:
+                text = text[:HISTORY_MESSAGE_CHARS].rstrip() + " …"
+            lines.append(f"{role}: {text}")
+        while lines and len("\n".join(lines)) > HISTORY_MAX_CHARS:
+            lines.pop(0)
+        return "\n".join(lines) or "None. This is the first question of the chat."
+
+    def _is_chat_meta_question(self, question: str) -> bool:
+        return bool(CHAT_META_RE.search(question or ""))
+
     def _build_messages(
-        self, context: str, question: str, scope: str, strategy: str = "baseline"
+        self,
+        context: str,
+        question: str,
+        scope: str,
+        strategy: str = "baseline",
+        history: str = "None. This is the first question of the chat.",
     ) -> List[Dict[str, str]]:
         config = PROMPT_STRATEGIES.get(strategy, PROMPT_STRATEGIES["baseline"])
         return [
@@ -312,17 +398,22 @@ class BimaSaathiGenerator:
             {
                 "role": "user",
                 "content": config["template"].format(
-                    context=context, question=question, scope=scope
+                    context=context, question=question, scope=scope, history=history
                 ),
             },
         ]
 
     def _build_prompt(
-        self, context: str, question: str, scope: str, strategy: str = "baseline"
+        self,
+        context: str,
+        question: str,
+        scope: str,
+        strategy: str = "baseline",
+        history: str = "None. This is the first question of the chat.",
     ) -> str:
         config = PROMPT_STRATEGIES.get(strategy, PROMPT_STRATEGIES["baseline"])
         return config["template"].format(
-            context=context, question=question, scope=scope
+            context=context, question=question, scope=scope, history=history
         )
 
     def _safety_check(self, text: str) -> tuple:
@@ -587,6 +678,7 @@ class BimaSaathiGenerator:
         question: str,
         catalog: List[Dict] = None,
         strategy: str = "baseline",
+        history: List[Dict] = None,
     ) -> Dict:
         """Full RAG pipeline: prompt → generate → safety check."""
         user_safe, user_reason = self._safety_check(question)
@@ -620,6 +712,7 @@ class BimaSaathiGenerator:
         grouped, regulations = self._catalog_facts(catalog)
         scope = self._catalog_fact_text(grouped, regulations)
         scope += "\n\n" + self._line_fact_text(catalog)
+        chat_meta = self._is_chat_meta_question(question)
         if self._is_scope_question(question):
             retrieved_chunks = []
 
@@ -628,15 +721,18 @@ class BimaSaathiGenerator:
             retrieved_chunks, gap_answer = self._select_chunks(
                 retrieved_chunks, question
             )
-        elif not self._is_scope_question(question):
+        elif not self._is_scope_question(question) and not chat_meta:
             gap_answer = MISSING_KNOWLEDGE_ANSWER
 
-        if gap_answer and not self._is_scope_question(question):
+        if gap_answer and not self._is_scope_question(question) and not chat_meta:
             return self._knowledge_gap_result(gap_answer)
 
         context = self._clause_context(retrieved_chunks)
-        prompt = self._build_prompt(context, question, scope, strategy)
-        messages = self._build_messages(context, question, scope, strategy)
+        history_text = self._history_text(history)
+        prompt = self._build_prompt(context, question, scope, strategy, history_text)
+        messages = self._build_messages(
+            context, question, scope, strategy, history_text
+        )
 
         # Call the configured model backend
         try:

@@ -557,6 +557,7 @@ with main_area:
                         insurer=insurer_key,
                         policy_name=policy if policy else None,
                         catalog=indexed_catalog,
+                        history=st.session_state.messages[:-1],
                     )
                 answer_duration_ms = round(
                     (time.perf_counter() - answer_started) * 1000,

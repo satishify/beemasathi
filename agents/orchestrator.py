@@ -45,12 +45,13 @@ class BeemaSathiOrchestrator:
         strategy: str = "baseline",
         claim: Optional[Dict] = None,
         catalog: Optional[List[Dict]] = None,
+        history: Optional[List[Dict]] = None,
     ) -> Dict:
         trace = Trace(question, insurer=insurer, policy_name=policy_name)
         started = time.perf_counter()
         try:
             result = self._answer(
-                question, insurer, policy_name, strategy, claim, catalog
+                question, insurer, policy_name, strategy, claim, catalog, history
             )
         except Exception as exc:
             trace.record_error(exc)
@@ -68,6 +69,7 @@ class BeemaSathiOrchestrator:
         strategy: str = "baseline",
         claim: Optional[Dict] = None,
         catalog: Optional[List[Dict]] = None,
+        history: Optional[List[Dict]] = None,
     ) -> Dict:
         guard = scan_query(question)
         if guard.action == "refuse":
@@ -84,7 +86,9 @@ class BeemaSathiOrchestrator:
         plan = self.route(question, insurer, policy_name)
 
         if plan.intent in {"safety", "security", "scope"}:
-            result = self.generator.generate([], question, catalog=catalog, strategy=strategy)
+            result = self.generator.generate(
+                [], question, catalog=catalog, strategy=strategy, history=history
+            )
             return self._wrap(result, plan, {"verified": True, "unsupported": []}, [])
 
         if plan.intent == "recommend":
@@ -97,7 +101,9 @@ class BeemaSathiOrchestrator:
             return self._claim_answer(question, plan, claim)
 
         if plan.intent == "comparison" and len(plan.insurers) >= 2:
-            return self._compare(question, plan, plan.insurers, strategy, catalog)
+            return self._compare(
+                question, plan, plan.insurers, strategy, catalog, history
+            )
 
         chunks = self.retriever.retrieve(
             query=question,
@@ -106,8 +112,12 @@ class BeemaSathiOrchestrator:
             n_results=8,
         )
         chunks = resolve_authority(chunks, prefer_brochure=plan.prefer_brochure)
-        result = self.generator.generate(chunks, question, catalog=catalog, strategy=strategy)
-        verification = self._verify(result, chunks, question, catalog, strategy)
+        result = self.generator.generate(
+            chunks, question, catalog=catalog, strategy=strategy, history=history
+        )
+        verification = self._verify(
+            result, chunks, question, catalog, strategy, history
+        )
         result["answer"] = strip_unbacked_family_limits(result.get("answer", ""), chunks)
         return self._wrap(result, plan, verification, chunks)
 
@@ -343,6 +353,7 @@ class BeemaSathiOrchestrator:
         insurers: List[str],
         strategy: str,
         catalog: List[Dict],
+        history: Optional[List[Dict]] = None,
     ) -> Dict:
         parts = []
         sources = []
@@ -380,7 +391,7 @@ class BeemaSathiOrchestrator:
                 "or on whether their documents are loaded."
             )
             result = self.generator.generate(
-                chunks, scoped, catalog=catalog, strategy=strategy
+                chunks, scoped, catalog=catalog, strategy=strategy, history=history
             )
             parts.append(f"**{label}**\n{result.get('answer', '')}")
             sources.extend(result.get("sources") or [])
@@ -447,12 +458,13 @@ class BeemaSathiOrchestrator:
         question: str,
         catalog: List[Dict],
         strategy: str,
+        history: Optional[List[Dict]] = None,
     ) -> Dict:
         verification = verify_answer(result.get("answer", ""), chunks)
         if verification["verified"] or not result.get("safe", True):
             return verification
         retry = self.generator.generate(
-            chunks, question, catalog=catalog, strategy="structured"
+            chunks, question, catalog=catalog, strategy="structured", history=history
         )
         retry_check = verify_answer(retry.get("answer", ""), chunks)
         if retry_check["unsupported"]:

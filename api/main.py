@@ -49,6 +49,7 @@ class QueryRequest(BaseModel):
     policy_name: Optional[str] = None
     strategy: Optional[str] = "baseline"
     claim: Optional[Dict] = None
+    history: Optional[List[Dict[str, str]]] = None
 
 
 class QueryResponse(BaseModel):
@@ -92,6 +93,7 @@ def ask_question(req: QueryRequest):
             policy_name=req.policy_name,
             strategy=req.strategy or "baseline",
             claim=req.claim,
+            history=req.history,
         )
         return QueryResponse(
             answer=result["answer"],

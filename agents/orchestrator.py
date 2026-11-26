@@ -15,7 +15,13 @@ from agents.router import IntentRouter, TaskPlan
 from config import INSURERS
 from observability.trace import Trace
 from rag.catalog import entry_line, entry_vehicle
-from rag.generator import BimaSaathiGenerator, table_requested
+from rag.generator import (
+    BimaSaathiGenerator,
+    asked_aspects,
+    is_chat_meta_question,
+    multi_part_question,
+    table_requested,
+)
 from rag.query_guard import scan_query
 from rag.retriever import PolicyRetriever
 
@@ -27,6 +33,49 @@ FOLLOWUP_COVERAGE_RE = re.compile(
     r"coverage|waiting|exclusion|excluded|claim|policy|policies|plan|plans|insurer|"
     r"premium|sum insured|network|cashless|room rent|copay|co-?pay|ped|pre-existing)\b",
     re.I,
+)
+
+OFF_TOPIC_ANSWER = (
+    "I can only answer questions about the Indian health and motor insurance "
+    "policies loaded in BeemaSathi. I can't help with general-knowledge topics.\n\n"
+    "Ask me about a plan, a clause, a claim, or a comparison, and I'll quote the "
+    "wording I hold."
+)
+
+# Vocabulary that ties a question to insurance. Everything here comes from the
+# policy domain, so a question with none of these words (and no plan, insurer,
+# or chat follow-up) is answered with the off-topic refusal instead of letting
+# the model fall back on general knowledge.
+DOMAIN_TERMS = frozenset(
+    """
+    insurance insure insured insurer insurers policy policies policyholder proposer
+    plan plans cover covers covered coverage claim claims claimant claimable premium
+    premiums deductible excess waiting exclusion exclusions exclude sublimit sub limit
+    copay co pay co payment room rent cashless reimbursement hospital hospitalisation
+    hospitalization network sum insured irdai tpa pre existing ped maternity renewal
+    renew ncb bonus addon add ons rider benefit benefits clause section terms
+    conditions wording endorsement underwriting disease surgery treatment
+    opd ipd daycare ambulance pharmacy diagnosis ailment diagnostic icu itcu transplant
+    donor dialysis chemotherapy cataract knee hip nursing expenses medical mediclaim
+    health motor vehicle vehicles car cars bike bikes two wheeler scooty scooter
+    accident damage liability third party od own idv depreciation garage garaging
+    theft burglary fire flood engine kilometre kms consumable portability migration
+    grace indemnity floater
+    """.split()
+)
+
+# A short follow-up can lean on the previous turns instead of repeating the
+# domain words ("why?", "and for Niva Bupa?").
+FOLLOWUP_LEAD_RE = re.compile(
+    r"^(?:why|how|what\s+about|and|also|more|explain|elaborate|then|ok(?:ay)?|"
+    r"which\s+one|really|so)\b",
+    re.I,
+)
+
+COMPARE_HELP_ANSWER = (
+    "I need two plans, two insurers, or a product family to compare. Name them "
+    "and I'll quote each wording, for example: \"Compare Health Plus for Niva "
+    "Bupa and Digit\" or \"Compare room rent caps for HDFC Ergo and Tata AIG\"."
 )
 
 
@@ -68,6 +117,75 @@ class BeemaSathiOrchestrator:
             if previous and not self._is_format_only(previous):
                 return previous
         return question
+
+    def _in_domain(
+        self,
+        question: str,
+        insurer: Optional[str],
+        policy_name: Optional[str],
+        history: Optional[List[Dict]],
+    ) -> bool:
+        """True when the question belongs to the loaded insurance corpus.
+
+        A selection in the UI, an insurer or plan name, an insurance word, a
+        chat-meta question, or a short follow-up is enough. Everything else is
+        refused before retrieval so the model cannot answer from general
+        knowledge.
+        """
+        if insurer or policy_name:
+            return True
+        if self.router.find_insurers(question):
+            return True
+        tokens = set(re.sub(r"[^a-z0-9]+", " ", (question or "").lower()).split())
+        if tokens & DOMAIN_TERMS:
+            return True
+        if is_chat_meta_question(question):
+            return True
+        if history and FOLLOWUP_LEAD_RE.match((question or "").strip()):
+            return True
+        return False
+
+    def _compare_help(self, plan: TaskPlan) -> Dict:
+        """Offer real families to compare instead of guessing a pairing."""
+        if len(plan.topic_plans) == 1:
+            insurer, plans = next(iter(plan.topic_plans.items()))
+            answer = (
+                f"I hold **{self._policy_label(plans[0])}** for "
+                f"{self._insurer_label(insurer)}. Name a second plan or insurer "
+                "and I'll compare their clauses side by side."
+            )
+        else:
+            families = self.router.topic_families(3)
+            if families:
+                lines = []
+                for family in families:
+                    names = [self._insurer_label(key) for key in family["plans"]]
+                    if len(names) == 2:
+                        joined = f"{names[0]} and {names[1]}"
+                    else:
+                        joined = ", ".join(names[:-1]) + " and " + names[-1]
+                    lines.append(f"- **{family['label'].title()}** — {joined}")
+                answer = (
+                    "I can compare any product family held for two or more "
+                    "insurers. For example:\n\n"
+                    + "\n".join(lines)
+                    + "\n\nName the family, or two plans, and I'll line up "
+                    "their constraints clause by clause."
+                )
+            else:
+                answer = COMPARE_HELP_ANSWER
+        result = {
+            "answer": answer,
+            "safe": True,
+            "sources": [],
+            "rejection_risk": None,
+            "model_metrics": {
+                "backend": "guard",
+                "model": self.generator.model,
+                "reason": "comparison-needs-two-plans",
+            },
+        }
+        return self._wrap(result, plan, {"verified": True, "unsupported": []}, [])
 
     def answer(
         self,
@@ -125,6 +243,20 @@ class BeemaSathiOrchestrator:
             )
             return self._wrap(result, plan, {"verified": True, "unsupported": []}, [])
 
+        if not self._in_domain(lookup_question, insurer, policy_name, history):
+            result = {
+                "answer": OFF_TOPIC_ANSWER,
+                "safe": True,
+                "sources": [],
+                "rejection_risk": None,
+                "model_metrics": {
+                    "backend": "guard",
+                    "model": self.generator.model,
+                    "reason": "off-topic",
+                },
+            }
+            return self._wrap(result, plan, {"verified": True, "unsupported": []}, [])
+
         if plan.intent == "recommend":
             return self._recommend(plan, catalog)
 
@@ -134,18 +266,20 @@ class BeemaSathiOrchestrator:
         if plan.intent == "claim_risk" and claim:
             return self._claim_answer(question, plan, claim)
 
-        if plan.intent == "comparison" and len(plan.insurers) >= 2:
-            return self._compare(
-                lookup_question, plan, plan.insurers, strategy, catalog, history, table
+        if plan.intent == "comparison":
+            plan_count = sum(len(plans) for plans in plan.topic_plans.values()) or len(
+                plan.insurers
             )
+            if plan_count < 2:
+                return self._compare_help(plan)
+            return self._compare(lookup_question, plan, plan.insurers, catalog, history)
 
-        chunks = self.retriever.retrieve(
-            query=lookup_question,
-            insurer=insurer or (plan.insurers[0] if plan.insurers else None),
-            policy_name=policy_name or (plan.policies[0] if plan.policies else None),
-            n_results=8,
+        chunks = self._retrieve_for_question(
+            lookup_question,
+            insurer or (plan.insurers[0] if plan.insurers else None),
+            policy_name or (plan.policies[0] if plan.policies else None),
+            prefer_brochure=plan.prefer_brochure,
         )
-        chunks = resolve_authority(chunks, prefer_brochure=plan.prefer_brochure)
         result = self.generator.generate(
             chunks, lookup_question, catalog=catalog, strategy=strategy,
             history=history, table=table,
@@ -155,6 +289,51 @@ class BeemaSathiOrchestrator:
         )
         result["answer"] = strip_unbacked_family_limits(result.get("answer", ""), chunks)
         return self._wrap(result, plan, verification, chunks)
+
+    def _retrieve_for_question(
+        self,
+        question: str,
+        insurer: Optional[str],
+        policy_name: Optional[str],
+        n_results: int = 8,
+        prefer_brochure: bool = False,
+    ) -> List[Dict]:
+        """Retrieve once per asked aspect when the question packs several.
+
+        A single embedding for "waiting period and co-pay" collapses onto the
+        first aspect, so the second never reaches the prompt. Each aspect is
+        retrieved on its own and put first, then the whole-question chunks fill
+        the rest.
+        """
+        chunks = self.retriever.retrieve(
+            query=question,
+            insurer=insurer,
+            policy_name=policy_name,
+            n_results=n_results,
+        )
+        aspects = asked_aspects(question) if multi_part_question(question) else []
+        if len(aspects) >= 2:
+            seen = {
+                chunk.get("metadata", {}).get("chunk_id")
+                for chunk in chunks
+                if chunk.get("metadata", {}).get("chunk_id")
+            }
+            per_aspect = []
+            for aspect in aspects:
+                for chunk in self.retriever.retrieve(
+                    query=aspect,
+                    insurer=insurer,
+                    policy_name=policy_name,
+                    n_results=3,
+                ):
+                    key = chunk.get("metadata", {}).get("chunk_id")
+                    if key and key in seen:
+                        continue
+                    if key:
+                        seen.add(key)
+                    per_aspect.append(chunk)
+            chunks = per_aspect + chunks
+        return resolve_authority(chunks, prefer_brochure=prefer_brochure)
 
     def _recommend(self, plan: TaskPlan, catalog: List[Dict]) -> Dict:
         """List plans with loaded wording; never rank or invent family coverage."""
@@ -452,71 +631,99 @@ class BeemaSathiOrchestrator:
             "Pick one and I'll quote its clauses exactly."
         )
 
+    @staticmethod
+    def _compare_lead(plan: TaskPlan, insurers: List[str]) -> str:
+        """Say which product family the sections compare, when it was inferred."""
+        if not plan.lead_topic or len(insurers) < 2:
+            return ""
+        names = [BeemaSathiOrchestrator._insurer_label(key) for key in insurers]
+        if len(names) == 2:
+            joined = f"{names[0]} and {names[1]}"
+        else:
+            joined = ", ".join(names[:-1]) + " and " + names[-1]
+        return f"Comparing the {plan.lead_topic.title()} plans I hold for {joined}:"
+
     def _compare(
         self,
         question: str,
         plan: TaskPlan,
         insurers: List[str],
-        strategy: str,
         catalog: List[Dict],
         history: Optional[List[Dict]] = None,
-        table: bool = False,
     ) -> Dict:
-        parts = []
-        sources = []
+        notes = []
+        groups = []
         used_chunks = []
-        prompt_tokens = 0
-        completion_tokens = 0
-        safe = True
         # Resolve the plan each insurer was asked about, separately. A single
         # global match can return a plan from the wrong insurer, and insurer-wide
         # retrieval would let one product's clause be attributed to another.
         named_by_insurer = self.router.find_policies_by_insurer(question)
-        question_names_plan = any(named_by_insurer.values())
+        question_names_plan = any(named_by_insurer.values()) or any(
+            plan.topic_plans.values()
+        )
         for key in insurers:
             label = self._insurer_label(key)
-            named = named_by_insurer.get(key) or []
+            topics = plan.topic_plans.get(key) or []
+            # Two plans of one insurer come from topic_plans; a single plan can
+            # come from either resolver.
+            named = topics if len(topics) >= 2 else (named_by_insurer.get(key) or topics)
             if question_names_plan and not named:
-                parts.append(self._missing_plan_note(label, key, question, catalog))
+                notes.append(self._missing_plan_note(label, key, question, catalog))
                 continue
-            chunks = self.retriever.retrieve(
-                query=question,
-                insurer=key,
-                policy_name=named[0] if named else None,
-                n_results=6,
-            )
-            chunks = resolve_authority(chunks, prefer_brochure=plan.prefer_brochure)
-            # Each call sees only one insurer's clauses, so scope the question
-            # to that insurer. Otherwise the model reads the absent insurer as
-            # a missing document and contradicts the section that covers it.
-            scoped = (
-                f"{question}\n\nAnswer only for {label}. Another section covers "
-                "every other insurer in the question, so do not comment on them "
-                "or on whether their documents are loaded."
-            )
-            result = self.generator.generate(
-                chunks, scoped, catalog=catalog, strategy=strategy,
-                history=history, table=table,
-            )
-            parts.append(f"**{label}**\n{result.get('answer', '')}")
-            sources.extend(result.get("sources") or [])
-            used_chunks.extend(chunks)
-            metrics = result.get("model_metrics") or {}
-            prompt_tokens += metrics.get("prompt_tokens") or 0
-            completion_tokens += metrics.get("completion_tokens") or 0
-            safe = safe and bool(result.get("safe", True))
+            for policy in (named or [None])[:3]:
+                plan_label = label
+                if policy:
+                    named_label = re.sub(
+                        r"\s+polic(?:y|ies)(?:\s+(?:revision|wording|document|terms|cis))?$",
+                        "",
+                        self._policy_label(policy),
+                        flags=re.I,
+                    )
+                    plan_label = (
+                        named_label
+                        if named_label.lower().startswith(label.lower())
+                        else f"{label} {named_label}"
+                    )
+                chunks = self._retrieve_for_question(
+                    question,
+                    key,
+                    policy,
+                    n_results=6,
+                    prefer_brochure=plan.prefer_brochure,
+                )
+                if not chunks:
+                    notes.append(self._missing_plan_note(label, key, question, catalog))
+                    continue
+                groups.append((plan_label, chunks))
+                used_chunks.extend(chunks)
+
+        if len(groups) < 2:
+            if notes and groups:
+                notes.append(
+                    f"I hold only the {groups[0][0]} wording here, so I can't line "
+                    "the two plans up side by side."
+                )
+            merged = {
+                "answer": "\n\n".join(notes) or COMPARE_HELP_ANSWER,
+                "safe": True,
+                "sources": [],
+                "rejection_risk": None,
+                "model_metrics": {"backend": "guard", "model": self.generator.model},
+            }
+            return self._wrap(merged, plan, {"verified": True, "unsupported": []}, used_chunks)
+
+        result = self.generator.compare_plans(question, groups, history=history)
+        answer = result.get("answer", "")
+        lead = self._compare_lead(plan, insurers)
+        if lead:
+            answer = lead + "\n\n" + answer
+        if notes and result.get("safe", True):
+            answer += "\n\n" + "\n\n".join(notes)
 
         merged = {
-            "answer": "\n\n".join(parts),
-            "safe": safe,
-            "sources": self._dedupe_sources(sources),
-            "rejection_risk": None,
-            "model_metrics": {
-                "model": self.generator.model,
-                "prompt_tokens": prompt_tokens,
-                "completion_tokens": completion_tokens,
-                "calls": len(insurers),
-            },
+            **result,
+            "answer": answer,
+            "sources": self._dedupe_sources(result.get("sources") or []),
         }
         verification = verify_answer(merged["answer"], used_chunks)
         merged["answer"] = strip_unbacked_family_limits(merged["answer"], used_chunks)

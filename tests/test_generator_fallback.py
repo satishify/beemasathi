@@ -9,7 +9,7 @@ class _FailingHosted(gen.BimaSaathiGenerator):
         self.model = "Qwen/Qwen3-8B"
         self.local_models = []
 
-    def _call_api(self, messages):
+    def _call_api(self, messages, max_tokens=None):
         raise RuntimeError("Model API error 503: busy")
 
     def _call_local(self, prompt, chat_messages, model=None):

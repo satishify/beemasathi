@@ -26,11 +26,17 @@ BRAND_ICON = str(
 
 st.set_page_config(
     page_title="BeemaSathi",
-    page_icon=BRAND_ICON,
+    page_icon=BRAND_ICON if Path(BRAND_ICON).is_file() else None,
     layout="wide",
 )
 
-st.logo(BRAND_LOGO, size="large", icon_image=BRAND_ICON)
+# A missing asset must not take the whole desk down; fall back to the mark.
+if Path(BRAND_LOGO).is_file():
+    st.logo(BRAND_LOGO, size="large", icon_image=BRAND_ICON)
+elif Path(BRAND_ICON).is_file():
+    st.logo(BRAND_ICON, size="large", icon_image=BRAND_ICON)
+else:
+    st.markdown("**BeemaSathi**")
 
 # st.logo caps height at 32px, which shrinks the tagline to an unreadable size.
 st.markdown(

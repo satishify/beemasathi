@@ -17,6 +17,8 @@
       <a href="data.html">Data</a>
       <a href="evaluation.html" class="active">Evaluation</a>
       <a href="plan.html">Plan</a>
+      <a href="trace_dashboard.html">Traces</a>
+      <a href="BeemaSathi_Technical_Report.pdf">Report</a>
       <a href="https://github.com/satishify/beemasathi">GitHub</a>
     </nav>
   </div>
@@ -40,27 +42,27 @@
     <h2>Where the baseline stands</h2>
     <div class="stats cols-4">
       <div class="stat"><b>100</b><span>gold cases</span></div>
-      <div class="stat"><b>85/100</b><span>passing on hosted Qwen3-8B</span></div>
-      <div class="stat"><b>23–24 Nov 2026</b><span>last measured</span></div>
+      <div class="stat"><b>83/100</b><span>passing on hosted Qwen3-8B</span></div>
+      <div class="stat"><b>26 Nov 2026</b><span>last measured</span></div>
       <div class="stat"><b>9/9</b><span>red-team refusals</span></div>
     </div>
     <div class="stats cols-4">
       <div class="stat"><b>0.975</b><span>document recall@8 (79/81)</span></div>
       <div class="stat"><b>0.912</b><span>supporting-clause recall@8 (73/80)</span></div>
-      <div class="stat"><b>85/100</b><span>grounded passes, 0 ungrounded</span></div>
-      <div class="stat"><b>2.8 s</b><span>mean answer latency</span></div>
+      <div class="stat"><b>83/100</b><span>grounded passes, 0 ungrounded</span></div>
+      <div class="stat"><b>2.5 s</b><span>mean answer latency</span></div>
     </div>
     <div class="note">
       <p>
         Hybrid retrieval finds the expected policy in 79 of 81 labelled cases and the exact
-        supporting clause in 73 of 80. All 85 passing answers had the expected document in
-        context, so no answer was right by luck. The 15 failures split into 2 document misses,
-        5 supporting-clause misses and 8 answer errors; the recurring shape is picking the wrong
+        supporting clause in 73 of 80. All 83 passing answers had the expected document in
+        context, so no answer was right by luck. The 17 failures split into 2 document misses,
+        4 supporting-clause misses and 11 answer errors; the recurring shape is picking the wrong
         sub-clause or the wrong number (24 months where the wording says 36, INR 10,000 where it
-        says Rs 2,500). Twelve of the 15 trip a hard rule while the LLM judge accepts the answer.
+        says Rs 2,500). Fifteen of the 17 trip a hard rule while the LLM judge accepts 14 of them.
         In some the rule is right and the judge is too lenient; in others the rule string is too
         narrow — one case bans “60 days” even though 60 days is the correct post-hospitalisation
-        window. Read 85/100 as conservative, not as a rule-versus-judge tie. The nine red-team
+        window. Read 83/100 as conservative, not as a rule-versus-judge tie. The nine red-team
         prompts (system-prompt extraction, secret and PII extraction, role-play, document-borne
         injection, index poisoning) are refused before the model is called. The judge is still
         the same model that generates the answer, there is no human adjudication yet, and this
@@ -74,9 +76,8 @@
     <p>
       The set now includes 26 additional customer-style questions grounded against raw policy PDF pages
       and their indexed chunks, covering health benefits and claim timelines, optional benefits, and
-      motor claims and exclusions. Answer and judge metrics come from the full 100-case judged run on
-      23 Nov 2026; retrieval metrics were re-measured on 24 Nov 2026 after the corpus rebuild and the
-      comparison-grounding fix.
+      motor claims and exclusions. Answer, judge and retrieval metrics come from the full 100-case
+      judged run on 26 Nov 2026 (<code>eval/reports/eval_20261126T173042Z.json</code>).
     </p>
     <p>
       Eighteen waiting-period, twelve UIN and ten co-pay cases were mined from indexed policy
@@ -110,15 +111,15 @@
         <tr><th>Metric</th><th>Definition</th><th>Measured</th><th>Target</th></tr>
         <tr><td>Document recall@8</td><td>Expected document appears in the top 8 chunks</td><td>0.975 (79/81)</td><td>≥ 0.85</td></tr>
         <tr><td>Supporting-clause recall@8</td><td>Top 8 contains a chunk from the expected document with the exact gold fact</td><td>0.912 (73/80)</td><td>≥ 0.70</td></tr>
-        <tr><td>Answer pass rate</td><td>Rules plus judge verdict</td><td>85/100</td><td>≥ 0.90</td></tr>
-        <tr><td>Grounded pass rate</td><td>Passed with the expected document in context</td><td>85/100</td><td>≥ 0.85</td></tr>
+        <tr><td>Answer pass rate</td><td>Rules plus judge verdict</td><td>83/100</td><td>≥ 0.90</td></tr>
+        <tr><td>Grounded pass rate</td><td>Passed with the expected document in context</td><td>83/100</td><td>≥ 0.85</td></tr>
         <tr><td>Mean rank of the evidence chunk</td><td>Rank of the first supporting clause</td><td>2.2</td><td>≤ 3</td></tr>
-        <tr><td>Task latency</td><td>Retrieval plus generation</td><td>2.8 s mean</td><td>p95 ≤ 20 s</td></tr>
+        <tr><td>Task latency</td><td>Retrieval plus generation</td><td>2.5 s mean</td><td>p95 ≤ 20 s</td></tr>
         <tr><td>MRR, citation correctness, claim-risk agreement</td><td>Planned; needs graded relevance labels, a citation audit set and a labelled claim-risk set</td><td>not measured</td><td>MRR ≥ 0.70, citation ≥ 95%, risk ≥ 80%</td></tr>
       </table>
     </div>
     <p>
-      A run also records prompt and completion tokens (296k and 8.6k for the 100-case run),
+      A run also records prompt and completion tokens (309k and 8.1k for the 100-case run),
       judge latency, and a failure type per case, so cost and regressions are visible without
       re-reading answers.
     </p>
@@ -145,7 +146,7 @@
       <li>Dense-only RAG — earlier 74-case baseline: document recall@8 of 0.60, clause recall 0.28.</li>
       <li>Hybrid RAG with BM25 plus dense — document recall@8 of 0.975, clause recall 0.912.</li>
       <li>Hybrid RAG with authority-aware reranking — the shipped retriever.</li>
-      <li>Agentic routing with the critic loop — the shipped orchestrator; answer pass rate 85/100.</li>
+      <li>Agentic routing with the critic loop — the shipped orchestrator; answer pass rate 83/100.</li>
       <li>Prompt strategies (baseline, zero-shot, structured) — compared on identical retrieved context with <code>eval/compare_prompts.py</code>: 64/74, 60/74 and 63/74 rules-only passes; mean latency 2.36 s, 1.06 s and 2.31 s; 187k, 150k and 157k prompt tokens.</li>
     </ol>
 

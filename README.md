@@ -82,11 +82,13 @@ Method, failure taxonomy and limits: [docs/evaluation.html](docs/evaluation.html
 
 | Document | Content |
 | --- | --- |
-| [docs/PROJECT.md](docs/PROJECT.md) | Complete project guide |
+| [docs/PROJECT.md](docs/PROJECT.md) | Complete project guide, incl. the model card (§6.1) |
 | [docs/architecture.html](docs/architecture.html) | Shipped architecture and stage-by-stage pipeline |
 | [docs/data.html](docs/data.html) | Corpus composition, governance and extraction limits |
 | [docs/evaluation.html](docs/evaluation.html) | Gold set, metrics, results and red team |
 | [docs/plan.html](docs/plan.html) | Four-week plan, gates, risks and deliverables |
+| [docs/trace_dashboard.html](docs/trace_dashboard.html) | Trace dashboard generated from `logs/traces/` |
+| [docs/BeemaSathi_Technical_Report.pdf](docs/BeemaSathi_Technical_Report.pdf) | Twelve-page technical report |
 | [eval/README.md](eval/README.md) | How cases are scored |
 
 ## Structure

@@ -5,7 +5,13 @@ from dataclasses import dataclass, field
 from typing import Dict, List, Optional
 
 from config import BANNED_PATTERNS, INSURERS, SECURITY_PATTERNS
-from rag.policy_match import PRODUCT_CLASS_NAMES, insurer_phrases, match_policy, normalize
+from rag.policy_match import (
+    INSURER_STOP_TOKENS,
+    PRODUCT_CLASS_NAMES,
+    insurer_phrases,
+    match_policy,
+    normalize,
+)
 
 CLAIM_RE = re.compile(
     r"\b(claim\s+(?:be\s+)?reject|rejection\s+risk|reject(?:ed|ion)?|"
@@ -14,6 +20,15 @@ CLAIM_RE = re.compile(
     re.I,
 )
 COMPARE_RE = re.compile(r"\b(compare|compared|versus|vs\.?|difference\s+between|better\s+than)\b", re.I)
+# Comparison asked in the customer's own words, without naming insurers: "two
+# different companies", "same purpose but different constraints".
+CROSS_INSURER_RE = re.compile(
+    r"\b(?:two|2|three|3|multiple)\s+(?:different\s+)?"
+    r"(?:compan(?:y|ies)|insurers?|insurance\s+compan(?:y|ies))\b|"
+    r"\bdifferent\s+(?:constraints?|terms|conditions|limits|coverage|benefits)\b|"
+    r"\bsame\s+(?:purpose|benefit|cover(?:age)?)\b[^.?!\n]{0,40}\bdifferent\b",
+    re.I,
+)
 GAP_RE = re.compile(
     r"\b(which\s+insurers?\s+do\s+you\s+(?:not|don'?t)\s+have|"
     r"what\s+(?:insurers?|policies?)\s+(?:do\s+you\s+)?(?:not|don'?t)\s+have|"
@@ -77,6 +92,11 @@ class TaskPlan:
     line: Optional[str] = None
     vehicle: Optional[str] = None
     limit: int = 5
+    # Plans resolved per insurer when the question names a product family
+    # ("health plus") instead of insurer names.
+    topic_plans: Dict[str, List[str]] = field(default_factory=dict)
+    # Product family the comparison was scoped to, used for a short lead-in.
+    lead_topic: Optional[str] = None
 
     def as_dict(self) -> Dict:
         return {
@@ -87,6 +107,8 @@ class TaskPlan:
             "line": self.line,
             "vehicle": self.vehicle,
             "limit": self.limit,
+            "topic_plans": self.topic_plans,
+            "lead_topic": self.lead_topic,
             "steps": [{"action": step.action, "target": step.target} for step in self.steps],
         }
 
@@ -155,6 +177,136 @@ class IntentRouter:
                 if entry.get("policy_name")
             }
         )
+
+    # Words that mark the document, not the product, so they never identify a
+    # plan family across insurers.
+    PLAN_NAME_NOISE = frozenset(
+        {
+            "policy", "policies", "plan", "plans", "revision", "wording",
+            "brochure", "cis", "prospectus", "new", "final",
+        }
+    )
+
+    def _plan_tokens(self, insurer: Optional[str], policy: Optional[str]) -> frozenset:
+        """Product words in a plan name, without insurer or document words."""
+        tokens = set(_normalize(policy or "").split()) - self.PLAN_NAME_NOISE
+        insurer_tokens = {
+            token
+            for token in _normalize(insurer or "").split()
+            if token not in INSURER_STOP_TOKENS
+        }
+        return frozenset(tokens - insurer_tokens)
+
+    def topic_plans(self, question: str) -> Dict[str, List[str]]:
+        """Plans whose product words all appear in the question.
+
+        "health plus ... two companies" resolves to the Health Plus wordings of
+        every insurer that holds one, without the customer naming an insurer.
+        """
+        asked = {
+            token
+            for token in _normalize(question).split()
+            if token not in self.PHRASE_FILLERS
+        }
+        best: Dict[str, tuple] = {}
+        for insurer, policy in self._catalog_policies():
+            if not insurer:
+                continue
+            tokens = self._plan_tokens(insurer, policy)
+            if len(tokens) < 2 or not tokens <= asked:
+                continue
+            if insurer not in best or len(tokens) > best[insurer][0]:
+                best[insurer] = (len(tokens), policy)
+        if len(best) < 2:
+            return {}
+        return {insurer: [policy] for insurer, (_, policy) in best.items()}
+
+    def plans_for_insurer(self, question: str, insurer: str, limit: int = 3) -> List[str]:
+        """Plans of one insurer whose product words all appear in the question.
+
+        Used when the customer compares two plans of the same insurer, e.g.
+        "Optima Super and Optima Vital for HDFC Ergo".
+        """
+        asked = {
+            token
+            for token in _normalize(question).split()
+            if token not in self.PHRASE_FILLERS
+        }
+        best: Dict[frozenset, tuple] = {}
+        for entry_insurer, policy in self._catalog_policies():
+            if entry_insurer != insurer:
+                continue
+            tokens = self._plan_tokens(insurer, policy)
+            if len(tokens) < 2 or not tokens <= asked:
+                continue
+            chunks = sum(
+                entry.get("chunks") or 0
+                for entry in self.catalog
+                if entry.get("insurer") == insurer
+                and entry.get("policy_name") == policy
+            )
+            if tokens not in best or chunks > best[tokens][0]:
+                best[tokens] = (chunks, policy)
+        ranked = sorted(best.values(), key=lambda item: (-item[0], item[1]))
+        return [policy for _, policy in ranked[:limit]]
+
+    # Families that describe a commercial or bundled product, not a retail
+    # cover a customer compares clause by clause.
+    NON_RETAIL_TOKENS = frozenset(
+        {
+            "group", "package", "commercial", "liability", "fleet", "rural",
+            "janata", "gramin", "two", "wheeler", "gcv", "pcv", "loan",
+            "credit", "micro",
+        }
+    )
+
+    def topic_families(self, limit: int = 3) -> List[Dict]:
+        """Product families held for two or more insurers, best first.
+
+        Used when a comparison names neither insurers nor a product, so the
+        reply can offer real families instead of inventing a pairing.
+        """
+        families: Dict[frozenset, Dict[str, Dict]] = {}
+        for entry in self.catalog:
+            insurer = entry.get("insurer")
+            policy = entry.get("policy_name")
+            if not insurer or not policy:
+                continue
+            tokens = self._plan_tokens(insurer, policy)
+            if len(tokens) < 2 or tokens & self.NON_RETAIL_TOKENS:
+                continue
+            family = families.setdefault(tokens, {})
+            holder = family.setdefault(
+                insurer, {"types": set(), "policies": set()}
+            )
+            holder["types"].add(entry.get("document_type"))
+            holder["policies"].add(policy)
+        candidates = []
+        for tokens, holders in families.items():
+            if len(holders) < 2:
+                continue
+            wordings = [
+                insurer
+                for insurer, holder in holders.items()
+                if "policy_wording" in holder["types"]
+            ]
+            label = " ".join(sorted(tokens))
+            score = (
+                len(wordings) >= 2,
+                len(holders),
+                -len(tokens),
+            )
+            candidates.append((score, label, holders, wordings))
+        candidates.sort(key=lambda item: (item[0], item[1]), reverse=True)
+        result = []
+        for _, label, holders, wordings in candidates[:limit]:
+            order = sorted(wordings if len(wordings) >= 2 else holders)
+            plans = {
+                insurer: [sorted(holders[insurer]["policies"])[0]]
+                for insurer in order
+            }
+            result.append({"label": label, "plans": plans})
+        return result
 
     def find_insurers(self, question: str) -> List[str]:
         text = f" {_normalize(question)} "
@@ -290,12 +442,34 @@ class IntentRouter:
                 steps=[TaskStep("predict_claim"), TaskStep("explain")],
             )
 
-        if COMPARE_RE.search(question) or len(insurers) >= 2:
+        if COMPARE_RE.search(question) or CROSS_INSURER_RE.search(question) or len(insurers) >= 2:
+            topic_plans: Dict[str, List[str]] = {}
+            lead_topic: Optional[str] = None
+            if len(insurers) < 2:
+                topic_plans = self.topic_plans(question)
+                if len(topic_plans) >= 2:
+                    insurers = sorted(topic_plans)
+                    first_insurer = insurers[0]
+                    lead_topic = " ".join(
+                        sorted(self._plan_tokens(first_insurer, topic_plans[first_insurer][0]))
+                    )
+                elif len(insurers) == 1:
+                    plans = self.plans_for_insurer(question, insurers[0])
+                    if len(plans) >= 2:
+                        topic_plans = {insurers[0]: plans}
             steps = [TaskStep("retrieve", target=key) for key in insurers]
             steps.append(TaskStep("compare"))
             if not steps[:-1]:
                 steps.insert(0, TaskStep("retrieve"))
-            return TaskPlan(question, "comparison", insurers, policies, steps)
+            return TaskPlan(
+                question,
+                "comparison",
+                insurers,
+                policies,
+                steps,
+                topic_plans=topic_plans,
+                lead_topic=lead_topic,
+            )
 
         if RECOMMEND_RE.search(question):
             return TaskPlan(

@@ -113,9 +113,173 @@ TABLE_FORMAT_INSTRUCTION = (
     "Do not add prose before or after the table."
 )
 
+# A comparison asked as "what is different" needs a decompose -> extract ->
+# differentiate answer, not two separate plan monologues that each talk about
+# the question's wording instead of the plans' constraints.
+COMPARE_STEP_DIFFERENTIATE = (
+    "STEP 3 - DIFFERENTIATE. Keep only areas where the plans actually differ. "
+    "Drop any area where they match or where neither plan states a rule. If one "
+    'plan states a limit the other does not, that is a difference and the missing '
+    'side is "Not stated".'
+)
+COMPARE_STEP_ALIGN = (
+    "STEP 3 - ALIGN. The question asks about a specific constraint, so keep one "
+    "row for each constraint asked about and show every plan's own rule. Keep "
+    "rows where the plans agree; drop a row only when no plan states a rule for it."
+)
+COMPARE_NOTE_DIFFERENCES = (
+    "Never write that the plans are the same or similar. If no row shows a "
+    "difference, say so in one sentence instead of inventing one."
+)
+COMPARE_NOTE_ALIGN = (
+    "Do not invent a difference and do not claim more than the table shows."
+)
+
+COMPARE_TEMPLATE = """CUSTOMER QUESTION:
+{question}
+
+PLANS BEING COMPARED: {labels}
+
+STEP 1 - UNDERSTAND. Break the question into the constraint areas it asks about. When the question is vague ("what constraints differ"), use these areas in order: room rent and ICU limits, co-pay, waiting periods (initial, pre-existing, specific diseases), sub-limits and disease caps, exclusions, hospital network and cashless rules, no-claim bonus and sum-insured refill, renewal and loading rules. Keep at most six areas.
+
+STEP 2 - EXTRACT. For each plan, note what that plan's own clauses say for each area, with its section number or page.
+
+{step3}
+
+STEP 4 - ANSWER. Start with one short line naming the plans. Then a GitHub-flavoured Markdown table:
+
+{table_header}
+{table_sep}
+| ... | ... | ... |
+
+Each cell must state the actual rule from that plan - the limit, waiting period, co-pay or exclusion exactly as written - followed by its section or page in brackets, for example "1% of sum insured (Sec. 4.2, p. 42)". A cell holding only a page number is not an answer. If a plan does not state the rule, write "Not stated". Then at most three bullets, and each bullet must point to one row of the table. {mode_note}
+
+RULES:
+- Compare plan against plan. Never discuss "two companies", the question's phrasing, or that you are an AI.
+- Copy the header row and separator row from STEP 4 exactly, with the leading and trailing pipe.
+- One row per constraint. Never pair two unrelated rules in the same row: both plans must address the same constraint, or one addresses it and the other says "Not stated" for that same constraint.
+- Never output a row where every plan cell says "Not stated".
+- Quote numbers exactly as written in the clauses.
+- Never state a constraint that is not in the clauses below.
+- If the clauses do not settle a row, leave the row out.
+- Close with: "This is informational only. For legal advice, consult a lawyer."
+
+RECENT CONVERSATION (may be empty):
+{history}
+
+PLAN CLAUSES:
+{context}
+"""
+
+# Questions that name several aspects at once ("room rent, co-pay and waiting
+# period") need each part answered separately, in a table, instead of one
+# blended paragraph that covers only the easiest part.
+ASPECT_PATTERNS = (
+    ("waiting period", r"\bwaiting\s*(?:period|time)\b|\bpre-?existing\b|\bspecific\s+disease"),
+    ("co-pay", r"\bco-?pay(?:ment)?\b|\bdeductible\b"),
+    ("room rent and ICU", r"\broom\s*rent\b|\bicu\b|intensive\s+care"),
+    ("sub-limits", r"\bsub-?limits?\b"),
+    ("exclusions", r"\bexclu(?:de|des|ded|ding|sion|sions)\b"),
+    ("network and cashless", r"\bcashless\b|\bnetwork\b"),
+    ("no-claim bonus and refill", r"\bno[- ]claim\b|\bncb\b|\brefill\b|\brestore\b"),
+    ("renewal and grace", r"\brenew(?:al|als|able)?\b|\bgrace\s+period\b|\bloading\b"),
+    ("ambulance", r"\bambulance\b"),
+    ("day care", r"\bday[- ]care\b"),
+    ("maternity", r"\bmaternity\b"),
+    ("domiciliary", r"\bdomiciliary\b"),
+    ("organ donor", r"\borgan\s+donor\b"),
+)
+
+DIFFERENCE_ASK_RE = re.compile(
+    r"\b(?:what|which)\b[^.?!]{0,40}\b(?:differ|differs|different|difference)\b|"
+    r"\bdifferent\s+(?:constraints?|terms|conditions|limits|coverage|benefits)\b|"
+    r"\bsame\s+(?:purpose|benefit|cover(?:age)?)\b[^.?!\n]{0,40}\bdifferent\b",
+    re.I,
+)
+
+def multi_aspect_instruction(question: str) -> str:
+    """Table contract that names the aspects, so none is silently dropped."""
+    aspects = asked_aspects(question)
+    if aspects:
+        order = (
+            "The aspects asked, in order: "
+            + ", ".join(aspects)
+            + ". Write one row for each of them, in that order."
+        )
+    else:
+        order = (
+            "Write one row for each separate part of the question, in the order "
+            "asked."
+        )
+    return (
+        "\n\nFORMAT: The question asks about more than one aspect. Answer with a "
+        "GitHub-flavoured Markdown table only: a header row '| Aspect | What the "
+        "wording says | Where |', a | --- | separator row, then "
+        + order
+        + " Put several sub-rules of one aspect in that one row. Quote the exact "
+        "numbers and the section or page. An aspect the clauses do not settle must "
+        "read 'Not stated in the loaded wording'. Do not add prose before or after "
+        "the table."
+    )
+
+
+def asked_aspects(question: str) -> List[str]:
+    """Insurance aspects the question names, in the order they appear."""
+    text = question or ""
+    hits = []
+    for name, pattern in ASPECT_PATTERNS:
+        match = re.search(pattern, text, re.I)
+        if match:
+            hits.append((match.start(), name))
+    return [name for _, name in sorted(hits)]
+
+
+def compare_mode(question: str) -> str:
+    """Differences-only for "what differs"; side-by-side for a named clause."""
+    return "differences" if DIFFERENCE_ASK_RE.search(question or "") else "side_by_side"
+
+
+def multi_part_question(question: str) -> bool:
+    """True when one answer must settle two or more separate aspects."""
+    text = question or ""
+    if text.count("?") >= 2:
+        return True
+    spans = []
+    for name, pattern in ASPECT_PATTERNS:
+        for match in re.finditer(pattern, text, re.I):
+            spans.append((match.start(), match.end(), name))
+    spans.sort()
+    for (_, end, first), (start, _, second) in zip(spans, spans[1:]):
+        if first == second or start - end > 60:
+            continue
+        if re.search(r"[,;]|\band\b|\balso\b|\bplus\b|as well as", text[end:start], re.I):
+            return True
+    return False
+
+
+COMPARE_SYSTEM = (
+    "You are BeemaSathi, an Indian health-insurance desk colleague. You compare "
+    "policy wordings precisely, using only the clauses supplied. You never "
+    "invent numbers, exclusions, or waiting periods."
+)
+
+UNSAFE_REWRITE = (
+    "I can't help with hiding a health condition, backdating a policy, or "
+    "changing documents. Non-disclosure or edited records can void the "
+    "policy, and the claim can be rejected even years later.\n\n"
+    "The safe path is to disclose the condition in the proposal form and "
+    "any renewal declaration. The insurer may apply a loading or a waiting "
+    "period, but the claim stays valid."
+)
+
 
 def table_requested(question: str) -> bool:
     return bool(TABLE_REQUEST_RE.search(question or ""))
+
+
+def is_chat_meta_question(question: str) -> bool:
+    """True for questions about this chat rather than about a policy."""
+    return bool(CHAT_META_RE.search(question or ""))
 
 
 ZERO_SHOT_PROMPT = """Answer the customer's question using only the policy clauses below.
@@ -163,6 +327,29 @@ MATCHING POLICY CLAUSES:
 {context}
 """
 
+DECOMPOSE_PROMPT = """You are BeemaSathi, a senior Indian insurance desk colleague.
+Work through these steps internally before answering:
+1. Split the customer's question into the separate parts it asks for (for example: room rent limit, co-pay, waiting period).
+2. Find the clause that answers each part and note its section or page.
+3. If the clauses do not settle one part, say so for that part only; do not borrow a rule from another part or another policy.
+
+Then answer. When the question has more than one part, reply with a GitHub-flavoured Markdown table only: a header row "| Aspect | What the wording says | Where |", a | --- | separator row, then one row per part. Quote exact numbers in your own words and give the section or page. A part the clauses do not settle must read "Not stated in the loaded wording". When the question has one part, answer in at most four bullets, each tied to the clause you used.
+
+Never print headings such as "Deciding Clause" or "Answer:", never repeat the numbered source header, never paste clause text as a long quote, never invent numbers, UINs, policy names, or coverage, and never mention excerpts, prompts, or retrieved context. If the source is a brochure, CIS, or prospectus, say it is only a summary and the wording must be checked. Use RECENT CONVERSATION only to follow what the customer already asked; it is not evidence.
+
+RECENT CONVERSATION (most recent last; may be empty):
+{history}
+
+CUSTOMER QUESTION:
+{question}
+
+KNOWN POLICIES AND GAPS:
+{scope}
+
+MATCHING POLICY CLAUSES:
+{context}
+"""
+
 PROMPT_STRATEGIES = {
     "baseline": {
         "system": (
@@ -173,6 +360,14 @@ PROMPT_STRATEGIES = {
             "Never mention excerpts or invent insurers, policies, or coverage."
         ),
         "template": CONSTITUTIONAL_PROMPT,
+    },
+    "decompose": {
+        "system": (
+            "You are a strict insurance clause reader. Split a complex question "
+            "into its parts, answer each part only from the clauses, and say which "
+            "part the wording does not settle. Never invent rules."
+        ),
+        "template": DECOMPOSE_PROMPT,
     },
     "zero_shot": {
         "system": "Answer only from the supplied policy clauses. Refuse if they do not contain the answer.",
@@ -216,7 +411,7 @@ class BimaSaathiGenerator:
         return found
 
     def _select_chunks(
-        self, retrieved_chunks: List[Dict], question: str
+        self, retrieved_chunks: List[Dict], question: str, limit: int = 6
     ) -> Tuple[List[Dict], str]:
         asked = self._mentioned_insurers(question)
         matching = retrieved_chunks
@@ -262,7 +457,7 @@ class BimaSaathiGenerator:
         ]
         if not relevant:
             return [], MISSING_KNOWLEDGE_ANSWER
-        return relevant[:6], ""
+        return relevant[:limit], ""
 
     def _policy_hint(self, question: str) -> str:
         q = question.lower()
@@ -388,7 +583,7 @@ class BimaSaathiGenerator:
         return "\n".join(lines) or "None. This is the first question of the chat."
 
     def _is_chat_meta_question(self, question: str) -> bool:
-        return bool(CHAT_META_RE.search(question or ""))
+        return is_chat_meta_question(question)
 
     def _build_messages(
         self,
@@ -437,14 +632,17 @@ class BimaSaathiGenerator:
         return False, ""
 
     def _call_model(
-        self, prompt: str, messages: List[Dict[str, str]] = None
+        self,
+        prompt: str,
+        messages: List[Dict[str, str]] = None,
+        max_tokens: int = None,
     ) -> Tuple[str, Dict[str, Any]]:
         """Answer with the configured backend and retain runtime metrics."""
         chat_messages = messages or [{"role": "user", "content": prompt}]
         if not self.use_api:
             return self._call_local(prompt, chat_messages)
         try:
-            return self._call_api(chat_messages)
+            return self._call_api(chat_messages, max_tokens=max_tokens)
         except Exception as hosted_error:
             # A hosted outage should not take the app down when the machine
             # already has Ollama; retry the same prompt locally and say so in
@@ -460,14 +658,17 @@ class BimaSaathiGenerator:
                 "hosted_error": str(hosted_error)[:200],
             }
 
-    def _call_api(self, messages: List[Dict[str, str]]) -> Tuple[str, Dict[str, Any]]:
+    def _call_api(
+        self, messages: List[Dict[str, str]], max_tokens: int = None
+    ) -> Tuple[str, Dict[str, Any]]:
         """Call the hosted OpenAI-compatible endpoint with bounded retries."""
         import httpx
 
         # The endpoint counts prompt + completion against one window (8192).
         estimated_prompt_tokens = sum(len(m["content"]) for m in messages) // 3
         budget = LLM_API_CONTEXT - estimated_prompt_tokens - 64
-        max_tokens = max(256, min(LLM_API_MAX_TOKENS, budget))
+        cap = max_tokens or LLM_API_MAX_TOKENS
+        max_tokens = max(256, min(cap, budget))
 
         payload = {
             "model": self.model,
@@ -678,6 +879,253 @@ class BimaSaathiGenerator:
             )
         return "\n".join(context_parts)
 
+    @staticmethod
+    def _source_note(chunks: List[Dict]) -> str:
+        doc_types = {chunk["metadata"].get("document_type") for chunk in chunks}
+        if doc_types & {"brochure", "cis", "prospectus"}:
+            return (
+                "**Source note:** This answer uses a product brochure, which is "
+                "only a coverage summary. Verify the full policy wording before "
+                "making a claim or purchase decision."
+            )
+        if "regulation" in doc_types:
+            return (
+                "**Regulatory source note:** This answer summarizes an IRDAI "
+                "regulation. Check the applicable policy wording and current official "
+                "regulatory publication before acting on a specific claim."
+            )
+        return ""
+
+    @staticmethod
+    def _tidy_compare_answer(
+        answer: str, header: str, separator: str, differences_only: bool = True
+    ) -> str:
+        """Repair the table the contract promised: header, empty rows, bullets."""
+        lines = answer.split("\n")
+        sep_index = None
+        for i, line in enumerate(lines):
+            if "---" in line and set(line.strip()) <= set("|-: "):
+                sep_index = i
+                if i == 0 or "constraint" not in lines[i - 1].lower():
+                    if i == 0:
+                        lines.insert(0, header)
+                        sep_index = 1
+                    else:
+                        lines[i - 1] = header
+                lines[sep_index] = separator
+                break
+        if sep_index is None:
+            return answer
+
+        # The contract is a table, so any prose the model put above it is noise.
+        if any(
+            line.strip() and not line.strip().startswith("|")
+            for line in lines[: sep_index - 1]
+        ):
+            lines = lines[sep_index - 1 :]
+            sep_index = 1
+
+        empty_cells = {"", "not stated", "not specified", "not mentioned", "not applicable"}
+
+        def bare_rule(cell: str) -> str:
+            text = re.sub(r"\([^)]*(?:sec\.?|p\.|page|code)[^)]*\)", "", cell, flags=re.I)
+            text = re.sub(r"[^a-z0-9% ]+", " ", text.lower())
+            return re.sub(r"\s+", " ", text).strip()
+
+        kept = []
+        bullets = 0
+        data_rows = 0
+        kept_rows = 0
+        truncated = False
+        for i, line in enumerate(lines):
+            stripped = line.strip()
+            if stripped.startswith("|"):
+                if not stripped.endswith("|"):
+                    truncated = True
+                    continue  # truncated row
+                if i > sep_index:
+                    data_rows += 1
+                    cells = [cell.strip(" *_`").lower() for cell in stripped.strip("|").split("|")]
+                    if all(cell in empty_cells for cell in cells[1:]):
+                        continue
+                    rules = {bare_rule(cell) for cell in cells[1:]}
+                    if differences_only and len(rules) == 1 and rules != {""}:
+                        continue
+                    kept_rows += 1
+                kept.append(line)
+                continue
+            if stripped.startswith(("- ", "* ")):
+                if differences_only and re.search(
+                    r"\b(?:same|identical|no difference)\b", stripped, flags=re.I
+                ):
+                    continue
+                bullets += 1
+                if bullets > 3:
+                    continue
+            kept.append(line)
+
+        if data_rows and kept_rows == 0 and not truncated:
+            labels = [cell.strip() for cell in header.strip().strip("|").split("|")][1:]
+            if len(labels) == 2:
+                names = f"{labels[0]} and {labels[1]}"
+            elif labels:
+                names = ", ".join(labels[:-1]) + " and " + labels[-1]
+            else:
+                return answer
+            if differences_only:
+                return (
+                    f"I compared {names} clause by clause. I found no constraint "
+                    "where they state different rules in the wording I hold.\n\nThis "
+                    "is informational only. For legal advice, consult a lawyer."
+                )
+            return (
+                f"The wording I hold for {names} does not state a rule for what you "
+                "asked, so I can't line the plans up on it.\n\nThis is informational "
+                "only. For legal advice, consult a lawyer."
+            )
+
+        while kept:
+            last = kept[-1].strip()
+            if last.startswith(("- ", "* ")) and not last.endswith((".", ")", "!", "?")):
+                kept.pop()
+                continue
+            break
+        return "\n".join(kept)
+
+    def compare_plans(
+        self,
+        question: str,
+        groups: List[tuple],
+        history: List[Dict] = None,
+    ) -> Dict:
+        """Compare two or more plans in one call and keep only the differences.
+
+        ``groups`` is ``[(label, chunks), ...]``. Each chunk carries that plan's
+        own clauses, so the model extracts constraints plan by plan instead of
+        writing two separate monologues.
+        """
+        user_safe, user_reason = self._safety_check(question)
+        if not user_safe:
+            return {
+                "answer": SAFETY_REFUSAL,
+                "safe": False,
+                "sources": [],
+                "rejection_risk": "high",
+                "model_metrics": {
+                    "backend": "not-called",
+                    "model": self.model,
+                    "reason": user_reason,
+                },
+            }
+
+        security_hit, security_reason = self._security_check(question)
+        if security_hit:
+            return {
+                "answer": SECURITY_REFUSAL,
+                "safe": False,
+                "sources": [],
+                "rejection_risk": None,
+                "model_metrics": {
+                    "backend": "not-called",
+                    "model": self.model,
+                    "reason": security_reason,
+                },
+            }
+
+        usable = []
+        for label, chunks in groups:
+            # Each group is already scoped to one plan by the orchestrator, so
+            # the question's own plan name must not filter another plan's
+            # clauses away; only the relevance cut applies here.
+            chunks, _gap = self._select_chunks(chunks, "")
+            if chunks:
+                usable.append((label, chunks))
+        if len(usable) < 2:
+            return self._knowledge_gap_result(MISSING_KNOWLEDGE_ANSWER)
+
+        labels = [label for label, _ in usable]
+        used_chunks = []
+        context_parts = []
+        for label, chunks in usable:
+            context_parts.append(f"=== {label} ===")
+            for i, chunk in enumerate(chunks, 1):
+                meta = chunk["metadata"]
+                context_parts.append(
+                    f"[{label} #{i}] {meta.get('insurer')} | "
+                    f"{meta.get('policy_name')} | {meta.get('section')} | "
+                    f"{meta.get('document_type', 'policy_wording')} | "
+                    f"page {meta.get('page', 'unknown')}\n"
+                    f"{chunk['text']}\n"
+                )
+                used_chunks.append(chunk)
+
+        table_header = "| Constraint | " + " | ".join(labels) + " |"
+        table_sep = "| --- |" + " --- |" * len(labels)
+        differences_only = compare_mode(question) == "differences"
+        prompt = COMPARE_TEMPLATE.format(
+            question=question,
+            labels=", ".join(labels),
+            step3=COMPARE_STEP_DIFFERENTIATE if differences_only else COMPARE_STEP_ALIGN,
+            mode_note=COMPARE_NOTE_DIFFERENCES if differences_only else COMPARE_NOTE_ALIGN,
+            table_header=table_header,
+            table_sep=table_sep,
+            history=self._history_text(history),
+            context="\n".join(context_parts),
+        )
+        messages = [
+            {"role": "system", "content": COMPARE_SYSTEM},
+            {"role": "user", "content": prompt},
+        ]
+
+        try:
+            answer, model_metrics = self._call_model(
+                prompt, messages=messages, max_tokens=LLM_API_MAX_TOKENS
+            )
+        except Exception as e:
+            hint = (
+                "Check BEEMASATHI_LLM_* in .env."
+                if self.use_api
+                else "Is Ollama running? Run: ollama serve"
+            )
+            return {
+                "answer": f"Error calling the model: {e}. {hint}",
+                "safe": False,
+                "sources": [],
+                "rejection_risk": None,
+                "model_metrics": {
+                    "backend": "api" if self.use_api else "ollama",
+                    "model": self.model,
+                    "error": str(e),
+                },
+            }
+
+        answer = self._sanitize_answer(answer)
+        answer = self._tidy_compare_answer(
+            answer, table_header, table_sep, differences_only=differences_only
+        )
+
+        is_safe, _reason = self._safety_check(answer)
+        if not is_safe:
+            answer = UNSAFE_REWRITE
+        else:
+            if "informational only" not in answer.lower():
+                answer = (
+                    answer.rstrip()
+                    + "\n\nThis is informational only. For legal advice, consult "
+                    "a lawyer."
+                )
+            note = self._source_note(used_chunks)
+            if note:
+                answer += "\n\n" + note
+
+        return {
+            "answer": answer,
+            "safe": is_safe,
+            "sources": [c["metadata"] for c in used_chunks],
+            "rejection_risk": None,
+            "model_metrics": model_metrics,
+        }
+
     def generate(
         self,
         retrieved_chunks: List[Dict],
@@ -723,10 +1171,15 @@ class BimaSaathiGenerator:
         if self._is_scope_question(question):
             retrieved_chunks = []
 
+        multi = (
+            multi_part_question(question)
+            and not chat_meta
+            and not self._is_scope_question(question)
+        )
         gap_answer = ""
         if retrieved_chunks:
             retrieved_chunks, gap_answer = self._select_chunks(
-                retrieved_chunks, question
+                retrieved_chunks, question, limit=10 if multi else 6
             )
         elif not self._is_scope_question(question) and not chat_meta:
             gap_answer = MISSING_KNOWLEDGE_ANSWER
@@ -735,8 +1188,16 @@ class BimaSaathiGenerator:
             return self._knowledge_gap_result(gap_answer)
 
         context = self._clause_context(retrieved_chunks)
-        history_text = self._history_text(history)
-        model_question = question + (TABLE_FORMAT_INSTRUCTION if table else "")
+        # A multi-part question is self-contained; a previous table in the chat
+        # can prime the model to copy its "Not stated" cells, so history is left
+        # out of that prompt.
+        history_text = "" if multi else self._history_text(history)
+        if multi:
+            model_question = question + multi_aspect_instruction(question)
+            if strategy == "baseline":
+                strategy = "decompose"
+        else:
+            model_question = question + (TABLE_FORMAT_INSTRUCTION if table else "")
         prompt = self._build_prompt(
             context, model_question, scope, strategy, history_text
         )
@@ -770,32 +1231,11 @@ class BimaSaathiGenerator:
         # Safety check
         is_safe, reason = self._safety_check(answer)
         if not is_safe:
-            answer = (
-                "I can't help with hiding a health condition, backdating a policy, or "
-                "changing documents. Non-disclosure or edited records can void the "
-                "policy, and the claim can be rejected even years later.\n\n"
-                "The safe path is to disclose the condition in the proposal form and "
-                "any renewal declaration. The insurer may apply a loading or a waiting "
-                "period, but the claim stays valid."
-            )
-        elif any(
-            chunk["metadata"].get("document_type") in {"brochure", "cis", "prospectus"}
-            for chunk in retrieved_chunks
-        ):
-            answer += (
-                "\n\n**Source note:** This answer uses a product brochure, which is "
-                "only a coverage summary. Verify the full policy wording before "
-                "making a claim or purchase decision."
-            )
-        elif any(
-            chunk["metadata"].get("document_type") == "regulation"
-            for chunk in retrieved_chunks
-        ):
-            answer += (
-                "\n\n**Regulatory source note:** This answer summarizes an IRDAI "
-                "regulation. Check the applicable policy wording and current official "
-                "regulatory publication before acting on a specific claim."
-            )
+            answer = UNSAFE_REWRITE
+        else:
+            note = self._source_note(retrieved_chunks)
+            if note:
+                answer += "\n\n" + note
 
         return {
             "answer": answer,

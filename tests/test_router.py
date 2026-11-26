@@ -44,6 +44,21 @@ def test_recommendation_intent():
     assert plan.intent == "recommend"
 
 
+def test_same_insurer_comparison_resolves_both_plans():
+    catalog = [
+        {"insurer": "hdfc_ergo", "policy_name": "optima_super", "chunks": 5},
+        {"insurer": "hdfc_ergo", "policy_name": "optima_vital", "chunks": 3},
+        {"insurer": "hdfc_ergo", "policy_name": "optima_senior", "chunks": 2},
+    ]
+    router = IntentRouter(catalog)
+
+    plan = router.route("Compare HDFC Ergo Optima Super and Optima Vital on room rent.")
+
+    assert plan.intent == "comparison"
+    assert plan.insurers == ["hdfc_ergo"]
+    assert plan.topic_plans == {"hdfc_ergo": ["optima_super", "optima_vital"]}
+
+
 def test_named_plan_phrase_follows_the_insurer_mention():
     router = IntentRouter()
     question = (
@@ -56,6 +71,64 @@ def test_named_plan_phrase_follows_the_insurer_mention():
 def test_named_plan_phrase_is_empty_without_a_plan():
     router = IntentRouter()
     assert router.named_plan_phrase("Compare Niva Bupa and HDFC Ergo.", "max_bupa") == ""
+
+
+FAMILY_CATALOG = [
+    {
+        "insurer": "max_bupa",
+        "policy_name": "health_plus",
+        "document_type": "brochure",
+    },
+    {
+        "insurer": "digit",
+        "policy_name": "digit_health_plus_policy_revision",
+        "document_type": "policy_wording",
+    },
+    {
+        "insurer": "aditya_birla",
+        "policy_name": "arogya_sanjeevani",
+        "document_type": "policy_wording",
+    },
+    {
+        "insurer": "bajaj_allianz",
+        "policy_name": "arogya_sanjeevani",
+        "document_type": "policy_wording",
+    },
+]
+
+
+def test_cross_insurer_comparison_resolves_the_named_product_family():
+    router = IntentRouter(FAMILY_CATALOG)
+    plan = router.route(
+        "Do you know any health plus policy where 2 different company have "
+        "different constraint?"
+    )
+
+    assert plan.intent == "comparison"
+    assert plan.insurers == ["digit", "max_bupa"]
+    assert plan.topic_plans["digit"] == ["digit_health_plus_policy_revision"]
+    assert plan.lead_topic == "health plus"
+
+
+def test_vague_comparison_offers_real_families_instead_of_guessing():
+    router = IntentRouter(FAMILY_CATALOG)
+    plan = router.route(
+        "Do you know any policy where purpose is same but 2 different company "
+        "have different constraint?"
+    )
+
+    assert plan.intent == "comparison"
+    assert plan.insurers == []
+    families = router.topic_families()
+    assert families[0]["label"] == "arogya sanjeevani"
+    assert sorted(families[0]["plans"]) == ["aditya_birla", "bajaj_allianz"]
+
+
+def test_cross_insurer_question_without_any_match_stays_a_comparison():
+    router = IntentRouter()
+    plan = router.route("Do you know any policy where 2 different companies differ?")
+    assert plan.intent == "comparison"
+    assert plan.insurers == []
 
 
 def test_catalog_only_insurer_is_recognised_without_code_changes():

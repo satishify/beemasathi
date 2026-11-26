@@ -15,7 +15,7 @@ This file is the single written reference for the project. The HTML pages under 
 | [`evaluation.html`](evaluation.html) | Gold set, metrics, results and red team |
 | [`plan.html`](plan.html) | Four-week plan, gates, risks and deliverables |
 
-Measured figures below are from the working prototype on the local corpus, last evaluated 23–24 November 2026.
+Measured figures below are from the working prototype on the local corpus, last evaluated 26 November 2026.
 
 ---
 
@@ -45,7 +45,8 @@ General-purpose chatbots make this worse. They answer confidently from generic i
 | Refuses when evidence is missing | An unloaded insurer or product produces a named gap and a refusal, never an answer borrowed from another insurer |
 | Shows its sources | Every answer carries insurer, product, document type, section, page and source file |
 | Keeps the recent conversation | The last eight chat messages travel with each question as context — 500 characters each, 2,400 in total — inside the 8,192-token window; chat-history questions are answered from that block, which is never treated as evidence |
-| Compares per insurer | A two-insurer question retrieves separately for each insurer and never attributes one insurer's clause to another |
+| Compares per insurer | A two-insurer question retrieves each plan separately, including two plans of one insurer, and never attributes one insurer's clause to another |
+| Answers multi-part questions in a table | A question that packs two or more aspects is split into those aspects, each aspect is retrieved on its own, and the answer is a table with one row per aspect, naming the aspects it was asked about |
 | Checks claim-rejection risk | Rule-based assessment of network status, room-rent cap, PED waiting period and intimation timing |
 | Blocks unsafe advice | Hiding a pre-existing disease, backdating admission or fabricating bills is refused before the model is called |
 
@@ -76,26 +77,26 @@ Retrieval runs first and the agent layer runs on top. Hybrid search finds the cl
 1. **Guard** — `rag/query_guard.py` normalises Unicode (zero-width, homoglyph, spaced-letter, leetspeak) and refuses prompt/secret/PII extraction, fraud advice and instruction override without calling the model.
 2. **Route** — `agents/router.py` turns the question into a typed plan: intent, insurers, products, line of business, vehicle class, list limit and ordered steps.
 3. **Branch** — `agents/orchestrator.py` runs exactly one bounded path for that intent: refusal, catalogue listing, recommendation, claim risk, comparison fan-out, or the coverage path.
-4. **Retrieve** — `rag/retriever.py` fuses dense (Chroma) and lexical (BM25) candidates, applies typed clause probes, prefers the requested line of business, and reranks by document authority plus policy-name agreement.
+4. **Retrieve** — `rag/retriever.py` fuses dense (Chroma) and lexical (BM25) candidates, applies typed clause probes, prefers the requested line of business, and reranks by document authority plus policy-name agreement. A question that asks about two or more aspects is retrieved once per aspect, so the second aspect is not crowded out by the first.
 5. **Resolve authority** — `agents/critic.py` drops brochure/CIS/prospectus chunks when binding wording for the same policy is present (unless the user explicitly asked about the brochure).
-6. **Generate** — `rag/generator.py` builds a prompt from numbered clauses, the indexed catalogue and the recent conversation, then calls the hosted or local model.
+6. **Generate** — `rag/generator.py` builds a prompt from numbered clauses, the indexed catalogue and the recent conversation, then calls the hosted or local model. When the question has several parts, the prompt names each asked aspect and requires a table with one row per aspect.
 7. **Verify** — every number, unit and UIN in the answer must appear in the retrieved clauses; one structured retry is allowed, then the answer carries an explicit "could not verify" note. Unsupported family-size claims are stripped.
 8. **Trace** — the request is recorded as JSONL with a hashed question and redacted preview; no prompt text, clause text or credentials are stored.
 
 ### 3.3 The agent layer
 
-The `agents/` package contains four modules. None of them is an LLM-to-LLM agent: there is exactly one model call per answer (two per insurer in a comparison), and everything else is deterministic Python. Routing, scoping and fact-checking are the parts that must be reproducible.
+The `agents/` package contains four modules. None of them is an LLM-to-LLM agent: there is exactly one model call per answer, including a comparison, and everything else is deterministic Python. Routing, scoping and fact-checking are the parts that must be reproducible.
 
 | File | Responsibility | Model calls |
 | --- | --- | --- |
 | `router.py` | Classifies the question into a `TaskPlan` before retrieval: intent, insurers, products, line, vehicle class, list limit, ordered steps | 0 |
-| `orchestrator.py` | Executes the plan for that intent, fans out comparisons per insurer, applies verification and tracing | 1–2 per insurer |
+| `orchestrator.py` | Executes the plan for that intent, retrieves each plan for a comparison, applies verification and tracing | 1 |
 | `critic.py` | Post-generation evidence checks: number/UIN verification, family-limit stripping, authority resolution | 0 (can trigger 1 retry) |
 | `claim_predictor.py` | Scores claim-rejection risk from form inputs using weighted rules | 0 |
 
 **Router.** Intents are `safety`, `security`, `scope`, `catalog_list`, `claim_risk`, `comparison`, `recommend` and `coverage`. Insurer names are resolved through an alias table; product names are matched per insurer so that a plan named for one insurer cannot be pulled into another insurer's section. Safety and security questions never reach retrieval.
 
-**Orchestrator.** Every intent gets a small, purpose-built branch instead of one generic prompt: a catalogue answer is computed from the index (no model), a recommendation explicitly refuses to rank plans, a claim question uses the rule engine, a comparison performs one retrieval and one model call per insurer with a scoped instruction, and a coverage question runs the retrieve → authority → generate → verify path. The orchestrator is the only entry point used by the UI and the API.
+**Orchestrator.** Every intent gets a small, purpose-built branch instead of one generic prompt: a catalogue answer is computed from the index (no model), a recommendation explicitly refuses to rank plans, a claim question uses the rule engine, a comparison retrieves each named plan separately — including two plans of the same insurer — and then makes one structured call that extracts constraints per plan, keeps only the rows where they differ, and answers with a table, and a coverage question runs the retrieve → authority → generate → verify path, splitting a multi-part question into one retrieval per aspect and answering in a table. The orchestrator is the only entry point used by the UI and the API.
 
 **Critic.** Three independent checks: `resolve_authority()` removes marketing summaries when a wording exists for the same policy; `verify_answer()` canonicalises units ("3 years" = "36 months") and requires every number and UIN in the answer to appear in the retrieved clauses; `strip_unbacked_family_limits()` removes a family size the model echoed from the question when the wording never set one.
 
@@ -225,7 +226,37 @@ Every downloaded document has a sidecar `.meta.json` recording insurer, product,
 
 **Red team.** Eighteen probes run today: five safety prompts, four knowledge-gap probes (Star Health, Acko, Care Health, ICICI Lombard), and a nine-case guardrail set covering prompt extraction, secret extraction, PII extraction, role-play approval, role-play fraud coaching, document-borne injection, index poisoning and instruction override. All nine security probes are refused by a deterministic pattern check before retrieval or the model, so no document text can steer them.
 
-**Traces.** Each request writes a JSONL record with a hashed question, redacted preview, plan, sources, tokens and latency. Prompts, clause text and credentials are never stored.
+**Traces.** Each request writes a JSONL record with a hashed question, redacted preview, plan, sources, tokens and latency. Prompts, clause text and credentials are never stored. `venv/bin/python observability/dashboard.py` renders the log to `docs/trace_dashboard.html` (requests, p50/p95 latency, intent mix, refusals, verification pass rate, most-cited plans, recent requests).
+
+### 6.1 Model card
+
+**Intended use.** An informational desk assistant for Indian retail health and motor insurance. A customer asks about a named plan; BeemaSathi quotes the clause, section and page from the loaded wording, or says the product is not indexed. It is built for reading and comparison, not for selling or adjudicating.
+
+**Who uses it.** Insurance desk staff, brokers and policyholders comparing what a wording actually says. Every answer is framed as informational only.
+
+**Out of scope.** No price ranking, no recommendation of one insurer over another, no claim filing, no legal opinion, no advice on hiding facts, backdating cover or editing documents. Questions outside Indian health and motor insurance are refused before retrieval.
+
+**Models and components.** Retrieval is deterministic: BGE-small-en-v1.5 embeddings, Chroma plus Okapi BM25, reciprocal-rank fusion, authority-aware reranking. Generation is one call to Qwen3-8B (OpenAI-compatible endpoint) or `qwen2.5:7b` via local Ollama; there is no chain of model calls. Routing, scope checks, claim-risk scoring and number/UIN verification are deterministic Python.
+
+**Data.** Official insurer and IRDAI documents only, with a SHA-256 manifest and per-document metadata. The repository does not redistribute insurer PDFs; the index is rebuilt locally. Traces store a question hash, a redacted preview and request metadata, never prompts, clause text or credentials.
+
+**Failure modes.**
+
+| Failure | What the user sees | Mitigation |
+| --- | --- | --- |
+| Product not indexed | A named knowledge-gap refusal, never a borrowed answer | Catalogue check before retrieval |
+| Brochure mistaken for wording | A summary warning or a wording-first answer | Authority resolver drops summaries when wording exists |
+| Wrong plan attributed across insurers | Plans are matched per insurer mention | Per-insurer segmentation in the router |
+| Flat-table extraction (waiting periods, sub-limits) | Coarse or "not stated" cells | Table-aware chunking where enabled; limitation documented |
+| Unsupported number or UIN | Answer replaced or flagged unverified | `verify_answer()` with one structured retry |
+| Prompt injection in an uploaded PDF | Refusal before retrieval or generation | Delimited untrusted text, injection scan, red-team probes |
+| Model API unavailable | Explicit error with the check to run | Local Ollama fallback when it is reachable |
+
+**Refusals.** The pre-model guard refuses secret/PII/system-prompt extraction, fraud advice, role-play that grants claim approval, instruction override, document-borne injection and fabricated day-one cover. Refusals are deterministic and never reach retrieval or the model.
+
+**Adversarial tests.** Nine security probes — prompt, secret and PII extraction; role-play claim approval and fraud coaching; document-borne injection; index poisoning; instruction override; fabricated day-one cover — are refused 9/9 before retrieval. Four knowledge-gap probes confirm that unloaded insurers (Star Health, Acko, Care Health, ICICI Lombard) produce a clean refusal. The suite runs in CI.
+
+**Limitations and monitoring.** The claim-risk score is a heuristic, not an insurer decision. Tables in scanned PDFs can extract imperfectly. Answers are only as current as the loaded revisions; UIN and revision dates are carried in metadata for audit. The trace dashboard is the monitoring surface: refusal rate, verification pass rate and latency are visible per day.
 
 ---
 
@@ -238,20 +269,20 @@ Accuracy alone rewards a model that never says "I don't know". This evaluation m
 | Metric | Result | Target |
 | --- | --- | --- |
 | Gold cases | 100 | — |
-| Answer pass rate (rules + judge) | 85/100 | ≥ 0.90 |
-| Grounded pass rate | 85/100 | ≥ 0.85 |
+| Answer pass rate (rules + judge) | 83/100 | ≥ 0.90 |
+| Grounded pass rate | 83/100 | ≥ 0.85 |
 | Document recall@8 | 0.975 (79/81) | ≥ 0.85 |
 | Supporting-clause recall@8 | 0.912 (73/80) | ≥ 0.70 |
 | Mean rank of the evidence chunk | 2.2 | ≤ 3 |
-| Mean answer latency | 2.8 s | p95 ≤ 20 s |
-| Prompt / completion tokens (100-case run) | 296k / 8.6k | — |
+| Mean answer latency | 2.5 s | p95 ≤ 20 s |
+| Prompt / completion tokens (100-case run) | 309k / 8.1k | — |
 | Red-team refusals | 9/9 | 9/9 |
 
-Hybrid retrieval finds the expected policy in 79 of 81 labelled cases and the exact supporting clause in 73 of 80. All 85 passing answers had the expected document in context, so no answer was right by luck.
+Hybrid retrieval finds the expected policy in 79 of 81 labelled cases and the exact supporting clause in 73 of 80. The latest frozen run (`eval/reports/eval_20261126T173042Z.json`) passes 83 cases; the remaining 17 are 11 answer errors, 4 evidence misses and 2 document misses, and all 83 passing answers had the expected document in context, so no answer was right by luck.
 
 ### 7.2 Failure taxonomy
 
-The 15 failures split into 2 document misses, 5 supporting-clause misses and 8 answer errors. The recurring shape is picking the wrong sub-clause or the wrong number (24 months where the wording says 36, INR 10,000 where it says Rs 2,500). Twelve of the 15 trip a hard rule while the LLM judge accepts the answer. In some the rule is right and the judge is too lenient; in others the rule string is too narrow — one case bans "60 days" even though 60 days is the correct post-hospitalisation window. Read 85/100 as conservative, not as a rule-versus-judge tie.
+The 17 failures split into 2 document misses, 4 supporting-clause misses and 11 answer errors. The recurring shape is picking the wrong sub-clause or the wrong number (24 months where the wording says 36, INR 10,000 where it says Rs 2,500). Fifteen of the 17 trip a hard rule while the LLM judge accepts 14 of them. In some the rule is right and the judge is too lenient; in others the rule string is too narrow — one case bans "60 days" even though 60 days is the correct post-hospitalisation window. Read 83/100 as conservative, not as a rule-versus-judge tie.
 
 ### 7.3 Gold set composition
 
@@ -276,7 +307,7 @@ Eighteen waiting-period, twelve UIN and ten co-pay cases were mined from indexed
 - Dense-only RAG — earlier 74-case baseline: document recall@8 of 0.60, clause recall 0.28.
 - Hybrid RAG with BM25 plus dense — document recall@8 of 0.975, clause recall 0.912.
 - Hybrid RAG with authority-aware reranking — the shipped retriever.
-- Agentic routing with the critic loop — the shipped orchestrator; answer pass rate 85/100.
+- Agentic routing with the critic loop — the shipped orchestrator; answer pass rate 83/100.
 - Prompt strategies (baseline, zero-shot, structured) compared on identical retrieved context with `eval/compare_prompts.py`: 64/74, 60/74 and 63/74 rules-only passes; mean latency 2.36 s, 1.06 s and 2.31 s; 187k, 150k and 157k prompt tokens.
 
 Planned ablations: authority-aware reranking on/off (brochure contamination), critic on/off (unsupported-claim rate), per-insurer fan-out on/off (comparison quality), calibrated distance threshold on/off (weak-evidence answers).
@@ -298,7 +329,7 @@ An internal review on 14 November 2026 read every source file and probed the liv
 | P0-3 | The catalogue came from an ingest ledger that had drifted from Chroma | The catalogue is now derived from Chroma, with the ledger merged only for sources indexed under another key |
 | P0-4 | Document-type mapping collapsed CIS and prospectus into "brochure" and typed endorsements as wordings | Types are carried into metadata and ranked separately (wording, endorsement, CIS, prospectus, brochure, regulation) |
 
-Additional fixes: per-insurer fan-out for comparisons with scoped questions; per-insurer product matching; brochure demotion in the authority resolver; an alias-based insurer detector with word boundaries; scope questions separated from coverage questions; the claim predictor connected to the chat flow and its output cleaned up; hosted embedding support with the same BGE model; a pre-model query guard; schema v2 chunk metadata; and a 100-case gold set with retrieval metrics and cost.
+Additional fixes: per-insurer retrieval for comparisons followed by one differences-only table; per-insurer product matching; brochure demotion in the authority resolver; an alias-based insurer detector with word boundaries; scope questions separated from coverage questions; the claim predictor connected to the chat flow and its output cleaned up; hosted embedding support with the same BGE model; a pre-model query guard; schema v2 chunk metadata; and a 100-case gold set with retrieval metrics and cost.
 
 Still open, and stated honestly:
 
@@ -318,7 +349,7 @@ Still open, and stated honestly:
 
 - Python 3.11+
 - One model backend: a hosted OpenAI-compatible endpoint, or Ollama with `qwen2.5:7b`
-- The corpus and index (`data/raw_policies/`, `data/chroma_db/`) are not committed; rebuild them, or use the submission bundle described in section 12
+- The corpus and index (`data/raw_policies/`, `data/chroma_db/`) are not committed; rebuild them with the steps in §9.3
 
 ### 9.2 Setup
 
@@ -430,7 +461,7 @@ BeemaSathi/
 | 3 | Agentic layer: router, retrieval, authority resolver, clause analyst, claim-risk and critic agents; typed tool schemas; retries and budgets; trace store; agentic versus RAG-only comparison | G3 — task completion ≥ 95%, tool success ≥ 98%, critic catches injected instructions |
 | 4 | Evaluation, hardening and delivery: full evaluation and ablations, failure taxonomy, red-team report, observability dashboard, API and UI integration, deployment pack, report and demo | G4 — targets met or documented with a remediation plan |
 
-**Team roles:** domain specification and gold-set annotation; prompting, critic design, safety and red team; data acquisition, hybrid index, chunking and retrieval evaluation; orchestration, tool schemas, tracing and claim-risk integration; evaluation harness, metrics, ablations and cost/latency; API, UI, citation UX, packaging and demo production.
+**Team roles:** domain specification and gold-set annotation; prompting, critic design, safety and red team; data acquisition and hybrid retrieval; orchestration, tracing and claim risk; evaluation, metrics and ablations; API, UI and packaging.
 
 **Risk and mitigation:**
 
@@ -445,28 +476,18 @@ BeemaSathi/
 | Prompt injection through uploaded PDFs | Delimited untrusted content, injection scan, critic check, red-team probes |
 | Scope creep into legal or claim adjudication | Explicit non-goals, informational-only framing, no claim filing |
 
-**Deliverables:** working FastAPI + Streamlit application; reproducible repository with tests and a one-command start; documented knowledge base with manifest and hashes; trace dashboard; evaluation report with 100 frozen questions, baselines, ablations and failure taxonomy; responsible-AI and injection report; technical report and a ten-minute demonstration.
+**Deliverables:** working FastAPI + Streamlit application; reproducible repository with tests and a one-command start; documented knowledge base with manifest and hashes; trace dashboard; evaluation report with frozen questions and failure taxonomy; responsible-AI and injection report; technical report and a ten-minute demonstration.
 
 **Demo success criteria:** a coverage question returns a clause-level citation with insurer, product, document type, page and source; an insurer with no loaded wording returns a clean refusal; a brochure-only product is answered with a summary warning; a two-insurer comparison returns evidence from both; a claim scenario returns per-rule findings or explicitly labelled defaults; a poisoned upload cannot change behaviour; the trace reproduces every step; the evaluation report shows the frozen results.
 
 ---
 
 ## 12. Distribution and submission
+The repository does not ship the 1.1 GB corpus or the ~1 GB vector store. What is committed is the code, tests, documentation, gold set and dated evaluation reports; the index is rebuilt locally with `./appctl.sh index` (§9.3). Insurer PDFs are third-party material with no redistribution licence and are never published.
 
-The repository does not ship the 1.1 GB corpus or the ~1 GB vector store. Two archives are produced for submission:
+For this submission only the technical report PDF is uploaded. It links the public repository, the trace dashboard and the ten-minute demo. A local run reproduces the evaluation in §7 by re-running `eval/judge.py` against a rebuilt index.
 
-| Archive | Contents | Where it can be uploaded |
-| --- | --- | --- |
-| `BeemaSathi_submission.zip` | Code, docs, tests, eval reports and gold set, plus a working 1,042-chunk demo index covering the demo products (Bajaj, HDFC Ergo, Digit, Niva Bupa, Tata AIG, IRDAI) | Anywhere with a 30 MB per-file limit, including Claude |
-| `BeemaSathi_full.zip` | The same code plus the complete corpus output and the full 48,572-chunk vector store | File sharing or a release; too large for a chat upload |
-
-The demo index is built from the same BGE-small vectors as the full index, so it needs no re-embedding; it is a curated subset, not a different model. Answers about products outside the subset return the same knowledge-gap refusal as the full system. To restore the full index, rebuild it with `./appctl.sh index`.
-
----
-
-## 13. Non-goals
-
-BeemaSathi is informational. It does not sell insurance, rank products by price, adjudicate claims, or provide legal advice. It does not scrape third-party mirrors, redistribute insurer PDFs, or claim to know products that are not indexed. Claim-risk output is a heuristic and must not be treated as an insurer decision.
+**Non-goals.** BeemaSathi is informational. It does not sell insurance, rank products by price, adjudicate claims, or provide legal advice. It does not scrape third-party mirrors, redistribute insurer PDFs, or claim to know products that are not indexed. Claim-risk output is a heuristic and must not be treated as an insurer decision.
 
 ---
 

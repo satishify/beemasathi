@@ -50,9 +50,21 @@ class _Retriever:
 class _Generator:
     model = "test-model"
 
+    def __init__(self):
+        self.compares = []
+
     def generate(self, chunks, question, catalog=None, strategy="baseline", history=None, table=False):
         return {
             "answer": "Room rent is limited to a single standard AC room.",
+            "safe": True,
+            "sources": [],
+            "model_metrics": {},
+        }
+
+    def compare_plans(self, question, groups, history=None):
+        self.compares.append([label for label, _ in groups])
+        return {
+            "answer": "| Constraint | A | B |\n| --- | --- | --- |\n| Room rent | AC | AC |",
             "safe": True,
             "sources": [],
             "model_metrics": {},
@@ -70,9 +82,7 @@ def _orchestrator():
 def test_comparison_retrieves_only_the_named_plan_per_insurer():
     orchestrator = _orchestrator()
     plan = orchestrator.router.route(QUESTION)
-    result = orchestrator._compare(
-        QUESTION, plan, ["star_health", "hdfc_ergo"], "baseline", CATALOG
-    )
+    result = orchestrator._compare(QUESTION, plan, ["star_health", "hdfc_ergo"], CATALOG)
 
     assert orchestrator.retriever.calls == [("hdfc_ergo", "optima_super")]
     assert "I don't have the Family Health Optima wording" in result["answer"]
@@ -104,9 +114,7 @@ def test_missing_plan_names_the_plan_and_the_plans_held():
     )
     plan = orchestrator.router.route(question)
 
-    result = orchestrator._compare(
-        question, plan, ["hdfc_ergo", "max_bupa"], "baseline", catalog
-    )
+    result = orchestrator._compare(question, plan, ["hdfc_ergo", "max_bupa"], catalog)
 
     assert "I don't have the ReAssure 2.0 wording" in result["answer"]
     assert "What I do hold for Niva Bupa (Max) includes Health Companion and Health Pulse." in result["answer"]
@@ -131,13 +139,32 @@ def test_catalog_only_insurer_gets_the_same_missing_plan_note():
     )
     plan = orchestrator.router.route(question)
 
-    result = orchestrator._compare(
-        question, plan, ["hdfc_ergo", "future_general"], "baseline", catalog
-    )
+    result = orchestrator._compare(question, plan, ["hdfc_ergo", "future_general"], catalog)
 
     assert "**Future General**" in result["answer"]
     assert "I don't have the Shield 9 wording" in result["answer"]
     assert "What I do hold for Future General includes Shield Five." in result["answer"]
+
+
+def test_both_named_plans_reach_one_structured_call():
+    orchestrator = _orchestrator()
+    question = (
+        "Compare the room rent rules for HDFC Ergo Optima Super and "
+        "Star Health Super Health."
+    )
+    plan = orchestrator.router.route(question)
+
+    result = orchestrator._compare(question, plan, ["hdfc_ergo", "star_health"], CATALOG)
+
+    assert orchestrator.retriever.calls == [
+        ("hdfc_ergo", "optima_super"),
+        ("star_health", "super_health"),
+    ]
+    assert orchestrator.generator.compares == [
+        ["HDFC Ergo Optima Super", "Star Health Super Health"]
+    ]
+    assert result["answer"].startswith("| Constraint |")
+    assert result["retrieved"] == 2
 
 
 def test_absent_insurer_says_the_wording_is_not_loaded():
@@ -148,9 +175,7 @@ def test_absent_insurer_says_the_wording_is_not_loaded():
     )
     plan = orchestrator.router.route(question)
 
-    result = orchestrator._compare(
-        question, plan, ["hdfc_ergo", "max_bupa"], "baseline", CATALOG
-    )
+    result = orchestrator._compare(question, plan, ["hdfc_ergo", "max_bupa"], CATALOG)
 
     assert "I don't have a Niva Bupa (Max) policy wording loaded" in result["answer"]
     assert "ReAssure 2.0" not in result["answer"]

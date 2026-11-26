@@ -17,6 +17,8 @@
       <a href="data.html">Data</a>
       <a href="evaluation.html">Evaluation</a>
       <a href="plan.html">Plan</a>
+      <a href="trace_dashboard.html">Traces</a>
+      <a href="BeemaSathi_Technical_Report.pdf">Report</a>
       <a href="https://github.com/satishify/beemasathi">GitHub</a>
     </nav>
   </div>
@@ -47,7 +49,7 @@
         <tr><td>Index</td><td>ChromaDB, cosine distance, 48,572 chunks from 923 readable source files; pure-Python Okapi BM25 over the same chunks</td></tr>
         <tr><td>Embeddings</td><td>BGE-small-en-v1.5 (384 dimensions) through a hosted OpenAI-compatible <code>/embeddings</code> endpoint, or the local sentence-transformers model</td></tr>
         <tr><td>Retrieval</td><td>Dense + BM25 + typed searches fused with reciprocal-rank fusion, authority weights, policy-name detection</td></tr>
-        <tr><td>Agent layer</td><td>Intent router with typed plans, per-insurer fan-out for comparisons, authority resolver, number/UIN critic with one structured retry</td></tr>
+        <tr><td>Agent layer</td><td>Intent router with typed plans, per-insurer fan-out for comparisons, per-aspect retrieval and table answers for multi-part questions, authority resolver, number/UIN critic with one structured retry</td></tr>
         <tr><td>Generation</td><td>Qwen3-8B via OpenAI-compatible API, with qwen2.5:7b via local Ollama as the fallback when the host fails; baseline, zero-shot and structured prompts</td></tr>
         <tr><td>Guardrails</td><td>Constitutional prompt, refusal rules, leak sanitiser, banned fraud patterns, and a pre-model query guard for prompt/secret/PII extraction, fraud advice and injection, matched after Unicode normalisation (zero-width, homoglyph, spaced-letter and leetspeak obfuscation)</td></tr>
         <tr><td>Observability</td><td>Per-request JSONL traces with hashed question, redacted preview, tokens, latency and intent; summary CLI</td></tr>
@@ -149,8 +151,8 @@
         </tr>
         <tr>
           <td><b>Orchestrate</b><br><code>agents/orchestrator.py</code></td>
-          <td>Intent branches with bounded work: scope, recommendation, line catalogue, claim risk, per-insurer comparison fan-out, coverage path</td>
-          <td><code>BeemaSathiOrchestrator.answer()</code><br><code>_answer()</code>, <code>_compare()</code><br><code>_catalog_list()</code>, <code>_recommend()</code><br><code>_claim_answer()</code></td>
+          <td>Intent branches with bounded work: scope, recommendation, line catalogue, claim risk, per-plan comparison retrieval with one differences-only table, coverage path with per-aspect retrieval and a table for multi-part questions</td>
+          <td><code>BeemaSathiOrchestrator.answer()</code><br><code>_answer()</code>, <code>_compare()</code><br><code>_retrieve_for_question()</code><br><code>_catalog_list()</code>, <code>_recommend()</code><br><code>_claim_answer()</code></td>
         </tr>
         <tr>
           <td><b>Trace</b><br><code>observability/trace.py</code></td>

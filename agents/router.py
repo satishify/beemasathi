@@ -4,23 +4,8 @@ import re
 from dataclasses import dataclass, field
 from typing import Dict, List, Optional
 
-from config import BANNED_PATTERNS, SECURITY_PATTERNS
-from rag.policy_match import PRODUCT_CLASS_NAMES, match_policy, normalize
-
-INSURER_ALIASES: Dict[str, List[str]] = {
-    "star_health": ["star health", "star"],
-    "hdfc_ergo": ["hdfc ergo", "hdfc"],
-    "icici_lombard": ["icici lombard", "icici"],
-    "max_bupa": ["niva bupa", "max bupa", "bupa"],
-    "care_health": ["care health", "care insurance"],
-    "zurich_kotak": ["zurich kotak", "kotak"],
-    "acko": ["acko"],
-    "digit": ["go digit", "digit", "digital"],
-    "aditya_birla": ["aditya birla"],
-    "bajaj_allianz": ["bajaj allianz", "bajaj general", "bajaj"],
-    "tata_aig": ["tata aig", "tata"],
-    "cholamandalam": ["cholamandalam", "chola ms", "chola"],
-}
+from config import BANNED_PATTERNS, INSURERS, SECURITY_PATTERNS
+from rag.policy_match import PRODUCT_CLASS_NAMES, insurer_phrases, match_policy, normalize
 
 CLAIM_RE = re.compile(
     r"\b(claim\s+(?:be\s+)?reject|rejection\s+risk|reject(?:ed|ion)?|"
@@ -153,6 +138,14 @@ def _is_listing_question(
 class IntentRouter:
     def __init__(self, catalog: Optional[List[Dict]] = None):
         self.catalog = catalog or []
+        catalog_keys = {
+            entry.get("insurer") for entry in self.catalog if entry.get("insurer")
+        }
+        keys = list(INSURERS) + sorted(catalog_keys - set(INSURERS))
+        self.insurer_aliases: Dict[str, List[str]] = {
+            key: insurer_phrases(key, INSURERS.get(key, {}).get("name", ""))
+            for key in keys
+        }
 
     def _catalog_policies(self) -> List[tuple]:
         return sorted(
@@ -166,7 +159,7 @@ class IntentRouter:
     def find_insurers(self, question: str) -> List[str]:
         text = f" {_normalize(question)} "
         found = []
-        for key, aliases in INSURER_ALIASES.items():
+        for key, aliases in self.insurer_aliases.items():
             if any(f" {alias} " in text for alias in aliases):
                 found.append(key)
         return found
@@ -179,6 +172,45 @@ class IntentRouter:
         )
         return [matched] if matched else []
 
+    # Words that describe the document rather than the plan, so they never
+    # count as the plan a customer named.
+    PHRASE_FILLERS = frozenset(
+        {
+            "policy", "plan", "insurance", "coverage", "cover", "the", "a", "an",
+            "of", "for", "and", "or", "vs", "versus",
+        }
+    )
+
+    def named_plan_phrase(self, question: str, insurer: str) -> str:
+        """The customer's own words for the plan after an insurer mention.
+
+        Used only to name the missing plan in an answer; catalog matching stays
+        in find_policies_by_insurer.
+        """
+        text = question or ""
+        mention = None
+        for alias in self.insurer_aliases.get(insurer) or []:
+            match = re.search(rf"(?<!\w){re.escape(alias)}(?!\w)", text, re.I)
+            if match and (mention is None or match.start() < mention.start()):
+                mention = match
+        if mention is None:
+            return ""
+        stop = len(text)
+        for key, aliases in self.insurer_aliases.items():
+            if key == insurer:
+                continue
+            for alias in aliases:
+                match = re.search(
+                    rf"(?<!\w){re.escape(alias)}(?!\w)", text[mention.end():], re.I
+                )
+                if match:
+                    stop = min(stop, mention.end() + match.start())
+        tail = re.sub(r"[^\w\s.%]+", " ", text[mention.end():stop])
+        words = [word for word in tail.split() if word.lower() not in self.PHRASE_FILLERS]
+        while words and words[-1].lower() in {"and", "or", "vs", "versus"}:
+            words.pop()
+        return " ".join(words[:6]).strip(" .")
+
     def find_policies_by_insurer(self, question: str) -> Dict[str, List[str]]:
         """Match each insurer to the plan named next to it in the question.
 
@@ -189,12 +221,11 @@ class IntentRouter:
         """
         text = f" {_normalize(question)} "
         found: Dict[str, int] = {}
-        for key, aliases in INSURER_ALIASES.items():
-            for alias in aliases:
-                index = text.find(f" {alias} ")
-                if index >= 0:
-                    found[key] = index
-                    break
+        for key, aliases in self.insurer_aliases.items():
+            positions = [text.find(f" {alias} ") for alias in aliases]
+            positions = [position for position in positions if position >= 0]
+            if positions:
+                found[key] = min(positions)
         if not found:
             return {}
         ordered = sorted((index, key) for key, index in found.items())

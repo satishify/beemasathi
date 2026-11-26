@@ -86,7 +86,18 @@ def load_catalog():
 
 
 indexed_catalog = load_catalog()
-indexed_keys = {item.get("insurer") for item in indexed_catalog}
+indexed_keys = {item.get("insurer") for item in indexed_catalog if item.get("insurer")}
+
+
+def _source_name(key):
+    spec = KNOWLEDGE_SOURCES.get(key) or {}
+    return spec.get("name") or str(key).replace("_", " ").title()
+
+
+# Catalog keys decide the list; the registry only supplies display names.
+indexed_order = [key for key in KNOWLEDGE_SOURCES if key in indexed_keys]
+indexed_order += sorted(key for key in indexed_keys if key not in KNOWLEDGE_SOURCES)
+source_key_by_name = {_source_name(key): key for key in indexed_order}
 
 # Sidebar
 with st.sidebar:
@@ -94,11 +105,7 @@ with st.sidebar:
     st.divider()
 
     st.subheader("Knowledge source")
-    available_names = [
-        spec["name"]
-        for key, spec in KNOWLEDGE_SOURCES.items()
-        if key in indexed_keys
-    ]
+    available_names = list(source_key_by_name)
     insurer = st.selectbox(
         "Insurer or regulator",
         ["Any"] + available_names,
@@ -459,14 +466,7 @@ with main_area:
     # Tool: Ask Question (default chat)
     else:
         st.header("Ask BeemaSathi")
-        selected_insurer_key = next(
-            (
-                key
-                for key, value in KNOWLEDGE_SOURCES.items()
-                if value["name"] == insurer
-            ),
-            None,
-        )
+        selected_insurer_key = source_key_by_name.get(insurer)
         if selected_insurer_key == "irdai":
             st.info(
                 "IRDAI regulations provide regulatory context. They do not establish "
@@ -538,11 +538,7 @@ with main_area:
             ]
             request_started = time.perf_counter()
 
-            insurer_key = None
-            for key, value in KNOWLEDGE_SOURCES.items():
-                if value["name"] == insurer:
-                    insurer_key = key
-                    break
+            insurer_key = source_key_by_name.get(insurer)
 
             publish_debug(
                 {

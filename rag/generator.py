@@ -26,6 +26,7 @@ from config import (
     SECURITY_REFUSAL,
 )
 from rag.catalog import line_counts
+from rag.policy_match import insurer_phrases
 
 # The hosted group key allows one in-flight request, so serialize API calls.
 _API_LOCK = threading.Lock()
@@ -102,6 +103,19 @@ CHAT_META_RE = re.compile(
 HISTORY_MAX_MESSAGES = 8
 HISTORY_MAX_CHARS = 2400
 HISTORY_MESSAGE_CHARS = 500
+
+# A formatting request changes presentation only. Without an explicit output
+# contract the model drops it and repeats plain prose.
+TABLE_REQUEST_RE = re.compile(r"\b(?:table|tabular|grid)\b|\brows?\s+and\s+columns?\b", re.I)
+TABLE_FORMAT_INSTRUCTION = (
+    "\n\nFORMAT: Answer with a GitHub-flavoured Markdown table only. "
+    "Start with a header row and a | --- | separator row, then one row per fact. "
+    "Do not add prose before or after the table."
+)
+
+
+def table_requested(question: str) -> bool:
+    return bool(TABLE_REQUEST_RE.search(question or ""))
 
 
 ZERO_SHOT_PROMPT = """Answer the customer's question using only the policy clauses below.
@@ -196,40 +210,8 @@ class BimaSaathiGenerator:
             )
 
         for key, info in KNOWLEDGE_SOURCES.items():
-            labels = {
-                key.replace("_", " "),
-                info["name"].lower(),
-            }
-            if any(label and says(label) for label in labels):
-                found.append(key)
-        aliases = {
-            "hdfc": "hdfc_ergo",
-            "hdfc ergo": "hdfc_ergo",
-            "niva": "max_bupa",
-            "niva bupa": "max_bupa",
-            "max bupa": "max_bupa",
-            "birla": "aditya_birla",
-            "aditya birla": "aditya_birla",
-            "kotak": "zurich_kotak",
-            "zurich": "zurich_kotak",
-            "irdai": "irdai",
-            "irda": "irdai",
-            "tata aig": "tata_aig",
-            "tata-aig": "tata_aig",
-            "bajaj": "bajaj_allianz",
-            "bajaj allianz": "bajaj_allianz",
-            "chola": "cholamandalam",
-            "cholamandalam": "cholamandalam",
-            "digit": "digit",
-            "go digit": "digit",
-            "digital": "digit",
-            "acko": "acko",
-            "star health": "star_health",
-            "care health": "care_health",
-            "icici lombard": "icici_lombard",
-        }
-        for alias, key in aliases.items():
-            if says(alias) and key not in found:
+            phrases = insurer_phrases(key, info.get("name", ""))
+            if any(says(phrase) for phrase in phrases):
                 found.append(key)
         return found
 
@@ -350,11 +332,35 @@ class BimaSaathiGenerator:
         cleaned = "\n".join(lines).strip()
         return cleaned or text.strip()
 
+    @staticmethod
+    def _drop_repeated_sentences(text: str) -> str:
+        """Collapse generation loops that repeat the same sentence."""
+        seen = set()
+        output = []
+        for line in text.splitlines():
+            if not line.strip():
+                output.append("")
+                continue
+            kept = []
+            for part in re.split(r"(?<=[.!?])\s+", line):
+                key = re.sub(r"\s+", " ", part).strip().lower()
+                if not key or key in seen:
+                    continue
+                seen.add(key)
+                kept.append(part)
+            if kept:
+                output.append(" ".join(kept))
+        return re.sub(r"\n{3,}", "\n\n", "\n".join(output)).strip()
+
     def _sanitize_answer(self, text: str) -> str:
         cleaned = self._strip_clause_echoes(text)
         for pattern in LEAK_PATTERNS:
             cleaned = re.sub(pattern, "BeemaSathi's knowledge base", cleaned, flags=re.I)
-        cleaned = re.sub(r"\s{2,}", " ", cleaned).strip()
+        # Keep line structure: Markdown lists and tables depend on newlines.
+        cleaned = re.sub(r"[ \t]+", " ", cleaned)
+        cleaned = re.sub(r"[ \t]*\n[ \t]*", "\n", cleaned)
+        cleaned = re.sub(r"\n{3,}", "\n\n", cleaned).strip()
+        cleaned = self._drop_repeated_sentences(cleaned)
         if any(re.search(pattern, text, re.I) for pattern in LEAK_PATTERNS):
             return (
                 "I don't have enough of that policy wording in BeemaSathi's knowledge "
@@ -679,6 +685,7 @@ class BimaSaathiGenerator:
         catalog: List[Dict] = None,
         strategy: str = "baseline",
         history: List[Dict] = None,
+        table: bool = False,
     ) -> Dict:
         """Full RAG pipeline: prompt → generate → safety check."""
         user_safe, user_reason = self._safety_check(question)
@@ -729,9 +736,12 @@ class BimaSaathiGenerator:
 
         context = self._clause_context(retrieved_chunks)
         history_text = self._history_text(history)
-        prompt = self._build_prompt(context, question, scope, strategy, history_text)
+        model_question = question + (TABLE_FORMAT_INSTRUCTION if table else "")
+        prompt = self._build_prompt(
+            context, model_question, scope, strategy, history_text
+        )
         messages = self._build_messages(
-            context, question, scope, strategy, history_text
+            context, model_question, scope, strategy, history_text
         )
 
         # Call the configured model backend

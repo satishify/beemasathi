@@ -96,7 +96,7 @@ class _Generator:
     def __init__(self):
         self.calls = []
 
-    def generate(self, chunks, question, catalog=None, strategy="baseline", history=None):
+    def generate(self, chunks, question, catalog=None, strategy="baseline", history=None, table=False):
         self.calls.append(history)
         return {
             "answer": "ok",

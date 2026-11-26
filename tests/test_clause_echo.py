@@ -36,3 +36,17 @@ def test_plain_answer_is_untouched():
     answer = "Yes. You can add third-party cover later.\n- No deadline is stated."
 
     assert _bot()._sanitize_answer(answer) == answer
+
+
+def test_repeated_sentences_are_dropped():
+    answer = (
+        "Room rent is capped at 1% of sum insured. "
+        "PED waits 36 months. "
+        "Room rent is capped at 1% of sum insured. "
+        "PED waits 36 months. "
+        "Room rent is capped at 1% of sum insured."
+    )
+
+    cleaned = _bot()._sanitize_answer(answer)
+
+    assert cleaned == "Room rent is capped at 1% of sum insured. PED waits 36 months."

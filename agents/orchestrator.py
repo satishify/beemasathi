@@ -15,9 +15,19 @@ from agents.router import IntentRouter, TaskPlan
 from config import INSURERS
 from observability.trace import Trace
 from rag.catalog import entry_line, entry_vehicle
-from rag.generator import BimaSaathiGenerator
+from rag.generator import BimaSaathiGenerator, table_requested
 from rag.query_guard import scan_query
 from rag.retriever import PolicyRetriever
+
+# A short "give me in table format" message carries no subject of its own; it
+# asks for the previous exchange in a new shape. Anything naming coverage keeps
+# its own retrieval.
+FOLLOWUP_COVERAGE_RE = re.compile(
+    r"\b(?:what|which|when|where|why|how|does|do|is|are|can|should|cover|covers|"
+    r"coverage|waiting|exclusion|excluded|claim|policy|policies|plan|plans|insurer|"
+    r"premium|sum insured|network|cashless|room rent|copay|co-?pay|ped|pre-existing)\b",
+    re.I,
+)
 
 
 class BeemaSathiOrchestrator:
@@ -36,6 +46,28 @@ class BeemaSathiOrchestrator:
         self, question: str, insurer: Optional[str] = None, policy_name: Optional[str] = None
     ) -> TaskPlan:
         return self.router.route(question, insurer=insurer, policy_name=policy_name)
+
+    @staticmethod
+    def _is_format_only(question: str) -> bool:
+        return (
+            table_requested(question)
+            and len(question.split()) <= 8
+            and not FOLLOWUP_COVERAGE_RE.search(question)
+        )
+
+    def _resolve_followup_question(
+        self, question: str, history: Optional[List[Dict]]
+    ) -> str:
+        """Answer a format-only follow-up against the question it refers to."""
+        if not history or not self._is_format_only(question):
+            return question
+        for message in reversed(history):
+            if message.get("role") != "user":
+                continue
+            previous = str(message.get("content") or "").strip()
+            if previous and not self._is_format_only(previous):
+                return previous
+        return question
 
     def answer(
         self,
@@ -83,7 +115,9 @@ class BeemaSathiOrchestrator:
             )
 
         catalog = catalog if catalog is not None else self.retriever.store.get_catalog()
-        plan = self.route(question, insurer, policy_name)
+        table = table_requested(question)
+        lookup_question = self._resolve_followup_question(question, history)
+        plan = self.route(lookup_question, insurer, policy_name)
 
         if plan.intent in {"safety", "security", "scope"}:
             result = self.generator.generate(
@@ -102,21 +136,22 @@ class BeemaSathiOrchestrator:
 
         if plan.intent == "comparison" and len(plan.insurers) >= 2:
             return self._compare(
-                question, plan, plan.insurers, strategy, catalog, history
+                lookup_question, plan, plan.insurers, strategy, catalog, history, table
             )
 
         chunks = self.retriever.retrieve(
-            query=question,
+            query=lookup_question,
             insurer=insurer or (plan.insurers[0] if plan.insurers else None),
             policy_name=policy_name or (plan.policies[0] if plan.policies else None),
             n_results=8,
         )
         chunks = resolve_authority(chunks, prefer_brochure=plan.prefer_brochure)
         result = self.generator.generate(
-            chunks, question, catalog=catalog, strategy=strategy, history=history
+            chunks, lookup_question, catalog=catalog, strategy=strategy,
+            history=history, table=table,
         )
         verification = self._verify(
-            result, chunks, question, catalog, strategy, history
+            result, chunks, lookup_question, catalog, strategy, history, table
         )
         result["answer"] = strip_unbacked_family_limits(result.get("answer", ""), chunks)
         return self._wrap(result, plan, verification, chunks)
@@ -222,7 +257,10 @@ class BeemaSathiOrchestrator:
     def _insurer_label(insurer: str, line: Optional[str] = None) -> str:
         if line == "motor" and insurer == "digit":
             return "Go Digit"
-        return INSURERS.get(insurer, {}).get("name", insurer)
+        return (
+            INSURERS.get(insurer, {}).get("name")
+            or str(insurer).replace("_", " ").title()
+        )
 
     @staticmethod
     def _line_label(plan: TaskPlan) -> str:
@@ -346,6 +384,74 @@ class BeemaSathiOrchestrator:
         }
         return self._wrap(result, plan, {"verified": True, "unsupported": []}, [])
 
+    @staticmethod
+    def _clean_plan_label(label: str) -> bool:
+        """Reject filename artifacts so examples read like plan names."""
+        lowered = label.lower()
+        if any(
+            marker in lowered
+            for marker in (
+                "finalpolicy", "t and c", "variant", "healthplus", "loansure",
+                "document", "niva bupa", "max bupa", "prospectus", "print", "cum",
+            )
+        ):
+            return False
+        return not re.search(r"\beff\b", lowered)
+
+    def _loaded_plan_labels(
+        self, catalog: List[Dict], insurer: str, limit: int = 3
+    ) -> List[str]:
+        entries = sorted(
+            (
+                entry
+                for entry in catalog or []
+                if entry.get("insurer") == insurer and entry.get("policy_name")
+            ),
+            key=lambda entry: -(entry.get("chunks") or 0),
+        )
+        # Prefer binding wordings: the answer promises to quote clauses.
+        wording = [entry for entry in entries if entry.get("document_type") == "policy_wording"]
+        labels: List[str] = []
+        seen = set()
+        for entry in wording or entries:
+            label = self._policy_label(entry.get("policy_name", ""))
+            key = label.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            labels.append(label)
+        if not labels:
+            return []
+        clean = [name for name in labels if self._clean_plan_label(name)]
+        return (clean or labels)[:limit]
+
+    def _missing_plan_note(
+        self, label: str, insurer: str, question: str, catalog: List[Dict]
+    ) -> str:
+        """Name the missing plan without claiming the whole insurer is absent.
+
+        The insurer dropdown lists every indexed insurer, so "I don't have the
+        policy named for Niva Bupa" reads as a contradiction when only one
+        plan of theirs is missing.
+        """
+        phrase = self.router.named_plan_phrase(question, insurer)
+        asked = f"the {phrase} wording" if phrase else "the plan you named"
+        held = self._loaded_plan_labels(catalog, insurer)
+        if not held:
+            return (
+                f"**{label}**\nI don't have a {label} policy wording loaded, "
+                "so I can't compare its clauses."
+            )
+        if len(held) == 1:
+            inventory = held[0]
+        else:
+            inventory = ", ".join(held[:-1]) + f" and {held[-1]}"
+        return (
+            f"**{label}**\nI don't have {asked} loaded for {label}. "
+            f"What I do hold for {label} includes {inventory}. "
+            "Pick one and I'll quote its clauses exactly."
+        )
+
     def _compare(
         self,
         question: str,
@@ -354,6 +460,7 @@ class BeemaSathiOrchestrator:
         strategy: str,
         catalog: List[Dict],
         history: Optional[List[Dict]] = None,
+        table: bool = False,
     ) -> Dict:
         parts = []
         sources = []
@@ -367,13 +474,10 @@ class BeemaSathiOrchestrator:
         named_by_insurer = self.router.find_policies_by_insurer(question)
         question_names_plan = any(named_by_insurer.values())
         for key in insurers:
-            label = INSURERS.get(key, {}).get("name", key)
+            label = self._insurer_label(key)
             named = named_by_insurer.get(key) or []
             if question_names_plan and not named:
-                parts.append(
-                    f"**{label}**\nI don't have the policy named for {label} "
-                    "loaded, so I can't compare its clauses."
-                )
+                parts.append(self._missing_plan_note(label, key, question, catalog))
                 continue
             chunks = self.retriever.retrieve(
                 query=question,
@@ -391,7 +495,8 @@ class BeemaSathiOrchestrator:
                 "or on whether their documents are loaded."
             )
             result = self.generator.generate(
-                chunks, scoped, catalog=catalog, strategy=strategy, history=history
+                chunks, scoped, catalog=catalog, strategy=strategy,
+                history=history, table=table,
             )
             parts.append(f"**{label}**\n{result.get('answer', '')}")
             sources.extend(result.get("sources") or [])
@@ -459,22 +564,28 @@ class BeemaSathiOrchestrator:
         catalog: List[Dict],
         strategy: str,
         history: Optional[List[Dict]] = None,
+        table: bool = False,
     ) -> Dict:
         verification = verify_answer(result.get("answer", ""), chunks)
         if verification["verified"] or not result.get("safe", True):
             return verification
         retry = self.generator.generate(
-            chunks, question, catalog=catalog, strategy="structured", history=history
+            chunks, question, catalog=catalog,
+            strategy="baseline" if table else "structured",
+            history=history, table=table,
         )
         retry_check = verify_answer(retry.get("answer", ""), chunks)
         if retry_check["unsupported"]:
-            result["answer"] = (
-                result.get("answer", "")
-                + "\n\nNote: I could not verify "
-                + ", ".join(retry_check["unsupported"])
-                + " in the loaded wording. Please confirm with the insurer."
-            )
-            return {**retry_check, "retried": True}
+            # The retry is discarded, so only cite figures the customer can see.
+            visible = verification.get("unsupported") or []
+            if visible:
+                result["answer"] = (
+                    result.get("answer", "")
+                    + "\n\nNote: I could not verify "
+                    + ", ".join(visible)
+                    + " in the loaded wording. Please confirm with the insurer."
+                )
+            return {**verification, "retried": True}
         result.update(
             {
                 "answer": retry.get("answer"),

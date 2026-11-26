@@ -51,6 +51,39 @@ def normalize(text: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
 
 
+# Category words that cannot name one insurer on their own.
+INSURER_STOP_TOKENS = frozenset(
+    {
+        "insurance", "general", "health", "life", "assurance", "company", "co",
+        "ltd", "limited", "max", "care", "group", "ms", "the", "and", "of",
+    }
+)
+
+
+def insurer_phrases(key: str, display: str = "") -> List[str]:
+    """Phrases a customer may type to name one insurer.
+
+    Derived from the catalog key and its display name, so indexing a new
+    insurer needs no change here: the key and name become the phrases.
+    """
+    phrases = {normalize(key)}
+    if display:
+        phrases.add(normalize(display))
+        without_note = normalize(re.sub(r"\([^)]*\)", " ", display))
+        if without_note:
+            phrases.add(without_note)
+    phrases.discard("")
+    tokens = {
+        token
+        for phrase in phrases
+        for token in phrase.split()
+        if len(token) >= 4 and not token.isdigit() and token not in INSURER_STOP_TOKENS
+    }
+    # Long brand words are often shortened to their first five letters.
+    tokens |= {token[:5] for token in tokens if len(token) >= 9}
+    return sorted(phrases | tokens, key=lambda phrase: (-len(phrase.split()), phrase))
+
+
 def tokens_for(name: str) -> List[str]:
     """Name words without generic suffixes and ingestion artifacts."""
     tokens = normalize(name).split()

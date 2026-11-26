@@ -44,6 +44,32 @@ def test_recommendation_intent():
     assert plan.intent == "recommend"
 
 
+def test_named_plan_phrase_follows_the_insurer_mention():
+    router = IntentRouter()
+    question = (
+        "Compare room rent for HDFC Ergo Optima Secure and Niva Bupa ReAssure 2.0?"
+    )
+    assert router.named_plan_phrase(question, "max_bupa") == "ReAssure 2.0"
+    assert router.named_plan_phrase(question, "hdfc_ergo") == "Optima Secure"
+
+
+def test_named_plan_phrase_is_empty_without_a_plan():
+    router = IntentRouter()
+    assert router.named_plan_phrase("Compare Niva Bupa and HDFC Ergo.", "max_bupa") == ""
+
+
+def test_catalog_only_insurer_is_recognised_without_code_changes():
+    catalog = [{"insurer": "future_general", "policy_name": "shield_five"}]
+    router = IntentRouter(catalog)
+
+    plan = router.route(
+        "Compare Future General Shield Five with HDFC Ergo Optima Super"
+    )
+
+    assert plan.insurers == ["hdfc_ergo", "future_general"]
+    assert plan.intent == "comparison"
+
+
 class _FakeIndex:
     policies = [
         ("digit", "arogya_sanjeevani_policy_go_digit"),

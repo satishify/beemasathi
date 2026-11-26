@@ -52,7 +52,7 @@
         <tr><td>Guardrails</td><td>Constitutional prompt, refusal rules, leak sanitiser, banned fraud patterns, and a pre-model query guard for prompt/secret/PII extraction, fraud advice and injection, matched after Unicode normalisation (zero-width, homoglyph, spaced-letter and leetspeak obfuscation)</td></tr>
         <tr><td>Observability</td><td>Per-request JSONL traces with hashed question, redacted preview, tokens, latency and intent; summary CLI</td></tr>
         <tr><td>Claim risk</td><td>Rule engine, 4 of 6 configured rules implemented</td></tr>
-        <tr><td>Interfaces</td><td>Streamlit client; FastAPI service with <code>/ask</code>, <code>/plan</code>, <code>/predict</code>, <code>/insurers</code>, <code>/health</code> and a token-bucket rate limit</td></tr>
+        <tr><td>Interfaces</td><td>Streamlit client with a catalog-driven insurer selector (only indexed insurers are selectable); FastAPI service with <code>/ask</code>, <code>/plan</code>, <code>/predict</code>, <code>/insurers</code>, <code>/health</code> and a token-bucket rate limit</td></tr>
         <tr><td>Delivery</td><td>Dockerfile, compose for API + UI, GitHub Actions CI (compile all modules, run unit tests)</td></tr>
       </table>
     </div>
@@ -194,11 +194,12 @@
     <h3>Generation call</h3>
     <ul>
       <li><b>Context format.</b> <code>_clause_context()</code> numbers each clause as <code>[i] insurer | policy | section | document type | page</code> followed by the text, so the model can cite and the critic can check.</li>
-      <li><b>Evidence filter.</b> <code>_select_chunks()</code> keeps only the insurers actually named in the question, applies the policy hint, drops chunks with distance above <code>0.72</code>, and sends at most six clauses. No surviving clause means a knowledge-gap refusal without calling the model.</li>
-      <li><b>Prompt strategies.</b> <code>baseline</code> uses the constitutional prompt, <code>zero_shot</code> uses a minimal ground-only template, and <code>structured</code> adds a four-step clause checklist. The verifier retries with <code>structured</code> once.</li>
+      <li><b>Evidence filter.</b> <code>_select_chunks()</code> keeps only the insurers actually named in the question, applies the policy hint, drops chunks with distance above <code>0.72</code>, and sends at most six clauses. No surviving clause means a knowledge-gap refusal without calling the model, except for questions about the chat itself.</li>
+      <li><b>Conversation context.</b> <code>_history_text()</code> renders the last eight chat messages as a <code>RECENT CONVERSATION</code> block: 500 characters per message, 2,400 in total, roughly 800 of the 8,192 prompt tokens. The prompt marks the block as context, not evidence. Questions about the chat itself (<code>CHAT_META_RE</code>, for example “what was my first question?”) skip the gap refusal and are answered from this block even when no clause survives.</li>
+      <li><b>Prompt strategies.</b> <code>baseline</code> uses the constitutional prompt, <code>zero_shot</code> uses a minimal ground-only template, and <code>structured</code> adds a four-step clause checklist. All three receive the <code>RECENT CONVERSATION</code> block and forbid label headings and long clause quotes; the verifier retries with <code>structured</code> once.</li>
       <li><b>Hosted call.</b> <code>_call_api()</code> posts <code>{model, messages, temperature: 0.4, max_tokens}</code> to <code>{BEEMASATHI_LLM_BASE}/chat/completions</code> with a Bearer header, a custom CA bundle and <code>trust_env=False</code>. Output tokens are bounded by <code>max(256, min(1024, 8192 − estimated_prompt − 64))</code>. Requests serialize behind a lock, retry on 429/503 with 2/4/8-second delays, raise a clear message on 401, and strip <code>&lt;think&gt;</code> blocks before returning content plus usage metrics.</li>
       <li><b>Local call.</b> Without a hosted endpoint, generation uses <code>ollama.chat(model="qwen2.5:7b", options={"temperature": 0.4, "num_ctx": 8192})</code>, with the <code>ollama run</code> CLI as a last resort. When a hosted call raises and an Ollama server is listening on <code>127.0.0.1:11434</code>, the same prompt is retried locally and the metrics record <code>fallback: hosted-unavailable</code> plus the truncated hosted error, so the run is never silently served by another model.</li>
-      <li><b>Post-processing.</b> <code>_sanitize_answer()</code> rewrites or refuses leak phrases (“excerpts you provided”), and brochure or regulation sources get an explicit summary-limitation note.</li>
+      <li><b>Post-processing.</b> <code>_sanitize_answer()</code> rewrites or refuses leak phrases (“excerpts you provided”), strips clause-echo artefacts a model may copy (<code>[i] insurer | policy | page</code> headers, “Deciding Clause”/“Answer:” labels, long verbatim quotes), and brochure or regulation sources get an explicit summary-limitation note.</li>
     </ul>
 
     <h3>Verification and repair</h3>
@@ -218,7 +219,7 @@
         <tr><td><code>POST /chat/completions</code></td><td>Hosted Qwen3-8B, or local Ollama when configured</td><td>OpenAI chat messages, temperature 0.4, bounded max tokens</td><td>Retry on 429/503, explicit 401 message, fall back to local Ollama when it is listening, one structured retry after a failed verification</td></tr>
         <tr><td>Chroma queries</td><td>Local persistent store</td><td>Query vector, metadata filter, <code>n_results</code></td><td>Retry without policy or chunk-type hints when a filtered search is empty; a selected insurer is kept, and chunks without a ledgered source file are dropped</td></tr>
         <tr><td>Ollama chat</td><td><code>127.0.0.1:11434</code></td><td>Chat messages, <code>num_ctx 8192</code></td><td>Hosted fallback and local-only mode; CLI last resort, then a user-facing error with the exact hint</td></tr>
-        <tr><td>REST and UI</td><td>FastAPI and Streamlit in-process</td><td>Question, insurer, policy, optional claim</td><td>Token bucket returns 429 with <code>Retry-After</code>; exceptions become HTTP 500</td></tr>
+        <tr><td>REST and UI</td><td>FastAPI and Streamlit in-process</td><td>Question, insurer, policy, optional claim, optional <code>history</code> (last chat messages)</td><td>Token bucket returns 429 with <code>Retry-After</code>; exceptions become HTTP 500</td></tr>
       </table>
     </div>
   </section>
@@ -233,7 +234,7 @@
     <div class="table-wrap">
       <table>
         <tr><th>#</th><th>What runs</th><th>Output</th><th>Trace record</th></tr>
-        <tr><td>1</td><td>Streamlit sends the question and sidebar filters to <code>orchestrator.answer()</code>, or FastAPI receives <code>POST /ask</code> after the rate-limit check</td><td>Question, insurer, policy, strategy</td><td><code>trace_id</code>, <code>question_hash</code>, <code>question_preview</code> (redacted)</td></tr>
+        <tr><td>1</td><td>Streamlit sends the question, sidebar filters and the last chat messages to <code>orchestrator.answer()</code>, or FastAPI receives <code>POST /ask</code> with an optional <code>history</code> array after the rate-limit check</td><td>Question, insurer, policy, strategy, history</td><td><code>trace_id</code>, <code>question_hash</code>, <code>question_preview</code> (redacted)</td></tr>
         <tr><td>2</td><td><code>IntentRouter.route()</code> classifies intent and builds the typed plan</td><td>Plan with steps such as retrieve → resolve_authority → generate → verify</td><td><code>intent</code>, <code>plan</code></td></tr>
         <tr><td>3</td><td><code>PolicyRetriever.retrieve(n_results=8)</code> runs dense, BM25, typed probes, RRF and rerank</td><td>Up to eight ranked clauses with distances</td><td><code>retrieved</code></td></tr>
         <tr><td>4</td><td><code>resolve_authority()</code> removes summaries when binding wording exists</td><td>Evidence set for the prompt</td><td>—</td></tr>

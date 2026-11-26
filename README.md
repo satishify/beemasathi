@@ -10,6 +10,7 @@ An evidence-grounded copilot for Indian health and motor insurance. It answers o
 - **Hybrid retrieval** over 48,572 clause chunks from 923 official source files, fused with BM25 and reranked by document authority.
 - **Grounded answers** with insurer, product, document type, section and page; a critic verifies every number and UIN against the retrieved clauses.
 - **Honest gaps** — an unloaded insurer or product returns a named refusal, never an answer borrowed from another insurer.
+- **Conversation memory** — the last eight messages travel with each question inside the 8,192-token window, so follow-ups resolve; chat history is context, never policy evidence.
 - **Claim-risk check** from network status, room-rent cap, PED waiting period and intimation timing.
 - **Guardrails** for fraud advice, prompt/secret/PII extraction, role-play and document-borne injection, refused before the model is called.
 

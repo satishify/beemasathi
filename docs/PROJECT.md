@@ -44,6 +44,7 @@ General-purpose chatbots make this worse. They answer confidently from generic i
 | Ranks authority, not prose | A policy wording outranks a CIS, prospectus or brochure; summary sources are labelled as summaries in the answer |
 | Refuses when evidence is missing | An unloaded insurer or product produces a named gap and a refusal, never an answer borrowed from another insurer |
 | Shows its sources | Every answer carries insurer, product, document type, section, page and source file |
+| Keeps the recent conversation | The last eight chat messages travel with each question as context — 500 characters each, 2,400 in total — inside the 8,192-token window; chat-history questions are answered from that block, which is never treated as evidence |
 | Compares per insurer | A two-insurer question retrieves separately for each insurer and never attributes one insurer's clause to another |
 | Checks claim-rejection risk | Rule-based assessment of network status, room-rent cap, PED waiting period and intimation timing |
 | Blocks unsafe advice | Hiding a pre-existing disease, backdating admission or fabricating bills is refused before the model is called |
@@ -77,7 +78,7 @@ Retrieval runs first and the agent layer runs on top. Hybrid search finds the cl
 3. **Branch** — `agents/orchestrator.py` runs exactly one bounded path for that intent: refusal, catalogue listing, recommendation, claim risk, comparison fan-out, or the coverage path.
 4. **Retrieve** — `rag/retriever.py` fuses dense (Chroma) and lexical (BM25) candidates, applies typed clause probes, prefers the requested line of business, and reranks by document authority plus policy-name agreement.
 5. **Resolve authority** — `agents/critic.py` drops brochure/CIS/prospectus chunks when binding wording for the same policy is present (unless the user explicitly asked about the brochure).
-6. **Generate** — `rag/generator.py` builds a prompt from numbered clauses and the indexed catalogue, then calls the hosted or local model.
+6. **Generate** — `rag/generator.py` builds a prompt from numbered clauses, the indexed catalogue and the recent conversation, then calls the hosted or local model.
 7. **Verify** — every number, unit and UIN in the answer must appear in the retrieved clauses; one structured retry is allowed, then the answer carries an explicit "could not verify" note. Unsupported family-size claims are stripped.
 8. **Trace** — the request is recorded as JSONL with a hashed question and redacted preview; no prompt text, clause text or credentials are stored.
 
@@ -202,7 +203,7 @@ Every downloaded document has a sidecar `.meta.json` recording insurer, product,
 
 **Policy matching.** Product names are normalised and matched per insurer. The router also splits a comparison question at insurer mentions so a plan named next to one insurer is not attributed to another.
 
-**Generation.** The prompt is built from numbered clauses plus a compact catalogue of what is loaded. Three prompt strategies are available: `baseline`, `zero_shot` and `structured`. If no clause passes the relevance threshold, the generator returns a knowledge-gap answer instead of calling the model with weak context.
+**Generation.** The prompt is built from numbered clauses, a compact catalogue of what is loaded, and a `RECENT CONVERSATION` block: the last eight messages of the Streamlit session, cut to 500 characters each and 2,400 characters in total, about 800 of the 8,192-token window. The block resolves follow-ups and questions about the chat itself, but it is labelled context, not evidence — coverage facts still come only from the clauses. Three prompt strategies are available: `baseline`, `zero_shot` and `structured`. If no clause passes the relevance threshold, the generator returns a knowledge-gap answer instead of calling the model with weak context, except for chat-history questions such as "what was my first question?", which skip that refusal and answer from the history block.
 
 **Refusal.** A missing insurer, product or clause produces a named gap and a suggestion to check the insurer's official document. A summary-only product is answered with an explicit note that the source is a brochure, not the contract.
 
@@ -218,7 +219,7 @@ Every downloaded document has a sidecar `.meta.json` recording insurer, product,
 - instruction override and document-borne injection;
 - attempts to make the system claim fabricated day-one cover.
 
-**In-prompt and post-model checks.** The system prompt fixes the assistant's role, requires clause-level answers, and forbids generic insurance knowledge. After generation, a leak sanitiser removes model/system text, and `verify_answer()` blocks unsupported numbers and UINs.
+**In-prompt and post-model checks.** The system prompt fixes the assistant's role, requires clause-level answers, and forbids generic insurance knowledge. After generation, a leak sanitiser removes model/system text and clause-echo artefacts — the `[i] insurer | policy | page` scaffold, "Deciding Clause"/"Answer:" labels and long verbatim quotes — so the customer sees plain prose, and `verify_answer()` blocks unsupported numbers and UINs.
 
 **Uploaded documents.** User uploads are treated as untrusted text, delimited in the prompt, and scanned for injection instructions. They are stored locally and never shared.
 
@@ -302,7 +303,7 @@ Additional fixes: per-insurer fan-out for comparisons with scoped questions; per
 Still open, and stated honestly:
 
 - The relevance threshold is still permissive (0.72) relative to genuine match distances of 0.14–0.30.
-- There is no multi-turn query rewriting; follow-ups retrieve against their bare text.
+- Retrieval is not conversation-aware. The model receives the last eight turns, but follow-ups still retrieve on their bare text, so a pronoun-only question can miss the right clause.
 - Two configured claim rules (`disclosure_match`, `procedure_excluded`) are not implemented, and the score is a generic heuristic rather than a policy-specific one.
 - OCR is not implemented; six image-only PDFs fail extraction.
 - Table extraction is partial (39 table chunks).
@@ -375,6 +376,8 @@ docker compose up --build   # API + UI, mounts ./data read-only
 On Windows, start with `Start BeemaSathi.bat start` or `py launcher.py start`. API endpoints: `POST /ask`, `POST /plan`, `POST /predict`, `GET /insurers`, `GET /health`. Requests are limited by a per-client token bucket.
 
 Debug diagnostics are opt-in: `BEEMASATHI_DEBUG=1 streamlit run ui/app.py`.
+
+The sidebar's "Insurer or regulator" list offers `Any` plus only insurers whose wordings are indexed. Configured insurers without documents — today Star Health, ICICI Lombard, Care Health and Acko — are named in a muted "Not indexed yet — coming soon" caption below the dropdown and cannot be selected, so the UI matches what the corpus can answer.
 
 ### 9.5 Evaluation
 

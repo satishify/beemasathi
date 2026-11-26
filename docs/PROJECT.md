@@ -485,7 +485,9 @@ BeemaSathi/
 ## 12. Distribution and submission
 The repository does not ship the 1.1 GB corpus or the ~1 GB vector store. What is committed is the code, tests, documentation, gold set and dated evaluation reports; the index is rebuilt locally with `./appctl.sh index` (§9.3). Insurer PDFs are third-party material with no redistribution licence and are never published.
 
-For this submission only the technical report PDF is uploaded. It links the public repository, the trace dashboard and the ten-minute demo. A local run reproduces the evaluation in §7 by re-running `eval/judge.py` against a rebuilt index.
+A supplementary Drive archive carries the same build with the derived corpus artifacts already in place — parsed text, 48,572 chunks and the Chroma index — plus the two public IRDAI regulations the corpus cites, so the demo runs without a rebuild. It contains no insurer policy PDFs.
+
+For this submission the technical report PDF, the ten-minute video and the archive are uploaded to Drive, and the cover of this report links all three. A local run reproduces the evaluation in §7 by re-running `eval/judge.py` against the archive's index.
 
 **Non-goals.** BeemaSathi is informational. It does not sell insurance, rank products by price, adjudicate claims, or provide legal advice. It does not scrape third-party mirrors, redistribute insurer PDFs, or claim to know products that are not indexed. Claim-risk output is a heuristic and must not be treated as an insurer decision.
 

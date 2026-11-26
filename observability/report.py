@@ -15,8 +15,9 @@ CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 REPO = "https://github.com/satishify/beemasathi"
 SITE = "https://satishify.github.io/beemasathi"
 DASHBOARD = SITE + "/trace_dashboard.html"
-VIDEO = "https://drive.google.com/file/d/11ixHKGa3MAflYDsbrNPQeQBucvjYm0uF/view?usp=share_link"
+VIDEO = "https://drive.google.com/file/d/1Wk2MAiXQsj6ElQkREIDg25oBm_2FYyIj/view?usp=share_link"
 VIDEO_LABEL = "Ten-minute demo (Google Drive)"
+PACKAGE = "https://drive.google.com/file/d/1UZSyMr54l_3OIsvrAIjergBN6j9gP0Xs/view?usp=share_link"
 
 CSS = """
 @page { size: A4; margin: 15mm 14mm 14mm; }
@@ -104,6 +105,7 @@ COVER = f"""
       <tr><td>Trace dashboard (Track B)</td><td><a href="{DASHBOARD}">{DASHBOARD}</a></td></tr>
       <tr><td>Project pages</td><td><a href="{SITE}">{SITE}</a></td></tr>
       <tr><td>Ten-minute demo</td><td><a href="{VIDEO}">Google Drive video</a></td></tr>
+      <tr><td>Full package (with index)</td><td><a href="{PACKAGE}">Google Drive archive</a></td></tr>
       <tr><td>Model card</td><td>Section 6.1 of this report</td></tr>
     </table>
   </div>
@@ -150,6 +152,10 @@ CONTENTS = """
       <td><a href="%s">Google Drive video</a> (also
           <code>demo/BeemaSathi-live-demo-questions.pdf</code>)</td>
       <td>Recorded against the running Streamlit client and API on the local index</td></tr>
+  <tr><td>Full package with index</td>
+      <td><a href="%s">Google Drive archive</a></td>
+      <td>Same build as the repository, plus <code>data/chunks</code> and
+          <code>data/chroma_db</code>, so the demo runs without a rebuild; no insurer PDFs inside</td></tr>
   <tr><td>Working system</td>
       <td><code>./beemasathi.sh start</code> → http://127.0.0.1:8501</td>
       <td>Streamlit client plus FastAPI service; <code>docker compose up --build</code>
@@ -158,7 +164,7 @@ CONTENTS = """
 <p class="small">Measured numbers in this report come from the frozen run
 <code>eval/reports/eval_20261126T173042Z.json</code> and the trace log of the demo
 session. Latency and token figures depend on the hosted model endpoint.</p>
-""" % (REPO, DASHBOARD, DASHBOARD, VIDEO)
+""" % (REPO, DASHBOARD, DASHBOARD, VIDEO, PACKAGE)
 
 
 def build_html(markdown_text: str) -> str:
